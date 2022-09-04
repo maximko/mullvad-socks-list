@@ -3,7 +3,7 @@ import pydig
 from prettytable import PrettyTable
 import flag
 from random import randint
-from time import sleep
+from datetime import datetime,timezone
 from threading import Thread
 from queue import Queue
 
@@ -29,6 +29,10 @@ def resolver(queue, resolved, failed):
 queue = Queue()
 resolved = {}
 failed = {}
+
+now_utc = datetime.now(timezone.utc)
+print('Date:', now_utc.strftime('%Y-%m-%d %H-%M-%S %Z'))
+
 r = requests.get('https://api.mullvad.net/www/relays/wireguard/').json()
 
 for host in r:
