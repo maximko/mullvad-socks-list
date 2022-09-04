@@ -1,0 +1,55 @@
+name: Publish mullvad-socks-list.txt
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: 00 05 * * *
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+  
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Generate list
+      run: |
+        pip3 install -r requirements.txt
+        mkdir list
+        python3 mullvad-socks-list.py > list/mullvad-socks-list.txt
+        echo "TAG_NAME=$(date +"%Y-%m-%d")" >> $GITHUB_ENV
+
+    - name: Push result to "list" branch
+      run: |
+        cd list
+        git init
+        git config user.name "${{ github.actor }}"
+        git config user.email "${{ github.actor }}@users.noreply.github.com"
+        git checkout -b list
+        git add .
+        git commit -m "${{ env.TAG_NAME }}"
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+        git push -f origin list
+
+    - name: Upload to Releases
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ env.TAG_NAME }}
+        body: ${{ env.TAG_NAME }}
+        files: list/mullvad-socks-list.txt
+
+    - name: Remove old Releases
+      uses: dev-drprasad/delete-older-releases@v0.2.0
+      with:
+        keep_latest: 5
+        delete_tags: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
