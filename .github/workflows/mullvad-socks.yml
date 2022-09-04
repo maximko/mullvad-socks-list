@@ -3,6 +3,7 @@ name: Publish mullvad-socks-list.txt
 on:
   repository_dispatch:
   workflow_dispatch:
+  push:
   schedule:
     - cron: 00 05 * * *
 
