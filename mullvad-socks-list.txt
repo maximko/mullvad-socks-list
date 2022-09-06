@@ -1,4 +1,4 @@
-Date: 2022-09-06 01-46-49 UTC
+Date: 2022-09-06 06-57-03 UTC
 Total active proxies: 534
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -121,6 +121,8 @@ Total active proxies: 534
  🇪🇸    Spain            Madrid              10.124.0.156  45.152.183.58    1      3156      ❌     M247          es5-wireguard   
  🇪🇸    Spain            Madrid              10.124.1.222  45.134.213.207   10     3476      ❌     DataPacket    es7-wireguard   
  🇪🇸    Spain            Madrid              10.124.1.223  45.134.213.194   10     3477      ❌     DataPacket    es-mad-wg-101   
+ 🇪🇸    Spain            Madrid              10.124.2.28   146.70.128.194   10     3536      ❌     M247          es-mad-wg-201   
+ 🇪🇸    Spain            Madrid              10.124.2.47   146.70.128.226   10     3555      ❌     M247          es-mad-wg-202   
  🇫🇮    Finland          Helsinki            10.124.0.21   185.204.1.203    10     3021      ✔️      Creanova      fi1-wireguard   
  🇫🇮    Finland          Helsinki            10.124.0.111  185.204.1.211    10     3111      ✔️      Creanova      fi2-wireguard   
  🇫🇮    Finland          Helsinki            10.124.0.112  185.204.1.219    10     3112      ✔️      Creanova      fi3-wireguard   
@@ -337,7 +339,6 @@ Total active proxies: 534
  🇺🇸    USA              Dallas, TX          10.124.1.106  194.110.112.18   1      3360      ❌     M247          us153-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.1.107  194.110.112.34   1      3361      ❌     M247          us154-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.141  94.198.42.114    1      3395      ❌     M247          us155-wireguard 
- 🇺🇸    USA              Miami, FL           10.124.1.142  94.198.42.130    1      3396      ❌     M247          us156-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.143  94.198.42.146    1      3397      ❌     M247          us157-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.144  94.198.42.162    1      3398      ❌     M247          us158-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.145  94.198.42.178    1      3399      ❌     M247          us159-wireguard 
@@ -397,7 +398,6 @@ Total active proxies: 534
  🇺🇸    USA              Los Angeles, CA     10.124.0.162  204.152.216.98   10     3162      ❌     Quadranet     us229-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.126  68.235.43.98     2      3126      ❌     Tzulo         us22-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet     us230-wireguard 
- 🇺🇸    USA              Chicago, IL         10.124.0.165  66.63.167.98     10     3165      ❌     Quadranet     us231-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.0.169  104.129.24.98    10     3169      ❌     Quadranet     us233-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.0.170  104.129.24.114   10     3170      ❌     Quadranet     us234-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.0.171  96.44.191.130    10     3171      ❌     Quadranet     us235-wireguard 
