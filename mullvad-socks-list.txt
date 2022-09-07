@@ -1,5 +1,5 @@
-Date: 2022-09-07 01-42-25 UTC
-Total active proxies: 534
+Date: 2022-09-07 06-54-20 UTC
+Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -272,7 +272,6 @@ Total active proxies: 534
  🇸🇪    Sweden           Gothenburg          10.124.0.152  185.213.154.68   10     3152      ✔️      31173         se9-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.1.185  185.213.154.70   10     3439      ✔️      31173         se-got-wg-101   
  🇸🇪    Sweden           Stockholm           10.124.1.184  185.195.233.76   10     3438      ✔️      31173         se-sto-wg-001   
- 🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    10     3499      ❌     DataPacket    sg10-wireguard  
  🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    10     3500      ❌     DataPacket    sg11-wireguard  
  🇸🇬    Singapore        Singapore           10.124.1.116  94.198.43.34     1      3370      ❌     M247          sg4-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.117  94.198.43.50     1      3371      ❌     M247          sg5-wireguard   
@@ -508,11 +507,14 @@ Total active proxies: 534
  🇺🇸    USA              New York, NY        10.124.0.239  86.106.143.210   1      3239      ❌     M247          us97-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.240  86.106.143.223   1      3240      ❌     M247          us98-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.241  86.106.143.236   1      3241      ❌     M247          us99-wireguard  
+ 🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    10     3168      ❌     Quadranet     us-chi-wg-101   
+ 🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    10     3188      ❌     Quadranet     us-chi-wg-103   
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247          us-lax-wg-001   
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    10     3083      ❌     DataPacket    us-lax-wg-201   
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
+ 🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket    us-mia-wg-001   
  🇺🇸    USA              Ashburn, VA         10.124.2.22   185.156.46.130   10     3530      ❌     DataPacket    us-qas-wg-101   
  🇺🇸    USA              Ashburn, VA         10.124.2.23   185.156.46.143   10     3531      ❌     DataPacket    us-qas-wg-102   
  🇺🇸    USA              Ashburn, VA         10.124.2.24   185.156.46.156   10     3532      ❌     DataPacket    us-qas-wg-103   
