@@ -1,5 +1,5 @@
-Date: 2022-09-09 01-46-32 UTC
-Total active proxies: 536
+Date: 2022-09-09 06-32-06 UTC
+Total active proxies: 537
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -272,13 +272,14 @@ Total active proxies: 536
  🇸🇪    Sweden           Gothenburg          10.124.0.152  185.213.154.68   10     3152      ✔️      31173         se9-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.1.185  185.213.154.70   10     3439      ✔️      31173         se-got-wg-101   
  🇸🇪    Sweden           Stockholm           10.124.1.184  185.195.233.76   10     3438      ✔️      31173         se-sto-wg-001   
- 🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    10     3500      ❌     DataPacket    sg11-wireguard  
  🇸🇬    Singapore        Singapore           10.124.1.116  94.198.43.34     1      3370      ❌     M247          sg4-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.117  94.198.43.50     1      3371      ❌     M247          sg5-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.118  94.198.43.66     1      3372      ❌     M247          sg6-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.119  94.198.43.82     1      3373      ❌     M247          sg7-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.120  94.198.43.98     1      3374      ❌     M247          sg8-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.244  138.199.60.2     10     3498      ❌     DataPacket    sg-sin-wg-001   
+ 🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    10     3499      ❌     DataPacket    sg-sin-wg-002   
+ 🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    10     3500      ❌     DataPacket    sg-sin-wg-003   
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   10     3511      ❌     DataPacket    sk1-wireguard   
  🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   10     3512      ❌     DataPacket    sk2-wireguard   
  🇺🇸    USA              New York, NY        10.124.0.243  86.106.121.158   1      3243      ❌     M247          us101-wireguard 
