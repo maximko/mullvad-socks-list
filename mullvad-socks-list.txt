@@ -1,5 +1,5 @@
-Date: 2022-09-10 06-58-23 UTC
-Total active proxies: 537
+Date: 2022-09-10 13-16-57 UTC
+Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -526,7 +526,6 @@ Total active proxies: 537
  🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
  🇺🇸    USA              San Jose, CA        10.124.0.72   198.54.134.130   1      3072      ❌     Tzulo         us-sjc-wg-004   
  🇺🇸    USA              San Jose, CA        10.124.0.75   198.54.134.146   1      3075      ❌     Tzulo         us-sjc-wg-005   
- 🇺🇸    USA              San Jose, CA        10.124.0.76   198.54.134.162   1      3076      ❌     Tzulo         us-sjc-wg-006   
 Failed to resovle:
  flag  country      city        socks                                    ip             speed  multihop  owned  provider  hostname      
  🇩🇪    Germany      Dusseldorf  de-dus-wg-socks5-001.relays.mullvad.net  185.254.75.3   10     3030      ❌     xtom      de-dus-wg-001 
