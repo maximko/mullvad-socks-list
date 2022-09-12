@@ -1,4 +1,4 @@
-Date: 2022-09-12 07-25-11 UTC
+Date: 2022-09-12 13-30-32 UTC
 Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -105,7 +105,14 @@ Total active proxies: 536
  🇩🇪    Germany          Frankfurt           10.124.0.54   185.213.155.222  20     3054      ✔️      31173         de5-wireguard   
  🇩🇪    Germany          Frankfurt           10.124.1.23   185.209.196.66   20     3277      ✔️      31173         de7-wireguard   
  🇩🇪    Germany          Frankfurt           10.124.1.24   185.209.196.67   20     3278      ✔️      31173         de8-wireguard   
+ 🇩🇪    Germany          Dusseldorf          10.124.0.30   185.254.75.3     10     3030      ❌     xtom          de-dus-wg-001   
+ 🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     10     3091      ❌     xtom          de-dus-wg-002   
+ 🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     10     3092      ❌     xtom          de-dus-wg-003   
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   10     3497      ❌     M247          de-fra-wg-101   
+ 🇩🇪    Germany          Frankfurt           10.124.1.30   194.36.25.3      10     3284      ❌     xtom          de-fra-wg-301   
+ 🇩🇪    Germany          Frankfurt           10.124.1.31   194.36.25.18     10     3285      ❌     xtom          de-fra-wg-302   
+ 🇩🇪    Germany          Frankfurt           10.124.1.32   194.36.25.33     10     3286      ❌     xtom          de-fra-wg-303   
+ 🇩🇪    Germany          Frankfurt           10.124.1.33   194.36.25.48     10     3287      ❌     xtom          de-fra-wg-304   
  🇩🇰    Denmark          Copenhagen          10.124.0.64   45.129.56.67     10     3064      ✔️      31173         dk2-wireguard   
  🇩🇰    Denmark          Copenhagen          10.124.0.17   45.129.56.68     10     3017      ✔️      31173         dk3-wireguard   
  🇩🇰    Denmark          Copenhagen          10.124.1.63   89.45.7.178      1      3317      ❌     M247          dk5-wireguard   
@@ -178,6 +185,7 @@ Total active proxies: 536
  🇭🇰    Hong Kong        Hong Kong           10.124.1.21   89.45.6.98       1      3275      ❌     M247          hk3-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.22   89.45.6.114      1      3276      ❌     M247          hk4-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.237  103.125.233.18   10     3491      ❌     xtom          hk-hkg-wg-201   
+ 🇭🇰    Hong Kong        Hong Kong           10.124.0.192  103.125.233.3    10     3192      ❌     xtom          hk-hkg-wg-202   
  🇭🇺    Hungary          Budapest            10.124.1.67   86.106.74.66     1      3321      ❌     M247          hu3-wireguard   
  🇭🇺    Hungary          Budapest            10.124.1.68   86.106.74.82     1      3322      ❌     M247          hu4-wireguard   
  🇭🇺    Hungary          Budapest            10.124.1.69   86.106.74.98     1      3323      ❌     M247          hu5-wireguard   
@@ -221,6 +229,9 @@ Total active proxies: 536
  🇳🇱    Netherlands      Amsterdam           10.124.0.40   185.65.134.223   10     3040      ✔️      31173         nl3-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.113  193.32.249.69    20     3113      ✔️      31173         nl4-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.114  193.32.249.70    20     3114      ✔️      31173         nl5-wireguard   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.19   92.60.40.194     10     3019      ❌     xtom          nl-ams-wg-101   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.41   92.60.40.209     10     3041      ❌     xtom          nl-ams-wg-102   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.48   92.60.40.224     10     3048      ❌     xtom          nl-ams-wg-103   
  🇳🇱    Netherlands      Amsterdam           10.124.0.95   92.60.40.239     10     3095      ❌     xtom          nl-ams-wg-104   
  🇳🇴    Norway           Oslo                10.124.0.6    176.125.235.71   10     3006      ✔️      Blix          no1-wireguard   
  🇳🇴    Norway           Oslo                10.124.0.108  176.125.235.72   10     3108      ✔️      Blix          no2-wireguard   
@@ -526,16 +537,3 @@ Total active proxies: 536
  🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
  🇺🇸    USA              San Jose, CA        10.124.0.72   198.54.134.130   1      3072      ❌     Tzulo         us-sjc-wg-004   
  🇺🇸    USA              San Jose, CA        10.124.0.75   198.54.134.146   1      3075      ❌     Tzulo         us-sjc-wg-005   
-Failed to resovle:
- flag  country      city        socks                                    ip             speed  multihop  owned  provider  hostname      
- 🇩🇪    Germany      Dusseldorf  de-dus-wg-socks5-001.relays.mullvad.net  185.254.75.3   10     3030      ❌     xtom      de-dus-wg-001 
- 🇩🇪    Germany      Dusseldorf  de-dus-wg-socks5-002.relays.mullvad.net  185.254.75.4   10     3091      ❌     xtom      de-dus-wg-002 
- 🇩🇪    Germany      Dusseldorf  de-dus-wg-socks5-003.relays.mullvad.net  185.254.75.5   10     3092      ❌     xtom      de-dus-wg-003 
- 🇩🇪    Germany      Frankfurt   de-fra-wg-socks5-301.relays.mullvad.net  194.36.25.3    10     3284      ❌     xtom      de-fra-wg-301 
- 🇩🇪    Germany      Frankfurt   de-fra-wg-socks5-302.relays.mullvad.net  194.36.25.18   10     3285      ❌     xtom      de-fra-wg-302 
- 🇩🇪    Germany      Frankfurt   de-fra-wg-socks5-303.relays.mullvad.net  194.36.25.33   10     3286      ❌     xtom      de-fra-wg-303 
- 🇩🇪    Germany      Frankfurt   de-fra-wg-socks5-304.relays.mullvad.net  194.36.25.48   10     3287      ❌     xtom      de-fra-wg-304 
- 🇭🇰    Hong Kong    Hong Kong   hk-hkg-wg-socks5-202.relays.mullvad.net  103.125.233.3  10     3192      ❌     xtom      hk-hkg-wg-202 
- 🇳🇱    Netherlands  Amsterdam   nl-ams-wg-socks5-101.relays.mullvad.net  92.60.40.194   10     3019      ❌     xtom      nl-ams-wg-101 
- 🇳🇱    Netherlands  Amsterdam   nl-ams-wg-socks5-102.relays.mullvad.net  92.60.40.209   10     3041      ❌     xtom      nl-ams-wg-102 
- 🇳🇱    Netherlands  Amsterdam   nl-ams-wg-socks5-103.relays.mullvad.net  92.60.40.224   10     3048      ❌     xtom      nl-ams-wg-103 
