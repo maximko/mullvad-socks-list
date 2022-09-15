@@ -1,5 +1,5 @@
-Date: 2022-09-14 18-57-45 UTC
-Total active proxies: 539
+Date: 2022-09-15 03-32-02 UTC
+Total active proxies: 534
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -197,21 +197,16 @@ Total active proxies: 539
  🇮🇱    Israel           Tel Aviv            10.124.2.5    169.150.227.197  10     3513      ❌     DataPacket    il-tlv-wg-101   
  🇮🇱    Israel           Tel Aviv            10.124.2.25   169.150.227.210  10     3533      ❌     DataPacket    il-tlv-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.26   169.150.227.222  10     3534      ❌     DataPacket    il-tlv-wg-103   
- 🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   10     3461      ❌     DataPacket    it10-wireguard  
- 🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   10     3462      ❌     DataPacket    it11-wireguard  
  🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       1      3375      ❌     M247          it4-wireguard   
  🇮🇹    Italy            Milan               10.124.1.122  91.193.5.18      1      3376      ❌     M247          it5-wireguard   
  🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      1      3377      ❌     M247          it6-wireguard   
  🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    1      3378      ❌     M247          it7-wireguard   
  🇮🇹    Italy            Milan               10.124.1.125  37.120.201.114   1      3379      ❌     M247          it8-wireguard   
- 🇮🇹    Italy            Milan               10.124.1.206  178.249.211.66   10     3460      ❌     DataPacket    it9-wireguard   
  🇯🇵    Japan            Tokyo               10.124.1.112  91.193.7.34      1      3366      ❌     M247          jp10-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      1      3367      ❌     M247          jp11-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      1      3368      ❌     M247          jp12-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      1      3369      ❌     M247          jp13-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp14-wireguard  
- 🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     1      3431      ❌     xtom          jp1-wireguard   
- 🇯🇵    Japan            Osaka               10.124.1.178  45.8.223.210     1      3432      ❌     xtom          jp2-wireguard   
  🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     1      3433      ❌     xtom          jp3-wireguard   
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     1      3434      ❌     xtom          jp4-wireguard   
  🇯🇵    Japan            Tokyo               10.124.1.108  217.138.252.226  1      3362      ❌     M247          jp6-wireguard   
