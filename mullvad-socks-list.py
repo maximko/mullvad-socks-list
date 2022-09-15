@@ -8,7 +8,7 @@ from threading import Thread
 from queue import Queue
 
 def resolver(queue, resolved, failed):
-    resolver = pydig.Resolver(nameservers=['8.8.8.8'])
+    resolver = pydig.Resolver(nameservers=['1.1.1.1'])
     while True:
         item = queue.get()
         socks_addr = resolver.query(item, 'A')
