@@ -41,7 +41,7 @@ for host in r:
 
 print("Total active proxies:", queue.qsize())
 threads = []
-for i in range(0, 30):
+for i in range(0, 3):
     threads.append(Thread(target=resolver, args=(queue,resolved,failed), daemon=True))
     threads[i].start()
 
