@@ -1,5 +1,5 @@
-Date: 2022-09-21 07-28-03 UTC
-Total active proxies: 519
+Date: 2022-09-21 13-34-29 UTC
+Total active proxies: 522
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -55,6 +55,7 @@ Total active proxies: 519
  🇨🇦    Canada           Toronto             10.124.0.68   198.54.132.162   2      3068      ❌     Tzulo         ca27-wireguard  
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca28-wireguard  
  🇨🇦    Canada           Vancouver           10.124.0.99   71.19.249.31     1      3099      ❌     Esecuredata   ca7-wireguard   
+ 🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
  🇨🇭    Switzerland      Zurich              10.124.1.126  91.193.4.82      1      3380      ❌     M247          ch10-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.1.127  91.193.4.98      1      3381      ❌     M247          ch11-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.1.128  91.193.4.114     1      3382      ❌     M247          ch12-wireguard  
@@ -125,6 +126,7 @@ Total active proxies: 519
  🇪🇸    Spain            Madrid              10.124.0.155  45.152.183.50    1      3155      ❌     M247          es4-wireguard   
  🇪🇸    Spain            Madrid              10.124.0.156  45.152.183.58    1      3156      ❌     M247          es5-wireguard   
  🇪🇸    Spain            Madrid              10.124.1.223  45.134.213.194   10     3477      ❌     DataPacket    es-mad-wg-101   
+ 🇪🇸    Spain            Madrid              10.124.1.222  45.134.213.207   10     3476      ❌     DataPacket    es-mad-wg-102   
  🇪🇸    Spain            Madrid              10.124.2.28   146.70.128.194   10     3536      ❌     M247          es-mad-wg-201   
  🇪🇸    Spain            Madrid              10.124.2.47   146.70.128.226   10     3555      ❌     M247          es-mad-wg-202   
  🇫🇮    Finland          Helsinki            10.124.0.21   185.204.1.203    10     3021      ✔️      Creanova      fi1-wireguard   
@@ -140,6 +142,7 @@ Total active proxies: 519
  🇫🇷    France           Paris               10.124.0.118  193.32.126.68    20     3118      ✔️      31173         fr6-wireguard   
  🇫🇷    France           Paris               10.124.0.119  193.32.126.69    20     3119      ✔️      31173         fr7-wireguard   
  🇫🇷    France           Paris               10.124.0.120  193.32.126.70    20     3120      ✔️      31173         fr8-wireguard   
+ 🇫🇷    France           Marseille           10.124.1.183  138.199.15.146   10     3437      ❌     DataPacket    fr-mrs-wg-002   
  🇬🇧    UK               London              10.124.1.16   185.195.232.66   10     3270      ✔️      31173         gb11-wireguard  
  🇬🇧    UK               London              10.124.1.17   185.195.232.67   10     3271      ✔️      31173         gb12-wireguard  
  🇬🇧    UK               London              10.124.1.18   185.195.232.68   10     3272      ✔️      31173         gb13-wireguard  
@@ -256,7 +259,6 @@ Total active proxies: 519
  🇸🇪    Sweden           Gothenburg          10.124.0.65   185.213.154.69   10     3065      ✔️      31173         se10-wireguard  
  🇸🇪    Sweden           Stockholm           10.124.0.172  185.65.135.70    10     3172      ✔️      31173         se13-wireguard  
  🇸🇪    Sweden           Stockholm           10.124.0.173  185.65.135.71    10     3173      ✔️      31173         se14-wireguard  
- 🇸🇪    Sweden           Malmö               10.124.0.183  193.138.218.80   10     3183      ✔️      31173         se15-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.185  193.138.218.82   10     3185      ✔️      31173         se17-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.186  193.138.218.83   10     3186      ✔️      31173         se18-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.189  45.83.220.68     10     3189      ✔️      31173         se21-wireguard  
@@ -282,6 +284,7 @@ Total active proxies: 519
  🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    10     3499      ❌     DataPacket    sg-sin-wg-002   
  🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    10     3500      ❌     DataPacket    sg-sin-wg-003   
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   10     3511      ❌     DataPacket    sk1-wireguard   
+ 🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   10     3512      ❌     DataPacket    sk-bts-wg-002   
  🇺🇸    USA              New York, NY        10.124.0.243  86.106.121.158   1      3243      ❌     M247          us101-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.244  86.106.121.171   1      3244      ❌     M247          us102-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.245  86.106.121.184   1      3245      ❌     M247          us103-wireguard 
