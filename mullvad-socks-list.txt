@@ -1,5 +1,5 @@
-Date: 2022-09-21 03-35-43 UTC
-Total active proxies: 534
+Date: 2022-09-21 07-28-03 UTC
+Total active proxies: 519
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -54,7 +54,6 @@ Total active proxies: 534
  🇨🇦    Canada           Toronto             10.124.0.67   198.54.132.146   2      3067      ❌     Tzulo         ca26-wireguard  
  🇨🇦    Canada           Toronto             10.124.0.68   198.54.132.162   2      3068      ❌     Tzulo         ca27-wireguard  
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca28-wireguard  
- 🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca29-wireguard  
  🇨🇦    Canada           Vancouver           10.124.0.99   71.19.249.31     1      3099      ❌     Esecuredata   ca7-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.1.126  91.193.4.82      1      3380      ❌     M247          ch10-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.1.127  91.193.4.98      1      3381      ❌     M247          ch11-wireguard  
@@ -103,7 +102,6 @@ Total active proxies: 534
  🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    10     3496      ❌     M247          de34-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.250  169.150.201.2    10     3504      ❌     DataPacket    de35-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.251  169.150.201.15   10     3505      ❌     DataPacket    de36-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.252  169.150.201.28   10     3506      ❌     DataPacket    de37-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.0.53   185.213.155.130  20     3053      ✔️      31173         de4-wireguard   
  🇩🇪    Germany          Frankfurt           10.124.0.54   185.213.155.222  20     3054      ✔️      31173         de5-wireguard   
  🇩🇪    Germany          Frankfurt           10.124.1.23   185.209.196.66   20     3277      ✔️      31173         de7-wireguard   
@@ -126,7 +124,6 @@ Total active proxies: 534
  🇪🇸    Spain            Madrid              10.124.0.74   37.120.199.34    1      3074      ❌     M247          es2-wireguard   
  🇪🇸    Spain            Madrid              10.124.0.155  45.152.183.50    1      3155      ❌     M247          es4-wireguard   
  🇪🇸    Spain            Madrid              10.124.0.156  45.152.183.58    1      3156      ❌     M247          es5-wireguard   
- 🇪🇸    Spain            Madrid              10.124.1.222  45.134.213.207   10     3476      ❌     DataPacket    es7-wireguard   
  🇪🇸    Spain            Madrid              10.124.1.223  45.134.213.194   10     3477      ❌     DataPacket    es-mad-wg-101   
  🇪🇸    Spain            Madrid              10.124.2.28   146.70.128.194   10     3536      ❌     M247          es-mad-wg-201   
  🇪🇸    Spain            Madrid              10.124.2.47   146.70.128.226   10     3555      ❌     M247          es-mad-wg-202   
@@ -139,7 +136,6 @@ Total active proxies: 534
  🇫🇷    France           Paris               10.124.1.73   194.110.113.67   1      3327      ❌     M247          fr13-wireguard  
  🇫🇷    France           Paris               10.124.1.74   194.110.113.83   1      3328      ❌     M247          fr14-wireguard  
  🇫🇷    France           Marseille           10.124.0.45   138.199.15.162   10     3045      ❌     DataPacket    fr15-wireguard  
- 🇫🇷    France           Marseille           10.124.1.183  138.199.15.146   10     3437      ❌     DataPacket    fr16-wireguard  
  🇫🇷    France           Paris               10.124.0.116  193.32.126.66    20     3116      ✔️      31173         fr4-wireguard   
  🇫🇷    France           Paris               10.124.0.118  193.32.126.68    20     3118      ✔️      31173         fr6-wireguard   
  🇫🇷    France           Paris               10.124.0.119  193.32.126.69    20     3119      ✔️      31173         fr7-wireguard   
@@ -195,7 +191,6 @@ Total active proxies: 534
  🇮🇱    Israel           Tel Aviv            10.124.2.25   169.150.227.210  10     3533      ❌     DataPacket    il-tlv-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.26   169.150.227.222  10     3534      ❌     DataPacket    il-tlv-wg-103   
  🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   10     3461      ❌     DataPacket    it10-wireguard  
- 🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   10     3462      ❌     DataPacket    it11-wireguard  
  🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       1      3375      ❌     M247          it4-wireguard   
  🇮🇹    Italy            Milan               10.124.1.122  91.193.5.18      1      3376      ❌     M247          it5-wireguard   
  🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      1      3377      ❌     M247          it6-wireguard   
@@ -206,7 +201,6 @@ Total active proxies: 534
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      1      3367      ❌     M247          jp11-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      1      3368      ❌     M247          jp12-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      1      3369      ❌     M247          jp13-wireguard  
- 🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp14-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.108  217.138.252.226  1      3362      ❌     M247          jp6-wireguard   
  🇯🇵    Japan            Tokyo               10.124.1.109  217.138.252.242  1      3363      ❌     M247          jp7-wireguard   
  🇯🇵    Japan            Tokyo               10.124.1.110  91.193.7.2       1      3364      ❌     M247          jp8-wireguard   
@@ -225,7 +219,6 @@ Total active proxies: 534
  🇳🇱    Netherlands      Amsterdam           10.124.0.39   185.65.134.222   10     3039      ✔️      31173         nl2-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.1.253  169.150.196.2    10     3507      ❌     DataPacket    nl30-wireguard  
  🇳🇱    Netherlands      Amsterdam           10.124.1.254  169.150.196.15   10     3508      ❌     DataPacket    nl31-wireguard  
- 🇳🇱    Netherlands      Amsterdam           10.124.2.1    169.150.196.28   10     3509      ❌     DataPacket    nl32-wireguard  
  🇳🇱    Netherlands      Amsterdam           10.124.0.40   185.65.134.223   10     3040      ✔️      31173         nl3-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.113  193.32.249.69    20     3113      ✔️      31173         nl4-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.114  193.32.249.70    20     3114      ✔️      31173         nl5-wireguard   
@@ -249,7 +242,6 @@ Total active proxies: 534
  🇵🇱    Poland           Warsaw              10.124.0.159  37.120.211.210   1      3159      ❌     M247          pl4-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    10     3473      ❌     DataPacket    pl5-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    10     3474      ❌     DataPacket    pl6-wireguard   
- 🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    10     3475      ❌     DataPacket    pl7-wireguard   
  🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      1      3086      ❌     ptisp         pt1-wireguard   
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      1      3088      ❌     ptisp         pt2-wireguard   
  🇷🇴    Romania          Bucharest           10.124.1.45   185.45.15.194    1      3299      ❌     M247          ro4-wireguard   
@@ -290,7 +282,6 @@ Total active proxies: 534
  🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    10     3499      ❌     DataPacket    sg-sin-wg-002   
  🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    10     3500      ❌     DataPacket    sg-sin-wg-003   
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   10     3511      ❌     DataPacket    sk1-wireguard   
- 🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   10     3512      ❌     DataPacket    sk2-wireguard   
  🇺🇸    USA              New York, NY        10.124.0.243  86.106.121.158   1      3243      ❌     M247          us101-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.244  86.106.121.171   1      3244      ❌     M247          us102-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.245  86.106.121.184   1      3245      ❌     M247          us103-wireguard 
@@ -425,21 +416,15 @@ Total active proxies: 534
  🇺🇸    USA              Ashburn, VA         10.124.1.189  198.54.135.130   2      3443      ❌     Tzulo         us249-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us250-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us251-wireguard 
- 🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us252-wireguard 
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    10     3459      ❌     DataPacket    us253-wireguard 
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket    us254-wireguard 
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket    us255-wireguard 
- 🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket    us256-wireguard 
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us257-wireguard 
  🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket    us258-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     10     3452      ❌     DataPacket    us259-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket    us260-wireguard 
- 🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   10     3454      ❌     DataPacket    us261-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.1.201  87.249.134.1     10     3455      ❌     DataPacket    us263-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.1.202  87.249.134.14    10     3456      ❌     DataPacket    us264-wireguard 
- 🇺🇸    USA              Chicago, IL         10.124.1.203  87.249.134.27    10     3457      ❌     DataPacket    us265-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    10     3478      ❌     DataPacket    us270-wireguard 
- 🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    10     3479      ❌     DataPacket    us271-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    10     3482      ❌     DataPacket    us274-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.230  198.44.136.34    2      3484      ❌     Tzulo         us276-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo         us277-wireguard 
