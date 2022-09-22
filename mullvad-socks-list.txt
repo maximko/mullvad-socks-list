@@ -1,5 +1,5 @@
-Date: 2022-09-22 03-20-12 UTC
-Total active proxies: 525
+Date: 2022-09-22 07-18-21 UTC
+Total active proxies: 527
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -115,6 +115,7 @@ Total active proxies: 525
  🇩🇪    Germany          Frankfurt           10.124.1.31   194.36.25.18     10     3285      ❌     xtom          de-fra-wg-302   
  🇩🇪    Germany          Frankfurt           10.124.1.32   194.36.25.33     10     3286      ❌     xtom          de-fra-wg-303   
  🇩🇪    Germany          Frankfurt           10.124.1.33   194.36.25.48     10     3287      ❌     xtom          de-fra-wg-304   
+ 🇩🇪    Germany          Frankfurt           10.124.1.252  169.150.201.28   10     3506      ❌     DataPacket    de-fra-wg-403   
  🇩🇰    Denmark          Copenhagen          10.124.0.64   45.129.56.67     10     3064      ✔️      31173         dk2-wireguard   
  🇩🇰    Denmark          Copenhagen          10.124.0.17   45.129.56.68     10     3017      ✔️      31173         dk3-wireguard   
  🇩🇰    Denmark          Copenhagen          10.124.0.141  82.103.140.213   1      3141      ❌     Asergo        dk8-wireguard   
@@ -248,6 +249,7 @@ Total active proxies: 525
  🇵🇱    Poland           Warsaw              10.124.0.159  37.120.211.210   1      3159      ❌     M247          pl4-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    10     3473      ❌     DataPacket    pl5-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    10     3474      ❌     DataPacket    pl6-wireguard   
+ 🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    10     3475      ❌     DataPacket    pl-waw-wg-103   
  🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      1      3086      ❌     ptisp         pt1-wireguard   
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      1      3088      ❌     ptisp         pt2-wireguard   
  🇷🇴    Romania          Bucharest           10.124.1.45   185.45.15.194    1      3299      ❌     M247          ro4-wireguard   
