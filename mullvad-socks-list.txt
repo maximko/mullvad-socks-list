@@ -1,5 +1,5 @@
-Date: 2022-09-29 03-27-31 UTC
-Total active proxies: 524
+Date: 2022-09-29 07-20-55 UTC
+Total active proxies: 527
  flag  country         city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria         Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria         Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -227,6 +227,8 @@ Total active proxies: 524
  🇳🇱    Netherlands     Amsterdam           10.124.0.41   92.60.40.209     10     3041      ❌     xtom          nl-ams-wg-102   
  🇳🇱    Netherlands     Amsterdam           10.124.0.48   92.60.40.224     10     3048      ❌     xtom          nl-ams-wg-103   
  🇳🇱    Netherlands     Amsterdam           10.124.0.95   92.60.40.239     10     3095      ❌     xtom          nl-ams-wg-104   
+ 🇳🇱    Netherlands     Amsterdam           10.124.1.253  169.150.196.2    10     3507      ❌     DataPacket    nl-ams-wg-201   
+ 🇳🇱    Netherlands     Amsterdam           10.124.1.254  169.150.196.15   10     3508      ❌     DataPacket    nl-ams-wg-202   
  🇳🇱    Netherlands     Amsterdam           10.124.2.1    169.150.196.28   10     3509      ❌     DataPacket    nl-ams-wg-203   
  🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   10     3006      ✔️      Blix          no1-wireguard   
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   10     3108      ✔️      Blix          no2-wireguard   
@@ -513,6 +515,7 @@ Total active proxies: 524
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket    us-mia-wg-001   
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   10     3530      ❌     DataPacket    us-qas-wg-101   
+ 🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   10     3531      ❌     DataPacket    us-qas-wg-102   
  🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   10     3532      ❌     DataPacket    us-qas-wg-103   
  🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    10     3483      ❌     DataPacket    us-sea-wg-001   
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    10     3481      ❌     DataPacket    us-sea-wg-003   
