@@ -1,5 +1,5 @@
-Date: 2022-09-30 07-25-35 UTC
-Total active proxies: 527
+Date: 2022-09-30 13-38-17 UTC
+Total active proxies: 528
  flag  country         city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria         Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria         Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -54,6 +54,7 @@ Total active proxies: 527
  🇨🇦    Canada          Toronto             10.124.0.67   198.54.132.146   2      3067      ❌     Tzulo         ca26-wireguard  
  🇨🇦    Canada          Toronto             10.124.0.68   198.54.132.162   2      3068      ❌     Tzulo         ca27-wireguard  
  🇨🇦    Canada          Vancouver           10.124.0.99   71.19.249.31     1      3099      ❌     Esecuredata   ca7-wireguard   
+ 🇨🇦    Canada          Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca-tor-wg-001   
  🇨🇦    Canada          Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
  🇨🇭    Switzerland     Zurich              10.124.1.126  91.193.4.82      1      3380      ❌     M247          ch10-wireguard  
  🇨🇭    Switzerland     Zurich              10.124.1.127  91.193.4.98      1      3381      ❌     M247          ch11-wireguard  
