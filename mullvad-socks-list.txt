@@ -1,4 +1,4 @@
-Date: 2022-10-11 03-17-36 UTC
+Date: 2022-10-11 07-23-02 UTC
 Total active proxies: 528
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -272,7 +272,6 @@ Total active proxies: 528
  🇸🇪    Sweden           Malmö               10.124.0.191  45.83.220.70     10     3191      ✔️      31173         se23-wireguard  
  🇸🇪    Sweden           Stockholm           10.124.0.77   185.195.233.66   10     3077      ✔️      31173         se26-wireguard  
  🇸🇪    Sweden           Stockholm           10.124.0.80   185.195.233.68   10     3080      ✔️      31173         se28-wireguard  
- 🇸🇪    Sweden           Stockholm           10.124.0.11   185.65.135.130   10     3011      ✔️      31173         se2-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.0.20   185.213.154.66   10     3020      ✔️      31173         se3-wireguard   
  🇸🇪    Sweden           Malmö               10.124.0.28   193.138.218.130  40     3028      ✔️      31173         se4-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.0.49   185.213.154.67   10     3049      ✔️      31173         se5-wireguard   
@@ -529,3 +528,6 @@ Total active proxies: 528
  🇺🇸    USA              San Jose, CA        10.124.1.210  142.147.89.210   10     3464      ❌     xtom          us-sjc-wg-302   
  🇺🇸    USA              San Jose, CA        10.124.1.211  142.147.89.225   10     3465      ❌     xtom          us-sjc-wg-303   
  🇺🇸    USA              San Jose, CA        10.124.1.212  142.147.89.240   10     3466      ❌     xtom          us-sjc-wg-304   
+Failed to resovle:
+ flag  country  city       socks                                    ip             speed  multihop  owned  provider  hostname      
+ 🇸🇪    Sweden   Stockholm  se-sto-wg-socks5-002.relays.mullvad.net  185.65.135.67  10     3011      ✔️      31173     se-sto-wg-002 
