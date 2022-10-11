@@ -1,4 +1,4 @@
-Date: 2022-10-11 07-23-02 UTC
+Date: 2022-10-11 13-38-09 UTC
 Total active proxies: 528
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -281,6 +281,7 @@ Total active proxies: 528
  🇸🇪    Sweden           Gothenburg          10.124.0.152  185.213.154.68   10     3152      ✔️      31173         se9-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.1.185  185.213.154.70   10     3439      ✔️      31173         se-got-wg-101   
  🇸🇪    Sweden           Stockholm           10.124.1.184  185.195.233.76   10     3438      ✔️      31173         se-sto-wg-001   
+ 🇸🇪    Sweden           Stockholm           10.124.0.11   185.65.135.67    10     3011      ✔️      31173         se-sto-wg-002   
  🇸🇬    Singapore        Singapore           10.124.1.116  94.198.43.34     1      3370      ❌     M247          sg4-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.117  94.198.43.50     1      3371      ❌     M247          sg5-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.118  94.198.43.66     1      3372      ❌     M247          sg6-wireguard   
@@ -528,6 +529,3 @@ Total active proxies: 528
  🇺🇸    USA              San Jose, CA        10.124.1.210  142.147.89.210   10     3464      ❌     xtom          us-sjc-wg-302   
  🇺🇸    USA              San Jose, CA        10.124.1.211  142.147.89.225   10     3465      ❌     xtom          us-sjc-wg-303   
  🇺🇸    USA              San Jose, CA        10.124.1.212  142.147.89.240   10     3466      ❌     xtom          us-sjc-wg-304   
-Failed to resovle:
- flag  country  city       socks                                    ip             speed  multihop  owned  provider  hostname      
- 🇸🇪    Sweden   Stockholm  se-sto-wg-socks5-002.relays.mullvad.net  185.65.135.67  10     3011      ✔️      31173     se-sto-wg-002 
