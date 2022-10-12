@@ -1,5 +1,5 @@
-Date: 2022-10-12 03-21-54 UTC
-Total active proxies: 531
+Date: 2022-10-12 07-08-18 UTC
+Total active proxies: 529
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -262,8 +262,6 @@ Total active proxies: 531
  🇷🇸    Serbia           Belgrade            10.124.0.94   152.89.160.178   1      3094      ❌     M247          rs3-wireguard   
  🇷🇸    Serbia           Belgrade            10.124.1.66   89.38.224.82     1      3320      ❌     M247          rs4-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.0.65   185.213.154.69   10     3065      ✔️      31173         se10-wireguard  
- 🇸🇪    Sweden           Stockholm           10.124.0.172  185.65.135.70    10     3172      ✔️      31173         se13-wireguard  
- 🇸🇪    Sweden           Stockholm           10.124.0.173  185.65.135.71    10     3173      ✔️      31173         se14-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.185  193.138.218.82   10     3185      ✔️      31173         se17-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.186  193.138.218.83   10     3186      ✔️      31173         se18-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.2    193.138.218.220  40     3002      ✔️      31173         se1-wireguard   
@@ -275,9 +273,6 @@ Total active proxies: 531
  🇸🇪    Sweden           Gothenburg          10.124.0.20   185.213.154.66   10     3020      ✔️      31173         se3-wireguard   
  🇸🇪    Sweden           Malmö               10.124.0.28   193.138.218.130  40     3028      ✔️      31173         se4-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.0.49   185.213.154.67   10     3049      ✔️      31173         se5-wireguard   
- 🇸🇪    Sweden           Stockholm           10.124.0.50   185.65.135.222   10     3050      ✔️      31173         se6-wireguard   
- 🇸🇪    Sweden           Stockholm           10.124.0.61   185.65.135.223   10     3061      ✔️      31173         se7-wireguard   
- 🇸🇪    Sweden           Stockholm           10.124.0.62   185.65.135.224   10     3062      ✔️      31173         se8-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.0.152  185.213.154.68   10     3152      ✔️      31173         se9-wireguard   
  🇸🇪    Sweden           Gothenburg          10.124.1.185  185.213.154.70   10     3439      ✔️      31173         se-got-wg-101   
  🇸🇪    Sweden           Stockholm           10.124.1.184  185.195.233.76   10     3438      ✔️      31173         se-sto-wg-001   
@@ -285,6 +280,9 @@ Total active proxies: 531
  🇸🇪    Sweden           Stockholm           10.124.2.48   185.65.135.68    10     3556      ✔️      31173         se-sto-wg-003   
  🇸🇪    Sweden           Stockholm           10.124.2.49   185.65.135.69    10     3557      ✔️      31173         se-sto-wg-004   
  🇸🇪    Sweden           Stockholm           10.124.2.50   185.65.135.72    10     3558      ✔️      31173         se-sto-wg-005   
+ 🇸🇪    Sweden           Stockholm           10.124.0.50   185.195.233.69   10     3050      ✔️      31173         se-sto-wg-009   
+ 🇸🇪    Sweden           Stockholm           10.124.0.61   185.195.233.70   10     3061      ✔️      31173         se-sto-wg-010   
+ 🇸🇪    Sweden           Stockholm           10.124.0.62   185.195.233.71   10     3062      ✔️      31173         se-sto-wg-011   
  🇸🇬    Singapore        Singapore           10.124.1.116  94.198.43.34     1      3370      ❌     M247          sg4-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.117  94.198.43.50     1      3371      ❌     M247          sg5-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.118  94.198.43.66     1      3372      ❌     M247          sg6-wireguard   
