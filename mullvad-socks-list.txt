@@ -1,4 +1,4 @@
-Date: 2022-10-15 07-03-44 UTC
+Date: 2022-10-15 13-24-31 UTC
 Total active proxies: 532
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -331,11 +331,6 @@ Total active proxies: 532
  🇺🇸    USA              Chicago, IL         10.124.0.52   68.235.44.50     2      3052      ❌     Tzulo         us131-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.57   68.235.44.66     2      3057      ❌     Tzulo         us132-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.58   68.235.43.170    2      3058      ❌     Tzulo         us133-wireguard 
- 🇺🇸    USA              Salt Lake City, UT  10.124.1.36   69.4.234.147     1      3290      ❌     100TB         us134-wireguard 
- 🇺🇸    USA              Salt Lake City, UT  10.124.1.37   69.4.234.138     1      3291      ❌     100TB         us135-wireguard 
- 🇺🇸    USA              Salt Lake City, UT  10.124.1.38   69.4.234.139     1      3292      ❌     100TB         us136-wireguard 
- 🇺🇸    USA              Salt Lake City, UT  10.124.1.39   69.4.234.140     1      3293      ❌     100TB         us137-wireguard 
- 🇺🇸    USA              Salt Lake City, UT  10.124.1.40   69.4.234.141     1      3294      ❌     100TB         us138-wireguard 
  🇺🇸    USA              Salt Lake City, UT  10.124.1.41   69.4.234.142     1      3295      ❌     100TB         us139-wireguard 
  🇺🇸    USA              Salt Lake City, UT  10.124.1.42   69.4.234.143     1      3296      ❌     100TB         us140-wireguard 
  🇺🇸    USA              Salt Lake City, UT  10.124.1.43   69.4.234.144     1      3297      ❌     100TB         us141-wireguard 
@@ -363,12 +358,6 @@ Total active proxies: 532
  🇺🇸    USA              Miami, FL           10.124.1.150  193.27.12.146    1      3404      ❌     M247          us164-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.151  89.38.227.210    1      3405      ❌     M247          us165-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.152  89.38.227.226    1      3406      ❌     M247          us166-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.153  66.115.180.231   1      3407      ❌     100TB         us167-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.154  66.115.180.232   1      3408      ❌     100TB         us168-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.155  66.115.180.233   1      3409      ❌     100TB         us169-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.156  66.115.180.234   1      3410      ❌     100TB         us170-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.157  66.115.180.235   1      3411      ❌     100TB         us171-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.158  66.115.180.236   1      3412      ❌     100TB         us172-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.1.159  66.115.180.237   1      3413      ❌     100TB         us173-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.1.160  66.115.180.238   1      3414      ❌     100TB         us174-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.1.161  66.115.180.239   1      3415      ❌     100TB         us175-wireguard 
@@ -391,10 +380,6 @@ Total active proxies: 532
  🇺🇸    USA              Phoenix, AZ         10.124.0.36   198.54.133.130   1      3036      ❌     Tzulo         us192-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us193-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.42   198.54.133.162   1      3042      ❌     Tzulo         us194-wireguard 
- 🇺🇸    USA              San Jose, CA        10.124.0.96   66.115.165.211   1      3096      ❌     100TB         us201-wireguard 
- 🇺🇸    USA              San Jose, CA        10.124.0.97   66.115.165.212   1      3097      ❌     100TB         us202-wireguard 
- 🇺🇸    USA              San Jose, CA        10.124.0.131  66.115.165.213   1      3131      ❌     100TB         us203-wireguard 
- 🇺🇸    USA              San Jose, CA        10.124.0.132  66.115.165.214   1      3132      ❌     100TB         us204-wireguard 
  🇺🇸    USA              San Jose, CA        10.124.0.133  66.115.165.215   1      3133      ❌     100TB         us205-wireguard 
  🇺🇸    USA              San Jose, CA        10.124.0.134  66.115.165.216   1      3134      ❌     100TB         us206-wireguard 
  🇺🇸    USA              San Jose, CA        10.124.0.135  66.115.165.217   1      3135      ❌     100TB         us207-wireguard 
@@ -443,12 +428,6 @@ Total active proxies: 532
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo         us278-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.1.233  45.134.140.130   10     3487      ❌     DataPacket    us279-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.1.234  45.134.140.143   10     3488      ❌     DataPacket    us280-wireguard 
- 🇺🇸    USA              Dallas, TX          10.124.0.142  174.127.113.8    1      3142      ❌     100TB         us30-wireguard  
- 🇺🇸    USA              Dallas, TX          10.124.0.143  174.127.113.9    1      3143      ❌     100TB         us31-wireguard  
- 🇺🇸    USA              Dallas, TX          10.124.0.144  174.127.113.10   1      3144      ❌     100TB         us32-wireguard  
- 🇺🇸    USA              Dallas, TX          10.124.0.145  174.127.113.11   1      3145      ❌     100TB         us33-wireguard  
- 🇺🇸    USA              Dallas, TX          10.124.0.146  174.127.113.12   1      3146      ❌     100TB         us34-wireguard  
- 🇺🇸    USA              Dallas, TX          10.124.0.147  174.127.113.13   1      3147      ❌     100TB         us35-wireguard  
  🇺🇸    USA              Dallas, TX          10.124.0.148  174.127.113.14   1      3148      ❌     100TB         us36-wireguard  
  🇺🇸    USA              Dallas, TX          10.124.0.149  174.127.113.15   1      3149      ❌     100TB         us37-wireguard  
  🇺🇸    USA              Dallas, TX          10.124.0.150  174.127.113.16   1      3150      ❌     100TB         us38-wireguard  
@@ -510,8 +489,20 @@ Total active proxies: 532
  🇺🇸    USA              New York, NY        10.124.0.239  86.106.143.210   1      3239      ❌     M247          us97-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.240  86.106.143.223   1      3240      ❌     M247          us98-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.241  86.106.143.236   1      3241      ❌     M247          us99-wireguard  
+ 🇺🇸    USA              Atlanta, GA         10.124.1.153  66.115.180.231   1      3407      ❌     100TB         us-atl-wg-101   
+ 🇺🇸    USA              Atlanta, GA         10.124.1.154  66.115.180.232   1      3408      ❌     100TB         us-atl-wg-102   
+ 🇺🇸    USA              Atlanta, GA         10.124.1.155  66.115.180.233   1      3409      ❌     100TB         us-atl-wg-103   
+ 🇺🇸    USA              Atlanta, GA         10.124.1.156  66.115.180.234   1      3410      ❌     100TB         us-atl-wg-104   
+ 🇺🇸    USA              Atlanta, GA         10.124.1.157  66.115.180.235   1      3411      ❌     100TB         us-atl-wg-105   
+ 🇺🇸    USA              Atlanta, GA         10.124.1.158  66.115.180.236   1      3412      ❌     100TB         us-atl-wg-106   
  🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    10     3168      ❌     Quadranet     us-chi-wg-101   
  🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    10     3188      ❌     Quadranet     us-chi-wg-103   
+ 🇺🇸    USA              Dallas, TX          10.124.0.142  174.127.113.8    1      3142      ❌     100TB         us-dal-wg-101   
+ 🇺🇸    USA              Dallas, TX          10.124.0.143  174.127.113.9    1      3143      ❌     100TB         us-dal-wg-102   
+ 🇺🇸    USA              Dallas, TX          10.124.0.144  174.127.113.10   1      3144      ❌     100TB         us-dal-wg-103   
+ 🇺🇸    USA              Dallas, TX          10.124.0.145  174.127.113.11   1      3145      ❌     100TB         us-dal-wg-104   
+ 🇺🇸    USA              Dallas, TX          10.124.0.146  174.127.113.12   1      3146      ❌     100TB         us-dal-wg-105   
+ 🇺🇸    USA              Dallas, TX          10.124.0.147  174.127.113.13   1      3147      ❌     100TB         us-dal-wg-106   
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket    us-hou-wg-004   
  🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247          us-lax-wg-001   
@@ -529,7 +520,16 @@ Total active proxies: 532
  🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
  🇺🇸    USA              San Jose, CA        10.124.0.72   198.54.134.130   1      3072      ❌     Tzulo         us-sjc-wg-004   
  🇺🇸    USA              San Jose, CA        10.124.0.75   198.54.134.146   1      3075      ❌     Tzulo         us-sjc-wg-005   
+ 🇺🇸    USA              San Jose, CA        10.124.0.96   66.115.165.211   1      3096      ❌     100TB         us-sjc-wg-101   
+ 🇺🇸    USA              San Jose, CA        10.124.0.97   66.115.165.212   1      3097      ❌     100TB         us-sjc-wg-102   
+ 🇺🇸    USA              San Jose, CA        10.124.0.131  66.115.165.213   1      3131      ❌     100TB         us-sjc-wg-103   
+ 🇺🇸    USA              San Jose, CA        10.124.0.132  66.115.165.214   1      3132      ❌     100TB         us-sjc-wg-104   
  🇺🇸    USA              San Jose, CA        10.124.1.209  142.147.89.195   10     3463      ❌     xtom          us-sjc-wg-301   
  🇺🇸    USA              San Jose, CA        10.124.1.210  142.147.89.210   10     3464      ❌     xtom          us-sjc-wg-302   
  🇺🇸    USA              San Jose, CA        10.124.1.211  142.147.89.225   10     3465      ❌     xtom          us-sjc-wg-303   
  🇺🇸    USA              San Jose, CA        10.124.1.212  142.147.89.240   10     3466      ❌     xtom          us-sjc-wg-304   
+ 🇺🇸    USA              Salt Lake City, UT  10.124.1.36   69.4.234.147     1      3290      ❌     100TB         us-slc-wg-101   
+ 🇺🇸    USA              Salt Lake City, UT  10.124.1.37   69.4.234.138     1      3291      ❌     100TB         us-slc-wg-102   
+ 🇺🇸    USA              Salt Lake City, UT  10.124.1.38   69.4.234.139     1      3292      ❌     100TB         us-slc-wg-103   
+ 🇺🇸    USA              Salt Lake City, UT  10.124.1.39   69.4.234.140     1      3293      ❌     100TB         us-slc-wg-104   
+ 🇺🇸    USA              Salt Lake City, UT  10.124.1.40   69.4.234.141     1      3294      ❌     100TB         us-slc-wg-105   
