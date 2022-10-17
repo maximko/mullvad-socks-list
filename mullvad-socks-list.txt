@@ -1,5 +1,5 @@
-Date: 2022-10-17 07-30-12 UTC
-Total active proxies: 531
+Date: 2022-10-17 13-41-38 UTC
+Total active proxies: 533
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -507,6 +507,7 @@ Total active proxies: 531
  🇺🇸    USA              Seattle, WA         10.124.0.115  199.229.250.56   1      3115      ❌     100TB         us-sea-wg-205   
  🇺🇸    USA              Seattle, WA         10.124.0.128  199.229.250.57   1      3128      ❌     100TB         us-sea-wg-206   
  🇺🇸    USA              Seattle, WA         10.124.0.129  199.229.250.58   1      3129      ❌     100TB         us-sea-wg-207   
+ 🇺🇸    USA              Seattle, WA         10.124.0.130  199.229.250.59   1      3130      ❌     100TB         us-sea-wg-208   
  🇺🇸    USA              San Jose, CA        10.124.0.69   198.54.134.82    1      3069      ❌     Tzulo         us-sjc-wg-001   
  🇺🇸    USA              San Jose, CA        10.124.0.70   198.54.134.98    1      3070      ❌     Tzulo         us-sjc-wg-002   
  🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
@@ -519,6 +520,7 @@ Total active proxies: 531
  🇺🇸    USA              San Jose, CA        10.124.0.133  66.115.165.215   1      3133      ❌     100TB         us-sjc-wg-105   
  🇺🇸    USA              San Jose, CA        10.124.0.134  66.115.165.216   1      3134      ❌     100TB         us-sjc-wg-106   
  🇺🇸    USA              San Jose, CA        10.124.0.135  66.115.165.217   1      3135      ❌     100TB         us-sjc-wg-107   
+ 🇺🇸    USA              San Jose, CA        10.124.0.137  66.115.165.218   1      3137      ❌     100TB         us-sjc-wg-108   
  🇺🇸    USA              San Jose, CA        10.124.1.209  142.147.89.195   10     3463      ❌     xtom          us-sjc-wg-301   
  🇺🇸    USA              San Jose, CA        10.124.1.210  142.147.89.210   10     3464      ❌     xtom          us-sjc-wg-302   
  🇺🇸    USA              San Jose, CA        10.124.1.211  142.147.89.225   10     3465      ❌     xtom          us-sjc-wg-303   
