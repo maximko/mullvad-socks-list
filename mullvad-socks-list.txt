@@ -1,5 +1,5 @@
-Date: 2022-10-18 03-27-54 UTC
-Total active proxies: 524
+Date: 2022-10-18 07-24-14 UTC
+Total active proxies: 525
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -451,6 +451,7 @@ Total active proxies: 524
  🇺🇸    USA              New York, NY        10.124.0.239  86.106.143.210   1      3239      ❌     M247          us97-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.240  86.106.143.223   1      3240      ❌     M247          us98-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.241  86.106.143.236   1      3241      ❌     M247          us99-wireguard  
+ 🇺🇸    USA              Atlanta, GA         10.124.1.233  45.134.140.130   10     3487      ❌     DataPacket    us-atl-wg-001   
  🇺🇸    USA              Atlanta, GA         10.124.1.153  66.115.180.231   1      3407      ❌     100TB         us-atl-wg-101   
  🇺🇸    USA              Atlanta, GA         10.124.1.154  66.115.180.232   1      3408      ❌     100TB         us-atl-wg-102   
  🇺🇸    USA              Atlanta, GA         10.124.1.155  66.115.180.233   1      3409      ❌     100TB         us-atl-wg-103   
