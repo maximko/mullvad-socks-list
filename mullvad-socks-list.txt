@@ -1,5 +1,5 @@
-Date: 2022-10-17 19-19-41 UTC
-Total active proxies: 533
+Date: 2022-10-18 03-27-54 UTC
+Total active proxies: 524
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -391,18 +391,9 @@ Total active proxies: 533
  🇺🇸    USA              Ashburn, VA         10.124.1.187  198.54.135.66    2      3441      ❌     Tzulo         us247-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.188  198.54.135.98    2      3442      ❌     Tzulo         us248-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.189  198.54.135.130   2      3443      ❌     Tzulo         us249-wireguard 
- 🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us250-wireguard 
- 🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us251-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us257-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket    us258-wireguard 
- 🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket    us260-wireguard 
- 🇺🇸    USA              Chicago, IL         10.124.1.201  87.249.134.1     10     3455      ❌     DataPacket    us263-wireguard 
- 🇺🇸    USA              Chicago, IL         10.124.1.202  87.249.134.14    10     3456      ❌     DataPacket    us264-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    10     3482      ❌     DataPacket    us274-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.230  198.44.136.34    2      3484      ❌     Tzulo         us276-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo         us277-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo         us278-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.1.234  45.134.140.143   10     3488      ❌     DataPacket    us280-wireguard 
  🇺🇸    USA              Denver, CO          10.124.0.175  198.54.128.58    1      3175      ❌     Tzulo         us44-wireguard  
  🇺🇸    USA              Denver, CO          10.124.0.176  198.54.128.50    1      3176      ❌     Tzulo         us45-wireguard  
  🇺🇸    USA              Denver, CO          10.124.0.177  198.54.128.42    1      3177      ❌     Tzulo         us46-wireguard  
