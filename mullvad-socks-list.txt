@@ -1,5 +1,5 @@
-Date: 2022-10-24 13-40-12 UTC
-Total active proxies: 531
+Date: 2022-10-24 19-12-00 UTC
+Total active proxies: 532
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -499,6 +499,7 @@ Total active proxies: 531
  🇺🇸    USA              Ashburn, VA         10.124.2.23   185.156.46.143   10     3531      ❌     DataPacket    us-qas-wg-102   
  🇺🇸    USA              Ashburn, VA         10.124.2.24   185.156.46.156   10     3532      ❌     DataPacket    us-qas-wg-103   
  🇺🇸    USA              Seattle, WA         10.124.1.229  138.199.43.91    10     3483      ❌     DataPacket    us-sea-wg-001   
+ 🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    10     3482      ❌     DataPacket    us-sea-wg-002   
  🇺🇸    USA              Seattle, WA         10.124.1.227  138.199.43.65    10     3481      ❌     DataPacket    us-sea-wg-003   
  🇺🇸    USA              Seattle, WA         10.124.0.98   199.229.250.52   1      3098      ❌     100TB         us-sea-wg-201   
  🇺🇸    USA              Seattle, WA         10.124.0.101  199.229.250.53   1      3101      ❌     100TB         us-sea-wg-202   
