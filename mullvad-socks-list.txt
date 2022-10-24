@@ -1,5 +1,5 @@
-Date: 2022-10-24 03-37-26 UTC
-Total active proxies: 525
+Date: 2022-10-24 07-35-02 UTC
+Total active proxies: 531
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -464,6 +464,8 @@ Total active proxies: 525
  🇺🇸    USA              Atlanta, GA         10.124.1.162  66.115.180.240   1      3416      ❌     100TB         us-atl-wg-110   
  🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    10     3168      ❌     Quadranet     us-chi-wg-101   
  🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    10     3188      ❌     Quadranet     us-chi-wg-103   
+ 🇺🇸    USA              Chicago, IL         10.124.1.201  87.249.134.1     10     3455      ❌     DataPacket    us-chi-wg-201   
+ 🇺🇸    USA              Chicago, IL         10.124.1.202  87.249.134.14    10     3456      ❌     DataPacket    us-chi-wg-202   
  🇺🇸    USA              Chicago, IL         10.124.1.203  87.249.134.27    10     3457      ❌     DataPacket    us-chi-wg-203   
  🇺🇸    USA              Dallas, TX          10.124.0.142  174.127.113.8    1      3142      ❌     100TB         us-dal-wg-101   
  🇺🇸    USA              Dallas, TX          10.124.0.143  174.127.113.9    1      3143      ❌     100TB         us-dal-wg-102   
@@ -477,6 +479,8 @@ Total active proxies: 525
  🇺🇸    USA              Dallas, TX          10.124.0.151  174.127.113.17   1      3151      ❌     100TB         us-dal-wg-110   
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    10     3479      ❌     DataPacket    us-dal-wg-402   
+ 🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us-den-wg-101   
+ 🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket    us-den-wg-102   
  🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     10     3452      ❌     DataPacket    us-den-wg-103   
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    10     3459      ❌     DataPacket    us-hou-wg-001   
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket    us-hou-wg-002   
@@ -488,6 +492,8 @@ Total active proxies: 525
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
  🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket    us-mia-wg-001   
  🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   10     3454      ❌     DataPacket    us-mia-wg-002   
+ 🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us-nyc-wg-301   
+ 🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us-nyc-wg-303   
  🇺🇸    USA              Ashburn, VA         10.124.2.22   185.156.46.130   10     3530      ❌     DataPacket    us-qas-wg-101   
  🇺🇸    USA              Ashburn, VA         10.124.2.23   185.156.46.143   10     3531      ❌     DataPacket    us-qas-wg-102   
