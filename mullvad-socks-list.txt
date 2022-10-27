@@ -1,4 +1,4 @@
-Date: 2022-10-27 02-56-13 UTC
+Date: 2022-10-27 06-56-51 UTC
 Total active proxies: 533
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
@@ -91,7 +91,6 @@ Total active proxies: 533
  🇩🇪    Germany          Frankfurt           10.124.1.26   185.209.196.69   20     3280      ✔️      31173         de10-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.27   185.209.196.70   20     3281      ✔️      31173         de11-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.50   193.27.14.66     1      3304      ❌     M247          de12-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.51   193.27.14.82     1      3305      ❌     M247          de13-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.52   193.27.14.98     1      3306      ❌     M247          de14-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.53   193.27.14.114    1      3307      ❌     M247          de15-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.54   193.27.14.130    1      3308      ❌     M247          de16-wireguard  
@@ -178,6 +177,7 @@ Total active proxies: 533
  🇬🇧    UK               London              10.124.0.59   141.98.252.130   10     3059      ✔️      31173         gb4-wireguard   
  🇬🇧    UK               London              10.124.0.60   141.98.252.222   10     3060      ✔️      31173         gb5-wireguard   
  🇬🇧    UK               London              10.124.1.249  146.70.119.66    10     3503      ❌     M247          gb-lon-wg-101   
+ 🇬🇧    UK               London              10.124.1.86   141.98.100.146   1      3340      ❌     M247          gb-lon-wg-104   
  🇬🇧    UK               Manchester          10.124.2.20   146.70.133.98    10     3528      ❌     M247          gb-mnc-wg-001   
  🇭🇰    Hong Kong        Hong Kong           10.124.0.13   209.58.188.180   1      3013      ❌     Leaseweb      hk1-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.20   89.45.6.82       1      3274      ❌     M247          hk2-wireguard   
@@ -210,7 +210,6 @@ Total active proxies: 533
  🇯🇵    Japan            Tokyo               10.124.1.111  91.193.7.18      1      3365      ❌     M247          jp9-wireguard   
  🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     1      3431      ❌     xtom          jp-osa-wg-001   
  🇯🇵    Japan            Osaka               10.124.1.178  45.8.223.210     1      3432      ❌     xtom          jp-osa-wg-002   
- 🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     1      3433      ❌     xtom          jp-osa-wg-003   
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     1      3434      ❌     xtom          jp-osa-wg-004   
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   10     3472      ❌     DataPacket    jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp-tyo-wg-002   
@@ -487,6 +486,7 @@ Total active proxies: 533
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket    us-hou-wg-003   
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket    us-hou-wg-004   
  🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247          us-lax-wg-001   
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.209  89.45.90.184     1      3209      ❌     M247          us-lax-wg-017   
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    10     3083      ❌     DataPacket    us-lax-wg-201   
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
