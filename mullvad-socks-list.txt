@@ -1,5 +1,5 @@
-Date: 2022-10-28 06-56-42 UTC
-Total active proxies: 534
+Date: 2022-10-28 13-34-44 UTC
+Total active proxies: 533
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -525,7 +525,6 @@ Total active proxies: 534
  🇺🇸    USA              San Jose, CA        10.124.1.209  142.147.89.195   10     3463      ❌     xtom          us-sjc-wg-301   
  🇺🇸    USA              San Jose, CA        10.124.1.210  142.147.89.210   10     3464      ❌     xtom          us-sjc-wg-302   
  🇺🇸    USA              San Jose, CA        10.124.1.211  142.147.89.225   10     3465      ❌     xtom          us-sjc-wg-303   
- 🇺🇸    USA              San Jose, CA        10.124.1.212  142.147.89.240   10     3466      ❌     xtom          us-sjc-wg-304   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.36   69.4.234.147     1      3290      ❌     100TB         us-slc-wg-101   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.37   69.4.234.138     1      3291      ❌     100TB         us-slc-wg-102   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.38   69.4.234.139     1      3292      ❌     100TB         us-slc-wg-103   
