@@ -1,5 +1,5 @@
-Date: 2022-11-18 06-52-17 UTC
-Total active proxies: 533
+Date: 2022-11-18 18-52-16 UTC
+Total active proxies: 537
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -132,6 +132,10 @@ Total active proxies: 533
  🇫🇮    Finland          Helsinki            10.124.0.21   185.204.1.203    10     3021      ✔️      Creanova      fi1-wireguard   
  🇫🇮    Finland          Helsinki            10.124.0.111  185.204.1.211    10     3111      ✔️      Creanova      fi2-wireguard   
  🇫🇮    Finland          Helsinki            10.124.0.112  185.204.1.219    10     3112      ✔️      Creanova      fi3-wireguard   
+ 🇫🇮    Finland          Helsinki            10.124.2.53   193.138.7.137    10     3561      ✔️      Blix          fi-hel-wg-101   
+ 🇫🇮    Finland          Helsinki            10.124.2.54   193.138.7.157    10     3562      ✔️      Blix          fi-hel-wg-102   
+ 🇫🇮    Finland          Helsinki            10.124.2.55   193.138.7.177    10     3563      ✔️      Blix          fi-hel-wg-103   
+ 🇫🇮    Finland          Helsinki            10.124.2.56   193.138.7.197    10     3564      ✔️      Blix          fi-hel-wg-104   
  🇫🇷    France           Paris               10.124.1.70   194.110.113.19   1      3324      ❌     M247          fr10-wireguard  
  🇫🇷    France           Paris               10.124.1.71   194.110.113.35   1      3325      ❌     M247          fr11-wireguard  
  🇫🇷    France           Paris               10.124.1.72   194.110.113.51   1      3326      ❌     M247          fr12-wireguard  
