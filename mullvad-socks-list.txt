@@ -1,4 +1,4 @@
-Date: 2022-11-24 13-09-44 UTC
+Date: 2022-11-24 18-48-51 UTC
 Total active proxies: 537
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
