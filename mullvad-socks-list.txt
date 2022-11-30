@@ -1,5 +1,5 @@
-Date: 2022-11-30 02-13-20 UTC
-Total active proxies: 537
+Date: 2022-11-30 06-49-49 UTC
+Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -218,7 +218,6 @@ Total active proxies: 537
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     1      3434      ❌     xtom          jp-osa-wg-004   
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   10     3472      ❌     DataPacket    jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp-tyo-wg-002   
- 🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    1      3136      ❌     Evoluso       lu1-wireguard   
  🇱🇺    Luxembourg       Luxembourg          10.124.0.154  92.223.89.165    1      3154      ❌     Evoluso       lu2-wireguard   
  🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     1      3081      ❌     Makonix       lv1-wireguard   
  🇲🇩    Moldova          Chisinau            10.124.0.56   178.175.131.98   1      3056      ❌     Trabia        md1-wireguard   
