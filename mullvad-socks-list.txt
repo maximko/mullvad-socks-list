@@ -1,5 +1,5 @@
-Date: 2022-12-01 13-17-07 UTC
-Total active proxies: 536
+Date: 2022-12-01 18-49-39 UTC
+Total active proxies: 515
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -406,25 +406,6 @@ Total active proxies: 536
  🇺🇸    USA              Chicago, IL         10.124.0.15   68.235.43.82     2      3015      ❌     Tzulo         us4-wireguard   
  🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    1      3181      ❌     Tzulo         us50-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.182  198.54.129.42    1      3182      ❌     Tzulo         us51-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.194  89.46.114.236    1      3194      ❌     M247          us52-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.195  89.45.90.2       1      3195      ❌     M247          us53-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.196  89.45.90.15      1      3196      ❌     M247          us54-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.197  89.45.90.28      1      3197      ❌     M247          us55-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.198  89.45.90.41      1      3198      ❌     M247          us56-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.199  89.45.90.54      1      3199      ❌     M247          us57-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.200  89.45.90.67      1      3200      ❌     M247          us58-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.201  89.45.90.80      1      3201      ❌     M247          us59-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.202  89.45.90.93      1      3202      ❌     M247          us60-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.203  89.45.90.106     1      3203      ❌     M247          us61-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.204  89.45.90.119     1      3204      ❌     M247          us62-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.205  89.45.90.132     1      3205      ❌     M247          us63-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.206  89.45.90.145     1      3206      ❌     M247          us64-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.207  89.45.90.158     1      3207      ❌     M247          us65-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.208  89.45.90.171     1      3208      ❌     M247          us66-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.210  89.45.90.197     1      3210      ❌     M247          us68-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.211  89.45.90.210     1      3211      ❌     M247          us69-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.212  89.45.90.223     1      3212      ❌     M247          us70-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.213  89.45.90.236     1      3213      ❌     M247          us71-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.214  89.46.62.145     1      3214      ❌     M247          us72-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.215  89.46.62.158     1      3215      ❌     M247          us73-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.216  89.46.62.171     1      3216      ❌     M247          us74-wireguard  
@@ -489,8 +470,6 @@ Total active proxies: 536
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket    us-hou-wg-002   
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket    us-hou-wg-003   
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket    us-hou-wg-004   
- 🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247          us-lax-wg-001   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.209  89.45.90.184     1      3209      ❌     M247          us-lax-wg-017   
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    10     3083      ❌     DataPacket    us-lax-wg-201   
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
