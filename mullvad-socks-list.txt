@@ -1,5 +1,5 @@
-Date: 2022-12-06 13-05-50 UTC
-Total active proxies: 534
+Date: 2022-12-06 18-47-01 UTC
+Total active proxies: 538
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -88,6 +88,8 @@ Total active proxies: 534
  🇨🇿    Czech Republic   Prague              10.124.0.161  217.138.199.98   1      3161      ❌     M247          cz5-wireguard   
  🇨🇿    Czech Republic   Prague              10.124.2.33   146.70.129.98    10     3541      ❌     M247          cz-prg-wg-101   
  🇨🇿    Czech Republic   Prague              10.124.2.34   146.70.129.130   10     3542      ❌     M247          cz-prg-wg-102   
+ 🇨🇿    Czech Republic   Prague              10.124.2.57   178.249.209.162  10     3565      ❌     DataPacket    cz-prg-wg-201   
+ 🇨🇿    Czech Republic   Prague              10.124.2.58   178.249.209.175  10     3566      ❌     DataPacket    cz-prg-wg-202   
  🇩🇪    Germany          Frankfurt           10.124.1.26   185.209.196.69   20     3280      ✔️      31173         de10-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.27   185.209.196.70   20     3281      ✔️      31173         de11-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.50   193.27.14.66     1      3304      ❌     M247          de12-wireguard  
@@ -535,3 +537,5 @@ Total active proxies: 534
  🇺🇸    USA              Salt Lake City, UT  10.124.1.42   69.4.234.143     1      3296      ❌     100TB         us-slc-wg-107   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.43   69.4.234.144     1      3297      ❌     100TB         us-slc-wg-108   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.44   69.4.234.145     1      3298      ❌     100TB         us-slc-wg-109   
+ 🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    10     3567      ❌     DataPacket    za-jnb-wg-001   
+ 🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    10     3568      ❌     DataPacket    za-jnb-wg-002   
