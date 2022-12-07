@@ -1,5 +1,5 @@
-Date: 2022-12-07 06-47-36 UTC
-Total active proxies: 538
+Date: 2022-12-07 13-02-27 UTC
+Total active proxies: 537
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -384,10 +384,8 @@ Total active proxies: 538
  🇺🇸    USA              Chicago, IL         10.124.0.126  68.235.43.98     2      3126      ❌     Tzulo         us22-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet     us230-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.0.171  96.44.191.130    10     3171      ❌     Quadranet     us235-wireguard 
- 🇺🇸    USA              Secaucus, NJ        10.124.1.29   204.44.124.226   10     3283      ❌     Quadranet     us238-wireguard 
  🇺🇸    USA              Los Angeles, CA     10.124.1.174  204.152.215.242  10     3428      ❌     Quadranet     us239-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.127  68.235.43.106    2      3127      ❌     Tzulo         us23-wireguard  
- 🇺🇸    USA              Secaucus, NJ        10.124.1.176  23.226.135.50    10     3430      ❌     Quadranet     us241-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.0.29   69.174.103.162   10     3029      ❌     Quadranet     us242-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.0.184  104.223.91.18    10     3184      ❌     Quadranet     us243-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.186  198.54.135.34    2      3440      ❌     Tzulo         us246-wireguard 
@@ -537,5 +535,6 @@ Total active proxies: 538
  🇺🇸    USA              Salt Lake City, UT  10.124.1.42   69.4.234.143     1      3296      ❌     100TB         us-slc-wg-107   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.43   69.4.234.144     1      3297      ❌     100TB         us-slc-wg-108   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.44   69.4.234.145     1      3298      ❌     100TB         us-slc-wg-109   
+ 🇺🇸    USA              Secaucus, NJ        10.124.0.242  209.54.101.130   10     3242      ❌     Quadranet     us-uyk-wg-101   
  🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    10     3567      ❌     DataPacket    za-jnb-wg-001   
  🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    10     3568      ❌     DataPacket    za-jnb-wg-002   
