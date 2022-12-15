@@ -1,5 +1,5 @@
-Date: 2022-12-15 02-10-45 UTC
-Total active proxies: 538
+Date: 2022-12-15 06-47-54 UTC
+Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -219,8 +219,8 @@ Total active proxies: 538
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     1      3434      ❌     xtom          jp-osa-wg-004   
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   10     3472      ❌     DataPacket    jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp-tyo-wg-002   
+ 🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    1      3136      ❌     Evoluso       lu1-wireguard   
  🇱🇺    Luxembourg       Luxembourg          10.124.0.154  92.223.89.165    1      3154      ❌     Evoluso       lu2-wireguard   
- 🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     1      3081      ❌     Makonix       lv1-wireguard   
  🇲🇩    Moldova          Chisinau            10.124.0.56   178.175.131.98   1      3056      ❌     Trabia        md1-wireguard   
  🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   1      3435      ❌     Interspace    mk1-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.4    193.32.249.66    20     3004      ✔️      31173         nl1-wireguard   
@@ -308,7 +308,6 @@ Total active proxies: 538
  🇺🇸    USA              New York, NY        10.124.0.248  86.106.121.223   1      3248      ❌     M247          us106-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.249  86.106.121.236   1      3249      ❌     M247          us107-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.250  86.106.121.249   1      3250      ❌     M247          us108-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.0.43   198.54.128.82    1      3043      ❌     Tzulo         us10-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.252  89.45.224.15     1      3252      ❌     M247          us110-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.253  89.45.224.28     1      3253      ❌     M247          us111-wireguard 
  🇺🇸    USA              New York, NY        10.124.0.254  89.45.224.41     1      3254      ❌     M247          us112-wireguard 
@@ -330,7 +329,6 @@ Total active proxies: 538
  🇺🇸    USA              New York, NY        10.124.1.15   89.45.224.236    1      3269      ❌     M247          us127-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.18   68.235.44.2      2      3018      ❌     Tzulo         us128-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.38   68.235.44.18     2      3038      ❌     Tzulo         us129-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    1      3027      ❌     Tzulo         us12-wireguard  
  🇺🇸    USA              Chicago, IL         10.124.0.46   68.235.44.34     2      3046      ❌     Tzulo         us130-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.52   68.235.44.50     2      3052      ❌     Tzulo         us131-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.57   68.235.44.66     2      3057      ❌     Tzulo         us132-wireguard 
@@ -377,13 +375,11 @@ Total active proxies: 538
  🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us193-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.42   198.54.133.162   1      3042      ❌     Tzulo         us194-wireguard 
  🇺🇸    USA              Miami, FL           10.124.0.153  96.47.237.18     10     3153      ❌     Quadranet     us226-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.164  173.205.92.146   10     3164      ❌     Quadranet     us227-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.0.158  173.205.93.2     10     3158      ❌     Quadranet     us228-wireguard 
  🇺🇸    USA              Los Angeles, CA     10.124.0.162  204.152.216.98   10     3162      ❌     Quadranet     us229-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.126  68.235.43.98     2      3126      ❌     Tzulo         us22-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet     us230-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.0.171  96.44.191.130    10     3171      ❌     Quadranet     us235-wireguard 
- 🇺🇸    USA              Los Angeles, CA     10.124.1.174  204.152.215.242  10     3428      ❌     Quadranet     us239-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.127  68.235.43.106    2      3127      ❌     Tzulo         us23-wireguard  
  🇺🇸    USA              Atlanta, GA         10.124.0.29   69.174.103.162   10     3029      ❌     Quadranet     us242-wireguard 
  🇺🇸    USA              Atlanta, GA         10.124.0.184  104.223.91.18    10     3184      ❌     Quadranet     us243-wireguard 
@@ -491,6 +487,7 @@ Total active proxies: 538
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    10     3083      ❌     DataPacket    us-lax-wg-201   
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
+ 🇺🇸    USA              Los Angeles, CA     10.124.1.174  198.96.89.194    10     3428      ❌     Quadranet     us-lax-wg-301   
  🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket    us-mia-wg-001   
  🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   10     3454      ❌     DataPacket    us-mia-wg-002   
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket    us-mia-wg-003   
@@ -509,6 +506,7 @@ Total active proxies: 538
  🇺🇸    USA              Seattle, WA         10.124.0.128  199.229.250.57   1      3128      ❌     100TB         us-sea-wg-206   
  🇺🇸    USA              Seattle, WA         10.124.0.129  199.229.250.58   1      3129      ❌     100TB         us-sea-wg-207   
  🇺🇸    USA              Seattle, WA         10.124.0.130  199.229.250.59   1      3130      ❌     100TB         us-sea-wg-208   
+ 🇺🇸    USA              Seattle, WA         10.124.0.164  104.129.57.66    10     3164      ❌     Quadranet     us-sea-wg-301   
  🇺🇸    USA              San Jose, CA        10.124.0.69   198.54.134.82    1      3069      ❌     Tzulo         us-sjc-wg-001   
  🇺🇸    USA              San Jose, CA        10.124.0.70   198.54.134.98    1      3070      ❌     Tzulo         us-sjc-wg-002   
  🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
