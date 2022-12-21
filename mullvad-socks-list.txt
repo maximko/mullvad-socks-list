@@ -1,5 +1,5 @@
-Date: 2022-12-21 01-57-46 UTC
-Total active proxies: 538
+Date: 2022-12-21 06-46-55 UTC
+Total active proxies: 542
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -456,6 +456,8 @@ Total active proxies: 538
  🇺🇸    USA              Atlanta, GA         10.124.1.160  66.115.180.238   1      3414      ❌     100TB         us-atl-wg-108   
  🇺🇸    USA              Atlanta, GA         10.124.1.162  66.115.180.240   1      3416      ❌     100TB         us-atl-wg-110   
  🇺🇸    USA              Atlanta, GA         10.124.0.29   107.150.22.2     10     3029      ❌     Quadranet     us-atl-wg-201   
+ 🇺🇸    USA              Atlanta, GA         10.124.0.169  104.129.24.98    10     3169      ❌     Quadranet     us-atl-wg-202   
+ 🇺🇸    USA              Atlanta, GA         10.124.0.170  104.129.24.114   10     3170      ❌     Quadranet     us-atl-wg-203   
  🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    10     3168      ❌     Quadranet     us-chi-wg-101   
  🇺🇸    USA              Chicago, IL         10.124.0.165  66.63.167.194    10     3165      ❌     Quadranet     us-chi-wg-102   
  🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    10     3188      ❌     Quadranet     us-chi-wg-103   
@@ -475,6 +477,8 @@ Total active proxies: 538
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    10     3479      ❌     DataPacket    us-dal-wg-402   
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    10     3478      ❌     DataPacket    us-dal-wg-403   
+ 🇺🇸    USA              Denver, CO          10.124.0.43   198.54.128.82    1      3043      ❌     Tzulo         us-den-wg-005   
+ 🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    1      3027      ❌     Tzulo         us-den-wg-007   
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us-den-wg-101   
  🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket    us-den-wg-102   
  🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     10     3452      ❌     DataPacket    us-den-wg-103   
