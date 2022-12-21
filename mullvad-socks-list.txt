@@ -1,5 +1,5 @@
-Date: 2022-12-21 06-46-55 UTC
-Total active proxies: 542
+Date: 2022-12-21 13-00-24 UTC
+Total active proxies: 545
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -220,6 +220,7 @@ Total active proxies: 542
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   10     3472      ❌     DataPacket    jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   10     3471      ❌     DataPacket    jp-tyo-wg-002   
  🇱🇺    Luxembourg       Luxembourg          10.124.0.154  92.223.89.165    1      3154      ❌     Evoluso       lu2-wireguard   
+ 🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    1      3136      ❌     Evoluso       lu-lux-wg-001   
  🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     1      3081      ❌     Makonix       lv-rix-wg-001   
  🇲🇩    Moldova          Chisinau            10.124.0.56   178.175.131.98   1      3056      ❌     Trabia        md1-wireguard   
  🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   1      3435      ❌     Interspace    mk1-wireguard   
@@ -461,6 +462,7 @@ Total active proxies: 542
  🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    10     3168      ❌     Quadranet     us-chi-wg-101   
  🇺🇸    USA              Chicago, IL         10.124.0.165  66.63.167.194    10     3165      ❌     Quadranet     us-chi-wg-102   
  🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    10     3188      ❌     Quadranet     us-chi-wg-103   
+ 🇺🇸    USA              Chicago, IL         10.124.1.182  66.63.167.146    10     3436      ❌     Quadranet     us-chi-wg-104   
  🇺🇸    USA              Chicago, IL         10.124.1.201  87.249.134.1     10     3455      ❌     DataPacket    us-chi-wg-201   
  🇺🇸    USA              Chicago, IL         10.124.1.202  87.249.134.14    10     3456      ❌     DataPacket    us-chi-wg-202   
  🇺🇸    USA              Chicago, IL         10.124.1.203  87.249.134.27    10     3457      ❌     DataPacket    us-chi-wg-203   
@@ -474,6 +476,7 @@ Total active proxies: 542
  🇺🇸    USA              Dallas, TX          10.124.0.149  174.127.113.15   1      3149      ❌     100TB         us-dal-wg-108   
  🇺🇸    USA              Dallas, TX          10.124.0.150  174.127.113.16   1      3150      ❌     100TB         us-dal-wg-109   
  🇺🇸    USA              Dallas, TX          10.124.0.151  174.127.113.17   1      3151      ❌     100TB         us-dal-wg-110   
+ 🇺🇸    USA              Dallas, TX          10.124.0.193  96.44.191.146    10     3193      ❌     Quadranet     us-dal-wg-302   
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    10     3479      ❌     DataPacket    us-dal-wg-402   
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    10     3478      ❌     DataPacket    us-dal-wg-403   
