@@ -1,5 +1,5 @@
-Date: 2022-12-22 02-00-34 UTC
-Total active proxies: 546
+Date: 2022-12-22 06-46-59 UTC
+Total active proxies: 545
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -377,13 +377,10 @@ Total active proxies: 546
  🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us193-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.42   198.54.133.162   1      3042      ❌     Tzulo         us194-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.0.158  173.205.93.2     10     3158      ❌     Quadranet     us228-wireguard 
- 🇺🇸    USA              Los Angeles, CA     10.124.0.162  204.152.216.98   10     3162      ❌     Quadranet     us229-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.126  68.235.43.98     2      3126      ❌     Tzulo         us22-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet     us230-wireguard 
  🇺🇸    USA              Dallas, TX          10.124.0.171  96.44.191.130    10     3171      ❌     Quadranet     us235-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.127  68.235.43.106    2      3127      ❌     Tzulo         us23-wireguard  
  🇺🇸    USA              Dallas, TX          10.124.1.175  96.44.189.98     10     3429      ❌     Quadranet     us240-wireguard 
- 🇺🇸    USA              Atlanta, GA         10.124.0.184  104.223.91.18    10     3184      ❌     Quadranet     us243-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.186  198.54.135.34    2      3440      ❌     Tzulo         us246-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.187  198.54.135.66    2      3441      ❌     Tzulo         us247-wireguard 
  🇺🇸    USA              Ashburn, VA         10.124.1.188  198.54.135.98    2      3442      ❌     Tzulo         us248-wireguard 
@@ -496,6 +493,8 @@ Total active proxies: 546
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
  🇺🇸    USA              Los Angeles, CA     10.124.1.174  198.96.89.194    10     3428      ❌     Quadranet     us-lax-wg-301   
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.162  204.152.216.98   10     3162      ❌     Quadranet     us-lax-wg-302   
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet     us-lax-wg-303   
  🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket    us-mia-wg-001   
  🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   10     3454      ❌     DataPacket    us-mia-wg-002   
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket    us-mia-wg-003   
