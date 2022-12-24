@@ -1,5 +1,5 @@
-Date: 2022-12-24 12-58-02 UTC
-Total active proxies: 551
+Date: 2022-12-24 18-46-50 UTC
+Total active proxies: 538
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -364,21 +364,12 @@ Total active proxies: 551
  🇺🇸    USA              Miami, FL           10.124.1.150  193.27.12.146    1      3404      ❌     M247          us164-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.151  89.38.227.210    1      3405      ❌     M247          us165-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.152  89.38.227.226    1      3406      ❌     M247          us166-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.1    198.54.131.82    1      3001      ❌     Tzulo         us177-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.3    198.54.131.98    1      3003      ❌     Tzulo         us178-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.5    198.54.131.114   1      3005      ❌     Tzulo         us179-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.0.7    198.54.131.130   1      3007      ❌     Tzulo         us180-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.0.8    198.54.131.146   1      3008      ❌     Tzulo         us181-wireguard 
  🇺🇸    USA              Seattle, WA         10.124.0.9    198.54.131.162   1      3009      ❌     Tzulo         us182-wireguard 
- 🇺🇸    USA              Raleigh, NC         10.124.0.10   198.54.130.82    1      3010      ❌     Tzulo         us183-wireguard 
- 🇺🇸    USA              Raleigh, NC         10.124.0.12   198.54.130.98    1      3012      ❌     Tzulo         us184-wireguard 
- 🇺🇸    USA              Raleigh, NC         10.124.0.22   198.54.130.114   1      3022      ❌     Tzulo         us185-wireguard 
  🇺🇸    USA              Raleigh, NC         10.124.0.24   198.54.130.130   1      3024      ❌     Tzulo         us186-wireguard 
  🇺🇸    USA              Raleigh, NC         10.124.0.26   198.54.130.146   1      3026      ❌     Tzulo         us187-wireguard 
- 🇺🇸    USA              Phoenix, AZ         10.124.0.31   198.54.133.82    1      3031      ❌     Tzulo         us189-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.85   68.235.43.90     2      3085      ❌     Tzulo         us18-wireguard  
- 🇺🇸    USA              Phoenix, AZ         10.124.0.32   198.54.133.98    1      3032      ❌     Tzulo         us190-wireguard 
- 🇺🇸    USA              Phoenix, AZ         10.124.0.34   198.54.133.114   1      3034      ❌     Tzulo         us191-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.36   198.54.133.130   1      3036      ❌     Tzulo         us192-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us193-wireguard 
  🇺🇸    USA              Phoenix, AZ         10.124.0.42   198.54.133.162   1      3042      ❌     Tzulo         us194-wireguard 
@@ -391,12 +382,8 @@ Total active proxies: 551
  🇺🇸    USA              New York, NY        10.124.1.230  198.44.136.34    2      3484      ❌     Tzulo         us276-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo         us277-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo         us278-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.0.175  198.54.128.58    1      3175      ❌     Tzulo         us44-wireguard  
- 🇺🇸    USA              Denver, CO          10.124.0.176  198.54.128.50    1      3176      ❌     Tzulo         us45-wireguard  
  🇺🇸    USA              Denver, CO          10.124.0.177  198.54.128.42    1      3177      ❌     Tzulo         us46-wireguard  
  🇺🇸    USA              Denver, CO          10.124.0.178  198.54.128.34    1      3178      ❌     Tzulo         us47-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.179  198.54.129.66    1      3179      ❌     Tzulo         us48-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.54.129.58    1      3180      ❌     Tzulo         us49-wireguard  
  🇺🇸    USA              Chicago, IL         10.124.0.15   68.235.43.82     2      3015      ❌     Tzulo         us4-wireguard   
  🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    1      3181      ❌     Tzulo         us50-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.182  198.54.129.42    1      3182      ❌     Tzulo         us51-wireguard  
