@@ -1,5 +1,5 @@
-Date: 2022-12-25 06-46-56 UTC
-Total active proxies: 536
+Date: 2022-12-25 12-57-59 UTC
+Total active proxies: 539
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -35,16 +35,6 @@ Total active proxies: 536
  🇧🇷    Brazil           Sao Paulo           10.124.0.55   45.162.228.186   1      3055      ❌     Qnax          br1-wireguard   
  🇧🇷    Brazil           Sao Paulo           10.124.2.31   169.150.198.66   10     3539      ❌     DataPacket    br-sao-wg-201   
  🇧🇷    Brazil           Sao Paulo           10.124.2.32   169.150.198.79   10     3540      ❌     DataPacket    br-sao-wg-202   
- 🇨🇦    Canada           Montreal            10.124.1.75   89.36.78.146     1      3329      ❌     M247          ca10-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.76   89.36.78.162     1      3330      ❌     M247          ca11-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.77   89.36.78.178     1      3331      ❌     M247          ca12-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.78   89.36.78.194     1      3332      ❌     M247          ca13-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.79   89.36.78.210     1      3333      ❌     M247          ca14-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.80   89.36.78.226     1      3334      ❌     M247          ca15-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.81   89.36.78.242     1      3335      ❌     M247          ca16-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.82   89.36.78.2       1      3336      ❌     M247          ca17-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.83   37.120.205.98    1      3337      ❌     M247          ca18-wireguard  
- 🇨🇦    Canada           Montreal            10.124.1.84   37.120.205.194   1      3338      ❌     M247          ca19-wireguard  
  🇨🇦    Canada           Montreal            10.124.1.85   37.120.205.210   1      3339      ❌     M247          ca20-wireguard  
  🇨🇦    Canada           Montreal            10.124.1.56   91.193.6.2       1      3310      ❌     M247          ca21-wireguard  
  🇨🇦    Canada           Toronto             10.124.0.47   198.54.132.82    2      3047      ❌     Tzulo         ca22-wireguard  
@@ -54,6 +44,11 @@ Total active proxies: 536
  🇨🇦    Canada           Toronto             10.124.0.67   198.54.132.146   2      3067      ❌     Tzulo         ca26-wireguard  
  🇨🇦    Canada           Toronto             10.124.0.68   198.54.132.162   2      3068      ❌     Tzulo         ca27-wireguard  
  🇨🇦    Canada           Vancouver           10.124.0.99   71.19.249.31     1      3099      ❌     Esecuredata   ca7-wireguard   
+ 🇨🇦    Canada           Montreal            10.124.1.75   89.36.78.146     1      3329      ❌     M247          ca-mtr-wg-101   
+ 🇨🇦    Canada           Montreal            10.124.1.76   89.36.78.162     1      3330      ❌     M247          ca-mtr-wg-102   
+ 🇨🇦    Canada           Montreal            10.124.1.77   89.36.78.178     1      3331      ❌     M247          ca-mtr-wg-103   
+ 🇨🇦    Canada           Montreal            10.124.1.78   89.36.78.194     1      3332      ❌     M247          ca-mtr-wg-104   
+ 🇨🇦    Canada           Montreal            10.124.1.79   89.36.78.210     1      3333      ❌     M247          ca-mtr-wg-105   
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca-tor-wg-001   
  🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
  🇨🇭    Switzerland      Zurich              10.124.1.126  91.193.4.82      1      3380      ❌     M247          ch10-wireguard  
@@ -108,6 +103,8 @@ Total active proxies: 536
  🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     10     3091      ❌     xtom          de-dus-wg-002   
  🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     10     3092      ❌     xtom          de-dus-wg-003   
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   10     3497      ❌     M247          de-fra-wg-101   
+ 🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   10     3492      ❌     M247          de-fra-wg-102   
+ 🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   10     3493      ❌     M247          de-fra-wg-103   
  🇩🇪    Germany          Frankfurt           10.124.1.30   194.36.25.3      10     3284      ❌     xtom          de-fra-wg-301   
  🇩🇪    Germany          Frankfurt           10.124.1.31   194.36.25.18     10     3285      ❌     xtom          de-fra-wg-302   
  🇩🇪    Germany          Frankfurt           10.124.1.32   194.36.25.33     10     3286      ❌     xtom          de-fra-wg-303   
@@ -174,10 +171,7 @@ Total active proxies: 536
  🇬🇧    UK               London              10.124.1.35   185.248.85.18    10     3289      ❌     xtom          gb34-wireguard  
  🇬🇧    UK               London              10.124.1.91   185.248.85.33    10     3345      ❌     xtom          gb35-wireguard  
  🇬🇧    UK               London              10.124.1.164  185.248.85.48    10     3418      ❌     xtom          gb36-wireguard  
- 🇬🇧    UK               London              10.124.1.247  146.70.119.2     10     3501      ❌     M247          gb37-wireguard  
  🇬🇧    UK               London              10.124.1.248  146.70.119.34    10     3502      ❌     M247          gb38-wireguard  
- 🇬🇧    UK               Manchester          10.124.2.13   146.70.132.130   10     3521      ❌     M247          gb40-wireguard  
- 🇬🇧    UK               Manchester          10.124.2.14   146.70.132.162   10     3522      ❌     M247          gb41-wireguard  
  🇬🇧    UK               Manchester          10.124.2.15   146.70.132.194   10     3523      ❌     M247          gb42-wireguard  
  🇬🇧    UK               Manchester          10.124.2.16   146.70.132.226   10     3524      ❌     M247          gb43-wireguard  
  🇬🇧    UK               Manchester          10.124.2.17   146.70.133.2     10     3525      ❌     M247          gb44-wireguard  
@@ -187,7 +181,10 @@ Total active proxies: 536
  🇬🇧    UK               London              10.124.0.60   141.98.252.222   10     3060      ✔️      31173         gb5-wireguard   
  🇬🇧    UK               London              10.124.1.249  146.70.119.66    10     3503      ❌     M247          gb-lon-wg-101   
  🇬🇧    UK               London              10.124.1.86   141.98.100.146   1      3340      ❌     M247          gb-lon-wg-104   
+ 🇬🇧    UK               London              10.124.1.247  146.70.119.2     10     3501      ❌     M247          gb-lon-wg-302   
  🇬🇧    UK               Manchester          10.124.2.20   146.70.133.98    10     3528      ❌     M247          gb-mnc-wg-001   
+ 🇬🇧    UK               Manchester          10.124.2.13   146.70.132.130   10     3521      ❌     M247          gb-mnc-wg-002   
+ 🇬🇧    UK               Manchester          10.124.2.14   146.70.132.162   10     3522      ❌     M247          gb-mnc-wg-003   
  🇭🇰    Hong Kong        Hong Kong           10.124.0.13   209.58.188.180   1      3013      ❌     Leaseweb      hk1-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.22   89.45.6.114      1      3276      ❌     M247          hk4-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.20   89.45.6.82       1      3274      ❌     M247          hk-hkg-wg-101   
@@ -324,7 +321,6 @@ Total active proxies: 536
  🇺🇸    USA              New York, NY        10.124.1.5    89.45.224.106    1      3259      ❌     M247          us117-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.6    89.45.224.119    1      3260      ❌     M247          us118-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.7    89.45.224.132    1      3261      ❌     M247          us119-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.0.44   198.54.128.90    1      3044      ❌     Tzulo         us11-wireguard  
  🇺🇸    USA              New York, NY        10.124.1.8    89.45.224.145    1      3262      ❌     M247          us120-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.9    89.45.224.158    1      3263      ❌     M247          us121-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.10   89.45.224.171    1      3264      ❌     M247          us122-wireguard 
@@ -362,15 +358,7 @@ Total active proxies: 536
  🇺🇸    USA              Miami, FL           10.124.1.150  193.27.12.146    1      3404      ❌     M247          us164-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.151  89.38.227.210    1      3405      ❌     M247          us165-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.152  89.38.227.226    1      3406      ❌     M247          us166-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.7    198.54.131.130   1      3007      ❌     Tzulo         us180-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.8    198.54.131.146   1      3008      ❌     Tzulo         us181-wireguard 
- 🇺🇸    USA              Seattle, WA         10.124.0.9    198.54.131.162   1      3009      ❌     Tzulo         us182-wireguard 
- 🇺🇸    USA              Raleigh, NC         10.124.0.24   198.54.130.130   1      3024      ❌     Tzulo         us186-wireguard 
- 🇺🇸    USA              Raleigh, NC         10.124.0.26   198.54.130.146   1      3026      ❌     Tzulo         us187-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.85   68.235.43.90     2      3085      ❌     Tzulo         us18-wireguard  
- 🇺🇸    USA              Phoenix, AZ         10.124.0.36   198.54.133.130   1      3036      ❌     Tzulo         us192-wireguard 
- 🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us193-wireguard 
- 🇺🇸    USA              Phoenix, AZ         10.124.0.42   198.54.133.162   1      3042      ❌     Tzulo         us194-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.126  68.235.43.98     2      3126      ❌     Tzulo         us22-wireguard  
  🇺🇸    USA              Chicago, IL         10.124.0.127  68.235.43.106    2      3127      ❌     Tzulo         us23-wireguard  
  🇺🇸    USA              Ashburn, VA         10.124.1.186  198.54.135.34    2      3440      ❌     Tzulo         us246-wireguard 
@@ -380,11 +368,7 @@ Total active proxies: 536
  🇺🇸    USA              New York, NY        10.124.1.230  198.44.136.34    2      3484      ❌     Tzulo         us276-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo         us277-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo         us278-wireguard 
- 🇺🇸    USA              Denver, CO          10.124.0.177  198.54.128.42    1      3177      ❌     Tzulo         us46-wireguard  
- 🇺🇸    USA              Denver, CO          10.124.0.178  198.54.128.34    1      3178      ❌     Tzulo         us47-wireguard  
  🇺🇸    USA              Chicago, IL         10.124.0.15   68.235.43.82     2      3015      ❌     Tzulo         us4-wireguard   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    1      3181      ❌     Tzulo         us50-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.182  198.54.129.42    1      3182      ❌     Tzulo         us51-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.194  89.46.114.236    1      3194      ❌     M247          us52-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.195  89.45.90.2       1      3195      ❌     M247          us53-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.196  89.45.90.15      1      3196      ❌     M247          us54-wireguard  
@@ -469,6 +453,8 @@ Total active proxies: 536
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    10     3480      ❌     DataPacket    us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    10     3479      ❌     DataPacket    us-dal-wg-402   
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    10     3478      ❌     DataPacket    us-dal-wg-403   
+ 🇺🇸    USA              Denver, CO          10.124.0.175  198.54.128.58    1      3175      ❌     Tzulo         us-den-wg-001   
+ 🇺🇸    USA              Denver, CO          10.124.0.176  198.54.128.50    1      3176      ❌     Tzulo         us-den-wg-002   
  🇺🇸    USA              Denver, CO          10.124.0.43   198.54.128.82    1      3043      ❌     Tzulo         us-den-wg-005   
  🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    1      3027      ❌     Tzulo         us-den-wg-007   
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us-den-wg-101   
@@ -480,6 +466,8 @@ Total active proxies: 536
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket    us-hou-wg-004   
  🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247          us-lax-wg-001   
  🇺🇸    USA              Los Angeles, CA     10.124.0.209  89.45.90.184     1      3209      ❌     M247          us-lax-wg-017   
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.179  198.54.129.66    1      3179      ❌     Tzulo         us-lax-wg-101   
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.54.129.58    1      3180      ❌     Tzulo         us-lax-wg-102   
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    10     3083      ❌     DataPacket    us-lax-wg-201   
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   10     3537      ❌     DataPacket    us-lax-wg-202   
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   10     3538      ❌     DataPacket    us-lax-wg-203   
@@ -494,12 +482,27 @@ Total active proxies: 536
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us-nyc-wg-301   
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us-nyc-wg-303   
+ 🇺🇸    USA              Phoenix, AZ         10.124.0.31   198.54.133.82    1      3031      ❌     Tzulo         us-phx-wg-101   
+ 🇺🇸    USA              Phoenix, AZ         10.124.0.32   198.54.133.98    1      3032      ❌     Tzulo         us-phx-wg-102   
+ 🇺🇸    USA              Phoenix, AZ         10.124.0.34   198.54.133.114   1      3034      ❌     Tzulo         us-phx-wg-103   
+ 🇺🇸    USA              Phoenix, AZ         10.124.0.36   198.54.133.130   1      3036      ❌     Tzulo         us-phx-wg-104   
+ 🇺🇸    USA              Phoenix, AZ         10.124.0.37   198.54.133.146   1      3037      ❌     Tzulo         us-phx-wg-105   
  🇺🇸    USA              Ashburn, VA         10.124.2.22   185.156.46.130   10     3530      ❌     DataPacket    us-qas-wg-101   
  🇺🇸    USA              Ashburn, VA         10.124.2.23   185.156.46.143   10     3531      ❌     DataPacket    us-qas-wg-102   
  🇺🇸    USA              Ashburn, VA         10.124.2.24   185.156.46.156   10     3532      ❌     DataPacket    us-qas-wg-103   
+ 🇺🇸    USA              Raleigh, NC         10.124.0.10   198.54.130.82    1      3010      ❌     Tzulo         us-rag-wg-101   
+ 🇺🇸    USA              Raleigh, NC         10.124.0.12   198.54.130.98    1      3012      ❌     Tzulo         us-rag-wg-102   
+ 🇺🇸    USA              Raleigh, NC         10.124.0.22   198.54.130.114   1      3022      ❌     Tzulo         us-rag-wg-103   
+ 🇺🇸    USA              Raleigh, NC         10.124.0.24   198.54.130.130   1      3024      ❌     Tzulo         us-rag-wg-104   
  🇺🇸    USA              Seattle, WA         10.124.1.229  138.199.43.91    10     3483      ❌     DataPacket    us-sea-wg-001   
  🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    10     3482      ❌     DataPacket    us-sea-wg-002   
  🇺🇸    USA              Seattle, WA         10.124.1.227  138.199.43.65    10     3481      ❌     DataPacket    us-sea-wg-003   
+ 🇺🇸    USA              Seattle, WA         10.124.0.1    198.54.131.82    1      3001      ❌     Tzulo         us-sea-wg-101   
+ 🇺🇸    USA              Seattle, WA         10.124.0.3    198.54.131.98    1      3003      ❌     Tzulo         us-sea-wg-102   
+ 🇺🇸    USA              Seattle, WA         10.124.0.5    198.54.131.114   1      3005      ❌     Tzulo         us-sea-wg-103   
+ 🇺🇸    USA              Seattle, WA         10.124.0.7    198.54.131.130   1      3007      ❌     Tzulo         us-sea-wg-104   
+ 🇺🇸    USA              Seattle, WA         10.124.0.8    198.54.131.146   1      3008      ❌     Tzulo         us-sea-wg-105   
+ 🇺🇸    USA              Seattle, WA         10.124.0.9    198.54.131.162   1      3009      ❌     Tzulo         us-sea-wg-106   
  🇺🇸    USA              Seattle, WA         10.124.0.98   199.229.250.52   1      3098      ❌     100TB         us-sea-wg-201   
  🇺🇸    USA              Seattle, WA         10.124.0.101  199.229.250.53   1      3101      ❌     100TB         us-sea-wg-202   
  🇺🇸    USA              Seattle, WA         10.124.0.103  199.229.250.54   1      3103      ❌     100TB         us-sea-wg-203   
