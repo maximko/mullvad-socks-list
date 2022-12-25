@@ -1,5 +1,5 @@
-Date: 2022-12-25 02-03-30 UTC
-Total active proxies: 538
+Date: 2022-12-25 06-46-56 UTC
+Total active proxies: 536
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
  🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
@@ -65,8 +65,6 @@ Total active proxies: 538
  🇨🇭    Switzerland      Zurich              10.124.1.132  91.193.4.178     1      3386      ❌     M247          ch16-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.1.133  91.193.4.194     1      3387      ❌     M247          ch17-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.0.25   31.7.59.250      1      3025      ❌     PrivateLayer  ch2-wireguard   
- 🇨🇭    Switzerland      Zurich              10.124.2.6    146.70.126.162   10     3514      ❌     M247          ch30-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.2.7    146.70.126.194   10     3515      ❌     M247          ch31-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.2.8    146.70.126.226   10     3516      ❌     M247          ch32-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.2.9    146.70.134.2     10     3517      ❌     M247          ch33-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.2.10   146.70.134.34    10     3518      ❌     M247          ch34-wireguard  
@@ -81,6 +79,8 @@ Total active proxies: 538
  🇨🇭    Switzerland      Zurich              10.124.1.215  138.199.6.220    10     3469      ❌     DataPacket    ch-zrh-wg-403   
  🇨🇭    Switzerland      Zurich              10.124.1.216  138.199.6.233    10     3470      ❌     DataPacket    ch-zrh-wg-404   
  🇨🇭    Switzerland      Zurich              10.124.2.12   146.70.134.98    10     3520      ❌     M247          ch-zrh-wg-501   
+ 🇨🇭    Switzerland      Zurich              10.124.2.6    146.70.126.162   10     3514      ❌     M247          ch-zrh-wg-502   
+ 🇨🇭    Switzerland      Zurich              10.124.2.7    146.70.126.194   10     3515      ❌     M247          ch-zrh-wg-503   
  🇨🇿    Czech Republic   Prague              10.124.0.33   185.242.6.18     1      3033      ❌     M247          cz1-wireguard   
  🇨🇿    Czech Republic   Prague              10.124.0.73   193.9.112.114    1      3073      ❌     M247          cz2-wireguard   
  🇨🇿    Czech Republic   Prague              10.124.0.89   185.242.6.194    1      3089      ❌     M247          cz3-wireguard   
@@ -97,8 +97,6 @@ Total active proxies: 538
  🇩🇪    Germany          Frankfurt           10.124.1.53   193.27.14.114    1      3307      ❌     M247          de15-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.54   193.27.14.130    1      3308      ❌     M247          de16-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.55   193.27.14.146    1      3309      ❌     M247          de17-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   10     3492      ❌     M247          de30-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   10     3493      ❌     M247          de31-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.240  146.70.107.194   10     3494      ❌     M247          de32-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     10     3495      ❌     M247          de33-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    10     3496      ❌     M247          de34-wireguard  
