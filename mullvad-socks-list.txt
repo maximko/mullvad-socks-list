@@ -1,4 +1,4 @@
-Date: 2022-12-27 12-59-28 UTC
+Date: 2022-12-27 18-46-54 UTC
 Total active proxies: 507
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
@@ -173,12 +173,12 @@ Total active proxies: 507
  🇮🇱    Israel           Tel Aviv            10.124.2.26   169.150.227.222  10     3534      ❌     DataPacket    il-tlv-wg-103   
  🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       1      3375      ❌     M247          it4-wireguard   
  🇮🇹    Italy            Milan               10.124.1.122  91.193.5.18      1      3376      ❌     M247          it5-wireguard   
- 🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      1      3377      ❌     M247          it6-wireguard   
- 🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    1      3378      ❌     M247          it7-wireguard   
  🇮🇹    Italy            Milan               10.124.1.206  178.249.211.66   10     3460      ❌     DataPacket    it-mil-wg-001   
  🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   10     3461      ❌     DataPacket    it-mil-wg-002   
  🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   10     3462      ❌     DataPacket    it-mil-wg-003   
+ 🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      1      3377      ❌     M247          it-mil-wg-104   
  🇮🇹    Italy            Milan               10.124.1.125  37.120.201.114   1      3379      ❌     M247          it-mil-wg-105   
+ 🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    1      3378      ❌     M247          it-mil-wg-106   
  🇯🇵    Japan            Tokyo               10.124.1.112  91.193.7.34      1      3366      ❌     M247          jp10-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      1      3367      ❌     M247          jp11-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      1      3368      ❌     M247          jp12-wireguard  
