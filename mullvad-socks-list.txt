@@ -1,12 +1,6 @@
-Date: 2022-12-27 01-58-35 UTC
-Total active proxies: 547
+Date: 2022-12-27 06-46-48 UTC
+Total active proxies: 507
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
- 🇦🇹    Austria          Vienna              10.124.1.57   86.107.21.50     1      3311      ❌     M247          at4-wireguard   
- 🇦🇹    Austria          Vienna              10.124.1.58   86.107.21.34     1      3312      ❌     M247          at5-wireguard   
- 🇦🇹    Austria          Vienna              10.124.1.59   86.107.21.18     1      3313      ❌     M247          at6-wireguard   
- 🇦🇹    Austria          Vienna              10.124.1.60   86.107.21.2      1      3314      ❌     M247          at7-wireguard   
- 🇦🇹    Austria          Vienna              10.124.1.61   86.107.21.130    1      3315      ❌     M247          at8-wireguard   
- 🇦🇹    Austria          Vienna              10.124.1.62   86.107.21.114    1      3316      ❌     M247          at9-wireguard   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
  🇦🇹    Austria          Vienna              10.124.2.37   146.70.116.162   10     3545      ❌     M247          at-vie-wg-003   
@@ -21,10 +15,6 @@ Total active proxies: 547
  🇦🇺    Australia        Melbourne           10.124.0.102  103.231.88.18    1      3102      ❌     Intergrid     au4-wireguard   
  🇦🇺    Australia        Sydney              10.124.1.134  89.44.10.66      1      3388      ❌     M247          au8-wireguard   
  🇦🇺    Australia        Sydney              10.124.1.135  89.44.10.82      1      3389      ❌     M247          au9-wireguard   
- 🇧🇪    Belgium          Brussels            10.124.0.35   193.9.114.2      1      3035      ❌     M247          be1-wireguard   
- 🇧🇪    Belgium          Brussels            10.124.0.78   5.253.205.162    1      3078      ❌     M247          be2-wireguard   
- 🇧🇪    Belgium          Brussels            10.124.0.166  37.120.218.154   1      3166      ❌     M247          be3-wireguard   
- 🇧🇪    Belgium          Brussels            10.124.0.167  37.120.218.162   1      3167      ❌     M247          be4-wireguard   
  🇧🇪    Belgium          Brussels            10.124.2.42   91.90.123.2      10     3550      ❌     M247          be-bru-wg-101   
  🇧🇪    Belgium          Brussels            10.124.2.43   194.110.115.34   10     3551      ❌     M247          be-bru-wg-102   
  🇧🇪    Belgium          Brussels            10.124.2.44   194.110.115.2    10     3552      ❌     M247          be-bru-wg-103   
@@ -56,14 +46,6 @@ Total active proxies: 547
  🇨🇦    Canada           Montreal            10.124.1.84   37.120.205.194   1      3338      ❌     M247          ca-mtr-wg-110   
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca-tor-wg-001   
  🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
- 🇨🇭    Switzerland      Zurich              10.124.1.126  91.193.4.82      1      3380      ❌     M247          ch10-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.127  91.193.4.98      1      3381      ❌     M247          ch11-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.128  91.193.4.114     1      3382      ❌     M247          ch12-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.129  91.193.4.130     1      3383      ❌     M247          ch13-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.130  91.193.4.146     1      3384      ❌     M247          ch14-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.131  91.193.4.162     1      3385      ❌     M247          ch15-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.132  91.193.4.178     1      3386      ❌     M247          ch16-wireguard  
- 🇨🇭    Switzerland      Zurich              10.124.1.133  91.193.4.194     1      3387      ❌     M247          ch17-wireguard  
  🇨🇭    Switzerland      Zurich              10.124.0.25   31.7.59.250      1      3025      ❌     PrivateLayer  ch2-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.0.121  193.32.127.66    10     3121      ✔️      31173         ch5-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.0.122  193.32.127.67    10     3122      ✔️      31173         ch6-wireguard   
@@ -90,11 +72,6 @@ Total active proxies: 547
  🇨🇿    Czech Republic   Prague              10.124.2.58   178.249.209.175  10     3566      ❌     DataPacket    cz-prg-wg-202   
  🇩🇪    Germany          Frankfurt           10.124.1.26   185.209.196.69   20     3280      ✔️      31173         de10-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.27   185.209.196.70   20     3281      ✔️      31173         de11-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.50   193.27.14.66     1      3304      ❌     M247          de12-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.52   193.27.14.98     1      3306      ❌     M247          de14-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.53   193.27.14.114    1      3307      ❌     M247          de15-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.54   193.27.14.130    1      3308      ❌     M247          de16-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.55   193.27.14.146    1      3309      ❌     M247          de17-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.240  146.70.107.194   10     3494      ❌     M247          de32-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     10     3495      ❌     M247          de33-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    10     3496      ❌     M247          de34-wireguard  
@@ -124,10 +101,6 @@ Total active proxies: 547
  🇪🇪    Estonia          Tallinn             10.124.0.138  194.127.167.67   10     3138      ❌     xtom          ee-tll-wg-001   
  🇪🇪    Estonia          Tallinn             10.124.0.139  194.127.167.87   10     3139      ❌     xtom          ee-tll-wg-002   
  🇪🇪    Estonia          Tallinn             10.124.0.140  194.127.167.107  10     3140      ❌     xtom          ee-tll-wg-003   
- 🇪🇸    Spain            Madrid              10.124.0.23   194.99.104.10    1      3023      ❌     M247          es1-wireguard   
- 🇪🇸    Spain            Madrid              10.124.0.74   37.120.199.34    1      3074      ❌     M247          es2-wireguard   
- 🇪🇸    Spain            Madrid              10.124.0.155  45.152.183.50    1      3155      ❌     M247          es4-wireguard   
- 🇪🇸    Spain            Madrid              10.124.0.156  45.152.183.58    1      3156      ❌     M247          es5-wireguard   
  🇪🇸    Spain            Madrid              10.124.1.223  45.134.213.194   10     3477      ❌     DataPacket    es-mad-wg-101   
  🇪🇸    Spain            Madrid              10.124.1.222  45.134.213.207   10     3476      ❌     DataPacket    es-mad-wg-102   
  🇪🇸    Spain            Madrid              10.124.2.28   146.70.128.194   10     3536      ❌     M247          es-mad-wg-201   
@@ -156,10 +129,6 @@ Total active proxies: 547
  🇬🇧    UK               London              10.124.1.18   185.195.232.68   10     3272      ✔️      31173         gb13-wireguard  
  🇬🇧    UK               London              10.124.1.19   185.195.232.69   10     3273      ✔️      31173         gb14-wireguard  
  🇬🇧    UK               London              10.124.1.28   185.195.232.70   10     3282      ✔️      31173         gb15-wireguard  
- 🇬🇧    UK               London              10.124.1.87   37.120.198.146   1      3341      ❌     M247          gb17-wireguard  
- 🇬🇧    UK               London              10.124.1.88   89.238.176.162   1      3342      ❌     M247          gb18-wireguard  
- 🇬🇧    UK               London              10.124.1.89   89.238.176.178   1      3343      ❌     M247          gb19-wireguard  
- 🇬🇧    UK               London              10.124.1.90   217.138.254.98   1      3344      ❌     M247          gb20-wireguard  
  🇬🇧    UK               Manchester          10.124.1.163  185.206.227.130  1      3417      ❌     M247          gb22-wireguard  
  🇬🇧    UK               Manchester          10.124.1.165  194.37.96.98     1      3419      ❌     M247          gb24-wireguard  
  🇬🇧    UK               Manchester          10.124.1.166  81.92.205.18     1      3420      ❌     M247          gb25-wireguard  
@@ -251,10 +220,6 @@ Total active proxies: 547
  🇳🇴    Norway           Stavanger           10.124.2.41   194.127.199.93   10     3549      ✔️      Blix          no-svg-wg-004   
  🇳🇿    New Zealand      Auckland            10.124.0.106  103.108.94.34    1      3106      ❌     Intergrid     nz1-wireguard   
  🇳🇿    New Zealand      Auckland            10.124.0.107  103.231.91.226   1      3107      ❌     Intergrid     nz2-wireguard   
- 🇵🇱    Poland           Warsaw              10.124.0.16   185.244.214.58   1      3016      ❌     M247          pl1-wireguard   
- 🇵🇱    Poland           Warsaw              10.124.0.87   37.120.156.242   1      3087      ❌     M247          pl2-wireguard   
- 🇵🇱    Poland           Warsaw              10.124.0.90   5.253.206.210    1      3090      ❌     M247          pl3-wireguard   
- 🇵🇱    Poland           Warsaw              10.124.0.159  37.120.211.210   1      3159      ❌     M247          pl4-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    10     3473      ❌     DataPacket    pl-waw-wg-101   
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    10     3474      ❌     DataPacket    pl-waw-wg-102   
  🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    10     3475      ❌     DataPacket    pl-waw-wg-103   
@@ -262,11 +227,6 @@ Total active proxies: 547
  🇵🇱    Poland           Warsaw              10.124.2.46   146.70.144.34    10     3554      ❌     M247          pl-waw-wg-202   
  🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      1      3086      ❌     ptisp         pt1-wireguard   
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      1      3088      ❌     ptisp         pt-lis-wg-102   
- 🇷🇴    Romania          Bucharest           10.124.1.45   185.45.15.194    1      3299      ❌     M247          ro4-wireguard   
- 🇷🇴    Romania          Bucharest           10.124.1.46   185.45.15.210    1      3300      ❌     M247          ro5-wireguard   
- 🇷🇴    Romania          Bucharest           10.124.1.47   185.123.143.194  1      3301      ❌     M247          ro6-wireguard   
- 🇷🇴    Romania          Bucharest           10.124.1.48   185.123.143.210  1      3302      ❌     M247          ro7-wireguard   
- 🇷🇴    Romania          Bucharest           10.124.1.49   185.120.144.98   1      3303      ❌     M247          ro8-wireguard   
  🇷🇴    Romania          Bucharest           10.124.2.27   146.70.124.130   10     3535      ❌     M247          ro-buh-wg-001   
  🇷🇴    Romania          Bucharest           10.124.0.93   146.70.124.194   10     3093      ❌     M247          ro-buh-wg-002   
  🇷🇸    Serbia           Belgrade            10.124.1.66   89.38.224.82     1      3320      ❌     M247          rs4-wireguard   
