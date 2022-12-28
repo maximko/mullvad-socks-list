@@ -1,5 +1,5 @@
-Date: 2022-12-28 01-59-22 UTC
-Total active proxies: 507
+Date: 2022-12-28 06-46-46 UTC
+Total active proxies: 506
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -157,7 +157,6 @@ Total active proxies: 507
  🇬🇧    UK               Manchester          10.124.2.16   146.70.132.226   10     3524      ❌     M247          gb-mnc-wg-005   
  🇬🇧    UK               Manchester          10.124.2.17   146.70.133.2     10     3525      ❌     M247          gb-mnc-wg-006   
  🇬🇧    UK               Manchester          10.124.2.18   146.70.133.34    10     3526      ❌     M247          gb-mnc-wg-007   
- 🇭🇰    Hong Kong        Hong Kong           10.124.0.13   209.58.188.180   1      3013      ❌     Leaseweb      hk1-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.22   89.45.6.114      1      3276      ❌     M247          hk4-wireguard   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.20   89.45.6.82       1      3274      ❌     M247          hk-hkg-wg-101   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.21   89.45.6.98       1      3275      ❌     M247          hk-hkg-wg-102   
