@@ -1,4 +1,4 @@
-Date: 2022-12-29 06-46-57 UTC
+Date: 2022-12-29 12-59-22 UTC
 Total active proxies: 496
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
@@ -331,11 +331,6 @@ Total active proxies: 496
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo         us277-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo         us278-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.15   68.235.43.82     2      3015      ❌     Tzulo         us4-wireguard   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.194  89.46.114.236    1      3194      ❌     M247          us52-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.195  89.45.90.2       1      3195      ❌     M247          us53-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.196  89.45.90.15      1      3196      ❌     M247          us54-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.197  89.45.90.28      1      3197      ❌     M247          us55-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.198  89.45.90.41      1      3198      ❌     M247          us56-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.199  89.45.90.54      1      3199      ❌     M247          us57-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.200  89.45.90.67      1      3200      ❌     M247          us58-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.201  89.45.90.80      1      3201      ❌     M247          us59-wireguard  
@@ -350,11 +345,6 @@ Total active proxies: 496
  🇺🇸    USA              Los Angeles, CA     10.124.0.211  89.45.90.210     1      3211      ❌     M247          us69-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.212  89.45.90.223     1      3212      ❌     M247          us70-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.213  89.45.90.236     1      3213      ❌     M247          us71-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.224  86.106.143.15    1      3224      ❌     M247          us82-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.225  86.106.143.28    1      3225      ❌     M247          us83-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.226  86.106.143.41    1      3226      ❌     M247          us84-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.227  86.106.143.54    1      3227      ❌     M247          us85-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.228  86.106.143.67    1      3228      ❌     M247          us86-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.229  86.106.143.80    1      3229      ❌     M247          us87-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.230  86.106.143.93    1      3230      ❌     M247          us88-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.231  86.106.143.106   1      3231      ❌     M247          us89-wireguard  
@@ -436,6 +426,16 @@ Total active proxies: 496
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket    us-mia-wg-003   
  🇺🇸    USA              Miami, FL           10.124.0.157  173.44.63.66     10     3157      ❌     Quadranet     us-mia-wg-301   
  🇺🇸    USA              Miami, FL           10.124.0.153  104.129.41.194   10     3153      ❌     Quadranet     us-mia-wg-302   
+ 🇺🇸    USA              New York, NY        10.124.0.214  89.46.62.145     1      3214      ❌     M247          us-nyc-wg-201   
+ 🇺🇸    USA              New York, NY        10.124.0.215  89.46.62.158     1      3215      ❌     M247          us-nyc-wg-202   
+ 🇺🇸    USA              New York, NY        10.124.0.216  89.46.62.171     1      3216      ❌     M247          us-nyc-wg-203   
+ 🇺🇸    USA              New York, NY        10.124.0.217  89.46.62.184     1      3217      ❌     M247          us-nyc-wg-204   
+ 🇺🇸    USA              New York, NY        10.124.0.218  89.46.62.197     1      3218      ❌     M247          us-nyc-wg-205   
+ 🇺🇸    USA              New York, NY        10.124.0.219  89.46.62.210     1      3219      ❌     M247          us-nyc-wg-206   
+ 🇺🇸    USA              New York, NY        10.124.0.220  89.46.62.223     1      3220      ❌     M247          us-nyc-wg-207   
+ 🇺🇸    USA              New York, NY        10.124.0.221  89.46.62.236     1      3221      ❌     M247          us-nyc-wg-208   
+ 🇺🇸    USA              New York, NY        10.124.0.222  83.143.246.98    1      3222      ❌     M247          us-nyc-wg-209   
+ 🇺🇸    USA              New York, NY        10.124.0.223  86.106.143.2     1      3223      ❌     M247          us-nyc-wg-210   
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us-nyc-wg-301   
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us-nyc-wg-303   
