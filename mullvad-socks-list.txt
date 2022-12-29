@@ -1,5 +1,5 @@
-Date: 2022-12-29 02-01-46 UTC
-Total active proxies: 506
+Date: 2022-12-29 06-46-57 UTC
+Total active proxies: 496
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -350,16 +350,6 @@ Total active proxies: 506
  🇺🇸    USA              Los Angeles, CA     10.124.0.211  89.45.90.210     1      3211      ❌     M247          us69-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.212  89.45.90.223     1      3212      ❌     M247          us70-wireguard  
  🇺🇸    USA              Los Angeles, CA     10.124.0.213  89.45.90.236     1      3213      ❌     M247          us71-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.214  89.46.62.145     1      3214      ❌     M247          us72-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.215  89.46.62.158     1      3215      ❌     M247          us73-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.216  89.46.62.171     1      3216      ❌     M247          us74-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.217  89.46.62.184     1      3217      ❌     M247          us75-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.218  89.46.62.197     1      3218      ❌     M247          us76-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.219  89.46.62.210     1      3219      ❌     M247          us77-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.220  89.46.62.223     1      3220      ❌     M247          us78-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.221  89.46.62.236     1      3221      ❌     M247          us79-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.222  83.143.246.98    1      3222      ❌     M247          us80-wireguard  
- 🇺🇸    USA              New York, NY        10.124.0.223  86.106.143.2     1      3223      ❌     M247          us81-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.224  86.106.143.15    1      3224      ❌     M247          us82-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.225  86.106.143.28    1      3225      ❌     M247          us83-wireguard  
  🇺🇸    USA              New York, NY        10.124.0.226  86.106.143.41    1      3226      ❌     M247          us84-wireguard  
