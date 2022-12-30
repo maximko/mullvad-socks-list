@@ -1,5 +1,5 @@
-Date: 2022-12-30 06-46-51 UTC
-Total active proxies: 458
+Date: 2022-12-30 12-58-56 UTC
+Total active proxies: 483
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -42,6 +42,8 @@ Total active proxies: 458
  🇨🇦    Canada           Montreal            10.124.1.82   89.36.78.2       1      3336      ❌     M247          ca-mtr-wg-108   
  🇨🇦    Canada           Montreal            10.124.1.83   37.120.205.98    1      3337      ❌     M247          ca-mtr-wg-109   
  🇨🇦    Canada           Montreal            10.124.1.84   37.120.205.194   1      3338      ❌     M247          ca-mtr-wg-110   
+ 🇨🇦    Canada           Montreal            10.124.1.85   37.120.205.210   1      3339      ❌     M247          ca-mtr-wg-111   
+ 🇨🇦    Canada           Montreal            10.124.1.56   91.193.6.2       1      3310      ❌     M247          ca-mtr-wg-112   
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca-tor-wg-001   
  🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
  🇨🇭    Switzerland      Zurich              10.124.0.25   31.7.59.250      1      3025      ❌     PrivateLayer  ch2-wireguard   
@@ -59,11 +61,6 @@ Total active proxies: 458
  🇨🇭    Switzerland      Zurich              10.124.2.7    146.70.126.194   10     3515      ❌     M247          ch-zrh-wg-503   
  🇨🇭    Switzerland      Zurich              10.124.2.10   146.70.134.34    10     3518      ❌     M247          ch-zrh-wg-506   
  🇨🇭    Switzerland      Zurich              10.124.2.11   146.70.134.66    10     3519      ❌     M247          ch-zrh-wg-507   
- 🇨🇿    Czech Republic   Prague              10.124.0.33   185.242.6.18     1      3033      ❌     M247          cz1-wireguard   
- 🇨🇿    Czech Republic   Prague              10.124.0.73   193.9.112.114    1      3073      ❌     M247          cz2-wireguard   
- 🇨🇿    Czech Republic   Prague              10.124.0.89   185.242.6.194    1      3089      ❌     M247          cz3-wireguard   
- 🇨🇿    Czech Republic   Prague              10.124.0.160  217.138.199.90   1      3160      ❌     M247          cz4-wireguard   
- 🇨🇿    Czech Republic   Prague              10.124.0.161  217.138.199.98   1      3161      ❌     M247          cz5-wireguard   
  🇨🇿    Czech Republic   Prague              10.124.2.33   146.70.129.98    10     3541      ❌     M247          cz-prg-wg-101   
  🇨🇿    Czech Republic   Prague              10.124.2.34   146.70.129.130   10     3542      ❌     M247          cz-prg-wg-102   
  🇨🇿    Czech Republic   Prague              10.124.2.57   178.249.209.162  10     3565      ❌     DataPacket    cz-prg-wg-201   
@@ -395,6 +392,34 @@ Total active proxies: 458
  🇺🇸    USA              New York, NY        10.124.0.226  86.106.143.41    1      3226      ❌     M247          us-nyc-wg-213   
  🇺🇸    USA              New York, NY        10.124.0.227  86.106.143.54    1      3227      ❌     M247          us-nyc-wg-214   
  🇺🇸    USA              New York, NY        10.124.0.228  86.106.143.67    1      3228      ❌     M247          us-nyc-wg-215   
+ 🇺🇸    USA              New York, NY        10.124.0.229  86.106.143.80    1      3229      ❌     M247          us-nyc-wg-216   
+ 🇺🇸    USA              New York, NY        10.124.0.230  86.106.143.93    1      3230      ❌     M247          us-nyc-wg-217   
+ 🇺🇸    USA              New York, NY        10.124.0.231  86.106.143.106   1      3231      ❌     M247          us-nyc-wg-218   
+ 🇺🇸    USA              New York, NY        10.124.0.232  86.106.143.119   1      3232      ❌     M247          us-nyc-wg-219   
+ 🇺🇸    USA              New York, NY        10.124.0.233  86.106.143.132   1      3233      ❌     M247          us-nyc-wg-220   
+ 🇺🇸    USA              New York, NY        10.124.0.234  86.106.143.145   1      3234      ❌     M247          us-nyc-wg-221   
+ 🇺🇸    USA              New York, NY        10.124.0.235  86.106.143.158   1      3235      ❌     M247          us-nyc-wg-222   
+ 🇺🇸    USA              New York, NY        10.124.0.236  86.106.143.171   1      3236      ❌     M247          us-nyc-wg-223   
+ 🇺🇸    USA              New York, NY        10.124.0.237  86.106.143.184   1      3237      ❌     M247          us-nyc-wg-224   
+ 🇺🇸    USA              New York, NY        10.124.0.238  86.106.143.197   1      3238      ❌     M247          us-nyc-wg-225   
+ 🇺🇸    USA              New York, NY        10.124.0.239  86.106.143.210   1      3239      ❌     M247          us-nyc-wg-226   
+ 🇺🇸    USA              New York, NY        10.124.0.240  86.106.143.223   1      3240      ❌     M247          us-nyc-wg-227   
+ 🇺🇸    USA              New York, NY        10.124.0.241  86.106.143.236   1      3241      ❌     M247          us-nyc-wg-228   
+ 🇺🇸    USA              New York, NY        10.124.0.243  86.106.121.158   1      3243      ❌     M247          us-nyc-wg-229   
+ 🇺🇸    USA              New York, NY        10.124.0.244  86.106.121.171   1      3244      ❌     M247          us-nyc-wg-230   
+ 🇺🇸    USA              New York, NY        10.124.0.245  86.106.121.184   1      3245      ❌     M247          us-nyc-wg-231   
+ 🇺🇸    USA              New York, NY        10.124.0.246  86.106.121.197   1      3246      ❌     M247          us-nyc-wg-232   
+ 🇺🇸    USA              New York, NY        10.124.0.247  86.106.121.210   1      3247      ❌     M247          us-nyc-wg-233   
+ 🇺🇸    USA              New York, NY        10.124.0.248  86.106.121.223   1      3248      ❌     M247          us-nyc-wg-234   
+ 🇺🇸    USA              New York, NY        10.124.0.249  86.106.121.236   1      3249      ❌     M247          us-nyc-wg-235   
+ 🇺🇸    USA              New York, NY        10.124.0.250  86.106.121.249   1      3250      ❌     M247          us-nyc-wg-236   
+ 🇺🇸    USA              New York, NY        10.124.0.251  89.45.224.2      1      3251      ❌     M247          us-nyc-wg-237   
+ 🇺🇸    USA              New York, NY        10.124.0.252  89.45.224.15     1      3252      ❌     M247          us-nyc-wg-238   
+ 🇺🇸    USA              New York, NY        10.124.0.253  89.45.224.28     1      3253      ❌     M247          us-nyc-wg-239   
+ 🇺🇸    USA              New York, NY        10.124.0.254  89.45.224.41     1      3254      ❌     M247          us-nyc-wg-240   
+ 🇺🇸    USA              New York, NY        10.124.1.3    89.45.224.80     1      3257      ❌     M247          us-nyc-wg-243   
+ 🇺🇸    USA              New York, NY        10.124.1.4    89.45.224.93     1      3258      ❌     M247          us-nyc-wg-244   
+ 🇺🇸    USA              New York, NY        10.124.1.5    89.45.224.106    1      3259      ❌     M247          us-nyc-wg-245   
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us-nyc-wg-301   
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us-nyc-wg-303   
