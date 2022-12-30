@@ -1,5 +1,5 @@
-Date: 2022-12-30 02-01-52 UTC
-Total active proxies: 455
+Date: 2022-12-30 06-46-51 UTC
+Total active proxies: 458
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -454,5 +454,8 @@ Total active proxies: 455
  🇺🇸    USA              Salt Lake City, UT  10.124.1.42   69.4.234.143     1      3296      ❌     100TB         us-slc-wg-107   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.43   69.4.234.144     1      3297      ❌     100TB         us-slc-wg-108   
  🇺🇸    USA              Salt Lake City, UT  10.124.1.44   69.4.234.145     1      3298      ❌     100TB         us-slc-wg-109   
+ 🇺🇸    USA              Secaucus, NJ        10.124.0.242  209.54.101.130   10     3242      ❌     Quadranet     us-uyk-wg-101   
+ 🇺🇸    USA              Secaucus, NJ        10.124.1.29   104.223.118.34   10     3283      ❌     Quadranet     us-uyk-wg-102   
+ 🇺🇸    USA              Secaucus, NJ        10.124.1.176  173.205.85.34    10     3430      ❌     Quadranet     us-uyk-wg-103   
  🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    10     3567      ❌     DataPacket    za-jnb-wg-001   
  🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    10     3568      ❌     DataPacket    za-jnb-wg-002   
