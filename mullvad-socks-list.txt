@@ -1,5 +1,5 @@
-Date: 2023-01-06 06-46-57 UTC
-Total active proxies: 483
+Date: 2023-01-06 13-00-44 UTC
+Total active proxies: 478
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -454,11 +454,6 @@ Total active proxies: 483
  🇺🇸    USA              Seattle, WA         10.124.0.130  199.229.250.59   1      3130      ❌     100TB         us-sea-wg-208   
  🇺🇸    USA              Seattle, WA         10.124.0.164  104.129.57.66    10     3164      ❌     Quadranet     us-sea-wg-301   
  🇺🇸    USA              Seattle, WA         10.124.0.158  173.205.93.2     10     3158      ❌     Quadranet     us-sea-wg-302   
- 🇺🇸    USA              San Jose, CA        10.124.0.69   198.54.134.82    1      3069      ❌     Tzulo         us-sjc-wg-001   
- 🇺🇸    USA              San Jose, CA        10.124.0.70   198.54.134.98    1      3070      ❌     Tzulo         us-sjc-wg-002   
- 🇺🇸    USA              San Jose, CA        10.124.0.71   198.54.134.114   1      3071      ❌     Tzulo         us-sjc-wg-003   
- 🇺🇸    USA              San Jose, CA        10.124.0.72   198.54.134.130   1      3072      ❌     Tzulo         us-sjc-wg-004   
- 🇺🇸    USA              San Jose, CA        10.124.0.75   198.54.134.146   1      3075      ❌     Tzulo         us-sjc-wg-005   
  🇺🇸    USA              San Jose, CA        10.124.0.96   66.115.165.211   1      3096      ❌     100TB         us-sjc-wg-101   
  🇺🇸    USA              San Jose, CA        10.124.0.97   66.115.165.212   1      3097      ❌     100TB         us-sjc-wg-102   
  🇺🇸    USA              San Jose, CA        10.124.0.131  66.115.165.213   1      3131      ❌     100TB         us-sjc-wg-103   
