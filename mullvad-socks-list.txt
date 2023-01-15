@@ -1,5 +1,5 @@
-Date: 2023-01-15 06-46-47 UTC
-Total active proxies: 475
+Date: 2023-01-15 12-58-21 UTC
+Total active proxies: 472
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -345,9 +345,6 @@ Total active proxies: 475
  🇺🇸    USA              Denver, CO          10.124.0.178  198.54.128.34    1      3178      ❌     Tzulo         us-den-wg-004   
  🇺🇸    USA              Denver, CO          10.124.0.44   198.54.128.90    1      3044      ❌     Tzulo         us-den-wg-006   
  🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    1      3027      ❌     Tzulo         us-den-wg-007   
- 🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket    us-den-wg-101   
- 🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket    us-den-wg-102   
- 🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     10     3452      ❌     DataPacket    us-den-wg-103   
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    10     3459      ❌     DataPacket    us-hou-wg-001   
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket    us-hou-wg-002   
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket    us-hou-wg-003   
