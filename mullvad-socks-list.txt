@@ -1,5 +1,5 @@
-Date: 2023-01-17 02-04-10 UTC
-Total active proxies: 474
+Date: 2023-01-17 06-46-50 UTC
+Total active proxies: 476
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -172,6 +172,8 @@ Total active proxies: 474
  🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   10     3462      ❌     DataPacket    it-mil-wg-003   
  🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      1      3377      ❌     M247          it-mil-wg-104   
  🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    1      3378      ❌     M247          it-mil-wg-106   
+ 🇮🇹    Italy            Rome                10.124.0.16   152.89.170.112   1      3016      ❌     c1vhosting    it-rom-wg-001   
+ 🇮🇹    Italy            Rome                10.124.0.23   152.89.170.128   1      3023      ❌     c1vhosting    it-rom-wg-002   
  🇯🇵    Japan            Tokyo               10.124.1.112  91.193.7.34      1      3366      ❌     M247          jp10-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      1      3367      ❌     M247          jp11-wireguard  
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      1      3368      ❌     M247          jp12-wireguard  
