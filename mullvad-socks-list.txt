@@ -1,5 +1,5 @@
-Date: 2023-01-17 06-46-50 UTC
-Total active proxies: 476
+Date: 2023-01-17 13-02-33 UTC
+Total active proxies: 479
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -157,6 +157,8 @@ Total active proxies: 476
  🇭🇰    Hong Kong        Hong Kong           10.124.1.21   89.45.6.98       1      3275      ❌     M247          hk-hkg-wg-102   
  🇭🇰    Hong Kong        Hong Kong           10.124.1.237  103.125.233.18   10     3491      ❌     xtom          hk-hkg-wg-201   
  🇭🇰    Hong Kong        Hong Kong           10.124.0.192  103.125.233.3    10     3192      ❌     xtom          hk-hkg-wg-202   
+ 🇭🇷    Croatia          Zagreb              10.124.0.35   154.47.29.2      10     3035      ❌     DataPacket    hr-zag-wg-001   
+ 🇭🇷    Croatia          Zagreb              10.124.0.74   154.47.29.15     10     3074      ❌     DataPacket    hr-zag-wg-002   
  🇭🇺    Hungary          Budapest            10.124.1.67   86.106.74.66     1      3321      ❌     M247          hu3-wireguard   
  🇭🇺    Hungary          Budapest            10.124.1.68   86.106.74.82     1      3322      ❌     M247          hu4-wireguard   
  🇭🇺    Hungary          Budapest            10.124.1.69   86.106.74.98     1      3323      ❌     M247          hu-bud-wg-003   
@@ -477,3 +479,6 @@ Total active proxies: 476
  🇺🇸    USA              Secaucus, NJ        10.124.1.176  173.205.85.34    10     3430      ❌     Quadranet     us-uyk-wg-103   
  🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    10     3567      ❌     DataPacket    za-jnb-wg-001   
  🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    10     3568      ❌     DataPacket    za-jnb-wg-002   
+Failed to resovle:
+ flag  country  city          socks                                    ip             speed  multihop  owned  provider  hostname      
+ 🇺🇸    USA      San Jose, CA  us-sjc-wg-socks5-001.relays.mullvad.net  198.54.134.98  10     3078      ❌     Tzulo     us-sjc-wg-001 
