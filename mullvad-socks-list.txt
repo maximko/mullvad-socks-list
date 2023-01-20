@@ -1,5 +1,5 @@
-Date: 2023-01-20 06-46-49 UTC
-Total active proxies: 479
+Date: 2023-01-20 13-02-14 UTC
+Total active proxies: 481
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -46,6 +46,8 @@ Total active proxies: 479
  🇨🇦    Canada           Montreal            10.124.1.56   91.193.6.2       1      3310      ❌     M247          ca-mtr-wg-112   
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    10     3489      ❌     DataPacket    ca-tor-wg-001   
  🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   10     3490      ❌     DataPacket    ca-tor-wg-002   
+ 🇨🇦    Canada           Vancouver           10.124.0.13   38.240.226.36    10     3013      ❌     techfutures   ca-van-wg-201   
+ 🇨🇦    Canada           Vancouver           10.124.0.71   38.240.226.68    10     3071      ❌     techfutures   ca-van-wg-202   
  🇨🇭    Switzerland      Zurich              10.124.0.25   31.7.59.250      1      3025      ❌     PrivateLayer  ch2-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.0.121  193.32.127.66    10     3121      ✔️      31173         ch5-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.0.122  193.32.127.67    10     3122      ✔️      31173         ch6-wireguard   
