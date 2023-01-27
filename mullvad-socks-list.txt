@@ -1,5 +1,5 @@
-Date: 2023-01-27 06-46-53 UTC
-Total active proxies: 482
+Date: 2023-01-27 13-00-36 UTC
+Total active proxies: 481
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -13,7 +13,6 @@ Total active proxies: 482
  🇦🇺    Australia        Sydney              10.124.0.82   103.77.233.50    1      3082      ❌     Intergrid     au2-wireguard   
  🇦🇺    Australia        Melbourne           10.124.0.100  103.231.88.2     1      3100      ❌     Intergrid     au3-wireguard   
  🇦🇺    Australia        Melbourne           10.124.0.102  103.231.88.18    1      3102      ❌     Intergrid     au4-wireguard   
- 🇦🇺    Australia        Sydney              10.124.1.134  89.44.10.66      1      3388      ❌     M247          au8-wireguard   
  🇦🇺    Australia        Sydney              10.124.1.135  89.44.10.82      1      3389      ❌     M247          au9-wireguard   
  🇧🇪    Belgium          Brussels            10.124.2.42   91.90.123.2      10     3550      ❌     M247          be-bru-wg-101   
  🇧🇪    Belgium          Brussels            10.124.2.43   194.110.115.34   10     3551      ❌     M247          be-bru-wg-102   
