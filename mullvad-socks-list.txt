@@ -1,5 +1,5 @@
-Date: 2023-02-01 06-46-53 UTC
-Total active proxies: 482
+Date: 2023-02-01 13-03-08 UTC
+Total active proxies: 486
  flag  country          city                socks         ip               speed  multihop  owned  provider      hostname        
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247          at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   10     3544      ❌     M247          at-vie-wg-002   
@@ -8,7 +8,6 @@ Total active proxies: 482
  🇦🇺    Australia        Sydney              10.124.1.137  89.44.10.130     1      3391      ❌     M247          au11-wireguard  
  🇦🇺    Australia        Sydney              10.124.1.138  89.44.10.146     1      3392      ❌     M247          au12-wireguard  
  🇦🇺    Australia        Sydney              10.124.1.139  89.44.10.162     1      3393      ❌     M247          au13-wireguard  
- 🇦🇺    Australia        Sydney              10.124.1.140  89.44.10.178     1      3394      ❌     M247          au14-wireguard  
  🇦🇺    Australia        Sydney              10.124.0.14   43.245.162.234   1      3014      ❌     Intergrid     au1-wireguard   
  🇦🇺    Australia        Sydney              10.124.0.82   103.77.233.50    1      3082      ❌     Intergrid     au2-wireguard   
  🇦🇺    Australia        Melbourne           10.124.0.100  103.231.88.2     1      3100      ❌     Intergrid     au3-wireguard   
@@ -424,6 +423,11 @@ Total active proxies: 482
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    10     3444      ❌     DataPacket    us-nyc-wg-301   
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    10     3445      ❌     DataPacket    us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    10     3446      ❌     DataPacket    us-nyc-wg-303   
+ 🇺🇸    USA              New York, NY        10.124.0.72   146.70.165.2     10     3072      ❌     M247          us-nyc-wg-501   
+ 🇺🇸    USA              New York, NY        10.124.0.75   146.70.165.130   10     3075      ❌     M247          us-nyc-wg-502   
+ 🇺🇸    USA              New York, NY        10.124.0.76   146.70.165.194   10     3076      ❌     M247          us-nyc-wg-503   
+ 🇺🇸    USA              New York, NY        10.124.0.87   146.70.166.130   10     3087      ❌     M247          us-nyc-wg-504   
+ 🇺🇸    USA              New York, NY        10.124.0.90   146.70.166.194   10     3090      ❌     M247          us-nyc-wg-505   
  🇺🇸    USA              Phoenix, AZ         10.124.0.31   198.54.133.82    1      3031      ❌     Tzulo         us-phx-wg-101   
  🇺🇸    USA              Phoenix, AZ         10.124.0.32   198.54.133.98    1      3032      ❌     Tzulo         us-phx-wg-102   
  🇺🇸    USA              Phoenix, AZ         10.124.0.34   198.54.133.114   1      3034      ❌     Tzulo         us-phx-wg-103   
