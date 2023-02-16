@@ -1,5 +1,5 @@
-Date: 2023-02-16 13-03-45 UTC
-Total active proxies: 495
+Date: 2023-02-16 18-46-52 UTC
+Total active proxies: 499
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -377,6 +377,10 @@ Total active proxies: 495
  🇺🇸    USA              Los Angeles, CA     10.124.1.174  198.96.89.194    10     3428      ❌     Quadranet      us-lax-wg-301   
  🇺🇸    USA              Los Angeles, CA     10.124.0.162  204.152.216.98   10     3162      ❌     Quadranet      us-lax-wg-302   
  🇺🇸    USA              Los Angeles, CA     10.124.0.163  204.152.216.114  10     3163      ❌     Quadranet      us-lax-wg-303   
+ 🇺🇸    USA              Los Angeles, CA     10.124.1.48   146.70.173.2     10     3302      ❌     M247           us-lax-wg-401   
+ 🇺🇸    USA              Los Angeles, CA     10.124.1.49   146.70.173.66    10     3303      ❌     M247           us-lax-wg-402   
+ 🇺🇸    USA              Los Angeles, CA     10.124.1.50   146.70.173.130   10     3304      ❌     M247           us-lax-wg-403   
+ 🇺🇸    USA              Los Angeles, CA     10.124.1.52   146.70.172.2     10     3306      ❌     M247           us-lax-wg-405   
  🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   10     3458      ❌     DataPacket     us-mia-wg-001   
  🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   10     3454      ❌     DataPacket     us-mia-wg-002   
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   10     3453      ❌     DataPacket     us-mia-wg-003   
