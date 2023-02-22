@@ -1,5 +1,5 @@
-Date: 2023-02-22 06-47-38 UTC
-Total active proxies: 502
+Date: 2023-02-22 13-04-27 UTC
+Total active proxies: 495
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -362,13 +362,6 @@ Total active proxies: 502
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket     us-hou-wg-002   
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket     us-hou-wg-003   
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket     us-hou-wg-004   
- 🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247           us-lax-wg-001   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.194  89.46.114.236    1      3194      ❌     M247           us-lax-wg-002   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.195  89.45.90.2       1      3195      ❌     M247           us-lax-wg-003   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.196  89.45.90.15      1      3196      ❌     M247           us-lax-wg-004   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.197  89.45.90.28      1      3197      ❌     M247           us-lax-wg-005   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.198  89.45.90.41      1      3198      ❌     M247           us-lax-wg-006   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.209  89.45.90.184     1      3209      ❌     M247           us-lax-wg-017   
  🇺🇸    USA              Los Angeles, CA     10.124.0.179  198.54.129.66    1      3179      ❌     Tzulo          us-lax-wg-101   
  🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.54.129.58    1      3180      ❌     Tzulo          us-lax-wg-102   
  🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    1      3181      ❌     Tzulo          us-lax-wg-103   
