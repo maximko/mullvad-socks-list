@@ -1,4 +1,4 @@
-Date: 2023-02-27 13-05-33 UTC
+Date: 2023-02-27 18-47-49 UTC
 Total active proxies: 446
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
