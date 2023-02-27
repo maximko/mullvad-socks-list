@@ -1,5 +1,5 @@
-Date: 2023-02-27 06-48-18 UTC
-Total active proxies: 445
+Date: 2023-02-27 13-05-33 UTC
+Total active proxies: 446
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -82,6 +82,7 @@ Total active proxies: 445
  🇩🇪    Germany          Dusseldorf          10.124.0.30   185.254.75.3     10     3030      ❌     xtom           de-dus-wg-001   
  🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     10     3091      ❌     xtom           de-dus-wg-002   
  🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     10     3092      ❌     xtom           de-dus-wg-003   
+ 🇩🇪    Germany          Frankfurt           10.124.1.25   185.209.196.71   20     3279      ✔️      31173          de-fra-wg-008   
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   10     3497      ❌     M247           de-fra-wg-101   
  🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   10     3492      ❌     M247           de-fra-wg-102   
  🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   10     3493      ❌     M247           de-fra-wg-103   
