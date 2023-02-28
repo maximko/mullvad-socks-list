@@ -1,5 +1,5 @@
-Date: 2023-02-28 02-10-20 UTC
-Total active proxies: 446
+Date: 2023-02-28 06-47-51 UTC
+Total active proxies: 444
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -19,6 +19,8 @@ Total active proxies: 446
  🇦🇺    Australia        Adelaide            10.124.0.156  103.214.20.130   10     3156      ❌     hostuniversal  au-adl-wg-302   
  🇦🇺    Australia        Melbourne           10.124.1.53   103.108.229.50   10     3307      ❌     hostuniversal  au-mel-wg-301   
  🇦🇺    Australia        Melbourne           10.124.1.54   103.108.229.66   10     3308      ❌     hostuniversal  au-mel-wg-302   
+ 🇦🇺    Australia        Perth               10.124.1.55   103.108.231.50   10     3309      ❌     hostuniversal  au-per-wg-301   
+ 🇦🇺    Australia        Perth               10.124.1.57   103.108.231.66   10     3311      ❌     hostuniversal  au-per-wg-302   
  🇧🇪    Belgium          Brussels            10.124.2.42   91.90.123.2      10     3550      ❌     M247           be-bru-wg-101   
  🇧🇪    Belgium          Brussels            10.124.2.43   194.110.115.34   10     3551      ❌     M247           be-bru-wg-102   
  🇧🇪    Belgium          Brussels            10.124.2.44   194.110.115.2    10     3552      ❌     M247           be-bru-wg-103   
@@ -76,13 +78,9 @@ Total active proxies: 446
  🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     10     3495      ❌     M247           de33-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    10     3496      ❌     M247           de34-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.0.53   185.213.155.130  20     3053      ✔️      31173          de4-wireguard   
- 🇩🇪    Germany          Frankfurt           10.124.0.54   185.213.155.222  20     3054      ✔️      31173          de5-wireguard   
- 🇩🇪    Germany          Frankfurt           10.124.1.23   185.209.196.66   20     3277      ✔️      31173          de7-wireguard   
- 🇩🇪    Germany          Frankfurt           10.124.1.24   185.209.196.67   20     3278      ✔️      31173          de8-wireguard   
  🇩🇪    Germany          Dusseldorf          10.124.0.30   185.254.75.3     10     3030      ❌     xtom           de-dus-wg-001   
  🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     10     3091      ❌     xtom           de-dus-wg-002   
  🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     10     3092      ❌     xtom           de-dus-wg-003   
- 🇩🇪    Germany          Frankfurt           10.124.1.25   185.209.196.71   20     3279      ✔️      31173          de-fra-wg-008   
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   10     3497      ❌     M247           de-fra-wg-101   
  🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   10     3492      ❌     M247           de-fra-wg-102   
  🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   10     3493      ❌     M247           de-fra-wg-103   
