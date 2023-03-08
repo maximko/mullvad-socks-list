@@ -1,5 +1,5 @@
-Date: 2023-03-08 13-04-29 UTC
-Total active proxies: 448
+Date: 2023-03-08 18-47-50 UTC
+Total active proxies: 446
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -226,7 +226,6 @@ Total active proxies: 448
  🇳🇴    Norway           Stavanger           10.124.2.40   194.127.199.62   10     3548      ✔️      Blix           no-svg-wg-003   
  🇳🇴    Norway           Stavanger           10.124.2.41   194.127.199.93   10     3549      ✔️      Blix           no-svg-wg-004   
  🇳🇿    New Zealand      Auckland            10.124.0.106  103.108.94.34    1      3106      ❌     Intergrid      nz1-wireguard   
- 🇳🇿    New Zealand      Auckland            10.124.0.107  103.231.91.226   1      3107      ❌     Intergrid      nz2-wireguard   
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    10     3473      ❌     DataPacket     pl-waw-wg-101   
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    10     3474      ❌     DataPacket     pl-waw-wg-102   
  🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    10     3475      ❌     DataPacket     pl-waw-wg-103   
@@ -349,7 +348,6 @@ Total active proxies: 448
  🇺🇸    USA              Denver, CO          10.124.0.44   198.54.128.90    1      3044      ❌     Tzulo          us-den-wg-006   
  🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    1      3027      ❌     Tzulo          us-den-wg-007   
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      10     3450      ❌     DataPacket     us-den-wg-101   
- 🇺🇸    USA              Denver, CO          10.124.1.197  37.19.210.14     10     3451      ❌     DataPacket     us-den-wg-102   
  🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     10     3452      ❌     DataPacket     us-den-wg-103   
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    10     3459      ❌     DataPacket     us-hou-wg-001   
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket     us-hou-wg-002   
