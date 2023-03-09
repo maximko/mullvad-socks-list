@@ -1,5 +1,5 @@
-Date: 2023-03-09 13-06-13 UTC
-Total active proxies: 447
+Date: 2023-03-09 18-47-28 UTC
+Total active proxies: 441
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -300,10 +300,6 @@ Total active proxies: 447
  🇺🇸    USA              New York, NY        10.124.1.231  198.44.136.66    2      3485      ❌     Tzulo          us277-wireguard 
  🇺🇸    USA              New York, NY        10.124.1.232  198.44.136.98    2      3486      ❌     Tzulo          us278-wireguard 
  🇺🇸    USA              Chicago, IL         10.124.0.15   68.235.43.82     2      3015      ❌     Tzulo          us4-wireguard   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.210  89.45.90.197     1      3210      ❌     M247           us68-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.211  89.45.90.210     1      3211      ❌     M247           us69-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.212  89.45.90.223     1      3212      ❌     M247           us70-wireguard  
- 🇺🇸    USA              Los Angeles, CA     10.124.0.213  89.45.90.236     1      3213      ❌     M247           us71-wireguard  
  🇺🇸    USA              Atlanta, GA         10.124.1.233  45.134.140.130   10     3487      ❌     DataPacket     us-atl-wg-001   
  🇺🇸    USA              Atlanta, GA         10.124.1.234  45.134.140.143   10     3488      ❌     DataPacket     us-atl-wg-002   
  🇺🇸    USA              Atlanta, GA         10.124.1.153  66.115.180.231   1      3407      ❌     100TB          us-atl-wg-101   
@@ -354,8 +350,6 @@ Total active proxies: 447
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    10     3447      ❌     DataPacket     us-hou-wg-002   
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    10     3448      ❌     DataPacket     us-hou-wg-003   
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    10     3449      ❌     DataPacket     us-hou-wg-004   
- 🇺🇸    USA              Los Angeles, CA     10.124.2.21   89.46.114.197    1      3529      ❌     M247           us-lax-wg-001   
- 🇺🇸    USA              Los Angeles, CA     10.124.0.209  89.45.90.184     1      3209      ❌     M247           us-lax-wg-017   
  🇺🇸    USA              Los Angeles, CA     10.124.0.179  198.54.129.66    1      3179      ❌     Tzulo          us-lax-wg-101   
  🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.54.129.58    1      3180      ❌     Tzulo          us-lax-wg-102   
  🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    1      3181      ❌     Tzulo          us-lax-wg-103   
