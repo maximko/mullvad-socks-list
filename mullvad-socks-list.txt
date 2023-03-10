@@ -1,5 +1,5 @@
-Date: 2023-03-10 06-48-32 UTC
-Total active proxies: 440
+Date: 2023-03-10 13-04-35 UTC
+Total active proxies: 439
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -149,7 +149,6 @@ Total active proxies: 440
  🇬🇧    UK               London              10.124.0.59   141.98.252.130   10     3059      ✔️      31173          gb4-wireguard   
  🇬🇧    UK               London              10.124.0.60   141.98.252.222   10     3060      ✔️      31173          gb5-wireguard   
  🇬🇧    UK               London              10.124.1.249  146.70.119.66    10     3503      ❌     M247           gb-lon-wg-101   
- 🇬🇧    UK               London              10.124.1.86   141.98.100.146   1      3340      ❌     M247           gb-lon-wg-104   
  🇬🇧    UK               London              10.124.1.247  146.70.119.2     10     3501      ❌     M247           gb-lon-wg-302   
  🇬🇧    UK               Manchester          10.124.2.20   146.70.133.98    10     3528      ❌     M247           gb-mnc-wg-001   
  🇬🇧    UK               Manchester          10.124.2.13   146.70.132.130   10     3521      ❌     M247           gb-mnc-wg-002   
