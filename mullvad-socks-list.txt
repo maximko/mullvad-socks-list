@@ -1,5 +1,5 @@
-Date: 2023-03-10 02-16-57 UTC
-Total active proxies: 441
+Date: 2023-03-10 06-48-32 UTC
+Total active proxies: 440
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -225,7 +225,6 @@ Total active proxies: 441
  🇳🇴    Norway           Stavanger           10.124.2.39   194.127.199.31   10     3547      ✔️      Blix           no-svg-wg-002   
  🇳🇴    Norway           Stavanger           10.124.2.40   194.127.199.62   10     3548      ✔️      Blix           no-svg-wg-003   
  🇳🇴    Norway           Stavanger           10.124.2.41   194.127.199.93   10     3549      ✔️      Blix           no-svg-wg-004   
- 🇳🇿    New Zealand      Auckland            10.124.0.106  103.108.94.34    1      3106      ❌     Intergrid      nz1-wireguard   
  🇳🇿    New Zealand      Auckland            10.124.0.218  103.75.11.50     10     3218      ❌     hostuniversal  nz-akl-wg-301   
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    10     3473      ❌     DataPacket     pl-waw-wg-101   
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    10     3474      ❌     DataPacket     pl-waw-wg-102   
