@@ -1,5 +1,5 @@
-Date: 2023-03-15 06-46-46 UTC
-Total active proxies: 437
+Date: 2023-03-15 13-02-40 UTC
+Total active proxies: 442
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -72,15 +72,20 @@ Total active proxies: 437
  🇨🇿    Czech Republic   Prague              10.124.2.34   146.70.129.130   10     3542      ❌     M247           cz-prg-wg-102   
  🇨🇿    Czech Republic   Prague              10.124.2.57   178.249.209.162  10     3565      ❌     DataPacket     cz-prg-wg-201   
  🇨🇿    Czech Republic   Prague              10.124.2.58   178.249.209.175  10     3566      ❌     DataPacket     cz-prg-wg-202   
- 🇩🇪    Germany          Frankfurt           10.124.1.26   185.209.196.69   20     3280      ✔️      31173          de10-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.27   185.209.196.70   20     3281      ✔️      31173          de11-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.240  146.70.107.194   10     3494      ❌     M247           de32-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     10     3495      ❌     M247           de33-wireguard  
  🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    10     3496      ❌     M247           de34-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.0.53   185.213.155.130  20     3053      ✔️      31173          de4-wireguard   
  🇩🇪    Germany          Dusseldorf          10.124.0.30   185.254.75.3     10     3030      ❌     xtom           de-dus-wg-001   
  🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     10     3091      ❌     xtom           de-dus-wg-002   
  🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     10     3092      ❌     xtom           de-dus-wg-003   
+ 🇩🇪    Germany          Frankfurt           10.124.0.53   185.213.155.73   20     3053      ✔️      31173          de-fra-wg-001   
+ 🇩🇪    Germany          Frankfurt           10.124.0.54   185.213.155.74   20     3054      ✔️      31173          de-fra-wg-002   
+ 🇩🇪    Germany          Frankfurt           10.124.1.23   185.209.196.73   20     3277      ✔️      31173          de-fra-wg-003   
+ 🇩🇪    Germany          Frankfurt           10.124.1.26   185.209.196.74   20     3280      ✔️      31173          de-fra-wg-004   
+ 🇩🇪    Germany          Frankfurt           10.124.1.27   185.209.196.75   20     3281      ✔️      31173          de-fra-wg-005   
+ 🇩🇪    Germany          Frankfurt           10.124.0.222  185.209.196.76   20     3222      ✔️      31173          de-fra-wg-006   
+ 🇩🇪    Germany          Frankfurt           10.124.1.24   185.209.196.77   20     3278      ✔️      31173          de-fra-wg-007   
+ 🇩🇪    Germany          Frankfurt           10.124.1.25   185.209.196.78   20     3279      ✔️      31173          de-fra-wg-008   
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   10     3497      ❌     M247           de-fra-wg-101   
  🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   10     3492      ❌     M247           de-fra-wg-102   
  🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   10     3493      ❌     M247           de-fra-wg-103   
