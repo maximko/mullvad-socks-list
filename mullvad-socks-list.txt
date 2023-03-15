@@ -1,5 +1,5 @@
-Date: 2023-03-15 02-01-20 UTC
-Total active proxies: 441
+Date: 2023-03-15 06-46-46 UTC
+Total active proxies: 437
  flag  country          city                socks         ip               speed  multihop  owned  provider       hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    1      3155      ❌     iRegister      al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    10     3543      ❌     M247           at-vie-wg-001   
@@ -9,10 +9,6 @@ Total active proxies: 441
  🇦🇺    Australia        Sydney              10.124.1.137  89.44.10.130     1      3391      ❌     M247           au11-wireguard  
  🇦🇺    Australia        Sydney              10.124.1.138  89.44.10.146     1      3392      ❌     M247           au12-wireguard  
  🇦🇺    Australia        Sydney              10.124.1.139  89.44.10.162     1      3393      ❌     M247           au13-wireguard  
- 🇦🇺    Australia        Sydney              10.124.0.14   43.245.162.234   1      3014      ❌     Intergrid      au1-wireguard   
- 🇦🇺    Australia        Sydney              10.124.0.82   103.77.233.50    1      3082      ❌     Intergrid      au2-wireguard   
- 🇦🇺    Australia        Melbourne           10.124.0.100  103.231.88.2     1      3100      ❌     Intergrid      au3-wireguard   
- 🇦🇺    Australia        Melbourne           10.124.0.102  103.231.88.18    1      3102      ❌     Intergrid      au4-wireguard   
  🇦🇺    Australia        Sydney              10.124.1.134  89.44.10.66      1      3388      ❌     M247           au8-wireguard   
  🇦🇺    Australia        Sydney              10.124.1.135  89.44.10.82      1      3389      ❌     M247           au9-wireguard   
  🇦🇺    Australia        Adelaide            10.124.0.99   103.214.20.50    10     3099      ❌     hostuniversal  au-adl-wg-301   
