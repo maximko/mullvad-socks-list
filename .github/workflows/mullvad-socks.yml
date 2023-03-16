@@ -27,17 +27,22 @@ jobs:
         git config user.email "${{ github.actor }}@users.noreply.github.com"
         git checkout list
         git pull
+        rm *.txt
+        echo "TAG_NAME=$(date +"%Y-%m-%dT%H-%M-%S")" >> $GITHUB_ENV
+
+    - name: Download and install script dependencies
+      run: |
+        wget https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb
+        pip3 install -r requirements.txt
 
     - name: Generate list
       run: |
-        pip3 install -r requirements.txt
-        python3 mullvad-socks-list.py > repo/mullvad-socks-list.txt
-        echo "TAG_NAME=$(date +"%Y-%m-%d_%H-%M-%S")" >> $GITHUB_ENV
+        python3 mullvad-socks-list.py
 
     - name: Push result to "list" branch
       run: |
         cd repo
-        git add mullvad-socks-list.txt
+        git add .
         git commit -m "${{ env.TAG_NAME }}"
         git push -u origin list
 
@@ -48,7 +53,7 @@ jobs:
       with:
         tag_name: ${{ env.TAG_NAME }}
         body: ${{ env.TAG_NAME }}
-        files: repo/mullvad-socks-list.txt
+        files: repo/*
 
     - name: Remove old Releases
       uses: dev-drprasad/delete-older-releases@v0.2.0
