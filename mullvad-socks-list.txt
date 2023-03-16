@@ -1,4 +1,4 @@
-Date: 2023-03-16 21-20-50 UTC
+Date: 2023-03-16 21-31-42 UTC
 Total active proxies: 442
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
@@ -441,5 +441,7 @@ Total active proxies: 442
  🇺🇸    USA              Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️       us-uyk-wg-102   
  🇺🇸    USA              Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️       us-uyk-wg-103   
  🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::a01f       10     3567      ❌     DataPacket     ✔️       za-jnb-wg-001   
- 🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::a02f       10     3568      ❌     DataPacket     ✔️       za-jnb-wg-002   Failed to resovle: flag  country  city          socks5                                   ipv4           ipv6                   speed  multihop  owned  provider  stboot  hostname      
+ 🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::a02f       10     3568      ❌     DataPacket     ✔️       za-jnb-wg-002   
+Failed to resovle:
+ flag  country  city          socks5                                   ipv4           ipv6                   speed  multihop  owned  provider  stboot  hostname      
  🇺🇸    USA      San Jose, CA  us-sjc-wg-socks5-001.relays.mullvad.net  198.54.134.98  2607:9000:8000:14::3f  10     3078      ❌     Tzulo     ✔️       us-sjc-wg-001 
