@@ -1,5 +1,5 @@
-Date: 2023-03-17 06-47-20 UTC
-Total active proxies: 442
+Date: 2023-03-17 13-02-03 UTC
+Total active proxies: 444
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -26,6 +26,7 @@ Total active proxies: 442
  🇧🇬    Bulgaria         Sofia               10.124.1.93   217.138.221.226  2001:ac8:30:29::a05f       1      3347      ❌     M247           ❌      bg5-wireguard   
  🇧🇬    Bulgaria         Sofia               10.124.1.94   217.138.221.242  2001:ac8:30:30::a06f       1      3348      ❌     M247           ❌      bg6-wireguard   
  🇧🇬    Bulgaria         Sofia               10.124.1.95   217.138.202.194  2001:ac8:30:31::a07f       1      3349      ❌     M247           ❌      bg7-wireguard   
+ 🇧🇬    Bulgaria         Sofia               10.124.0.226  146.70.188.194   2001:ac8:30:57::a02f       10     3226      ❌     M247           ✔️       bg-sof-wg-002   
  🇧🇷    Brazil           Sao Paulo           10.124.0.55   45.162.228.186   2804:5364:3100:9::a01f     1      3055      ❌     Qnax           ❌      br1-wireguard   
  🇧🇷    Brazil           Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f     10     3539      ❌     DataPacket     ✔️       br-sao-wg-201   
  🇧🇷    Brazil           Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f     10     3540      ❌     DataPacket     ✔️       br-sao-wg-202   
@@ -128,6 +129,7 @@ Total active proxies: 442
  🇫🇷    France           Paris               10.124.0.120  193.32.126.70    2a03:1b20:9:f011::a05f     20     3120      ✔️      31173          ❌      fr8-wireguard   
  🇫🇷    France           Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f       10     3045      ❌     DataPacket     ✔️       fr-mrs-wg-001   
  🇫🇷    France           Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f       10     3437      ❌     DataPacket     ✔️       fr-mrs-wg-002   
+ 🇫🇷    France           Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::a01f       10     3223      ❌     M247           ✔️       fr-par-wg-101   
  🇬🇧    UK               London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f     10     3270      ✔️      31173          ❌      gb11-wireguard  
  🇬🇧    UK               London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f     10     3271      ✔️      31173          ❌      gb12-wireguard  
  🇬🇧    UK               London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f     10     3272      ✔️      31173          ❌      gb13-wireguard  
