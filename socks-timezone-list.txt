@@ -23,6 +23,7 @@
 10.124.1.93 Europe/Sofia
 10.124.1.94 Europe/Sofia
 10.124.1.95 Europe/Sofia
+10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
 10.124.0.55 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
@@ -127,6 +128,7 @@
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
 10.124.0.223 Europe/Paris
+10.124.0.224 Europe/Paris
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
 10.124.1.18 Europe/London
