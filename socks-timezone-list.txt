@@ -101,6 +101,8 @@
 10.124.1.64 Europe/Copenhagen
 10.124.1.65 Europe/Copenhagen
 10.124.0.141 Europe/Copenhagen
+10.124.0.229 Europe/Copenhagen
+10.124.0.230 Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
