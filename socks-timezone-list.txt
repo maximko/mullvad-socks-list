@@ -173,6 +173,8 @@
 10.124.1.67 Europe/Budapest
 10.124.1.68 Europe/Budapest
 10.124.1.69 Europe/Budapest
+10.124.0.227 Europe/Budapest
+10.124.0.228 Europe/Budapest
 10.124.0.174 Europe/Dublin
 10.124.0.105 Europe/Dublin
 10.124.1.58 Europe/Dublin
