@@ -1,5 +1,5 @@
-Date: 2023-03-22 06-47-18 UTC
-Total active proxies: 432
+Date: 2023-03-22 13-00-18 UTC
+Total active proxies: 415
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -37,18 +37,6 @@ Total active proxies: 432
  🇨🇦    Canada           Montreal            10.124.0.232  146.70.198.130   2a0d:5600:9:d::a02f        10     3232      ❌     M247           ✔️       ca-mtr-wg-002   
  🇨🇦    Canada           Montreal            10.124.0.233  146.70.198.194   2a0d:5600:9:e::a02f        10     3233      ❌     M247           ✔️       ca-mtr-wg-003   
  🇨🇦    Canada           Montreal            10.124.0.234  188.241.176.194  2a0d:5600:9:16::a04f       10     3234      ❌     M247           ✔️       ca-mtr-wg-004   
- 🇨🇦    Canada           Montreal            10.124.1.75   89.36.78.146     2a0d:5600:9:bb::a10f       1      3329      ❌     M247           ✔️       ca-mtr-wg-101   
- 🇨🇦    Canada           Montreal            10.124.1.76   89.36.78.162     2a0d:5600:9:bc::a11f       1      3330      ❌     M247           ✔️       ca-mtr-wg-102   
- 🇨🇦    Canada           Montreal            10.124.1.77   89.36.78.178     2a0d:5600:9:bd::a12f       1      3331      ❌     M247           ✔️       ca-mtr-wg-103   
- 🇨🇦    Canada           Montreal            10.124.1.78   89.36.78.194     2a0d:5600:9:be::a13f       1      3332      ❌     M247           ✔️       ca-mtr-wg-104   
- 🇨🇦    Canada           Montreal            10.124.1.79   89.36.78.210     2a0d:5600:9:bf::a14f       1      3333      ❌     M247           ✔️       ca-mtr-wg-105   
- 🇨🇦    Canada           Montreal            10.124.1.80   89.36.78.226     2a0d:5600:9:c0::a15f       1      3334      ❌     M247           ✔️       ca-mtr-wg-106   
- 🇨🇦    Canada           Montreal            10.124.1.81   89.36.78.242     2a0d:5600:9:c1::a16f       1      3335      ❌     M247           ✔️       ca-mtr-wg-107   
- 🇨🇦    Canada           Montreal            10.124.1.82   89.36.78.2       2a0d:5600:9:c2::a17f       1      3336      ❌     M247           ✔️       ca-mtr-wg-108   
- 🇨🇦    Canada           Montreal            10.124.1.83   37.120.205.98    2a0d:5600:9:43::a18f       1      3337      ❌     M247           ✔️       ca-mtr-wg-109   
- 🇨🇦    Canada           Montreal            10.124.1.84   37.120.205.194   2a0d:5600:9:4a::a19f       1      3338      ❌     M247           ✔️       ca-mtr-wg-110   
- 🇨🇦    Canada           Montreal            10.124.1.85   37.120.205.210   2a0d:5600:9:4b::a20f       1      3339      ❌     M247           ✔️       ca-mtr-wg-111   
- 🇨🇦    Canada           Montreal            10.124.1.56   91.193.6.2       2a0d:5600:9:ca::a21f       1      3310      ❌     M247           ✔️       ca-mtr-wg-112   
  🇨🇦    Canada           Toronto             10.124.1.235  178.249.214.2    2a02:6ea0:de08:1::a28f     10     3489      ❌     DataPacket     ✔️       ca-tor-wg-001   
  🇨🇦    Canada           Toronto             10.124.1.236  178.249.214.15   2a02:6ea0:de08:2::a29f     10     3490      ❌     DataPacket     ✔️       ca-tor-wg-002   
  🇨🇦    Canada           Vancouver           10.124.0.13   38.240.226.36    2606:9580:103:e::c01f      10     3013      ❌     techfutures    ✔️       ca-van-wg-201   
@@ -100,9 +88,6 @@ Total active proxies: 432
  🇩🇪    Germany          Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f     10     3506      ❌     DataPacket     ✔️       de-fra-wg-403   
  🇩🇰    Denmark          Copenhagen          10.124.0.64   45.129.56.67     2a03:1b20:8:f011::a02f     10     3064      ✔️      31173          ❌      dk2-wireguard   
  🇩🇰    Denmark          Copenhagen          10.124.0.17   45.129.56.68     2a03:1b20:8:f011::a03f     10     3017      ✔️      31173          ❌      dk3-wireguard   
- 🇩🇰    Denmark          Copenhagen          10.124.1.63   89.45.7.178      2001:ac8:37:5d::a05f       1      3317      ❌     M247           ✔️       dk-cph-wg-101   
- 🇩🇰    Denmark          Copenhagen          10.124.1.64   89.45.7.194      2001:ac8:37:5e::a06f       1      3318      ❌     M247           ✔️       dk-cph-wg-102   
- 🇩🇰    Denmark          Copenhagen          10.124.1.65   89.45.7.210      2001:ac8:37:5f::a07f       1      3319      ❌     M247           ✔️       dk-cph-wg-103   
  🇩🇰    Denmark          Copenhagen          10.124.0.141  82.103.140.213   2a00:9080:1:98c::1f        1      3141      ❌     Asergo         ❌      dk-cph-wg-301   
  🇩🇰    Denmark          Copenhagen          10.124.0.229  146.70.197.194   2001:ac8:37:97::d01f       10     3229      ❌     M247           ✔️       dk-cph-wg-401   
  🇩🇰    Denmark          Copenhagen          10.124.0.230  146.70.197.130   2001:ac8:37:96::d02f       10     3230      ❌     M247           ✔️       dk-cph-wg-402   
@@ -163,7 +148,6 @@ Total active proxies: 432
  🇭🇺    Hungary          Budapest            10.124.0.227  146.70.196.194   2001:ac8:26:55::a01f       10     3227      ❌     M247           ✔️       hu-bud-wg-101   
  🇭🇺    Hungary          Budapest            10.124.0.228  146.70.196.130   2001:ac8:26:54::a02f       10     3228      ❌     M247           ✔️       hu-bud-wg-102   
  🇮🇪    Ireland          Dublin              10.124.0.174  217.138.222.106  2001:ac8:88:5e::a02f       1      3174      ❌     M247           ❌      ie2-wireguard   
- 🇮🇪    Ireland          Dublin              10.124.0.105  217.138.222.98   2001:ac8:88:5d::a01f       1      3105      ❌     M247           ✔️       ie-dub-wg-001   
  🇮🇪    Ireland          Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101   
  🇮🇪    Ireland          Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::a02f       10     3313      ❌     M247           ✔️       ie-dub-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️       il-tlv-wg-101   
@@ -188,7 +172,6 @@ Total active proxies: 432
  🇯🇵    Japan            Tokyo               10.124.1.111  91.193.7.18      2001:ac8:40:b9::a09f       1      3365      ❌     M247           ❌      jp9-wireguard   
  🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     2400:ddc0:c000::a01f       1      3431      ❌     xtom           ✔️       jp-osa-wg-001   
  🇯🇵    Japan            Osaka               10.124.1.178  45.8.223.210     2400:ddc0:c000::a02f       1      3432      ❌     xtom           ✔️       jp-osa-wg-002   
- 🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::a03f       1      3433      ❌     xtom           ✔️       jp-osa-wg-003   
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::a04f       1      3434      ❌     xtom           ✔️       jp-osa-wg-004   
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️       jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️       jp-tyo-wg-002   
