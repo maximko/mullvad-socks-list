@@ -207,8 +207,8 @@
 10.124.0.88 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
-10.124.1.66 Europe/Belgrade
-10.124.0.94 Europe/Belgrade
+10.124.0.33 Europe/Belgrade
+10.124.0.73 Europe/Belgrade
 10.124.0.65 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
@@ -309,12 +309,6 @@
 10.124.1.226 America/Chicago
 10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
-10.124.0.175 America/Denver
-10.124.0.176 America/Denver
-10.124.0.177 America/Denver
-10.124.0.178 America/Denver
-10.124.0.44 America/Denver
-10.124.0.27 America/Denver
 10.124.1.196 America/Denver
 10.124.1.198 America/Denver
 10.124.1.205 America/Chicago

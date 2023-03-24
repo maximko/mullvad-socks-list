@@ -1,5 +1,5 @@
-Date: 2023-03-24 01-55-28 UTC
-Total active proxies: 415
+Date: 2023-03-24 06-47-15 UTC
+Total active proxies: 409
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -210,8 +210,8 @@ Total active proxies: 415
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      2a00:1651:0:4001::a02f     1      3088      ❌     ptisp          ✔️       pt-lis-wg-102   
  🇷🇴    Romania          Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f      10     3535      ❌     M247           ✔️       ro-buh-wg-001   
  🇷🇴    Romania          Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::a02f      10     3093      ❌     M247           ✔️       ro-buh-wg-002   
- 🇷🇸    Serbia           Belgrade            10.124.1.66   89.38.224.82     2001:ac8:7d:20::a04f       1      3320      ❌     M247           ❌      rs4-wireguard   
- 🇷🇸    Serbia           Belgrade            10.124.0.94   152.89.160.178   2001:ac8:7d:1b::a03f       1      3094      ❌     M247           ✔️       rs-beg-wg-001   
+ 🇷🇸    Serbia           Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f       10     3033      ❌     M247           ✔️       rs-beg-wg-101   
+ 🇷🇸    Serbia           Belgrade            10.124.0.73   146.70.193.66    2001:ac8:7d:38::a02f       10     3073      ❌     M247           ✔️       rs-beg-wg-102   
  🇸🇪    Sweden           Gothenburg          10.124.0.65   185.213.154.69   2a03:1b20:5:f011::a10f     10     3065      ✔️      31173          ❌      se10-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.185  193.138.218.82   2a03:1b20:1:f410::a17f     10     3185      ✔️      31173          ❌      se17-wireguard  
  🇸🇪    Sweden           Malmö               10.124.0.186  193.138.218.83   2a03:1b20:1:f410::a18f     10     3186      ✔️      31173          ❌      se18-wireguard  
@@ -312,12 +312,6 @@ Total active proxies: 415
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f     10     3480      ❌     DataPacket     ✔️       us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f     10     3479      ❌     DataPacket     ✔️       us-dal-wg-402   
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::b70f     10     3478      ❌     DataPacket     ✔️       us-dal-wg-403   
- 🇺🇸    USA              Denver, CO          10.124.0.175  198.54.128.58    2607:9000:2000:16::a44f    1      3175      ❌     Tzulo          ✔️       us-den-wg-001   
- 🇺🇸    USA              Denver, CO          10.124.0.176  198.54.128.50    2607:9000:2000:15::a45f    1      3176      ❌     Tzulo          ✔️       us-den-wg-002   
- 🇺🇸    USA              Denver, CO          10.124.0.177  198.54.128.42    2607:9000:2000:14::a46f    1      3177      ❌     Tzulo          ✔️       us-den-wg-003   
- 🇺🇸    USA              Denver, CO          10.124.0.178  198.54.128.34    2607:9000:2000:13::a47f    1      3178      ❌     Tzulo          ✔️       us-den-wg-004   
- 🇺🇸    USA              Denver, CO          10.124.0.44   198.54.128.90    2607:9000:2000:20::a11f    1      3044      ❌     Tzulo          ✔️       us-den-wg-006   
- 🇺🇸    USA              Denver, CO          10.124.0.27   198.54.128.98    2607:9000:2000:25::a12f    1      3027      ❌     Tzulo          ✔️       us-den-wg-007   
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f       10     3450      ❌     DataPacket     ✔️       us-den-wg-101   
  🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f     10     3452      ❌     DataPacket     ✔️       us-den-wg-103   
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    2a02:6ea0:e001::b53f       10     3459      ❌     DataPacket     ✔️       us-hou-wg-001   
