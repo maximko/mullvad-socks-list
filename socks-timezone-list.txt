@@ -21,7 +21,6 @@
 10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
-10.124.0.55 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
 10.124.2.32 America/Sao_Paulo
 10.124.0.47 America/Toronto
@@ -144,7 +143,6 @@
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
-10.124.0.174 Europe/Dublin
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
@@ -178,10 +176,11 @@
 10.124.0.56 Europe/Chisinau
 10.124.1.181 Europe/Skopje
 10.124.0.4 Europe/Amsterdam
-10.124.0.39 Europe/Amsterdam
-10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
+10.124.0.39 Europe/Amsterdam
+10.124.0.40 Europe/Amsterdam
+10.124.0.94 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
@@ -309,6 +308,9 @@
 10.124.1.226 America/Chicago
 10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
+10.124.0.175 America/Denver
+10.124.0.176 America/Denver
+10.124.0.177 America/Denver
 10.124.1.196 America/Denver
 10.124.1.198 America/Denver
 10.124.1.205 America/Chicago
@@ -333,6 +335,9 @@
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
+10.124.0.14 America/New_York
+10.124.0.82 America/New_York
+10.124.0.89 America/New_York
 10.124.0.157 America/New_York
 10.124.0.153 America/New_York
 10.124.1.190 America/New_York

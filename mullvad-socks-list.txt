@@ -1,5 +1,5 @@
-Date: 2023-03-24 06-47-15 UTC
-Total active proxies: 409
+Date: 2023-03-24 12-59-08 UTC
+Total active proxies: 414
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -24,7 +24,6 @@ Total active proxies: 409
  🇧🇪    Belgium          Brussels            10.124.2.44   194.110.115.2    2001:ac8:27:92::a03f       10     3552      ❌     M247           ✔️       be-bru-wg-103   
  🇧🇬    Bulgaria         Sofia               10.124.0.225  146.70.188.130   2001:ac8:30:56::a01f       10     3225      ❌     M247           ✔️       bg-sof-wg-001   
  🇧🇬    Bulgaria         Sofia               10.124.0.226  146.70.188.194   2001:ac8:30:57::a02f       10     3226      ❌     M247           ✔️       bg-sof-wg-002   
- 🇧🇷    Brazil           Sao Paulo           10.124.0.55   45.162.228.186   2804:5364:3100:9::a01f     1      3055      ❌     Qnax           ❌      br1-wireguard   
  🇧🇷    Brazil           Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f     10     3539      ❌     DataPacket     ✔️       br-sao-wg-201   
  🇧🇷    Brazil           Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f     10     3540      ❌     DataPacket     ✔️       br-sao-wg-202   
  🇨🇦    Canada           Toronto             10.124.0.47   198.54.132.82    2607:9000:6000:15::a22f    2      3047      ❌     Tzulo          ❌      ca22-wireguard  
@@ -147,7 +146,6 @@ Total active proxies: 409
  🇭🇷    Croatia          Zagreb              10.124.0.74   154.47.29.15     2a02:6ea0:f401:2::a01f     10     3074      ❌     DataPacket     ✔️       hr-zag-wg-002   
  🇭🇺    Hungary          Budapest            10.124.0.227  146.70.196.194   2001:ac8:26:55::a01f       10     3227      ❌     M247           ✔️       hu-bud-wg-101   
  🇭🇺    Hungary          Budapest            10.124.0.228  146.70.196.130   2001:ac8:26:54::a02f       10     3228      ❌     M247           ✔️       hu-bud-wg-102   
- 🇮🇪    Ireland          Dublin              10.124.0.174  217.138.222.106  2001:ac8:88:5e::a02f       1      3174      ❌     M247           ❌      ie2-wireguard   
  🇮🇪    Ireland          Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101   
  🇮🇪    Ireland          Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::a02f       10     3313      ❌     M247           ✔️       ie-dub-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️       il-tlv-wg-101   
@@ -181,10 +179,11 @@ Total active proxies: 409
  🇲🇩    Moldova          Chisinau            10.124.0.56   178.175.131.98   2a00:1dc0:2925:10::a01f    1      3056      ❌     Trabia         ❌      md1-wireguard   
  🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   2a0d:4500::a01f            1      3435      ❌     Interspace     ❌      mk1-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::a01f     20     3004      ✔️      31173          ❌      nl1-wireguard   
- 🇳🇱    Netherlands      Amsterdam           10.124.0.39   185.65.134.222   2a03:1b20:3:f011::a02f     10     3039      ✔️      31173          ❌      nl2-wireguard   
- 🇳🇱    Netherlands      Amsterdam           10.124.0.40   185.65.134.223   2a03:1b20:3:f011::a03f     10     3040      ✔️      31173          ❌      nl3-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::a04f     20     3113      ✔️      31173          ❌      nl4-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::a05f     20     3114      ✔️      31173          ❌      nl5-wireguard   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f     20     3039      ✔️      31173          ✔️       nl-ams-wg-002   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::a03f     10     3040      ✔️      31173          ✔️       nl-ams-wg-003   
+ 🇳🇱    Netherlands      Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::a06f     20     3094      ✔️      31173          ✔️       nl-ams-wg-006   
  🇳🇱    Netherlands      Amsterdam           10.124.0.19   92.60.40.194     2a0c:59c0:18::a20f         10     3019      ❌     xtom           ✔️       nl-ams-wg-101   
  🇳🇱    Netherlands      Amsterdam           10.124.0.41   92.60.40.209     2a0c:59c0:18::a21f         10     3041      ❌     xtom           ✔️       nl-ams-wg-102   
  🇳🇱    Netherlands      Amsterdam           10.124.0.48   92.60.40.224     2a0c:59c0:18::a22f         10     3048      ❌     xtom           ✔️       nl-ams-wg-103   
@@ -312,6 +311,9 @@ Total active proxies: 409
  🇺🇸    USA              Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f     10     3480      ❌     DataPacket     ✔️       us-dal-wg-401   
  🇺🇸    USA              Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f     10     3479      ❌     DataPacket     ✔️       us-dal-wg-402   
  🇺🇸    USA              Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::b70f     10     3478      ❌     DataPacket     ✔️       us-dal-wg-403   
+ 🇺🇸    USA              Denver, CO          10.124.0.175  198.44.128.194   2607:9000:2000:16::a44f    10     3175      ❌     Tzulo          ✔️       us-den-wg-001   
+ 🇺🇸    USA              Denver, CO          10.124.0.176  198.44.128.162   2607:9000:2000:15::a45f    10     3176      ❌     Tzulo          ✔️       us-den-wg-002   
+ 🇺🇸    USA              Denver, CO          10.124.0.177  198.44.128.130   2607:9000:2000:14::a46f    10     3177      ❌     Tzulo          ✔️       us-den-wg-003   
  🇺🇸    USA              Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f       10     3450      ❌     DataPacket     ✔️       us-den-wg-101   
  🇺🇸    USA              Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f     10     3452      ❌     DataPacket     ✔️       us-den-wg-103   
  🇺🇸    USA              Houston, TX         10.124.1.205  37.19.221.130    2a02:6ea0:e001::b53f       10     3459      ❌     DataPacket     ✔️       us-hou-wg-001   
@@ -336,6 +338,9 @@ Total active proxies: 409
  🇺🇸    USA              Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f     10     3458      ❌     DataPacket     ✔️       us-mia-wg-001   
  🇺🇸    USA              Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f     10     3454      ❌     DataPacket     ✔️       us-mia-wg-002   
  🇺🇸    USA              Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::b60f       10     3453      ❌     DataPacket     ✔️       us-mia-wg-003   
+ 🇺🇸    USA              Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f      10     3014      ❌     M247           ✔️       us-mia-wg-101   
+ 🇺🇸    USA              Miami, FL           10.124.0.82   146.70.187.66    2a0d:5600:6:105::a02f      10     3082      ❌     M247           ✔️       us-mia-wg-102   
+ 🇺🇸    USA              Miami, FL           10.124.0.89   146.70.187.130   2a0d:5600:6:106::a03f      10     3089      ❌     M247           ✔️       us-mia-wg-103   
  🇺🇸    USA              Miami, FL           10.124.0.157  173.44.63.66     2607:ff48:aa81:2602::b25f  10     3157      ❌     Quadranet      ✔️       us-mia-wg-301   
  🇺🇸    USA              Miami, FL           10.124.0.153  104.129.41.194   2607:ff48:aa81:2603::b26f  10     3153      ❌     Quadranet      ✔️       us-mia-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::b50f       10     3444      ❌     DataPacket     ✔️       us-nyc-wg-301   
