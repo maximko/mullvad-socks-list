@@ -321,9 +321,9 @@
 10.124.0.180 America/Los_Angeles
 10.124.0.181 America/Los_Angeles
 10.124.0.182 America/Los_Angeles
-10.124.0.83 America/Chicago
-10.124.2.29 America/Chicago
-10.124.2.30 America/Chicago
+10.124.0.83 America/Los_Angeles
+10.124.2.29 America/Los_Angeles
+10.124.2.30 America/Los_Angeles
 10.124.1.174 America/Los_Angeles
 10.124.0.162 America/Los_Angeles
 10.124.0.163 America/Los_Angeles
