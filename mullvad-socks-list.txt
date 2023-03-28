@@ -1,5 +1,5 @@
-Date: 2023-03-28 13-02-11 UTC
-Total active proxies: 417
+Date: 2023-03-28 18-47-17 UTC
+Total active proxies: 419
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -243,6 +243,8 @@ Total active proxies: 417
  🇸🇬    Singapore        Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️       sg-sin-wg-001   
  🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️       sg-sin-wg-002   
  🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️       sg-sin-wg-003   
+ 🇸🇬    Singapore        Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f       10     3100      ❌     M247           ✔️       sg-sin-wg-101   
+ 🇸🇬    Singapore        Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️       sg-sin-wg-102   
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::a01f     10     3511      ❌     DataPacket     ✔️       sk-bts-wg-001   
  🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️       sk-bts-wg-002   
  🇺🇸    USA              Chicago, IL         10.124.0.18   68.235.44.2      2607:9000:0:67::b28f       2      3018      ❌     Tzulo          ❌      us128-wireguard 
