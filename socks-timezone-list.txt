@@ -16,6 +16,9 @@
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Melbourne
 10.124.1.57 Australia/Melbourne
+10.124.0.36 Australia/Sydney
+10.124.0.37 Australia/Sydney
+10.124.0.42 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
 10.124.2.44 Europe/Brussels
@@ -185,7 +188,7 @@
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
 10.124.0.95 Europe/Amsterdam
-;; Warning: ID mismatch: expected ID 6186, got 31754 Europe/Amsterdam
+10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
