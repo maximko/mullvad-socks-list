@@ -185,7 +185,7 @@
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
 10.124.0.95 Europe/Amsterdam
-10.124.1.253 Europe/Amsterdam
+;; Warning: ID mismatch: expected ID 6186, got 31754 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
@@ -358,11 +358,9 @@
 10.124.1.45 America/Chicago
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
+10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
-10.124.0.34 America/Phoenix
-10.124.0.36 America/Phoenix
-10.124.0.37 America/Phoenix
 10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
