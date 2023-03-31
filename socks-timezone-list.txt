@@ -109,8 +109,8 @@
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
-10.124.0.45 Europe/Paris
-10.124.1.183 Europe/Paris
+10.124.0.45 Europe/Prague
+10.124.1.183 Europe/Prague
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
 10.124.1.16 Europe/London
