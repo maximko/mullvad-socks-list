@@ -158,8 +158,6 @@
 10.124.1.208 Europe/Rome
 10.124.1.123 Europe/Rome
 10.124.1.124 Europe/Rome
-10.124.0.16 Europe/Rome
-10.124.0.23 Europe/Rome
 10.124.1.112 Asia/Tokyo
 10.124.1.113 Asia/Tokyo
 10.124.1.114 Asia/Tokyo
