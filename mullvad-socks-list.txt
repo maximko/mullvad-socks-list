@@ -1,5 +1,5 @@
-Date: 2023-04-03 01-48-33 UTC
-Total active proxies: 418
+Date: 2023-04-03 06-47-27 UTC
+Total active proxies: 417
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -348,7 +348,6 @@ Total active proxies: 418
  🇺🇸    USA              Miami, FL           10.124.0.82   146.70.187.66    2a0d:5600:6:105::a02f      10     3082      ❌     M247           ✔️       us-mia-wg-102   
  🇺🇸    USA              Miami, FL           10.124.0.89   146.70.187.130   2a0d:5600:6:106::a03f      10     3089      ❌     M247           ✔️       us-mia-wg-103   
  🇺🇸    USA              Miami, FL           10.124.0.157  173.44.63.66     2607:ff48:aa81:2602::b25f  10     3157      ❌     Quadranet      ✔️       us-mia-wg-301   
- 🇺🇸    USA              Miami, FL           10.124.0.153  104.129.41.194   2607:ff48:aa81:2603::b26f  10     3153      ❌     Quadranet      ✔️       us-mia-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::b50f       10     3444      ❌     DataPacket     ✔️       us-nyc-wg-301   
  🇺🇸    USA              New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::b51f     10     3445      ❌     DataPacket     ✔️       us-nyc-wg-302   
  🇺🇸    USA              New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f     10     3446      ❌     DataPacket     ✔️       us-nyc-wg-303   
