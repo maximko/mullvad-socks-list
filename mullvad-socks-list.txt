@@ -1,5 +1,5 @@
-Date: 2023-04-04 06-47-07 UTC
-Total active proxies: 417
+Date: 2023-04-04 12-58-27 UTC
+Total active proxies: 416
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -290,7 +290,6 @@ Total active proxies: 417
  🇺🇸    USA              Atlanta, GA         10.124.0.29   107.150.22.2     2607:fcd0:aa80:1304::b42f  10     3029      ❌     Quadranet      ✔️       us-atl-wg-201   
  🇺🇸    USA              Atlanta, GA         10.124.0.169  104.129.24.98    2607:fcd0:aa80:1302::b33f  10     3169      ❌     Quadranet      ✔️       us-atl-wg-202   
  🇺🇸    USA              Atlanta, GA         10.124.0.170  104.129.24.114   2607:fcd0:aa80:1303::b34f  10     3170      ❌     Quadranet      ✔️       us-atl-wg-203   
- 🇺🇸    USA              Atlanta, GA         10.124.0.184  104.223.91.18    2607:fcd0:aa80:1305::b43f  10     3184      ❌     Quadranet      ✔️       us-atl-wg-204   
  🇺🇸    USA              Chicago, IL         10.124.0.168  66.63.167.114    2607:fcd0:bb80:403::b32f   10     3168      ❌     Quadranet      ✔️       us-chi-wg-101   
  🇺🇸    USA              Chicago, IL         10.124.0.165  66.63.167.194    2607:fcd0:bb80:402::b31f   10     3165      ❌     Quadranet      ✔️       us-chi-wg-102   
  🇺🇸    USA              Chicago, IL         10.124.0.188  66.63.167.162    2607:fcd0:bb80:404::b44f   10     3188      ❌     Quadranet      ✔️       us-chi-wg-103   
