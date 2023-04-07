@@ -122,12 +122,12 @@
 10.124.1.35 Europe/London
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
-10.124.1.248 Europe/London
 10.124.2.19 Europe/London
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
+10.124.1.248 Europe/London
 10.124.2.20 Europe/London
 10.124.2.13 Europe/London
 10.124.2.14 Europe/London
@@ -170,6 +170,7 @@
 10.124.1.111 Asia/Tokyo
 10.124.1.177 Asia/Tokyo
 10.124.1.178 Asia/Tokyo
+10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo

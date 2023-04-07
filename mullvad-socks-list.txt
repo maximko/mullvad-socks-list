@@ -1,5 +1,5 @@
-Date: 2023-04-07 06-47-15 UTC
-Total active proxies: 415
+Date: 2023-04-07 12-57-06 UTC
+Total active proxies: 416
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -125,12 +125,12 @@ Total active proxies: 415
  🇬🇧    UK               London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f          10     3289      ❌     xtom           ❌      gb34-wireguard  
  🇬🇧    UK               London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f          10     3345      ❌     xtom           ❌      gb35-wireguard  
  🇬🇧    UK               London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f          10     3418      ❌     xtom           ❌      gb36-wireguard  
- 🇬🇧    UK               London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f     10     3502      ❌     M247           ❌      gb38-wireguard  
  🇬🇧    UK               Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::a46f       10     3527      ❌     M247           ❌      gb46-wireguard  
  🇬🇧    UK               London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f     10     3059      ✔️      31173          ❌      gb4-wireguard   
  🇬🇧    UK               London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f     10     3060      ✔️      31173          ❌      gb5-wireguard   
- 🇬🇧    UK               London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f     10     3503      ❌     M247           ✔️       gb-lon-wg-101   
+ 🇬🇧    UK               London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f     10     3503      ❌     M247           ✔️       gb-lon-wg-301   
  🇬🇧    UK               London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f     10     3501      ❌     M247           ✔️       gb-lon-wg-302   
+ 🇬🇧    UK               London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f     10     3502      ❌     M247           ✔️       gb-lon-wg-303   
  🇬🇧    UK               Manchester          10.124.2.20   146.70.133.98    2001:ac8:8b:2d::a47f       10     3528      ❌     M247           ✔️       gb-mnc-wg-001   
  🇬🇧    UK               Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::a40f       10     3521      ❌     M247           ✔️       gb-mnc-wg-002   
  🇬🇧    UK               Manchester          10.124.2.14   146.70.132.162   2001:ac8:8b:27::a41f       10     3522      ❌     M247           ✔️       gb-mnc-wg-003   
@@ -173,6 +173,7 @@ Total active proxies: 415
  🇯🇵    Japan            Tokyo               10.124.1.111  91.193.7.18      2001:ac8:40:b9::a09f       1      3365      ❌     M247           ❌      jp9-wireguard   
  🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     2400:ddc0:c000::a01f       1      3431      ❌     xtom           ✔️       jp-osa-wg-001   
  🇯🇵    Japan            Osaka               10.124.1.178  45.8.223.210     2400:ddc0:c000::a02f       1      3432      ❌     xtom           ✔️       jp-osa-wg-002   
+ 🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::a03f       1      3433      ❌     xtom           ✔️       jp-osa-wg-003   
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::a04f       1      3434      ❌     xtom           ✔️       jp-osa-wg-004   
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️       jp-tyo-wg-001   
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️       jp-tyo-wg-002   
