@@ -208,7 +208,6 @@
 10.124.2.46 Europe/Warsaw
 10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
-10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade

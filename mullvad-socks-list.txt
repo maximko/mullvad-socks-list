@@ -1,5 +1,5 @@
-Date: 2023-04-08 06-47-01 UTC
-Total active proxies: 416
+Date: 2023-04-08 12-55-33 UTC
+Total active proxies: 415
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -211,7 +211,6 @@ Total active proxies: 416
  🇵🇱    Poland           Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️       pl-waw-wg-202   
  🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      2a00:1651:0:4000::a01f     1      3086      ❌     ptisp          ❌      pt1-wireguard   
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      2a00:1651:0:4001::a02f     1      3088      ❌     ptisp          ✔️       pt-lis-wg-102   
- 🇷🇴    Romania          Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f      10     3535      ❌     M247           ✔️       ro-buh-wg-001   
  🇷🇴    Romania          Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::a02f      10     3093      ❌     M247           ✔️       ro-buh-wg-002   
  🇷🇸    Serbia           Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f       10     3033      ❌     M247           ✔️       rs-beg-wg-101   
  🇷🇸    Serbia           Belgrade            10.124.0.73   146.70.193.66    2001:ac8:7d:38::a02f       10     3073      ❌     M247           ✔️       rs-beg-wg-102   
