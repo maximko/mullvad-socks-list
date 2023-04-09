@@ -53,6 +53,7 @@
 10.124.2.12 Europe/Zurich
 10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
+10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
 10.124.0.216 America/Bogota
@@ -110,7 +111,6 @@
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
 10.124.0.45 Europe/Paris
-10.124.1.183 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
 10.124.1.16 Europe/London
