@@ -2,12 +2,6 @@
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
-10.124.1.136 Australia/Sydney
-10.124.1.137 Australia/Sydney
-10.124.1.138 Australia/Sydney
-10.124.1.139 Australia/Sydney
-10.124.1.134 Australia/Sydney
-10.124.1.135 Australia/Sydney
 10.124.0.99 Australia/Sydney
 10.124.0.156 Australia/Sydney
 10.124.0.220 Australia/Sydney
@@ -62,9 +56,6 @@
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
-10.124.1.240 Europe/Berlin
-10.124.1.241 Europe/Berlin
-10.124.1.242 Europe/Berlin
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
@@ -79,6 +70,9 @@
 10.124.1.243 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
+10.124.1.240 Europe/Berlin
+10.124.1.241 Europe/Berlin
+10.124.1.242 Europe/Berlin
 10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
@@ -202,6 +196,7 @@
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
+10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
@@ -231,10 +226,6 @@
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
-10.124.1.116 Asia/Singapore
-10.124.1.117 Asia/Singapore
-10.124.1.118 Asia/Singapore
-10.124.1.119 Asia/Singapore
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore

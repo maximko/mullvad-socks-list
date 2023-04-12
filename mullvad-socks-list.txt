@@ -1,16 +1,10 @@
-Date: 2023-04-12 06-47-09 UTC
-Total active proxies: 412
+Date: 2023-04-12 12-58-12 UTC
+Total active proxies: 403
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.36   146.70.116.130   2001:ac8:29:85::a02f       10     3544      ❌     M247           ✔️       at-vie-wg-002   
  🇦🇹    Austria          Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f       10     3545      ❌     M247           ✔️       at-vie-wg-003   
- 🇦🇺    Australia        Sydney              10.124.1.136  89.44.10.114     2001:ac8:84:33::a10f       1      3390      ❌     M247           ❌      au10-wireguard  
- 🇦🇺    Australia        Sydney              10.124.1.137  89.44.10.130     2001:ac8:84:34::a11f       1      3391      ❌     M247           ❌      au11-wireguard  
- 🇦🇺    Australia        Sydney              10.124.1.138  89.44.10.146     2001:ac8:84:35::a12f       1      3392      ❌     M247           ❌      au12-wireguard  
- 🇦🇺    Australia        Sydney              10.124.1.139  89.44.10.162     2001:ac8:84:36::a13f       1      3393      ❌     M247           ❌      au13-wireguard  
- 🇦🇺    Australia        Sydney              10.124.1.134  89.44.10.66      2001:ac8:84:31::a08f       1      3388      ❌     M247           ❌      au8-wireguard   
- 🇦🇺    Australia        Sydney              10.124.1.135  89.44.10.82      2001:ac8:84:32::a09f       1      3389      ❌     M247           ❌      au9-wireguard   
  🇦🇺    Australia        Adelaide            10.124.0.99   103.214.20.50    2404:f780:0:deb::c1f       10     3099      ❌     hostuniversal  ✔️       au-adl-wg-301   
  🇦🇺    Australia        Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f       10     3156      ❌     hostuniversal  ✔️       au-adl-wg-302   
  🇦🇺    Australia        Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::a01f      10     3220      ❌     hostuniversal  ✔️       au-bne-wg-301   
@@ -65,9 +59,6 @@ Total active proxies: 412
  🇨🇿    Czech Republic   Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f        10     3542      ❌     M247           ✔️       cz-prg-wg-102   
  🇨🇿    Czech Republic   Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::c01f     10     3565      ❌     DataPacket     ✔️       cz-prg-wg-201   
  🇨🇿    Czech Republic   Prague              10.124.2.58   178.249.209.175  2a02:6ea0:c201:1::c02f     10     3566      ❌     DataPacket     ✔️       cz-prg-wg-202   
- 🇩🇪    Germany          Frankfurt           10.124.1.240  146.70.107.194   2001:ac8:20:277::a32f      10     3494      ❌     M247           ❌      de32-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     2001:ac8:20:269::a33f      10     3495      ❌     M247           ❌      de33-wireguard  
- 🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    2001:ac8:20:270::a34f      10     3496      ❌     M247           ❌      de34-wireguard  
  🇩🇪    Germany          Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f       10     3030      ❌     xtom           ✔️       de-dus-wg-001   
  🇩🇪    Germany          Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f       10     3091      ❌     xtom           ✔️       de-dus-wg-002   
  🇩🇪    Germany          Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f       10     3092      ❌     xtom           ✔️       de-dus-wg-003   
@@ -82,6 +73,9 @@ Total active proxies: 412
  🇩🇪    Germany          Frankfurt           10.124.1.243  146.70.117.162   2001:ac8:20:274::a99f      10     3497      ❌     M247           ✔️       de-fra-wg-101   
  🇩🇪    Germany          Frankfurt           10.124.1.238  146.70.117.194   2001:ac8:20:275::a30f      10     3492      ❌     M247           ✔️       de-fra-wg-102   
  🇩🇪    Germany          Frankfurt           10.124.1.239  146.70.117.226   2001:ac8:20:276::a31f      10     3493      ❌     M247           ✔️       de-fra-wg-103   
+ 🇩🇪    Germany          Frankfurt           10.124.1.240  146.70.107.194   2001:ac8:20:277::a32f      10     3494      ❌     M247           ✔️       de-fra-wg-104   
+ 🇩🇪    Germany          Frankfurt           10.124.1.241  146.70.117.2     2001:ac8:20:269::a33f      10     3495      ❌     M247           ✔️       de-fra-wg-105   
+ 🇩🇪    Germany          Frankfurt           10.124.1.242  146.70.117.34    2001:ac8:20:270::a34f      10     3496      ❌     M247           ✔️       de-fra-wg-106   
  🇩🇪    Germany          Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f          10     3284      ❌     xtom           ✔️       de-fra-wg-301   
  🇩🇪    Germany          Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f          10     3285      ❌     xtom           ✔️       de-fra-wg-302   
  🇩🇪    Germany          Frankfurt           10.124.1.32   194.36.25.33     2a07:fe00:1::a25f          10     3286      ❌     xtom           ✔️       de-fra-wg-303   
@@ -205,6 +199,7 @@ Total active proxies: 412
  🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️       pl-waw-wg-103   
  🇵🇱    Poland           Warsaw              10.124.2.45   45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️       pl-waw-wg-201   
  🇵🇱    Poland           Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️       pl-waw-wg-202   
+ 🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      2a00:1651:0:4000::a01f     1      3086      ❌     ptisp          ✔️       pt-lis-wg-101   
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      2a00:1651:0:4001::a02f     1      3088      ❌     ptisp          ✔️       pt-lis-wg-102   
  🇷🇴    Romania          Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::a02f      10     3093      ❌     M247           ✔️       ro-buh-wg-002   
  🇷🇸    Serbia           Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f       10     3033      ❌     M247           ✔️       rs-beg-wg-101   
@@ -234,10 +229,6 @@ Total active proxies: 412
  🇸🇪    Sweden           Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f     10     3062      ✔️      31173          ✔️       se-sto-wg-011   
  🇸🇪    Sweden           Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::a26f     20     3077      ✔️      31173          ✔️       se-sto-wg-012   
  🇸🇪    Sweden           Stockholm           10.124.0.80   185.195.233.68   2a03:1b20:4:f011::a28f     20     3080      ✔️      31173          ✔️       se-sto-wg-014   
- 🇸🇬    Singapore        Singapore           10.124.1.116  94.198.43.34     2a0a:b640:1:57::a04f       1      3370      ❌     M247           ❌      sg4-wireguard   
- 🇸🇬    Singapore        Singapore           10.124.1.117  94.198.43.50     2a0a:b640:1:58::a05f       1      3371      ❌     M247           ❌      sg5-wireguard   
- 🇸🇬    Singapore        Singapore           10.124.1.118  94.198.43.66     2a0a:b640:1:59::a06f       1      3372      ❌     M247           ❌      sg6-wireguard   
- 🇸🇬    Singapore        Singapore           10.124.1.119  94.198.43.82     2a0a:b640:1:5a::a07f       1      3373      ❌     M247           ❌      sg7-wireguard   
  🇸🇬    Singapore        Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️       sg-sin-wg-001   
  🇸🇬    Singapore        Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️       sg-sin-wg-002   
  🇸🇬    Singapore        Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️       sg-sin-wg-003   
