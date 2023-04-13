@@ -1,4 +1,4 @@
-Date: 2023-04-13 01-49-17 UTC
+Date: 2023-04-13 06-47-13 UTC
 Total active proxies: 403
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
@@ -38,11 +38,11 @@ Total active proxies: 403
  🇨🇦    Canada           Vancouver           10.124.0.13   38.240.226.36    2606:9580:103:e::c01f      10     3013      ❌     techfutures    ✔️       ca-van-wg-201   
  🇨🇦    Canada           Vancouver           10.124.0.71   38.240.226.68    2606:9580:103:f::c02f      10     3071      ❌     techfutures    ✔️       ca-van-wg-202   
  🇨🇭    Switzerland      Zurich              10.124.0.25   31.7.59.250      2a02:29b8:dc01:1641::a02f  1      3025      ❌     PrivateLayer   ❌      ch2-wireguard   
- 🇨🇭    Switzerland      Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::a01f     10     3121      ✔️      31173          ❌      ch5-wireguard   
- 🇨🇭    Switzerland      Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::a02f     10     3122      ✔️      31173          ❌      ch6-wireguard   
- 🇨🇭    Switzerland      Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::a03f     10     3123      ✔️      31173          ❌      ch7-wireguard   
- 🇨🇭    Switzerland      Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::a04f     10     3124      ✔️      31173          ❌      ch8-wireguard   
  🇨🇭    Switzerland      Zurich              10.124.0.125  193.32.127.70    2a03:1b20:a:f011::a05f     10     3125      ✔️      31173          ❌      ch9-wireguard   
+ 🇨🇭    Switzerland      Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::a01f     10     3121      ✔️      31173          ✔️       ch-zrh-wg-001   
+ 🇨🇭    Switzerland      Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::a02f     10     3122      ✔️      31173          ✔️       ch-zrh-wg-002   
+ 🇨🇭    Switzerland      Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::a03f     10     3123      ✔️      31173          ✔️       ch-zrh-wg-003   
+ 🇨🇭    Switzerland      Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::a04f     10     3124      ✔️      31173          ✔️       ch-zrh-wg-004   
  🇨🇭    Switzerland      Zurich              10.124.1.213  138.199.6.194    2a02:6ea0:d406:1::a18f     10     3467      ❌     DataPacket     ✔️       ch-zrh-wg-401   
  🇨🇭    Switzerland      Zurich              10.124.1.214  138.199.6.207    2a02:6ea0:d406:2::a19f     10     3468      ❌     DataPacket     ✔️       ch-zrh-wg-402   
  🇨🇭    Switzerland      Zurich              10.124.1.215  138.199.6.220    2a02:6ea0:d406:3::a20f     10     3469      ❌     DataPacket     ✔️       ch-zrh-wg-403   
@@ -187,8 +187,8 @@ Total active proxies: 403
  🇳🇱    Netherlands      Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️       nl-ams-wg-201   
  🇳🇱    Netherlands      Amsterdam           10.124.1.254  169.150.196.15   2a02:6ea0:c034:2::a31f     10     3508      ❌     DataPacket     ✔️       nl-ams-wg-202   
  🇳🇱    Netherlands      Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f     10     3509      ❌     DataPacket     ✔️       nl-ams-wg-203   
- 🇳🇴    Norway           Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f       10     3110      ✔️      Blix           ❌      no4-wireguard   
  🇳🇴    Norway           Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f       10     3006      ✔️      Blix           ✔️       no-osl-wg-001   
+ 🇳🇴    Norway           Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f       10     3110      ✔️      Blix           ✔️       no-osl-wg-004   
  🇳🇴    Norway           Stavanger           10.124.2.38   194.127.199.2    2a02:20c8:4120::a01f       10     3546      ✔️      Blix           ✔️       no-svg-wg-001   
  🇳🇴    Norway           Stavanger           10.124.2.39   194.127.199.31   2a02:20c8:4120::a02f       10     3547      ✔️      Blix           ✔️       no-svg-wg-002   
  🇳🇴    Norway           Stavanger           10.124.2.40   194.127.199.62   2a02:20c8:4120::a03f       10     3548      ✔️      Blix           ✔️       no-svg-wg-003   
