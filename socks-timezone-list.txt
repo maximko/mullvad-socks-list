@@ -35,11 +35,11 @@
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.0.25 Europe/Zurich
-10.124.0.125 Europe/Zurich
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
+10.124.0.125 Europe/Zurich
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
@@ -47,6 +47,7 @@
 10.124.2.12 Europe/Zurich
 10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
+10.124.2.8 Europe/Zurich
 10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
@@ -99,12 +100,12 @@
 10.124.2.54 Europe/Helsinki
 10.124.2.55 Europe/Helsinki
 10.124.2.56 Europe/Helsinki
+10.124.0.45 Europe/Paris
 10.124.0.116 Europe/Paris
 10.124.0.117 Europe/Paris
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
-10.124.0.45 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
 10.124.1.16 Europe/London
@@ -116,7 +117,6 @@
 10.124.1.35 Europe/London
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
-10.124.2.19 Europe/London
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.249 Europe/London
@@ -129,6 +129,7 @@
 10.124.2.16 Europe/London
 10.124.2.17 Europe/London
 10.124.2.18 Europe/London
+10.124.2.19 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.22 Asia/Hong_Kong
@@ -172,10 +173,10 @@
 10.124.0.56 Europe/Chisinau
 10.124.1.181 Europe/Skopje
 10.124.0.4 Europe/Amsterdam
-10.124.0.113 Europe/Amsterdam
-10.124.0.114 Europe/Amsterdam
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
+10.124.0.113 Europe/Amsterdam
+10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
