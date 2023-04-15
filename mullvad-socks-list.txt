@@ -1,4 +1,4 @@
-Date: 2023-04-15 01-51-33 UTC
+Date: 2023-04-15 06-47-07 UTC
 Total active proxies: 406
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
@@ -147,12 +147,12 @@ Total active proxies: 406
  🇮🇪    Ireland          Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101   
  🇮🇪    Ireland          Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::a02f       10     3313      ❌     M247           ✔️       ie-dub-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f     10     3534      ❌     DataPacket     ✔️       il-tlv-wg-103   
- 🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       2001:ac8:24:7a::a04f       1      3375      ❌     M247           ❌      it4-wireguard   
- 🇮🇹    Italy            Milan               10.124.1.122  91.193.5.18      2001:ac8:24:7b::a05f       1      3376      ❌     M247           ❌      it5-wireguard   
  🇮🇹    Italy            Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️       it-mil-wg-001   
  🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️       it-mil-wg-002   
  🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️       it-mil-wg-003   
+ 🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       2001:ac8:24:7a::a04f       1      3375      ❌     M247           ✔️       it-mil-wg-103   
  🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      2001:ac8:24:7c::a06f       1      3377      ❌     M247           ✔️       it-mil-wg-104   
+ 🇮🇹    Italy            Milan               10.124.1.125  37.120.201.114   2001:ac8:24:49::a08f       1      3379      ❌     M247           ✔️       it-mil-wg-105   
  🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    2001:ac8:24:50::a07f       1      3378      ❌     M247           ✔️       it-mil-wg-106   
  🇮🇹    Italy            Rome                10.124.0.16   152.89.170.112   2a05:4140:15::a01f         1      3016      ❌     c1vhosting     ✔️       it-rom-wg-001   
  🇮🇹    Italy            Rome                10.124.0.23   152.89.170.128   2a05:4140:15::a02f         1      3023      ❌     c1vhosting     ✔️       it-rom-wg-002   
