@@ -1,5 +1,5 @@
-Date: 2023-04-17 06-47-16 UTC
-Total active proxies: 409
+Date: 2023-04-17 12-58-28 UTC
+Total active proxies: 411
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -147,6 +147,8 @@ Total active proxies: 409
  🇭🇺    Hungary          Budapest            10.124.0.228  146.70.196.130   2001:ac8:26:54::a02f       10     3228      ❌     M247           ✔️       hu-bud-wg-102   
  🇮🇪    Ireland          Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101   
  🇮🇪    Ireland          Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::a02f       10     3313      ❌     M247           ✔️       ie-dub-wg-102   
+ 🇮🇱    Israel           Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️       il-tlv-wg-101   
+ 🇮🇱    Israel           Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f     10     3533      ❌     DataPacket     ✔️       il-tlv-wg-102   
  🇮🇱    Israel           Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f     10     3534      ❌     DataPacket     ✔️       il-tlv-wg-103   
  🇮🇹    Italy            Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️       it-mil-wg-001   
  🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️       it-mil-wg-002   

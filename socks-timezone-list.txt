@@ -144,6 +144,8 @@
 10.124.0.228 Europe/Budapest
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
+10.124.2.5 Asia/Jerusalem
+10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
