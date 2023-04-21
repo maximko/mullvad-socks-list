@@ -233,7 +233,7 @@
 10.124.0.77 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
 10.124.1.244 Asia/Singapore
-;; communications error to 1.1.1.1#53: timed out Asia/Singapore
+10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
