@@ -1,5 +1,5 @@
-Date: 2023-04-25 01-52-41 UTC
-Total active proxies: 409
+Date: 2023-04-25 06-47-18 UTC
+Total active proxies: 406
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -23,7 +23,6 @@ Total active proxies: 409
  🇧🇬    Bulgaria         Sofia               10.124.0.226  146.70.188.194   2001:ac8:30:57::a02f       10     3226      ❌     M247           ✔️       bg-sof-wg-002   
  🇧🇷    Brazil           Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f     10     3539      ❌     DataPacket     ✔️       br-sao-wg-201   
  🇧🇷    Brazil           Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f     10     3540      ❌     DataPacket     ✔️       br-sao-wg-202   
- 🇨🇦    Canada           Toronto             10.124.0.47   198.54.132.82    2607:9000:6000:15::a22f    2      3047      ❌     Tzulo          ❌      ca22-wireguard  
  🇨🇦    Canada           Montreal            10.124.0.231  146.70.198.66    2a0d:5600:9:c::a01f        10     3231      ❌     M247           ✔️       ca-mtr-wg-001   
  🇨🇦    Canada           Montreal            10.124.0.232  146.70.198.130   2a0d:5600:9:d::a02f        10     3232      ❌     M247           ✔️       ca-mtr-wg-002   
  🇨🇦    Canada           Montreal            10.124.0.233  146.70.198.194   2a0d:5600:9:e::a02f        10     3233      ❌     M247           ✔️       ca-mtr-wg-003   
@@ -174,10 +173,8 @@ Total active proxies: 409
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      2001:ac8:40:bb::a11f       1      3367      ❌     M247           ✔️       jp-tyo-wg-106   
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      2001:ac8:40:bc::a12f       1      3368      ❌     M247           ✔️       jp-tyo-wg-107   
  🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      2001:ac8:40:bd::a13f       1      3369      ❌     M247           ✔️       jp-tyo-wg-108   
- 🇱🇺    Luxembourg       Luxembourg          10.124.0.154  92.223.89.165    2a03:90c0:83:2953::a02f    1      3154      ❌     Evoluso        ❌      lu2-wireguard   
  🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    2a03:90c0:83:2953::a01f    1      3136      ❌     Evoluso        ❌      lu-lux-wg-001   
  🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     2a00:c68:0:cbd0::a01f      1      3081      ❌     Makonix        ✔️       lv-rix-wg-001   
- 🇲🇩    Moldova          Chisinau            10.124.0.56   178.175.131.98   2a00:1dc0:2925:10::a01f    1      3056      ❌     Trabia         ❌      md1-wireguard   
  🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   2a0d:4500::a01f            1      3435      ❌     Interspace     ❌      mk1-wireguard   
  🇳🇱    Netherlands      Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::a01f     20     3004      ✔️      31173          ✔️       nl-ams-wg-001   
  🇳🇱    Netherlands      Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f     20     3039      ✔️      31173          ✔️       nl-ams-wg-002   
