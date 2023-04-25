@@ -236,7 +236,6 @@
 10.124.0.102 Asia/Singapore
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
-10.124.0.18 America/Chicago
 10.124.1.141 America/New_York
 10.124.1.143 America/New_York
 10.124.1.144 America/New_York

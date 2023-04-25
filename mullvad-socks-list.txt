@@ -1,5 +1,5 @@
-Date: 2023-04-25 06-47-18 UTC
-Total active proxies: 406
+Date: 2023-04-25 12-57-55 UTC
+Total active proxies: 405
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001   
@@ -175,7 +175,7 @@ Total active proxies: 406
  🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      2001:ac8:40:bd::a13f       1      3369      ❌     M247           ✔️       jp-tyo-wg-108   
  🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    2a03:90c0:83:2953::a01f    1      3136      ❌     Evoluso        ❌      lu-lux-wg-001   
  🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     2a00:c68:0:cbd0::a01f      1      3081      ❌     Makonix        ✔️       lv-rix-wg-001   
- 🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   2a0d:4500::a01f            1      3435      ❌     Interspace     ❌      mk1-wireguard   
+ 🇲🇰    North Macedonia  Skopje              10.124.1.181  185.225.28.146   2a0d:4500::a01f            1      3435      ❌     Interspace     ❌      mk-skp-wg-001   
  🇳🇱    Netherlands      Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::a01f     20     3004      ✔️      31173          ✔️       nl-ams-wg-001   
  🇳🇱    Netherlands      Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f     20     3039      ✔️      31173          ✔️       nl-ams-wg-002   
  🇳🇱    Netherlands      Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::a03f     10     3040      ✔️      31173          ✔️       nl-ams-wg-003   
@@ -239,7 +239,6 @@ Total active proxies: 406
  🇸🇬    Singapore        Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️       sg-sin-wg-102   
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::a01f     10     3511      ❌     DataPacket     ✔️       sk-bts-wg-001   
  🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️       sk-bts-wg-002   
- 🇺🇸    USA              Chicago, IL         10.124.0.18   68.235.44.2      2607:9000:0:67::b28f       2      3018      ❌     Tzulo          ❌      us128-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.141  94.198.42.114    2a0d:5600:6:37::b55f       1      3395      ❌     M247           ❌      us155-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.143  94.198.42.146    2a0d:5600:6:39::b57f       1      3397      ❌     M247           ❌      us157-wireguard 
  🇺🇸    USA              Miami, FL           10.124.1.144  94.198.42.162    2a0d:5600:6:40::b58f       1      3398      ❌     M247           ❌      us158-wireguard 
