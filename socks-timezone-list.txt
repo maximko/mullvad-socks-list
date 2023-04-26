@@ -171,6 +171,7 @@
 10.124.1.114 Asia/Tokyo
 10.124.1.115 Asia/Tokyo
 10.124.0.136 Europe/Luxembourg
+10.124.0.154 Europe/Luxembourg
 10.124.0.81 Europe/Riga
 10.124.0.56 Europe/Chisinau
 10.124.1.181 Europe/Skopje
@@ -206,7 +207,6 @@
 10.124.0.88 Europe/Lisbon
 10.124.0.93 Europe/Bucharest
 10.124.0.65 Europe/Stockholm
-10.124.0.185 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
 10.124.0.20 Europe/Stockholm
