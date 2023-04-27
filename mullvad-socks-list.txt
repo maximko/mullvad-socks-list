@@ -1,4 +1,4 @@
-Date: 2023-04-27 01-52-10 UTC
+Date: 2023-04-27 06-47-08 UTC
 Total active proxies: 406
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname        
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001   
@@ -115,8 +115,8 @@ Total active proxies: 406
  🇬🇧    UK               London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f          10     3289      ❌     xtom           ❌      gb34-wireguard  
  🇬🇧    UK               London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f          10     3345      ❌     xtom           ❌      gb35-wireguard  
  🇬🇧    UK               London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f          10     3418      ❌     xtom           ❌      gb36-wireguard  
- 🇬🇧    UK               London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f     10     3059      ✔️      31173          ❌      gb4-wireguard   
- 🇬🇧    UK               London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f     10     3060      ✔️      31173          ❌      gb5-wireguard   
+ 🇬🇧    UK               London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f     10     3059      ✔️      31173          ✔️       gb-lon-wg-001   
+ 🇬🇧    UK               London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f     10     3060      ✔️      31173          ✔️       gb-lon-wg-002   
  🇬🇧    UK               London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f     10     3270      ✔️      31173          ✔️       gb-lon-wg-003   
  🇬🇧    UK               London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f     10     3271      ✔️      31173          ✔️       gb-lon-wg-004   
  🇬🇧    UK               London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f     10     3272      ✔️      31173          ✔️       gb-lon-wg-005   
