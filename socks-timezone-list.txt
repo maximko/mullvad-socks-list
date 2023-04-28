@@ -206,13 +206,11 @@
 10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
 10.124.0.93 Europe/Bucharest
+10.124.0.33 Europe/Belgrade
+10.124.0.73 Europe/Belgrade
 10.124.0.65 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
-10.124.0.2 Europe/Stockholm
-10.124.0.20 Europe/Stockholm
-10.124.0.28 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
-10.124.0.152 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
