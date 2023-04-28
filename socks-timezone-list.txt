@@ -208,10 +208,13 @@
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade
-10.124.0.65 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
+10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
+10.124.0.152 Europe/Stockholm
+10.124.0.65 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
+10.124.0.2 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
@@ -307,9 +310,9 @@
 10.124.0.180 America/Los_Angeles
 10.124.0.181 America/Los_Angeles
 10.124.0.182 America/Los_Angeles
-10.124.0.83 America/Los_Angeles
-10.124.2.29 America/Los_Angeles
-10.124.2.30 America/Los_Angeles
+10.124.0.83 America/Chicago
+10.124.2.29 America/Chicago
+10.124.2.30 America/Chicago
 10.124.1.174 America/Los_Angeles
 10.124.0.162 America/Los_Angeles
 10.124.0.163 America/Los_Angeles
