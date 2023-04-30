@@ -33,7 +33,6 @@
 10.124.0.68 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
-10.124.0.25 Europe/Zurich
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
@@ -108,10 +107,6 @@
 10.124.0.120 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
-10.124.1.34 Europe/London
-10.124.1.35 Europe/London
-10.124.1.91 Europe/London
-10.124.1.164 Europe/London
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.16 Europe/London
@@ -119,6 +114,10 @@
 10.124.1.18 Europe/London
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
+10.124.1.34 Europe/London
+10.124.1.35 Europe/London
+10.124.1.91 Europe/London
+10.124.1.164 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.1.248 Europe/London
@@ -157,7 +156,6 @@
 10.124.0.16 Europe/Rome
 10.124.0.23 Europe/Rome
 10.124.1.177 Asia/Tokyo
-10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
@@ -201,7 +199,6 @@
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
-10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
@@ -241,17 +238,6 @@
 10.124.0.102 Asia/Singapore
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
-10.124.1.141 America/New_York
-10.124.1.143 America/New_York
-10.124.1.144 America/New_York
-10.124.1.145 America/New_York
-10.124.1.146 America/New_York
-10.124.1.147 America/New_York
-10.124.1.148 America/New_York
-10.124.1.149 America/New_York
-10.124.1.150 America/New_York
-10.124.1.151 America/New_York
-10.124.1.152 America/New_York
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
 10.124.1.153 America/Chicago
@@ -266,6 +252,7 @@
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
 10.124.0.170 America/New_York
+10.124.0.18 America/Chicago
 10.124.0.38 America/Chicago
 10.124.0.46 America/Chicago
 10.124.0.52 America/Chicago
@@ -331,7 +318,6 @@
 10.124.0.82 America/New_York
 10.124.0.89 America/New_York
 10.124.0.157 America/New_York
-10.124.0.153 America/New_York
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
