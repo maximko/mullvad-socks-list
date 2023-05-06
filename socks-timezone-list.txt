@@ -170,6 +170,9 @@
 10.124.1.113 Asia/Tokyo
 10.124.1.114 Asia/Tokyo
 10.124.1.115 Asia/Tokyo
+10.124.0.107 Asia/Tokyo
+10.124.0.160 Asia/Tokyo
+10.124.0.161 Asia/Tokyo
 10.124.0.136 Europe/Luxembourg
 10.124.0.154 Europe/Luxembourg
 10.124.0.81 Europe/Riga
