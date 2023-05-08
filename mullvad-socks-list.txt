@@ -1,4 +1,4 @@
-Date: 2023-05-08 01-51-46 UTC
+Date: 2023-05-08 06-47-00 UTC
 Total active proxies: 401
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
@@ -173,9 +173,9 @@ Total active proxies: 401
  🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      2001:ac8:40:bb::a11f       1      3367      ❌     M247           ✔️       jp-tyo-wg-106 
  🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      2001:ac8:40:bc::a12f       1      3368      ❌     M247           ✔️       jp-tyo-wg-107 
  🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      2001:ac8:40:bd::a13f       1      3369      ❌     M247           ✔️       jp-tyo-wg-108 
- 🇯🇵    Japan            Tokyo               10.124.0.107  146.70.138.194   2a0d:5600:6:104::b01f      10     3107      ❌     M247           ✔️       jp-tyo-wg-201 
- 🇯🇵    Japan            Tokyo               10.124.0.160  146.70.201.2     2a0d:5600:6:105::b02f      10     3160      ❌     M247           ✔️       jp-tyo-wg-202 
- 🇯🇵    Japan            Tokyo               10.124.0.161  146.70.201.66    2a0d:5600:6:106::b03f      10     3161      ❌     M247           ✔️       jp-tyo-wg-203 
+ 🇯🇵    Japan            Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️       jp-tyo-wg-201 
+ 🇯🇵    Japan            Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f       10     3160      ❌     M247           ✔️       jp-tyo-wg-202 
+ 🇯🇵    Japan            Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f       10     3161      ❌     M247           ✔️       jp-tyo-wg-203 
  🇱🇺    Luxembourg       Luxembourg          10.124.0.136  92.223.89.181    2a03:90c0:83:2953::a01f    1      3136      ❌     Evoluso        ❌      lu-lux-wg-001 
  🇱🇺    Luxembourg       Luxembourg          10.124.0.154  92.223.89.165    2a03:90c0:83:2953::a02f    1      3154      ❌     Evoluso        ❌      lu-lux-wg-002 
  🇱🇻    Latvia           Riga                10.124.0.81   31.170.22.15     2a00:c68:0:cbd0::a01f      1      3081      ❌     Makonix        ✔️       lv-rix-wg-001 
