@@ -1,5 +1,5 @@
-Date: 2023-05-11 06-47-23 UTC
-Total active proxies: 401
+Date: 2023-05-11 12-57-54 UTC
+Total active proxies: 399
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -187,10 +187,6 @@ Total active proxies: 401
  🇳🇱    Netherlands      Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::a04f     20     3113      ✔️      31173          ✔️       nl-ams-wg-004 
  🇳🇱    Netherlands      Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::a05f     20     3114      ✔️      31173          ✔️       nl-ams-wg-005 
  🇳🇱    Netherlands      Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::a06f     20     3094      ✔️      31173          ✔️       nl-ams-wg-006 
- 🇳🇱    Netherlands      Amsterdam           10.124.0.19   92.60.40.194     2a0c:59c0:18::a20f         10     3019      ❌     xtom           ✔️       nl-ams-wg-101 
- 🇳🇱    Netherlands      Amsterdam           10.124.0.41   92.60.40.209     2a0c:59c0:18::a21f         10     3041      ❌     xtom           ✔️       nl-ams-wg-102 
- 🇳🇱    Netherlands      Amsterdam           10.124.0.48   92.60.40.224     2a0c:59c0:18::a22f         10     3048      ❌     xtom           ✔️       nl-ams-wg-103 
- 🇳🇱    Netherlands      Amsterdam           10.124.0.95   92.60.40.239     2a0c:59c0:18::a23f         10     3095      ❌     xtom           ✔️       nl-ams-wg-104 
  🇳🇱    Netherlands      Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️       nl-ams-wg-201 
  🇳🇱    Netherlands      Amsterdam           10.124.1.254  169.150.196.15   2a02:6ea0:c034:2::a31f     10     3508      ❌     DataPacket     ✔️       nl-ams-wg-202 
  🇳🇱    Netherlands      Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f     10     3509      ❌     DataPacket     ✔️       nl-ams-wg-203 
@@ -246,6 +242,8 @@ Total active proxies: 401
  🇸🇬    Singapore        Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️       sg-sin-wg-102 
  🇸🇰    Slovakia         Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::a01f     10     3511      ❌     DataPacket     ✔️       sk-bts-wg-001 
  🇸🇰    Slovakia         Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️       sk-bts-wg-002 
+ 🇺🇦    Ukraine          Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f     10     3025      ❌     DataPacket     ✔️       ua-iev-wg-001 
+ 🇺🇦    Ukraine          Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f     10     3195      ❌     DataPacket     ✔️       ua-iev-wg-002 
  🇺🇸    USA              Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f     10     3487      ❌     DataPacket     ✔️       us-atl-wg-001 
  🇺🇸    USA              Atlanta, GA         10.124.1.234  45.134.140.143   2a02:6ea0:c122:2::b80f     10     3488      ❌     DataPacket     ✔️       us-atl-wg-002 
  🇺🇸    USA              Atlanta, GA         10.124.1.153  66.115.180.231   2607:f7a0:1:d::b67f        1      3407      ❌     100TB          ✔️       us-atl-wg-101 

@@ -184,10 +184,6 @@
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
-10.124.0.19 Europe/Amsterdam
-10.124.0.41 Europe/Amsterdam
-10.124.0.48 Europe/Amsterdam
-10.124.0.95 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
@@ -243,6 +239,8 @@
 10.124.0.102 Asia/Singapore
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
+10.124.0.25 Europe/Kyiv
+10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
 10.124.1.153 America/Chicago
