@@ -33,8 +33,8 @@
 10.124.0.68 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
-10.124.0.174 America/Toronto
-10.124.0.178 America/Toronto
+10.124.0.174 America/Edmonton
+10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
@@ -154,7 +154,7 @@
 10.124.1.208 Europe/Rome
 10.124.1.122 Europe/Rome
 10.124.1.121 Europe/Rome
-;; communications error to 1.1.1.1#53: timed out Europe/Rome
+10.124.1.123 Europe/Rome
 10.124.1.125 Europe/Rome
 10.124.1.124 Europe/Rome
 10.124.0.16 Europe/Rome
