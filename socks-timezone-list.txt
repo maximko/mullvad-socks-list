@@ -154,7 +154,7 @@
 10.124.1.208 Europe/Rome
 10.124.1.122 Europe/Rome
 10.124.1.121 Europe/Rome
-10.124.1.123 Europe/Rome
+;; communications error to 1.1.1.1#53: timed out Europe/Rome
 10.124.1.125 Europe/Rome
 10.124.1.124 Europe/Rome
 10.124.0.16 Europe/Rome
