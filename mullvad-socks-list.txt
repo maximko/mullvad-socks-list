@@ -1,5 +1,5 @@
-Date: 2023-05-19 06-47-07 UTC
-Total active proxies: 398
+Date: 2023-05-19 12-56-33 UTC
+Total active proxies: 396
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -307,10 +307,6 @@ Total active proxies: 398
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::b54f     10     3447      ❌     DataPacket     ✔️       us-hou-wg-002 
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️       us-hou-wg-003 
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    2a02:6ea0:e001:3::b56f     10     3449      ❌     DataPacket     ✔️       us-hou-wg-004 
- 🇺🇸    USA              Los Angeles, CA     10.124.0.179  198.54.129.66    2607:9000:3000:16::a48f    1      3179      ❌     Tzulo          ✔️       us-lax-wg-101 
- 🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.54.129.58    2607:9000:3000:15::a49f    1      3180      ❌     Tzulo          ✔️       us-lax-wg-102 
- 🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.54.129.50    2607:9000:3000:14::a50f    1      3181      ❌     Tzulo          ✔️       us-lax-wg-103 
- 🇺🇸    USA              Los Angeles, CA     10.124.0.182  198.54.129.42    2607:9000:3000:13::a51f    1      3182      ❌     Tzulo          ✔️       us-lax-wg-104 
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️       us-lax-wg-201 
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️       us-lax-wg-202 
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️       us-lax-wg-203 
@@ -361,6 +357,7 @@ Total active proxies: 398
  🇺🇸    USA              Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f     10     3483      ❌     DataPacket     ✔️       us-sea-wg-001 
  🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::b74f     10     3482      ❌     DataPacket     ✔️       us-sea-wg-002 
  🇺🇸    USA              Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f     10     3481      ❌     DataPacket     ✔️       us-sea-wg-003 
+ 🇺🇸    USA              Seattle, WA         10.124.0.1    198.54.131.130   2607:9000:5000:15::b77f    10     3001      ❌     Tzulo          ✔️       us-sea-wg-101 
  🇺🇸    USA              Seattle, WA         10.124.0.98   199.229.250.52   2607:f7a0:c:4::c09f        1      3098      ❌     100TB          ✔️       us-sea-wg-201 
  🇺🇸    USA              Seattle, WA         10.124.0.101  199.229.250.53   2607:f7a0:c:4::c10f        1      3101      ❌     100TB          ✔️       us-sea-wg-202 
  🇺🇸    USA              Seattle, WA         10.124.0.103  199.229.250.54   2607:f7a0:c:4::c11f        1      3103      ❌     100TB          ✔️       us-sea-wg-203 
@@ -399,5 +396,6 @@ Total active proxies: 398
  🇿🇦    South Africa     Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::a01f       10     3567      ❌     DataPacket     ✔️       za-jnb-wg-001 
  🇿🇦    South Africa     Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::a02f       10     3568      ❌     DataPacket     ✔️       za-jnb-wg-002 
 Failed to resovle:
- flag  country  city          socks5                                   ipv4           ipv6                   speed  multihop  owned  provider  stboot  hostname      
- 🇺🇸    USA      San Jose, CA  us-sjc-wg-socks5-001.relays.mullvad.net  198.54.134.98  2607:9000:8000:14::3f  10     3078      ❌     Tzulo     ✔️       us-sjc-wg-001 
+ flag  country  city          socks5                                   ipv4           ipv6                     speed  multihop  owned  provider  stboot  hostname      
+ 🇺🇸    USA      Seattle, WA   us-sea-wg-socks5-103.relays.mullvad.net  198.54.131.98  2607:9000:5000:14::b03f  10     3005      ❌     Tzulo     ✔️       us-sea-wg-103 
+ 🇺🇸    USA      San Jose, CA  us-sjc-wg-socks5-001.relays.mullvad.net  198.54.134.98  2607:9000:8000:14::3f    10     3078      ❌     Tzulo     ✔️       us-sjc-wg-001 
