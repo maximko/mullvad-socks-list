@@ -1,5 +1,5 @@
-Date: 2023-05-22 06-47-08 UTC
-Total active proxies: 396
+Date: 2023-05-22 12-56-59 UTC
+Total active proxies: 400
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -307,6 +307,9 @@ Total active proxies: 396
  🇺🇸    USA              Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::b54f     10     3447      ❌     DataPacket     ✔️       us-hou-wg-002 
  🇺🇸    USA              Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️       us-hou-wg-003 
  🇺🇸    USA              Houston, TX         10.124.1.195  37.19.221.169    2a02:6ea0:e001:3::b56f     10     3449      ❌     DataPacket     ✔️       us-hou-wg-004 
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.180  198.44.129.98    2607:9000:3000:15::a49f    10     3180      ❌     Tzulo          ✔️       us-lax-wg-101 
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.181  198.44.129.66    2607:9000:3000:14::a50f    10     3181      ❌     Tzulo          ✔️       us-lax-wg-102 
+ 🇺🇸    USA              Los Angeles, CA     10.124.0.182  198.44.129.34    2607:9000:3000:13::a51f    10     3182      ❌     Tzulo          ✔️       us-lax-wg-103 
  🇺🇸    USA              Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️       us-lax-wg-201 
  🇺🇸    USA              Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️       us-lax-wg-202 
  🇺🇸    USA              Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️       us-lax-wg-203 
@@ -354,6 +357,7 @@ Total active proxies: 396
  🇺🇸    USA              Raleigh, NC         10.124.0.12   198.54.130.98    2607:9000:4000:16::b84f    1      3012      ❌     Tzulo          ✔️       us-rag-wg-102 
  🇺🇸    USA              Raleigh, NC         10.124.0.22   198.54.130.114   2607:9000:4000:17::b85f    1      3022      ❌     Tzulo          ✔️       us-rag-wg-103 
  🇺🇸    USA              Raleigh, NC         10.124.0.24   198.54.130.130   2607:9000:4000:18::b86f    1      3024      ❌     Tzulo          ✔️       us-rag-wg-104 
+ 🇺🇸    USA              Raleigh, NC         10.124.0.26   198.54.130.146   2607:9000:4000:19::b87f    1      3026      ❌     Tzulo          ✔️       us-rag-wg-105 
  🇺🇸    USA              Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f     10     3483      ❌     DataPacket     ✔️       us-sea-wg-001 
  🇺🇸    USA              Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::b74f     10     3482      ❌     DataPacket     ✔️       us-sea-wg-002 
  🇺🇸    USA              Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f     10     3481      ❌     DataPacket     ✔️       us-sea-wg-003 
