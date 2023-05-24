@@ -141,14 +141,14 @@
 10.124.1.22 Asia/Hong_Kong
 10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
-;; communications error to 1.1.1.1#53: timed out Europe/Zagreb
+10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
-;; communications error to 1.1.1.1#53: timed out Asia/Jerusalem
+10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
@@ -375,8 +375,8 @@
 10.124.0.96 America/Los_Angeles
 10.124.0.97 America/Los_Angeles
 10.124.0.131 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
-;; Warning: ID mismatch: expected ID 28363, got 17357 America/Los_Angeles
+10.124.0.132 America/Los_Angeles
+10.124.0.133 America/Los_Angeles
 10.124.0.134 America/Los_Angeles
 10.124.0.135 America/Los_Angeles
 10.124.0.137 America/Los_Angeles
