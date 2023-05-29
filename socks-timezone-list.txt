@@ -80,9 +80,9 @@
 10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
-10.124.1.33 Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
 10.124.1.250 Europe/Berlin
-10.124.1.251 Europe/Berlin
+;; Warning: ID mismatch: expected ID 53360, got 6353 Europe/Berlin
 10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
