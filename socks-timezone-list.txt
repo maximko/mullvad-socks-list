@@ -168,8 +168,8 @@
 10.124.1.111 Asia/Tokyo
 10.124.1.112 Asia/Tokyo
 10.124.1.113 Asia/Tokyo
-10.124.1.114 Asia/Tokyo
-10.124.1.115 Asia/Tokyo
+;; communications error to 1.1.1.1#53: timed out Asia/Tokyo
+;; Warning: ID mismatch: expected ID 20164, got 61432 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
@@ -206,6 +206,7 @@
 10.124.1.221 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.86 Europe/Lisbon
+10.124.0.88 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
