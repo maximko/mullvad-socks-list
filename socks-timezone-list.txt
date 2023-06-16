@@ -190,10 +190,6 @@
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
-10.124.0.19 Europe/Amsterdam
-10.124.0.41 Europe/Amsterdam
-10.124.0.48 Europe/Amsterdam
-10.124.0.95 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
