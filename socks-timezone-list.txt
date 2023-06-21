@@ -234,13 +234,11 @@
 10.124.2.49 Europe/Stockholm
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
-10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
 10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
-10.124.0.80 Europe/Stockholm
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
