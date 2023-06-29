@@ -35,9 +35,9 @@
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.0.174 America/Edmonton
-;; communications error to 1.1.1.1#53: timed out America/Edmonton
+10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
-;; Warning: ID mismatch: expected ID 9996, got 7759 Europe/Zurich
+10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
