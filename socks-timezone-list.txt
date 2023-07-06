@@ -31,7 +31,7 @@
 10.124.0.63 America/Toronto
 10.124.0.66 America/Toronto
 10.124.0.67 America/Toronto
-10.124.0.68 America/Toronto
+;; communications error to 1.1.1.1#53: timed out America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.0.174 America/Edmonton
