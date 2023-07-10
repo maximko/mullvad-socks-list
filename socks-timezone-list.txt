@@ -84,9 +84,9 @@
 10.124.1.242 Europe/Berlin
 10.124.1.32 Europe/Berlin
 10.124.1.33 Europe/Berlin
-10.124.1.250 Europe/Prague
-10.124.1.251 Europe/Prague
-10.124.1.252 Europe/Prague
+10.124.1.250 Europe/Berlin
+10.124.1.251 Europe/Berlin
+10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.0.141 Europe/Copenhagen
@@ -209,7 +209,6 @@
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
-10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
