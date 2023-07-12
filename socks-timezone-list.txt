@@ -158,11 +158,6 @@
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
 10.124.1.208 Europe/Rome
-10.124.1.122 Europe/Rome
-10.124.1.121 Europe/Rome
-10.124.1.123 Europe/Rome
-10.124.1.125 Europe/Rome
-10.124.1.124 Europe/Rome
 10.124.1.177 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
@@ -299,6 +294,7 @@
 10.124.0.176 America/Denver
 10.124.0.177 America/Denver
 10.124.1.196 America/Denver
+10.124.1.197 America/Denver
 10.124.1.198 America/Denver
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
