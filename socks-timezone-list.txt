@@ -205,6 +205,7 @@
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
+10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
@@ -232,7 +233,6 @@
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
-10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm

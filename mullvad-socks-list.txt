@@ -1,4 +1,4 @@
-Date: 2023-07-13 06-47-08 UTC
+Date: 2023-07-13 13-05-45 UTC
 Total active proxies: 396
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
@@ -208,6 +208,7 @@ Total active proxies: 396
  🇵🇱    Poland           Warsaw              10.124.1.219  45.134.212.66    2a02:6ea0:ce08:1::a05f     10     3473      ❌     DataPacket     ✔️       pl-waw-wg-101 
  🇵🇱    Poland           Warsaw              10.124.1.220  45.134.212.79    2a02:6ea0:ce08:2::a06f     10     3474      ❌     DataPacket     ✔️       pl-waw-wg-102 
  🇵🇱    Poland           Warsaw              10.124.1.221  45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️       pl-waw-wg-103 
+ 🇵🇱    Poland           Warsaw              10.124.2.45   45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️       pl-waw-wg-201 
  🇵🇱    Poland           Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️       pl-waw-wg-202 
  🇵🇹    Portugal         Lisbon              10.124.0.86   94.46.24.33      2a00:1651:0:4000::a01f     1      3086      ❌     ptisp          ✔️       pt-lis-wg-101 
  🇵🇹    Portugal         Lisbon              10.124.0.88   94.46.24.49      2a00:1651:0:4001::a02f     1      3088      ❌     ptisp          ✔️       pt-lis-wg-102 
@@ -235,7 +236,6 @@ Total active proxies: 396
  🇸🇪    Sweden           Stockholm           10.124.2.50   185.65.135.72    2a03:1b20:4:f011::a05f     10     3558      ✔️      31173          ✔️       se-sto-wg-005 
  🇸🇪    Sweden           Stockholm           10.124.2.51   185.65.135.73    2a03:1b20:4:f011::a06f     10     3559      ✔️      31173          ✔️       se-sto-wg-006 
  🇸🇪    Sweden           Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::a14f     10     3173      ✔️      31173          ✔️       se-sto-wg-008 
- 🇸🇪    Sweden           Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f     10     3050      ✔️      31173          ✔️       se-sto-wg-009 
  🇸🇪    Sweden           Stockholm           10.124.0.61   185.195.233.70   2a03:1b20:4:f011::a10f     10     3061      ✔️      31173          ✔️       se-sto-wg-010 
  🇸🇪    Sweden           Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f     10     3062      ✔️      31173          ✔️       se-sto-wg-011 
  🇸🇪    Sweden           Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::a26f     20     3077      ✔️      31173          ✔️       se-sto-wg-012 
