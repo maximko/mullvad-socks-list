@@ -1,5 +1,5 @@
-Date: 2023-07-14 02-20-19 UTC
-Total active proxies: 396
+Date: 2023-07-14 06-47-17 UTC
+Total active proxies: 402
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -161,6 +161,11 @@ Total active proxies: 396
  🇮🇹    Italy            Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️       it-mil-wg-001 
  🇮🇹    Italy            Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️       it-mil-wg-002 
  🇮🇹    Italy            Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️       it-mil-wg-003 
+ 🇮🇹    Italy            Milan               10.124.1.122  91.193.5.18      2001:ac8:24:7b::a05f       1      3376      ❌     M247           ✔️       it-mil-wg-102 
+ 🇮🇹    Italy            Milan               10.124.1.121  91.193.5.2       2001:ac8:24:7a::a04f       1      3375      ❌     M247           ✔️       it-mil-wg-103 
+ 🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      2001:ac8:24:7c::a06f       1      3377      ❌     M247           ✔️       it-mil-wg-104 
+ 🇮🇹    Italy            Milan               10.124.1.125  37.120.201.114   2001:ac8:24:49::a08f       1      3379      ❌     M247           ✔️       it-mil-wg-105 
+ 🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    2001:ac8:24:50::a07f       1      3378      ❌     M247           ✔️       it-mil-wg-106 
  🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     2400:ddc0:c000::a01f       1      3431      ❌     xtom           ✔️       jp-osa-wg-001 
  🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::a03f       1      3433      ❌     xtom           ✔️       jp-osa-wg-003 
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::a04f       1      3434      ❌     xtom           ✔️       jp-osa-wg-004 
@@ -236,6 +241,7 @@ Total active proxies: 396
  🇸🇪    Sweden           Stockholm           10.124.2.50   185.65.135.72    2a03:1b20:4:f011::a05f     10     3558      ✔️      31173          ✔️       se-sto-wg-005 
  🇸🇪    Sweden           Stockholm           10.124.2.51   185.65.135.73    2a03:1b20:4:f011::a06f     10     3559      ✔️      31173          ✔️       se-sto-wg-006 
  🇸🇪    Sweden           Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::a14f     10     3173      ✔️      31173          ✔️       se-sto-wg-008 
+ 🇸🇪    Sweden           Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f     10     3050      ✔️      31173          ✔️       se-sto-wg-009 
  🇸🇪    Sweden           Stockholm           10.124.0.61   185.195.233.70   2a03:1b20:4:f011::a10f     10     3061      ✔️      31173          ✔️       se-sto-wg-010 
  🇸🇪    Sweden           Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f     10     3062      ✔️      31173          ✔️       se-sto-wg-011 
  🇸🇪    Sweden           Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::a26f     20     3077      ✔️      31173          ✔️       se-sto-wg-012 

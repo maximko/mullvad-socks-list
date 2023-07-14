@@ -158,6 +158,11 @@
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
 10.124.1.208 Europe/Rome
+10.124.1.122 Europe/Rome
+10.124.1.121 Europe/Rome
+10.124.1.123 Europe/Rome
+10.124.1.125 Europe/Rome
+10.124.1.124 Europe/Rome
 10.124.1.177 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
@@ -233,6 +238,7 @@
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
+10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
