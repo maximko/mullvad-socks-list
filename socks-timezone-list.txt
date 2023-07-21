@@ -25,6 +25,11 @@
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
 10.124.0.234 America/Toronto
+10.124.0.47 America/Toronto
+10.124.0.51 America/Toronto
+10.124.0.63 America/Toronto
+10.124.0.66 America/Toronto
+10.124.0.67 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.0.174 America/Edmonton
