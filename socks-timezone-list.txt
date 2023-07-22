@@ -25,10 +25,12 @@
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
 10.124.0.234 America/Toronto
+10.124.1.235 America/Toronto
+10.124.1.236 America/Toronto
 10.124.0.47 America/Toronto
 10.124.0.51 America/Toronto
 10.124.0.63 America/Toronto
-;; communications error to 1.1.1.1#53: timed out America/Toronto
+10.124.0.66 America/Toronto
 10.124.0.67 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
