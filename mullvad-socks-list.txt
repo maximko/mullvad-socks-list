@@ -1,5 +1,5 @@
-Date: 2023-07-27 06-47-34 UTC
-Total active proxies: 402
+Date: 2023-07-27 12-57-30 UTC
+Total active proxies: 394
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -173,14 +173,6 @@ Total active proxies: 402
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::a04f       1      3434      ❌     xtom           ✔️       jp-osa-wg-004 
  🇯🇵    Japan            Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️       jp-tyo-wg-001 
  🇯🇵    Japan            Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️       jp-tyo-wg-002 
- 🇯🇵    Japan            Tokyo               10.124.1.108  217.138.252.226  2001:ac8:40:b6::a06f       1      3362      ❌     M247           ✔️       jp-tyo-wg-101 
- 🇯🇵    Japan            Tokyo               10.124.1.109  217.138.252.242  2001:ac8:40:b7::a07f       1      3363      ❌     M247           ✔️       jp-tyo-wg-102 
- 🇯🇵    Japan            Tokyo               10.124.1.110  91.193.7.2       2001:ac8:40:b8::a08f       1      3364      ❌     M247           ✔️       jp-tyo-wg-103 
- 🇯🇵    Japan            Tokyo               10.124.1.111  91.193.7.18      2001:ac8:40:b9::a09f       1      3365      ❌     M247           ✔️       jp-tyo-wg-104 
- 🇯🇵    Japan            Tokyo               10.124.1.112  91.193.7.34      2001:ac8:40:ba::a10f       1      3366      ❌     M247           ✔️       jp-tyo-wg-105 
- 🇯🇵    Japan            Tokyo               10.124.1.113  91.193.7.50      2001:ac8:40:bb::a11f       1      3367      ❌     M247           ✔️       jp-tyo-wg-106 
- 🇯🇵    Japan            Tokyo               10.124.1.114  91.193.7.66      2001:ac8:40:bc::a12f       1      3368      ❌     M247           ✔️       jp-tyo-wg-107 
- 🇯🇵    Japan            Tokyo               10.124.1.115  91.193.7.82      2001:ac8:40:bd::a13f       1      3369      ❌     M247           ✔️       jp-tyo-wg-108 
  🇯🇵    Japan            Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️       jp-tyo-wg-201 
  🇯🇵    Japan            Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f       10     3160      ❌     M247           ✔️       jp-tyo-wg-202 
  🇯🇵    Japan            Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f       10     3161      ❌     M247           ✔️       jp-tyo-wg-203 
