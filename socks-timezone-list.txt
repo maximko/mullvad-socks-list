@@ -331,8 +331,8 @@
 10.124.0.87 America/New_York
 10.124.0.90 America/New_York
 10.124.0.167 America/New_York
-10.124.0.187 America/Chicago
-10.124.1.45 America/Chicago
+10.124.0.187 America/New_York
+10.124.1.45 America/New_York
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
 10.124.0.34 America/Phoenix
