@@ -1,5 +1,5 @@
-Date: 2023-07-31 01-51-43 UTC
-Total active proxies: 394
+Date: 2023-07-31 06-47-23 UTC
+Total active proxies: 393
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -96,7 +96,6 @@ Total active proxies: 394
  🇩🇪    Germany          Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f     10     3506      ❌     DataPacket     ✔️       de-fra-wg-403 
  🇩🇰    Denmark          Copenhagen          10.124.0.64   45.129.56.67     2a03:1b20:8:f011::a02f     10     3064      ✔️      31173          ✔️       dk-cph-wg-001 
  🇩🇰    Denmark          Copenhagen          10.124.0.17   45.129.56.68     2a03:1b20:8:f011::a03f     10     3017      ✔️      31173          ✔️       dk-cph-wg-002 
- 🇩🇰    Denmark          Copenhagen          10.124.0.141  82.103.140.213   2a00:9080:1:98c::1f        1      3141      ❌     Asergo         ❌      dk-cph-wg-301 
  🇩🇰    Denmark          Copenhagen          10.124.0.229  146.70.197.194   2001:ac8:37:97::d01f       10     3229      ❌     M247           ✔️       dk-cph-wg-401 
  🇩🇰    Denmark          Copenhagen          10.124.0.230  146.70.197.130   2001:ac8:37:96::d02f       10     3230      ❌     M247           ✔️       dk-cph-wg-402 
  🇪🇪    Estonia          Tallinn             10.124.0.138  194.127.167.67   2a07:d880:2::a01f          10     3138      ❌     xtom           ✔️       ee-tll-wg-001 
