@@ -107,7 +107,7 @@
 10.124.0.112 Europe/Helsinki
 10.124.2.53 Europe/Helsinki
 10.124.2.54 Europe/Helsinki
-10.124.2.55 Europe/Helsinki
+;; communications error to 1.1.1.1#53: timed out Europe/Helsinki
 10.124.2.56 Europe/Helsinki
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
