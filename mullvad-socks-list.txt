@@ -1,4 +1,4 @@
-Date: 2023-08-12 18-47-27 UTC
+Date: 2023-08-13 01-35-53 UTC
 Total active proxies: 398
  flag  country          city                socks5                                            ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
@@ -12,7 +12,7 @@ Total active proxies: 398
  🇦🇺    Australia        Melbourne           10.124.1.53                                       103.108.229.50   2406:d501:f:deb::a01f      10     3307      ❌     hostuniversal  ✔️       au-mel-wg-301 
  🇦🇺    Australia        Melbourne           10.124.1.54                                       103.108.229.66   2406:d501:f:dec::a02f      10     3308      ❌     hostuniversal  ✔️       au-mel-wg-302 
  🇦🇺    Australia        Perth               10.124.1.55                                       103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️       au-per-wg-301 
- 🇦🇺    Australia        Perth               10.124.1.57                                       103.108.231.66   2404:f780:8:dec::a02f      10     3311      ❌     hostuniversal  ✔️       au-per-wg-302 
+ 🇦🇺    Australia        Perth               ;; communications error to 1.1.1.1#53: timed out  103.108.231.66   2404:f780:8:dec::a02f      10     3311      ❌     hostuniversal  ✔️       au-per-wg-302 
  🇦🇺    Australia        Sydney              10.124.0.36                                       146.70.200.2     2001:ac8:84:5::1f          10     3036      ❌     M247           ✔️       au-syd-wg-001 
  🇦🇺    Australia        Sydney              10.124.0.37                                       146.70.141.194   2001:ac8:84:6::2f          10     3037      ❌     M247           ✔️       au-syd-wg-002 
  🇦🇺    Australia        Sydney              10.124.0.42                                       146.70.200.194   2001:ac8:84:4::3f          10     3042      ❌     M247           ✔️       au-syd-wg-003 
@@ -110,7 +110,7 @@ Total active proxies: 398
  🇫🇮    Finland          Helsinki            10.124.0.112                                      185.204.1.219    2a0c:f040:0:2790::a03f     10     3112      ✔️      Creanova       ✔️       fi-hel-wg-003 
  🇫🇮    Finland          Helsinki            10.124.2.53                                       193.138.7.137    2a02:ed04:3581:1::a01f     10     3561      ✔️      Blix           ✔️       fi-hel-wg-101 
  🇫🇮    Finland          Helsinki            10.124.2.54                                       193.138.7.157    2a02:ed04:3581:2::a02f     10     3562      ✔️      Blix           ✔️       fi-hel-wg-102 
- 🇫🇮    Finland          Helsinki            ;; communications error to 1.1.1.1#53: timed out  193.138.7.177    2a02:ed04:3581:3::a03f     10     3563      ✔️      Blix           ✔️       fi-hel-wg-103 
+ 🇫🇮    Finland          Helsinki            10.124.2.55                                       193.138.7.177    2a02:ed04:3581:3::a03f     10     3563      ✔️      Blix           ✔️       fi-hel-wg-103 
  🇫🇮    Finland          Helsinki            10.124.2.56                                       193.138.7.197    2a02:ed04:3581:4::a04f     10     3564      ✔️      Blix           ✔️       fi-hel-wg-104 
  🇫🇷    France           Marseille           10.124.0.45                                       138.199.15.162   2a02:6ea0:dc05::a15f       10     3045      ❌     DataPacket     ✔️       fr-mrs-wg-001 
  🇫🇷    France           Marseille           10.124.1.183                                      138.199.15.146   2a02:6ea0:dc06::a16f       10     3437      ❌     DataPacket     ✔️       fr-mrs-wg-002 
