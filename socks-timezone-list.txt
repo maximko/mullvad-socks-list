@@ -9,9 +9,9 @@
 10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Melbourne
-10.124.1.57 Australia/Melbourne
+;; communications error to 1.1.1.1#53: timed out Australia/Melbourne
 10.124.0.36 Australia/Sydney
-10.124.0.37 Australia/Sydney
+;; Warning: ID mismatch: expected ID 21659, got 23621 Australia/Sydney
 10.124.0.42 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
