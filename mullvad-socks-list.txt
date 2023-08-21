@@ -1,5 +1,5 @@
-Date: 2023-08-21 12-56-26 UTC
-Total active proxies: 398
+Date: 2023-08-21 18-47-24 UTC
+Total active proxies: 400
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -263,6 +263,8 @@ Total active proxies: 398
  🇺🇸    USA              Atlanta, GA         10.124.0.184  104.223.91.18    2607:fcd0:aa80:1305::b43f  10     3184      ❌     Quadranet      ✔️       us-atl-wg-204 
  🇺🇸    USA              Boston, MA          10.124.0.85   43.225.189.131   2a06:3040:12:610::a01f     10     3085      ❌     HostRoyale     ✔️       us-bos-wg-001 
  🇺🇸    USA              Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f     10     3126      ❌     HostRoyale     ✔️       us-bos-wg-002 
+ 🇺🇸    USA              Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f       10     3127      ❌     DataPacket     ✔️       us-bos-wg-101 
+ 🇺🇸    USA              Boston, MA          10.124.0.197  149.40.50.112    2a02:6ea0:f901:1::a02f     10     3197      ❌     DataPacket     ✔️       us-bos-wg-102 
  🇺🇸    USA              Chicago, IL         10.124.0.18   68.235.44.2      2607:9000:0:56::a01f       10     3018      ❌     Tzulo          ✔️       us-chi-wg-001 
  🇺🇸    USA              Chicago, IL         10.124.0.38   68.235.43.130    2607:9000:0:54::a02f       10     3038      ❌     Tzulo          ✔️       us-chi-wg-002 
  🇺🇸    USA              Chicago, IL         10.124.0.46   68.235.44.34     2607:9000:0:57::a03f       10     3046      ❌     Tzulo          ✔️       us-chi-wg-003 
