@@ -1,4 +1,4 @@
-Date: 2023-08-22 01-34-18 UTC
+Date: 2023-08-22 06-47-12 UTC
 Total active proxies: 400
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
@@ -347,10 +347,10 @@ Total active proxies: 400
  🇺🇸    USA              Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f    10     3034      ❌     Tzulo          ✔️       us-phx-wg-101 
  🇺🇸    USA              Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f    10     3031      ❌     Tzulo          ✔️       us-phx-wg-102 
  🇺🇸    USA              Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::b90f    10     3032      ❌     Tzulo          ✔️       us-phx-wg-103 
- 🇺🇸    USA              Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f    2      3440      ❌     Tzulo          ✔️       us-qas-wg-001 
- 🇺🇸    USA              Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f    2      3441      ❌     Tzulo          ✔️       us-qas-wg-002 
- 🇺🇸    USA              Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f    2      3442      ❌     Tzulo          ✔️       us-qas-wg-003 
- 🇺🇸    USA              Ashburn, VA         10.124.1.189  198.54.135.130   2607:9000:9000:15::b49f    2      3443      ❌     Tzulo          ✔️       us-qas-wg-004 
+ 🇺🇸    USA              Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f    10     3440      ❌     Tzulo          ✔️       us-qas-wg-001 
+ 🇺🇸    USA              Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f    10     3441      ❌     Tzulo          ✔️       us-qas-wg-002 
+ 🇺🇸    USA              Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f    10     3442      ❌     Tzulo          ✔️       us-qas-wg-003 
+ 🇺🇸    USA              Ashburn, VA         10.124.1.189  198.54.135.130   2607:9000:9000:15::b49f    10     3443      ❌     Tzulo          ✔️       us-qas-wg-004 
  🇺🇸    USA              Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f     10     3531      ❌     DataPacket     ✔️       us-qas-wg-102 
  🇺🇸    USA              Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f     10     3532      ❌     DataPacket     ✔️       us-qas-wg-103 
  🇺🇸    USA              Raleigh, NC         10.124.0.10   198.54.130.82    2607:9000:4000:15::b83f    1      3010      ❌     Tzulo          ✔️       us-rag-wg-101 
