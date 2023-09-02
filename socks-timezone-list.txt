@@ -56,10 +56,10 @@
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
 10.124.0.216 America/Bogota
-10.124.0.217 America/Bogota
+;; communications error to 1.1.1.1#53: timed out America/Bogota
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
-10.124.2.57 Europe/Prague
+;; Warning: ID mismatch: expected ID 35114, got 48778 Europe/Prague
 10.124.2.58 Europe/Prague
 10.124.0.7 Europe/Berlin
 10.124.0.8 Europe/Berlin
