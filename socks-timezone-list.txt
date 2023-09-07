@@ -2,7 +2,7 @@
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
-10.124.0.99 Australia/Melbourne
+10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Melbourne
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
@@ -38,7 +38,7 @@
 10.124.0.71 America/Vancouver
 10.124.0.174 America/Edmonton
 10.124.0.178 America/Edmonton
-10.124.0.121 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
@@ -305,11 +305,11 @@
 10.124.0.180 America/Los_Angeles
 10.124.0.181 America/Los_Angeles
 10.124.0.182 America/Los_Angeles
-10.124.0.83 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
 10.124.1.174 America/Los_Angeles
-10.124.0.162 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.0.163 America/Los_Angeles
 10.124.1.48 America/Los_Angeles
 10.124.1.49 America/Los_Angeles
@@ -336,8 +336,8 @@
 10.124.0.87 America/New_York
 10.124.0.90 America/New_York
 10.124.0.167 America/New_York
-10.124.0.187 America/New_York
-10.124.1.45 America/New_York
+10.124.0.187 America/Chicago
+10.124.1.45 America/Chicago
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
 10.124.0.34 America/Phoenix
