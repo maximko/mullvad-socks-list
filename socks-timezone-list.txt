@@ -3,13 +3,13 @@
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
 10.124.0.99 Australia/Adelaide
-10.124.0.156 Australia/Melbourne
+10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
 10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
-10.124.1.55 Australia/Melbourne
-10.124.1.57 Australia/Melbourne
+10.124.1.55 Australia/Perth
+10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
@@ -206,8 +206,8 @@
 10.124.2.46 Europe/Warsaw
 10.124.0.86 Europe/Lisbon
 10.124.0.88 Europe/Lisbon
-10.124.0.198 America/New_York
-10.124.0.199 America/New_York
+10.124.0.198 Europe/Lisbon
+10.124.0.199 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
