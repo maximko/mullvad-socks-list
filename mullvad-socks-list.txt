@@ -1,5 +1,5 @@
-Date: 2023-09-18 06-47-12 UTC
-Total active proxies: 403
+Date: 2023-09-18 12-57-12 UTC
+Total active proxies: 405
  flag  country          city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania          Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria          Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -168,6 +168,8 @@ Total active proxies: 403
  🇮🇹    Italy            Milan               10.124.1.123  91.193.5.34      2001:ac8:24:7c::a06f       1      3377      ❌     M247           ✔️       it-mil-wg-104 
  🇮🇹    Italy            Milan               10.124.1.125  37.120.201.114   2001:ac8:24:49::a08f       1      3379      ❌     M247           ✔️       it-mil-wg-105 
  🇮🇹    Italy            Milan               10.124.1.124  37.120.201.82    2001:ac8:24:50::a07f       1      3378      ❌     M247           ✔️       it-mil-wg-106 
+ 🇮🇹    Italy            Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001       10     3200      ❌     M247           ✔️       it-mil-wg-201 
+ 🇮🇹    Italy            Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001       10     3201      ❌     M247           ✔️       it-mil-wg-202 
  🇯🇵    Japan            Osaka               10.124.1.177  45.8.223.195     2400:ddc0:c000::a01f       1      3431      ❌     xtom           ✔️       jp-osa-wg-001 
  🇯🇵    Japan            Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::a03f       1      3433      ❌     xtom           ✔️       jp-osa-wg-003 
  🇯🇵    Japan            Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::a04f       1      3434      ❌     xtom           ✔️       jp-osa-wg-004 
