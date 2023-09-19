@@ -44,7 +44,7 @@
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
 10.124.0.105 Europe/Zurich
-10.124.0.106 Europe/Zurich
+10.124.0.106 America/Panama
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
