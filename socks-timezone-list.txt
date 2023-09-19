@@ -148,6 +148,8 @@
 10.124.1.22 Asia/Hong_Kong
 10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
+10.124.0.202 Asia/Hong_Kong
+10.124.0.203 Asia/Hong_Kong
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
