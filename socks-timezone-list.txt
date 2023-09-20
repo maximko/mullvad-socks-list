@@ -143,11 +143,9 @@
 10.124.2.19 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
-10.124.1.20 Asia/Hong_Kong
 10.124.1.21 Asia/Hong_Kong
 10.124.1.22 Asia/Hong_Kong
 10.124.1.237 Asia/Hong_Kong
-10.124.0.192 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
 10.124.0.203 Asia/Hong_Kong
 10.124.0.35 Europe/Zagreb
