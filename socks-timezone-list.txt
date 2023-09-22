@@ -23,7 +23,8 @@
 10.124.2.32 America/Sao_Paulo
 10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
-10.124.1.235 America/Toronto
+10.124.0.233 America/Toronto
+10.124.0.234 America/Toronto
 10.124.1.236 America/Toronto
 10.124.0.47 America/Toronto
 10.124.0.51 America/Toronto
@@ -324,7 +325,6 @@
 10.124.0.89 America/New_York
 10.124.0.157 America/New_York
 10.124.0.153 America/New_York
-10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
 10.124.1.230 America/New_York
@@ -333,13 +333,9 @@
 10.124.0.72 America/New_York
 10.124.0.75 America/New_York
 10.124.0.76 America/New_York
-10.124.0.87 America/New_York
-10.124.0.90 America/New_York
 10.124.0.167 America/New_York
 10.124.0.187 America/Chicago
 10.124.1.45 America/Chicago
-10.124.1.46 America/New_York
-10.124.1.47 America/New_York
 10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
@@ -392,4 +388,5 @@
 10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
+10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
