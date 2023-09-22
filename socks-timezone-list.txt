@@ -23,8 +23,6 @@
 10.124.2.32 America/Sao_Paulo
 10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
-10.124.0.233 America/Toronto
-10.124.0.234 America/Toronto
 10.124.1.235 America/Toronto
 10.124.1.236 America/Toronto
 10.124.0.47 America/Toronto
@@ -394,5 +392,4 @@
 10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
-10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg

@@ -1,5 +1,5 @@
-Date: 2023-09-22 01-36-06 UTC
-Total active proxies: 400
+Date: 2023-09-22 06-47-26 UTC
+Total active proxies: 397
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -26,8 +26,6 @@ Total active proxies: 400
  🇧🇷    Brazil          Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f     10     3540      ❌     DataPacket     ✔️       br-sao-wg-202 
  🇨🇦    Canada          Montreal            10.124.0.231  146.70.198.66    2a0d:5600:9:c::a01f        10     3231      ❌     M247           ✔️       ca-mtr-wg-001 
  🇨🇦    Canada          Montreal            10.124.0.232  146.70.198.130   2a0d:5600:9:d::a02f        10     3232      ❌     M247           ✔️       ca-mtr-wg-002 
- 🇨🇦    Canada          Montreal            10.124.0.233  146.70.198.194   2a0d:5600:9:e::a02f        10     3233      ❌     M247           ✔️       ca-mtr-wg-003 
- 🇨🇦    Canada          Montreal            10.124.0.234  188.241.176.194  2a0d:5600:9:16::a04f       10     3234      ❌     M247           ✔️       ca-mtr-wg-004 
  🇨🇦    Canada          Toronto             10.124.1.235  178.249.214.2    2a02:6ea0:de08:1::a28f     10     3489      ❌     DataPacket     ✔️       ca-tor-wg-001 
  🇨🇦    Canada          Toronto             10.124.1.236  178.249.214.15   2a02:6ea0:de08:2::a29f     10     3490      ❌     DataPacket     ✔️       ca-tor-wg-002 
  🇨🇦    Canada          Toronto             10.124.0.47   198.44.140.130   2607:9000:6000:18::a01f    10     3047      ❌     Tzulo          ✔️       ca-tor-wg-101 
@@ -397,7 +395,6 @@ Total active proxies: 400
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f  10     3242      ❌     Quadranet      ✔️       us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️       us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️       us-uyk-wg-103 
- 🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::a01f       10     3567      ❌     DataPacket     ✔️       za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::a02f       10     3568      ❌     DataPacket     ✔️       za-jnb-wg-002 
 Failed to resovle:
  flag  country  city          socks5                                   ipv4           ipv6                     speed  multihop  owned  provider  stboot  hostname      
