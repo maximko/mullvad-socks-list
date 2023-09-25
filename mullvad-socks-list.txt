@@ -1,5 +1,5 @@
-Date: 2023-09-25 12-57-30 UTC
-Total active proxies: 391
+Date: 2023-09-25 18-47-08 UTC
+Total active proxies: 392
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -376,6 +376,7 @@ Total active proxies: 391
  🇺🇸    USA             San Jose, CA        10.124.0.134  66.115.165.216   2607:f7a0:16:5::c06f       1      3134      ❌     100TB          ✔️       us-sjc-wg-106 
  🇺🇸    USA             San Jose, CA        10.124.0.135  66.115.165.217   2607:f7a0:16:5::c07f       1      3135      ❌     100TB          ✔️       us-sjc-wg-107 
  🇺🇸    USA             San Jose, CA        10.124.0.137  66.115.165.218   2607:f7a0:16:5::c08f       1      3137      ❌     100TB          ✔️       us-sjc-wg-108 
+ 🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001          10     3464      ❌     xtom           ✔️       us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f          10     3465      ❌     xtom           ✔️       us-sjc-wg-303 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.36   69.4.234.147     2606:2e00:0:b9::b34f       1      3290      ❌     100TB          ✔️       us-slc-wg-101 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.37   69.4.234.138     2606:2e00:0:b9::b35f       1      3291      ❌     100TB          ✔️       us-slc-wg-102 
