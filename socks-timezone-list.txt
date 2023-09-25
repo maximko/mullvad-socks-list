@@ -53,6 +53,9 @@
 10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
 10.124.2.8 Europe/Zurich
+10.124.2.9 Europe/Zurich
+10.124.2.10 Europe/Zurich
+10.124.2.11 Europe/Zurich
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
 10.124.2.33 Europe/Prague
@@ -79,6 +82,9 @@
 10.124.1.243 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
+10.124.1.240 Europe/Berlin
+10.124.1.241 Europe/Berlin
+10.124.1.242 Europe/Berlin
 10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
@@ -89,6 +95,7 @@
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
+10.124.0.230 Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
@@ -110,7 +117,6 @@
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
-10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
@@ -127,12 +133,13 @@
 10.124.1.247 Europe/London
 10.124.1.248 Europe/London
 10.124.2.20 Europe/London
-10.124.2.13 Europe/London
+10.124.2.14 Europe/London
+10.124.2.15 Europe/London
+10.124.2.16 Europe/London
 10.124.2.17 Europe/London
 10.124.2.18 Europe/London
 10.124.2.19 Europe/London
 10.124.0.159 Europe/Athens
-10.124.0.166 Europe/Athens
 10.124.1.21 Asia/Hong_Kong
 10.124.1.22 Asia/Hong_Kong
 10.124.1.237 Asia/Hong_Kong
@@ -141,9 +148,7 @@
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
-10.124.0.228 Europe/Budapest
 10.124.1.58 Europe/Dublin
-10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
@@ -189,7 +194,6 @@
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
-10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
@@ -199,7 +203,6 @@
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
-10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
@@ -236,17 +239,12 @@
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
-10.124.1.153 America/Chicago
-10.124.1.154 America/Chicago
-10.124.1.155 America/Chicago
-10.124.1.156 America/Chicago
-10.124.1.157 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
+;; Warning: ID mismatch: expected ID 5019, got 37804 America/Chicago
 10.124.1.158 America/Chicago
 10.124.1.159 America/Chicago
 10.124.1.160 America/Chicago
 10.124.1.162 America/Chicago
-10.124.0.29 America/New_York
-10.124.0.169 America/New_York
 10.124.0.170 America/New_York
 10.124.0.184 America/New_York
 10.124.0.85 America/New_York
@@ -260,11 +258,8 @@
 10.124.0.57 America/Chicago
 10.124.0.58 America/Chicago
 10.124.0.168 America/Chicago
-10.124.0.165 America/Chicago
-10.124.1.182 America/Chicago
 10.124.1.201 America/Chicago
 10.124.1.202 America/Chicago
-10.124.1.203 America/Chicago
 10.124.0.27 America/Chicago
 10.124.0.43 America/Chicago
 10.124.0.44 America/Chicago
@@ -282,7 +277,6 @@
 10.124.1.175 America/Chicago
 10.124.1.226 America/Chicago
 10.124.1.225 America/Chicago
-10.124.1.224 America/Chicago
 10.124.0.175 America/Denver
 10.124.0.176 America/Denver
 10.124.0.177 America/Denver
@@ -319,14 +313,8 @@
 10.124.1.230 America/New_York
 10.124.1.231 America/New_York
 10.124.1.232 America/New_York
-10.124.0.72 America/New_York
-10.124.0.75 America/New_York
-10.124.0.76 America/New_York
 10.124.0.87 America/New_York
 10.124.0.90 America/New_York
-10.124.0.167 America/New_York
-10.124.0.187 America/Chicago
-10.124.1.45 America/Chicago
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
 10.124.0.34 America/Phoenix
@@ -341,8 +329,6 @@
 10.124.0.10 America/New_York
 10.124.0.12 America/New_York
 10.124.0.22 America/New_York
-10.124.0.24 America/New_York
-10.124.0.26 America/New_York
 10.124.1.229 America/Los_Angeles
 10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
@@ -380,4 +366,3 @@
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
-10.124.2.60 Africa/Johannesburg
