@@ -35,9 +35,9 @@
 10.124.0.68 America/Toronto
 10.124.0.15 America/Toronto
 10.124.0.13 America/Vancouver
+10.124.0.71 America/Vancouver
 10.124.0.174 America/Edmonton
 10.124.0.178 America/Edmonton
-10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
@@ -117,6 +117,7 @@
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
 10.124.0.223 Europe/Paris
+10.124.0.224 Europe/Paris
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.16 Europe/London
@@ -250,6 +251,9 @@
 10.124.1.156 America/Chicago
 10.124.1.157 America/Chicago
 10.124.1.158 America/Chicago
+10.124.1.159 America/Chicago
+10.124.1.160 America/Chicago
+10.124.1.162 America/Chicago
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
 10.124.0.170 America/New_York
@@ -289,6 +293,8 @@
 10.124.1.226 America/Chicago
 10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
+10.124.0.175 America/Denver
+10.124.0.176 America/Denver
 10.124.0.177 America/Denver
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
@@ -313,7 +319,11 @@
 10.124.0.14 America/New_York
 10.124.0.157 America/New_York
 10.124.0.153 America/New_York
+10.124.1.190 America/New_York
+10.124.1.191 America/New_York
 10.124.1.192 America/New_York
+10.124.1.230 America/New_York
+10.124.1.231 America/New_York
 10.124.1.232 America/New_York
 10.124.0.72 America/New_York
 10.124.0.75 America/New_York
