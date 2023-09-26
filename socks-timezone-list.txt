@@ -355,6 +355,10 @@
 10.124.0.98 America/Los_Angeles
 10.124.0.101 America/Los_Angeles
 10.124.0.103 America/Los_Angeles
+10.124.0.104 America/Los_Angeles
+10.124.0.115 America/Los_Angeles
+10.124.0.129 America/Los_Angeles
+10.124.0.130 America/Los_Angeles
 10.124.0.164 America/Los_Angeles
 10.124.0.158 America/Los_Angeles
 10.124.0.78 America/Los_Angeles
@@ -370,6 +374,11 @@
 10.124.1.37 America/Chicago
 10.124.1.38 America/Chicago
 10.124.1.39 America/Chicago
+10.124.1.40 America/Chicago
+10.124.1.41 America/Chicago
+10.124.1.42 America/Chicago
+10.124.1.43 America/Chicago
+10.124.1.44 America/Chicago
 10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York

@@ -1,5 +1,5 @@
-Date: 2023-09-26 12-57-34 UTC
-Total active proxies: 378
+Date: 2023-09-26 18-47-22 UTC
+Total active proxies: 387
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::a01f        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -358,6 +358,10 @@ Total active proxies: 378
  🇺🇸    USA             Seattle, WA         10.124.0.98   199.229.250.52   2607:f7a0:c:4::c09f        1      3098      ❌     100TB          ✔️       us-sea-wg-201 
  🇺🇸    USA             Seattle, WA         10.124.0.101  199.229.250.53   2607:f7a0:c:4::c10f        1      3101      ❌     100TB          ✔️       us-sea-wg-202 
  🇺🇸    USA             Seattle, WA         10.124.0.103  199.229.250.54   2607:f7a0:c:4::c11f        1      3103      ❌     100TB          ✔️       us-sea-wg-203 
+ 🇺🇸    USA             Seattle, WA         10.124.0.104  199.229.250.55   2607:f7a0:c:4::f301        1      3104      ❌     100TB          ✔️       us-sea-wg-204 
+ 🇺🇸    USA             Seattle, WA         10.124.0.115  199.229.250.56   2607:f7a0:c:4::f401        1      3115      ❌     100TB          ✔️       us-sea-wg-205 
+ 🇺🇸    USA             Seattle, WA         10.124.0.129  199.229.250.58   2607:f7a0:c:4::f601        1      3129      ❌     100TB          ✔️       us-sea-wg-207 
+ 🇺🇸    USA             Seattle, WA         10.124.0.130  199.229.250.59   2607:f7a0:c:4::f701        1      3130      ❌     100TB          ✔️       us-sea-wg-208 
  🇺🇸    USA             Seattle, WA         10.124.0.164  104.129.57.66    2607:fcd0:cd00:a00::b27f   10     3164      ❌     Quadranet      ✔️       us-sea-wg-301 
  🇺🇸    USA             Seattle, WA         10.124.0.158  173.205.93.2     2607:fcd0:cd00:a01::b28f   10     3158      ❌     Quadranet      ✔️       us-sea-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.0.78   198.54.134.98    2607:9000:8000:14::f001    10     3078      ❌     Tzulo          ✔️       us-sjc-wg-001 
@@ -373,6 +377,11 @@ Total active proxies: 378
  🇺🇸    USA             Salt Lake City, UT  10.124.1.37   69.4.234.138     2606:2e00:0:b9::b35f       1      3291      ❌     100TB          ✔️       us-slc-wg-102 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.38   69.4.234.139     2606:2e00:0:b9::b36f       1      3292      ❌     100TB          ✔️       us-slc-wg-103 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.39   69.4.234.140     2606:2e00:0:b9::b37f       1      3293      ❌     100TB          ✔️       us-slc-wg-104 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.40   69.4.234.141     2606:2e00:0:b9::f401       1      3294      ❌     100TB          ✔️       us-slc-wg-105 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.41   69.4.234.142     2606:2e00:0:b9::f501       1      3295      ❌     100TB          ✔️       us-slc-wg-106 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601       1      3296      ❌     100TB          ✔️       us-slc-wg-107 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701       1      3297      ❌     100TB          ✔️       us-slc-wg-108 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801       1      3298      ❌     100TB          ✔️       us-slc-wg-109 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f  10     3242      ❌     Quadranet      ✔️       us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️       us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️       us-uyk-wg-103 
