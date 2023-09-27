@@ -4,13 +4,10 @@
 10.124.2.37 Europe/Vienna
 10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
-10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
 10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
-10.124.1.57 Australia/Perth
-10.124.0.36 Australia/Sydney
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
 10.124.2.42 Europe/Brussels
@@ -145,6 +142,7 @@
 10.124.1.21 Asia/Hong_Kong
 10.124.1.22 Asia/Hong_Kong
 10.124.1.237 Asia/Hong_Kong
+10.124.0.192 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
 10.124.0.203 Asia/Hong_Kong
 10.124.0.35 Europe/Zagreb
@@ -165,9 +163,6 @@
 10.124.1.124 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
-10.124.1.177 Asia/Tokyo
-10.124.1.179 Asia/Tokyo
-10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
@@ -239,7 +234,6 @@
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
-10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
