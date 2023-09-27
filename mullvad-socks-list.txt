@@ -1,5 +1,5 @@
-Date: 2023-09-27 12-57-21 UTC
-Total active proxies: 388
+Date: 2023-09-27 18-47-12 UTC
+Total active proxies: 379
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -72,14 +72,10 @@ Total active proxies: 388
  🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f       10     3030      ❌     xtom           ✔️       de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f       10     3091      ❌     xtom           ✔️       de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f       10     3092      ❌     xtom           ✔️       de-dus-wg-003 
- 🇩🇪    Germany         Frankfurt           10.124.0.53   185.213.155.73   2a03:1b20:6:f011::f001     20     3053      ✔️      31173          ✔️       de-fra-wg-001 
- 🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101     20     3054      ✔️      31173          ✔️       de-fra-wg-002 
  🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201     20     3277      ✔️      31173          ✔️       de-fra-wg-003 
- 🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301     20     3280      ✔️      31173          ✔️       de-fra-wg-004 
  🇩🇪    Germany         Frankfurt           10.124.1.27   185.209.196.75   2a03:1b20:6:f011::f401     20     3281      ✔️      31173          ✔️       de-fra-wg-005 
  🇩🇪    Germany         Frankfurt           10.124.0.222  185.209.196.76   2a03:1b20:6:f011::f501     20     3222      ✔️      31173          ✔️       de-fra-wg-006 
  🇩🇪    Germany         Frankfurt           10.124.1.24   185.209.196.77   2a03:1b20:6:f011::f601     20     3278      ✔️      31173          ✔️       de-fra-wg-007 
- 🇩🇪    Germany         Frankfurt           10.124.1.25   185.209.196.78   2a03:1b20:6:f011::f701     20     3279      ✔️      31173          ✔️       de-fra-wg-008 
  🇩🇪    Germany         Frankfurt           10.124.1.243  146.70.117.162   2001:ac8:20:274::a99f      10     3497      ❌     M247           ✔️       de-fra-wg-101 
  🇩🇪    Germany         Frankfurt           10.124.1.238  146.70.117.194   2001:ac8:20:275::f001      10     3492      ❌     M247           ✔️       de-fra-wg-102 
  🇩🇪    Germany         Frankfurt           10.124.1.239  146.70.117.226   2001:ac8:20:276::f001      10     3493      ❌     M247           ✔️       de-fra-wg-103 
@@ -198,7 +194,6 @@ Total active proxies: 388
  🇳🇴    Norway          Stavanger           10.124.2.39   194.127.199.31   2a02:20c8:4120::a02f       10     3547      ✔️      Blix           ✔️       no-svg-wg-002 
  🇳🇴    Norway          Stavanger           10.124.2.40   194.127.199.62   2a02:20c8:4120::a03f       10     3548      ✔️      Blix           ✔️       no-svg-wg-003 
  🇳🇴    Norway          Stavanger           10.124.2.41   194.127.199.93   2a02:20c8:4120::a04f       10     3549      ✔️      Blix           ✔️       no-svg-wg-004 
- 🇳🇿    New Zealand     Auckland            10.124.0.218  103.75.11.50     2404:f780:5:deb::f001      10     3218      ❌     hostuniversal  ✔️       nz-akl-wg-301 
  🇳🇿    New Zealand     Auckland            10.124.0.219  103.75.11.66     2404:f780:5:dec::c02f      10     3219      ❌     hostuniversal  ✔️       nz-akl-wg-302 
  🇵🇱    Poland          Warsaw              10.124.1.219  45.134.212.66    2a02:6ea0:ce08:1::f001     10     3473      ❌     DataPacket     ✔️       pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220  45.134.212.79    2a02:6ea0:ce08:2::a06f     10     3474      ❌     DataPacket     ✔️       pl-waw-wg-102 
@@ -379,10 +374,6 @@ Total active proxies: 388
  🇺🇸    USA             Salt Lake City, UT  10.124.1.38   69.4.234.139     2606:2e00:0:b9::b36f       1      3292      ❌     100TB          ✔️       us-slc-wg-103 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.39   69.4.234.140     2606:2e00:0:b9::b37f       1      3293      ❌     100TB          ✔️       us-slc-wg-104 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.40   69.4.234.141     2606:2e00:0:b9::f401       1      3294      ❌     100TB          ✔️       us-slc-wg-105 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.41   69.4.234.142     2606:2e00:0:b9::f501       1      3295      ❌     100TB          ✔️       us-slc-wg-106 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601       1      3296      ❌     100TB          ✔️       us-slc-wg-107 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701       1      3297      ❌     100TB          ✔️       us-slc-wg-108 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801       1      3298      ❌     100TB          ✔️       us-slc-wg-109 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f  10     3242      ❌     Quadranet      ✔️       us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️       us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️       us-uyk-wg-103 
