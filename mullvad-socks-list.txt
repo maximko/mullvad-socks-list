@@ -1,5 +1,5 @@
-Date: 2023-09-28 06-47-20 UTC
-Total active proxies: 384
+Date: 2023-09-28 12-57-00 UTC
+Total active proxies: 392
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -238,6 +238,7 @@ Total active proxies: 384
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️       sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f       10     3100      ❌     M247           ✔️       sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️       sg-sin-wg-102 
+ 🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001     10     3511      ❌     DataPacket     ✔️       sk-bts-wg-001 
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️       sk-bts-wg-002 
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f     10     3025      ❌     DataPacket     ✔️       ua-iev-wg-001 
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f     10     3195      ❌     DataPacket     ✔️       ua-iev-wg-002 
@@ -307,6 +308,7 @@ Total active proxies: 384
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️       us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️       us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️       us-lax-wg-203 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.174  198.96.89.194    2607:fcd0:100:7c03::f001   10     3428      ❌     Quadranet      ✔️       us-lax-wg-301 
  🇺🇸    USA             Los Angeles, CA     10.124.0.162  204.152.216.98   2607:fcd0:100:7c01::b29f   10     3162      ❌     Quadranet      ✔️       us-lax-wg-302 
  🇺🇸    USA             Los Angeles, CA     10.124.0.163  204.152.216.114  2607:fcd0:100:7c02::b30f   10     3163      ❌     Quadranet      ✔️       us-lax-wg-303 
  🇺🇸    USA             Los Angeles, CA     10.124.1.48   146.70.173.2     2a0d:5600:8:4::d1f         10     3302      ❌     M247           ✔️       us-lax-wg-401 
@@ -317,6 +319,8 @@ Total active proxies: 384
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f     10     3458      ❌     DataPacket     ✔️       us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f     10     3454      ❌     DataPacket     ✔️       us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f      10     3014      ❌     M247           ✔️       us-mia-wg-101 
+ 🇺🇸    USA             Miami, FL           10.124.0.82   146.70.187.66    2a0d:5600:6:105::f001      10     3082      ❌     M247           ✔️       us-mia-wg-102 
+ 🇺🇸    USA             Miami, FL           10.124.0.89   146.70.187.130   2a0d:5600:6:106::f001      10     3089      ❌     M247           ✔️       us-mia-wg-103 
  🇺🇸    USA             Miami, FL           10.124.0.157  173.44.63.66     2607:ff48:aa81:2602::b25f  10     3157      ❌     Quadranet      ✔️       us-mia-wg-301 
  🇺🇸    USA             Miami, FL           10.124.0.153  104.129.41.194   2607:ff48:aa81:2603::b26f  10     3153      ❌     Quadranet      ✔️       us-mia-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001       10     3444      ❌     DataPacket     ✔️       us-nyc-wg-301 
@@ -379,6 +383,10 @@ Total active proxies: 384
  🇺🇸    USA             Salt Lake City, UT  10.124.1.38   69.4.234.139     2606:2e00:0:b9::b36f       1      3292      ❌     100TB          ✔️       us-slc-wg-103 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.39   69.4.234.140     2606:2e00:0:b9::b37f       1      3293      ❌     100TB          ✔️       us-slc-wg-104 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.40   69.4.234.141     2606:2e00:0:b9::f401       1      3294      ❌     100TB          ✔️       us-slc-wg-105 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.41   69.4.234.142     2606:2e00:0:b9::f501       1      3295      ❌     100TB          ✔️       us-slc-wg-106 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601       1      3296      ❌     100TB          ✔️       us-slc-wg-107 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701       1      3297      ❌     100TB          ✔️       us-slc-wg-108 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801       1      3298      ❌     100TB          ✔️       us-slc-wg-109 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f  10     3242      ❌     Quadranet      ✔️       us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️       us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️       us-uyk-wg-103 

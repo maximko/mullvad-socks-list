@@ -235,6 +235,7 @@
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
+10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
@@ -304,6 +305,7 @@
 10.124.0.83 America/Los_Angeles
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
+10.124.1.174 America/Los_Angeles
 10.124.0.162 America/Los_Angeles
 10.124.0.163 America/Los_Angeles
 10.124.1.48 America/Los_Angeles
@@ -314,6 +316,8 @@
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.0.14 America/New_York
+10.124.0.82 America/New_York
+10.124.0.89 America/New_York
 10.124.0.157 America/New_York
 10.124.0.153 America/New_York
 10.124.1.190 America/New_York
@@ -376,6 +380,10 @@
 10.124.1.38 America/Chicago
 10.124.1.39 America/Chicago
 10.124.1.40 America/Chicago
+10.124.1.41 America/Chicago
+10.124.1.42 America/Chicago
+10.124.1.43 America/Chicago
+10.124.1.44 America/Chicago
 10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
