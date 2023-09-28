@@ -9,6 +9,7 @@
 10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
+10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
@@ -364,6 +365,10 @@
 10.124.0.97 America/Los_Angeles
 10.124.0.131 America/Los_Angeles
 10.124.0.132 America/Los_Angeles
+10.124.0.133 America/Los_Angeles
+10.124.0.134 America/Los_Angeles
+10.124.0.135 America/Los_Angeles
+10.124.0.137 America/Los_Angeles
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
 10.124.1.36 America/Chicago

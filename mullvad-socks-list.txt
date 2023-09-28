@@ -1,5 +1,5 @@
-Date: 2023-09-28 01-36-21 UTC
-Total active proxies: 379
+Date: 2023-09-28 06-47-20 UTC
+Total active proxies: 384
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -12,6 +12,7 @@ Total active proxies: 379
  🇦🇺    Australia       Melbourne           10.124.1.53   103.108.229.50   2406:d501:f:deb::a01f      10     3307      ❌     hostuniversal  ✔️       au-mel-wg-301 
  🇦🇺    Australia       Melbourne           10.124.1.54   103.108.229.66   2406:d501:f:dec::a02f      10     3308      ❌     hostuniversal  ✔️       au-mel-wg-302 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️       au-per-wg-301 
+ 🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001      10     3311      ❌     hostuniversal  ✔️       au-per-wg-302 
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001        10     3036      ❌     M247           ✔️       au-syd-wg-001 
  🇦🇺    Australia       Sydney              10.124.0.37   146.70.141.194   2001:ac8:84:6::2f          10     3037      ❌     M247           ✔️       au-syd-wg-002 
  🇦🇺    Australia       Sydney              10.124.0.42   146.70.200.194   2001:ac8:84:4::3f          10     3042      ❌     M247           ✔️       au-syd-wg-003 
@@ -367,6 +368,10 @@ Total active proxies: 379
  🇺🇸    USA             San Jose, CA        10.124.0.97   66.115.165.212   2607:f7a0:16:5::c02f       1      3097      ❌     100TB          ✔️       us-sjc-wg-102 
  🇺🇸    USA             San Jose, CA        10.124.0.131  66.115.165.213   2607:f7a0:16:5::c03f       1      3131      ❌     100TB          ✔️       us-sjc-wg-103 
  🇺🇸    USA             San Jose, CA        10.124.0.132  66.115.165.214   2607:f7a0:16:5::c04f       1      3132      ❌     100TB          ✔️       us-sjc-wg-104 
+ 🇺🇸    USA             San Jose, CA        10.124.0.133  66.115.165.215   2607:f7a0:16:5::f401       1      3133      ❌     100TB          ✔️       us-sjc-wg-105 
+ 🇺🇸    USA             San Jose, CA        10.124.0.134  66.115.165.216   2607:f7a0:16:5::f501       1      3134      ❌     100TB          ✔️       us-sjc-wg-106 
+ 🇺🇸    USA             San Jose, CA        10.124.0.135  66.115.165.217   2607:f7a0:16:5::f601       1      3135      ❌     100TB          ✔️       us-sjc-wg-107 
+ 🇺🇸    USA             San Jose, CA        10.124.0.137  66.115.165.218   2607:f7a0:16:5::f701       1      3137      ❌     100TB          ✔️       us-sjc-wg-108 
  🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001          10     3464      ❌     xtom           ✔️       us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f          10     3465      ❌     xtom           ✔️       us-sjc-wg-303 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.36   69.4.234.147     2606:2e00:0:b9::b34f       1      3290      ❌     100TB          ✔️       us-slc-wg-101 
