@@ -2,13 +2,10 @@
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
-10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
-10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
 10.124.0.37 Australia/Sydney
@@ -149,6 +146,7 @@
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
 10.124.1.58 Europe/Dublin
+10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
@@ -240,12 +238,9 @@
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
-10.124.1.234 America/New_York
 10.124.1.153 America/Chicago
 10.124.1.154 America/Chicago
 10.124.1.155 America/Chicago
-10.124.1.156 America/Chicago
-10.124.1.157 America/Chicago
 10.124.1.158 America/Chicago
 10.124.1.159 America/Chicago
 10.124.1.160 America/Chicago
@@ -278,11 +273,6 @@
 10.124.0.144 America/Chicago
 10.124.0.145 America/Chicago
 10.124.0.146 America/Chicago
-10.124.0.147 America/Chicago
-10.124.0.148 America/Chicago
-10.124.0.149 America/Chicago
-10.124.0.150 America/Chicago
-10.124.0.151 America/Chicago
 10.124.0.171 America/Chicago
 10.124.0.193 America/Chicago
 10.124.1.175 America/Chicago
@@ -297,7 +287,6 @@
 10.124.1.198 America/Denver
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
-10.124.1.194 America/Chicago
 10.124.1.195 America/Chicago
 10.124.0.180 America/Los_Angeles
 10.124.0.181 America/Los_Angeles

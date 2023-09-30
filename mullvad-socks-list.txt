@@ -1,17 +1,14 @@
-Date: 2023-09-30 01-34-00 UTC
-Total active proxies: 392
+Date: 2023-09-30 06-47-02 UTC
+Total active proxies: 381
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.36   146.70.116.130   2001:ac8:29:85::a02f       10     3544      ❌     M247           ✔️       at-vie-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f       10     3545      ❌     M247           ✔️       at-vie-wg-003 
- 🇦🇺    Australia       Adelaide            10.124.0.99   103.214.20.50    2404:f780:0:deb::c1f       10     3099      ❌     hostuniversal  ✔️       au-adl-wg-301 
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f       10     3156      ❌     hostuniversal  ✔️       au-adl-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::f001      10     3220      ❌     hostuniversal  ✔️       au-bne-wg-301 
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f      10     3221      ❌     hostuniversal  ✔️       au-bne-wg-302 
- 🇦🇺    Australia       Melbourne           10.124.1.53   103.108.229.50   2406:d501:f:deb::a01f      10     3307      ❌     hostuniversal  ✔️       au-mel-wg-301 
  🇦🇺    Australia       Melbourne           10.124.1.54   103.108.229.66   2406:d501:f:dec::a02f      10     3308      ❌     hostuniversal  ✔️       au-mel-wg-302 
- 🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️       au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001      10     3311      ❌     hostuniversal  ✔️       au-per-wg-302 
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001        10     3036      ❌     M247           ✔️       au-syd-wg-001 
  🇦🇺    Australia       Sydney              10.124.0.37   146.70.141.194   2001:ac8:84:6::2f          10     3037      ❌     M247           ✔️       au-syd-wg-002 
@@ -152,6 +149,7 @@ Total active proxies: 392
  🇭🇺    Hungary         Budapest            10.124.0.227  146.70.196.194   2001:ac8:26:55::f001       10     3227      ❌     M247           ✔️       hu-bud-wg-101 
  🇭🇺    Hungary         Budapest            10.124.0.228  146.70.196.130   2001:ac8:26:54::f001       10     3228      ❌     M247           ✔️       hu-bud-wg-102 
  🇮🇪    Ireland         Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101 
+ 🇮🇪    Ireland         Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::f001       10     3313      ❌     M247           ✔️       ie-dub-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️       il-tlv-wg-101 
  🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f     10     3533      ❌     DataPacket     ✔️       il-tlv-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f     10     3534      ❌     DataPacket     ✔️       il-tlv-wg-103 
@@ -243,12 +241,9 @@ Total active proxies: 392
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f     10     3025      ❌     DataPacket     ✔️       ua-iev-wg-001 
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f     10     3195      ❌     DataPacket     ✔️       ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f     10     3487      ❌     DataPacket     ✔️       us-atl-wg-001 
- 🇺🇸    USA             Atlanta, GA         10.124.1.234  45.134.140.143   2a02:6ea0:c122:2::b80f     10     3488      ❌     DataPacket     ✔️       us-atl-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.153  66.115.180.231   2607:f7a0:1:d::f001        1      3407      ❌     100TB          ✔️       us-atl-wg-101 
  🇺🇸    USA             Atlanta, GA         10.124.1.154  66.115.180.232   2607:f7a0:1:d::f101        1      3408      ❌     100TB          ✔️       us-atl-wg-102 
  🇺🇸    USA             Atlanta, GA         10.124.1.155  66.115.180.233   2607:f7a0:1:d::f201        1      3409      ❌     100TB          ✔️       us-atl-wg-103 
- 🇺🇸    USA             Atlanta, GA         10.124.1.156  66.115.180.234   2607:f7a0:1:d::b70f        1      3410      ❌     100TB          ✔️       us-atl-wg-104 
- 🇺🇸    USA             Atlanta, GA         10.124.1.157  66.115.180.235   2607:f7a0:1:d::b71f        1      3411      ❌     100TB          ✔️       us-atl-wg-105 
  🇺🇸    USA             Atlanta, GA         10.124.1.158  66.115.180.236   2607:f7a0:1:d::b72f        1      3412      ❌     100TB          ✔️       us-atl-wg-106 
  🇺🇸    USA             Atlanta, GA         10.124.1.159  66.115.180.237   2607:f7a0:1:d::f601        1      3413      ❌     100TB          ✔️       us-atl-wg-107 
  🇺🇸    USA             Atlanta, GA         10.124.1.160  66.115.180.238   2607:f7a0:1:d::f701        1      3414      ❌     100TB          ✔️       us-atl-wg-108 
@@ -281,11 +276,6 @@ Total active proxies: 392
  🇺🇸    USA             Dallas, TX          10.124.0.144  174.127.113.10   2606:2e00:8007:1::a32f     1      3144      ❌     100TB          ✔️       us-dal-wg-103 
  🇺🇸    USA             Dallas, TX          10.124.0.145  174.127.113.11   2606:2e00:8007:1::a33f     1      3145      ❌     100TB          ✔️       us-dal-wg-104 
  🇺🇸    USA             Dallas, TX          10.124.0.146  174.127.113.12   2606:2e00:8007:1::a34f     1      3146      ❌     100TB          ✔️       us-dal-wg-105 
- 🇺🇸    USA             Dallas, TX          10.124.0.147  174.127.113.13   2606:2e00:8007:1::a35f     1      3147      ❌     100TB          ✔️       us-dal-wg-106 
- 🇺🇸    USA             Dallas, TX          10.124.0.148  174.127.113.14   2606:2e00:8007:1::a36f     1      3148      ❌     100TB          ✔️       us-dal-wg-107 
- 🇺🇸    USA             Dallas, TX          10.124.0.149  174.127.113.15   2606:2e00:8007:1::a37f     1      3149      ❌     100TB          ✔️       us-dal-wg-108 
- 🇺🇸    USA             Dallas, TX          10.124.0.150  174.127.113.16   2606:2e00:8007:1::a38f     1      3150      ❌     100TB          ✔️       us-dal-wg-109 
- 🇺🇸    USA             Dallas, TX          10.124.0.151  174.127.113.17   2606:2e00:8007:1::a39f     1      3151      ❌     100TB          ✔️       us-dal-wg-110 
  🇺🇸    USA             Dallas, TX          10.124.0.171  96.44.191.130    2607:fcd0:da80:1803::b35f  10     3171      ❌     Quadranet      ✔️       us-dal-wg-301 
  🇺🇸    USA             Dallas, TX          10.124.0.193  96.44.191.146    2607:fcd0:da80:1804::f001  10     3193      ❌     Quadranet      ✔️       us-dal-wg-302 
  🇺🇸    USA             Dallas, TX          10.124.1.175  96.44.189.98     2607:fcd0:da80:1801::c40f  10     3429      ❌     Quadranet      ✔️       us-dal-wg-303 
@@ -300,7 +290,6 @@ Total active proxies: 392
  🇺🇸    USA             Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f     10     3452      ❌     DataPacket     ✔️       us-den-wg-103 
  🇺🇸    USA             Houston, TX         10.124.1.205  37.19.221.130    2a02:6ea0:e001::f001       10     3459      ❌     DataPacket     ✔️       us-hou-wg-001 
  🇺🇸    USA             Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::f001     10     3447      ❌     DataPacket     ✔️       us-hou-wg-002 
- 🇺🇸    USA             Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️       us-hou-wg-003 
  🇺🇸    USA             Houston, TX         10.124.1.195  37.19.221.169    2a02:6ea0:e001:3::b56f     10     3449      ❌     DataPacket     ✔️       us-hou-wg-004 
  🇺🇸    USA             Los Angeles, CA     10.124.0.180  198.44.129.98    2607:9000:3000:15::a49f    10     3180      ❌     Tzulo          ✔️       us-lax-wg-101 
  🇺🇸    USA             Los Angeles, CA     10.124.0.181  198.44.129.66    2607:9000:3000:14::a50f    10     3181      ❌     Tzulo          ✔️       us-lax-wg-102 
