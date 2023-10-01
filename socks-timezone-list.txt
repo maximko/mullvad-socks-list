@@ -135,6 +135,7 @@
 10.124.2.19 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
+10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
 10.124.0.203 Asia/Hong_Kong
@@ -145,6 +146,7 @@
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
+10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
@@ -160,6 +162,7 @@
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
+10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
@@ -225,6 +228,7 @@
 10.124.0.80 Europe/Stockholm
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
+10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.2.3 Europe/Bratislava

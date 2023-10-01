@@ -1,5 +1,5 @@
-Date: 2023-10-01 12-54-15 UTC
-Total active proxies: 386
+Date: 2023-10-01 18-47-09 UTC
+Total active proxies: 390
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -138,6 +138,7 @@ Total active proxies: 386
  🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001       10     3527      ❌     M247           ✔️       gb-mnc-wg-008 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️       gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️       gr-ath-wg-102 
+ 🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f       10     3491      ❌     xtom           ✔️       hk-hkg-wg-201 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.192  103.125.233.3    2403:2c81:1000::a05f       10     3192      ❌     xtom           ✔️       hk-hkg-wg-202 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.202  146.70.224.2     2001:ac8:a:f::f001         10     3202      ❌     M247           ✔️       hk-hkg-wg-301 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.203  146.70.224.66    2001:ac8:a:19::f001        10     3203      ❌     M247           ✔️       hk-hkg-wg-302 
@@ -148,6 +149,7 @@ Total active proxies: 386
  🇮🇪    Ireland         Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f       10     3312      ❌     M247           ✔️       ie-dub-wg-101 
  🇮🇪    Ireland         Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::f001       10     3313      ❌     M247           ✔️       ie-dub-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️       il-tlv-wg-101 
+ 🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f     10     3533      ❌     DataPacket     ✔️       il-tlv-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f     10     3534      ❌     DataPacket     ✔️       il-tlv-wg-103 
  🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️       it-mil-wg-001 
  🇮🇹    Italy           Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️       it-mil-wg-002 
@@ -163,6 +165,7 @@ Total active proxies: 386
  🇯🇵    Japan           Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::f201       1      3433      ❌     xtom           ✔️       jp-osa-wg-003 
  🇯🇵    Japan           Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::f301       1      3434      ❌     xtom           ✔️       jp-osa-wg-004 
  🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️       jp-tyo-wg-001 
+ 🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️       jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️       jp-tyo-wg-201 
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f       10     3160      ❌     M247           ✔️       jp-tyo-wg-202 
  🇯🇵    Japan           Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f       10     3161      ❌     M247           ✔️       jp-tyo-wg-203 
@@ -228,6 +231,7 @@ Total active proxies: 386
  🇸🇪    Sweden          Stockholm           10.124.0.80   185.195.233.68   2a03:1b20:4:f011::fd01     20     3080      ✔️      31173          ✔️       se-sto-wg-014 
  🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️       sg-sin-wg-001 
  🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️       sg-sin-wg-002 
+ 🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️       sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f       10     3100      ❌     M247           ✔️       sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️       sg-sin-wg-102 
  🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001     10     3511      ❌     DataPacket     ✔️       sk-bts-wg-001 
