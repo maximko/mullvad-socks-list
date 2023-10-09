@@ -1,5 +1,5 @@
-Date: 2023-10-09 01-36-46 UTC
-Total active proxies: 389
+Date: 2023-10-09 06-47-09 UTC
+Total active proxies: 386
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -173,10 +173,7 @@ Total active proxies: 389
  🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301     20     3113      ✔️      31173          ✔️       nl-ams-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401     20     3114      ✔️      31173          ✔️       nl-ams-wg-005 
  🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501     20     3094      ✔️      31173          ✔️       nl-ams-wg-006 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.19   92.60.40.194     2a0c:59c0:18::a20f         10     3019      ❌     xtom           ✔️       nl-ams-wg-101 
  🇳🇱    Netherlands     Amsterdam           10.124.0.41   92.60.40.209     2a0c:59c0:18::a21f         10     3041      ❌     xtom           ✔️       nl-ams-wg-102 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.48   92.60.40.224     2a0c:59c0:18::a22f         10     3048      ❌     xtom           ✔️       nl-ams-wg-103 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.95   92.60.40.239     2a0c:59c0:18::a23f         10     3095      ❌     xtom           ✔️       nl-ams-wg-104 
  🇳🇱    Netherlands     Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️       nl-ams-wg-201 
  🇳🇱    Netherlands     Amsterdam           10.124.1.254  169.150.196.15   2a02:6ea0:c034:2::a31f     10     3508      ❌     DataPacket     ✔️       nl-ams-wg-202 
  🇳🇱    Netherlands     Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f     10     3509      ❌     DataPacket     ✔️       nl-ams-wg-203 
