@@ -1,5 +1,5 @@
-Date: 2023-10-16 06-47-06 UTC
-Total active proxies: 386
+Date: 2023-10-16 12-57-59 UTC
+Total active proxies: 390
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -166,6 +166,10 @@ Total active proxies: 386
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f       10     3160      ❌     M247           ✔️       jp-tyo-wg-202 
  🇯🇵    Japan           Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f       10     3161      ❌     M247           ✔️       jp-tyo-wg-203 
  🇱🇻    Latvia          Riga                10.124.0.81   31.170.22.15     2a00:c68:0:cbd0::f001      1      3081      ❌     Makonix        ✔️       lv-rix-wg-001 
+ 🇲🇽    Mexico          Queretaro           10.124.0.154  149.88.22.129    2a02:6ea0:f803::f001       10     3154      ❌     DataPacket     ✔️       mx-qro-wg-001 
+ 🇲🇽    Mexico          Queretaro           10.124.0.204  149.88.22.142    2a02:6ea0:f803:1::f001     10     3204      ❌     DataPacket     ✔️       mx-qro-wg-002 
+ 🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001     10     3205      ❌     DataPacket     ✔️       mx-qro-wg-003 
+ 🇲🇽    Mexico          Queretaro           10.124.0.206  149.88.22.168    2a02:6ea0:f803:3::f001     10     3206      ❌     DataPacket     ✔️       mx-qro-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::f001     20     3004      ✔️      31173          ✔️       nl-ams-wg-001 
  🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f     20     3039      ✔️      31173          ✔️       nl-ams-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201     10     3040      ✔️      31173          ✔️       nl-ams-wg-003 
