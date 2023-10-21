@@ -232,7 +232,7 @@
 10.124.0.102 Asia/Singapore
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
-;; communications error to 1.1.1.1#53: timed out Europe/Kyiv
+10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
