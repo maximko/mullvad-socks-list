@@ -1,5 +1,5 @@
-Date: 2023-10-27 01-35-22 UTC
-Total active proxies: 387
+Date: 2023-10-27 06-47-13 UTC
+Total active proxies: 388
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -38,6 +38,7 @@ Total active proxies: 387
  🇨🇦    Canada          Toronto             10.124.0.68   198.54.132.162   2607:9000:6000:16::a26f    10     3068      ❌     Tzulo          ✔️       ca-tor-wg-106 
  🇨🇦    Canada          Toronto             10.124.0.15   198.44.140.194   2607:9000:6000:20::a07f    10     3015      ❌     Tzulo          ✔️       ca-tor-wg-107 
  🇨🇦    Canada          Vancouver           10.124.0.13   38.240.226.36    2606:9580:103:e::f001      10     3013      ❌     techfutures    ✔️       ca-van-wg-201 
+ 🇨🇦    Canada          Vancouver           10.124.0.71   104.193.135.100  2606:9580:103:f::f001      10     3071      ❌     techfutures    ✔️       ca-van-wg-202 
  🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f     10     3174      ❌     techfutures    ✔️       ca-yyc-wg-201 
  🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f     10     3178      ❌     techfutures    ✔️       ca-yyc-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101     10     3122      ✔️      31173          ✔️       ch-zrh-wg-002 
