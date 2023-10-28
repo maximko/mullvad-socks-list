@@ -47,11 +47,11 @@
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
-10.124.1.216 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.2.12 Europe/Zurich
 10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
-10.124.2.8 Europe/Zurich
+;; Warning: ID mismatch: expected ID 43867, got 26214 Europe/Zurich
 10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
@@ -180,10 +180,10 @@
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
-10.124.0.6 Europe/Oslo
-10.124.0.108 Europe/Oslo
-10.124.0.109 Europe/Oslo
-10.124.0.110 Europe/Oslo
+10.124.0.6 Europe/Rome
+10.124.0.108 Europe/Rome
+10.124.0.109 Europe/Rome
+10.124.0.110 Europe/Rome
 10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo
 10.124.2.38 Europe/Oslo
