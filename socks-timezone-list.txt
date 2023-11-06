@@ -18,6 +18,7 @@
 10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
+10.124.0.194 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
 10.124.2.32 America/Sao_Paulo
 10.124.0.231 America/Toronto
@@ -176,10 +177,6 @@
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
-10.124.0.6 Europe/Rome
-10.124.0.108 Europe/Rome
-10.124.0.109 Europe/Rome
-10.124.0.110 Europe/Rome
 10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo
 10.124.2.38 Europe/Oslo
