@@ -1,5 +1,5 @@
-Date: 2023-11-06 06-47-09 UTC
-Total active proxies: 381
+Date: 2023-11-06 12-57-56 UTC
+Total active proxies: 385
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -180,6 +180,10 @@ Total active proxies: 381
  🇳🇱    Netherlands     Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️       nl-ams-wg-201 
  🇳🇱    Netherlands     Amsterdam           10.124.1.254  169.150.196.15   2a02:6ea0:c034:2::a31f     10     3508      ❌     DataPacket     ✔️       nl-ams-wg-202 
  🇳🇱    Netherlands     Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f     10     3509      ❌     DataPacket     ✔️       nl-ams-wg-203 
+ 🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f       10     3006      ✔️      Blix           ✔️       no-osl-wg-001 
+ 🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f       10     3108      ✔️      Blix           ✔️       no-osl-wg-002 
+ 🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f       10     3109      ✔️      Blix           ✔️       no-osl-wg-003 
+ 🇳🇴    Norway          Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f       10     3110      ✔️      Blix           ✔️       no-osl-wg-004 
  🇳🇴    Norway          Oslo                10.124.0.56   178.255.149.140  2a02:20c8:4124::f401       10     3056      ✔️      Blix           ✔️       no-osl-wg-005 
  🇳🇴    Norway          Oslo                10.124.0.136  178.255.149.165  2a02:20c8:4124::f501       10     3136      ✔️      Blix           ✔️       no-osl-wg-006 
  🇳🇴    Norway          Stavanger           10.124.2.38   194.127.199.2    2a02:20c8:4120::a01f       10     3546      ✔️      Blix           ✔️       no-svg-wg-001 
