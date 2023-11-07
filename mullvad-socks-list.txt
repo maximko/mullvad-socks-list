@@ -1,5 +1,5 @@
-Date: 2023-11-07 06-47-10 UTC
-Total active proxies: 388
+Date: 2023-11-07 12-56-12 UTC
+Total active proxies: 393
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️       al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️       at-vie-wg-001 
@@ -64,10 +64,12 @@ Total active proxies: 388
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001     10     3565      ❌     DataPacket     ✔️       cz-prg-wg-201 
  🇨🇿    Czech Republic  Prague              10.124.2.58   178.249.209.175  2a02:6ea0:c201:1::f101     10     3566      ❌     DataPacket     ✔️       cz-prg-wg-202 
  🇩🇪    Germany         Berlin              10.124.0.7    193.32.248.66    2a03:1b20:b:f011::a01f     20     3007      ✔️      31173          ✔️       de-ber-wg-001 
+ 🇩🇪    Germany         Berlin              10.124.0.8    193.32.248.67    2a03:1b20:b:f011::a02f     20     3008      ✔️      31173          ✔️       de-ber-wg-002 
  🇩🇪    Germany         Berlin              10.124.0.9    193.32.248.68    2a03:1b20:b:f011::a03f     20     3009      ✔️      31173          ✔️       de-ber-wg-003 
  🇩🇪    Germany         Berlin              10.124.0.55   193.32.248.69    2a03:1b20:b:f011::a04f     20     3055      ✔️      31173          ✔️       de-ber-wg-004 
  🇩🇪    Germany         Berlin              10.124.0.179  193.32.248.70    2a03:1b20:b:f011::a05f     20     3179      ✔️      31173          ✔️       de-ber-wg-005 
  🇩🇪    Germany         Berlin              10.124.0.196  193.32.248.71    2a03:1b20:b:f011::a06f     20     3196      ✔️      31173          ✔️       de-ber-wg-006 
+ 🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f       10     3030      ❌     xtom           ✔️       de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f       10     3091      ❌     xtom           ✔️       de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f       10     3092      ❌     xtom           ✔️       de-dus-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201     20     3277      ✔️      31173          ✔️       de-fra-wg-003 
@@ -292,6 +294,7 @@ Total active proxies: 388
  🇺🇸    USA             Denver, CO          10.124.0.177  198.44.128.130   2607:9000:2000:14::a46f    10     3177      ❌     Tzulo          ✔️       us-den-wg-003 
  🇺🇸    USA             Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f       10     3450      ❌     DataPacket     ✔️       us-den-wg-101 
  🇺🇸    USA             Denver, CO          10.124.1.197  37.19.210.14     2a02:6ea0:d70a:1::b58f     10     3451      ❌     DataPacket     ✔️       us-den-wg-102 
+ 🇺🇸    USA             Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f     10     3452      ❌     DataPacket     ✔️       us-den-wg-103 
  🇺🇸    USA             Houston, TX         10.124.1.205  37.19.221.130    2a02:6ea0:e001::f001       10     3459      ❌     DataPacket     ✔️       us-hou-wg-001 
  🇺🇸    USA             Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::f001     10     3447      ❌     DataPacket     ✔️       us-hou-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️       us-hou-wg-003 
@@ -352,6 +355,7 @@ Total active proxies: 388
  🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001     10     3482      ❌     DataPacket     ✔️       us-sea-wg-002 
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f     10     3481      ❌     DataPacket     ✔️       us-sea-wg-003 
  🇺🇸    USA             Seattle, WA         10.124.0.1    198.54.131.130   2607:9000:5000:15::b77f    10     3001      ❌     Tzulo          ✔️       us-sea-wg-101 
+ 🇺🇸    USA             Seattle, WA         10.124.0.3    198.54.131.162   2607:9000:5000:16::b78f    10     3003      ❌     Tzulo          ✔️       us-sea-wg-102 
  🇺🇸    USA             Seattle, WA         10.124.0.98   199.229.250.52   2607:f7a0:c:4::c09f        1      3098      ❌     100TB          ✔️       us-sea-wg-201 
  🇺🇸    USA             Seattle, WA         10.124.0.101  199.229.250.53   2607:f7a0:c:4::c10f        1      3101      ❌     100TB          ✔️       us-sea-wg-202 
  🇺🇸    USA             Seattle, WA         10.124.0.103  199.229.250.54   2607:f7a0:c:4::c11f        1      3103      ❌     100TB          ✔️       us-sea-wg-203 
@@ -372,6 +376,7 @@ Total active proxies: 388
  🇺🇸    USA             San Jose, CA        10.124.0.134  66.115.165.216   2607:f7a0:16:5::f501       1      3134      ❌     100TB          ✔️       us-sjc-wg-106 
  🇺🇸    USA             San Jose, CA        10.124.0.135  66.115.165.217   2607:f7a0:16:5::f601       1      3135      ❌     100TB          ✔️       us-sjc-wg-107 
  🇺🇸    USA             San Jose, CA        10.124.0.137  66.115.165.218   2607:f7a0:16:5::f701       1      3137      ❌     100TB          ✔️       us-sjc-wg-108 
+ 🇺🇸    USA             San Jose, CA        10.124.1.209  142.147.89.195   2604:e8c0:7::b66f          10     3463      ❌     xtom           ✔️       us-sjc-wg-301 
  🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001          10     3464      ❌     xtom           ✔️       us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f          10     3465      ❌     xtom           ✔️       us-sjc-wg-303 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.36   69.4.234.147     2606:2e00:0:b9::b34f       1      3290      ❌     100TB          ✔️       us-slc-wg-101 

@@ -61,10 +61,12 @@
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
 10.124.0.7 Europe/Berlin
+10.124.0.8 Europe/Berlin
 10.124.0.9 Europe/Berlin
 10.124.0.55 Europe/Berlin
 10.124.0.179 Europe/Berlin
 10.124.0.196 Europe/Berlin
+10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
 10.124.1.23 Europe/Berlin
@@ -289,6 +291,7 @@
 10.124.0.177 America/Denver
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
+10.124.1.198 America/Denver
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
@@ -349,6 +352,7 @@
 10.124.1.228 America/Los_Angeles
 10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
+10.124.0.3 America/Los_Angeles
 10.124.0.98 America/Los_Angeles
 10.124.0.101 America/Los_Angeles
 10.124.0.103 America/Los_Angeles
@@ -369,6 +373,7 @@
 10.124.0.134 America/Los_Angeles
 10.124.0.135 America/Los_Angeles
 10.124.0.137 America/Los_Angeles
+10.124.1.209 America/Los_Angeles
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
 10.124.1.36 America/Chicago
