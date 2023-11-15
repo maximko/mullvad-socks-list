@@ -1,5 +1,5 @@
-Date: 2023-11-15 12-57-36 UTC
-Total active proxies: 396
+Date: 2023-11-15 18-47-10 UTC
+Total active proxies: 397
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -233,6 +233,7 @@ Total active proxies: 396
  🇸🇪    Sweden          Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f     10     3050      ✔️     31173          ✔️      se-sto-wg-009 
  🇸🇪    Sweden          Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f     10     3062      ✔️     31173          ✔️      se-sto-wg-011 
  🇸🇪    Sweden          Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::fb01     20     3077      ✔️     31173          ✔️      se-sto-wg-012 
+ 🇸🇪    Sweden          Stockholm           10.124.0.80   185.195.233.68   2a03:1b20:4:f011::fd01     20     3080      ✔️     31173          ✔️      se-sto-wg-014 
  🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️      sg-sin-wg-001 
  🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️      sg-sin-wg-002 
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
