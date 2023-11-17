@@ -1,5 +1,5 @@
-Date: 2023-11-17 06-47-05 UTC
-Total active proxies: 398
+Date: 2023-11-17 12-57-15 UTC
+Total active proxies: 397
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -37,14 +37,13 @@ Total active proxies: 398
  🇨🇦    Canada          Toronto             10.124.0.67   198.44.140.162   2607:9000:6000:19::a05f    10     3067      ❌     Tzulo          ✔️      ca-tor-wg-105 
  🇨🇦    Canada          Toronto             10.124.0.68   198.54.132.162   2607:9000:6000:16::a26f    10     3068      ❌     Tzulo          ✔️      ca-tor-wg-106 
  🇨🇦    Canada          Toronto             10.124.0.15   198.44.140.194   2607:9000:6000:20::a07f    10     3015      ❌     Tzulo          ✔️      ca-tor-wg-107 
- 🇨🇦    Canada          Vancouver           10.124.0.13   104.193.135.196  2606:9580:103:e::f001      10     3013      ❌     techfutures    ✔️      ca-van-wg-201 
  🇨🇦    Canada          Vancouver           10.124.0.71   104.193.135.100  2606:9580:103:f::f001      10     3071      ❌     techfutures    ✔️      ca-van-wg-202 
  🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f     10     3174      ❌     techfutures    ✔️      ca-yyc-wg-201 
  🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f     10     3178      ❌     techfutures    ✔️      ca-yyc-wg-202 
- 🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101     10     3122      ✔️     31173          ✔️      ch-zrh-wg-002 
- 🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201     10     3123      ✔️     31173          ✔️      ch-zrh-wg-003 
- 🇨🇭    Switzerland     Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::f301     10     3124      ✔️     31173          ✔️      ch-zrh-wg-004 
- 🇨🇭    Switzerland     Zurich              10.124.0.125  193.32.127.70    2a03:1b20:a:f011::f401     10     3125      ✔️     31173          ✔️      ch-zrh-wg-005 
+ 🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101     20     3122      ✔️     31173          ✔️      ch-zrh-wg-002 
+ 🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201     20     3123      ✔️     31173          ✔️      ch-zrh-wg-003 
+ 🇨🇭    Switzerland     Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::f301     20     3124      ✔️     31173          ✔️      ch-zrh-wg-004 
+ 🇨🇭    Switzerland     Zurich              10.124.0.125  193.32.127.70    2a03:1b20:a:f011::f401     20     3125      ✔️     31173          ✔️      ch-zrh-wg-005 
  🇨🇭    Switzerland     Zurich              10.124.0.105  179.43.189.66    2a02:29b8:dc01:1832::a1f   10     3105      ❌     PrivateLayer   ✔️      ch-zrh-wg-201 
  🇨🇭    Switzerland     Zurich              10.124.0.106  46.19.136.226    2a02:29b8:dc01:1831::f002  10     3106      ❌     PrivateLayer   ✔️      ch-zrh-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.1.213  138.199.6.194    2a02:6ea0:d406:1::a18f     10     3467      ❌     DataPacket     ✔️      ch-zrh-wg-401 
