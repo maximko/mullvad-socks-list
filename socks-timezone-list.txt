@@ -71,6 +71,14 @@
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
+10.124.0.53 Europe/Berlin
+10.124.0.54 Europe/Berlin
+10.124.1.23 Europe/Berlin
+10.124.1.26 Europe/Berlin
+10.124.1.27 Europe/Berlin
+10.124.0.222 Europe/Berlin
+10.124.1.24 Europe/Berlin
+10.124.1.25 Europe/Berlin
 10.124.1.243 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
