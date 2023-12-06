@@ -1,5 +1,5 @@
-Date: 2023-12-06 01-42-30 UTC
-Total active proxies: 404
+Date: 2023-12-06 06-47-07 UTC
+Total active proxies: 407
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -338,6 +338,9 @@ Total active proxies: 404
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001       10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001     10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f     10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
+ 🇺🇸    USA             New York, NY        10.124.1.230  198.44.136.34    2607:9000:a000:12::f001    10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
+ 🇺🇸    USA             New York, NY        10.124.1.231  198.44.136.66    2607:9000:a000:13::f001    10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
+ 🇺🇸    USA             New York, NY        10.124.1.232  198.44.136.98    2607:9000:a000:14::f001    10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
  🇺🇸    USA             New York, NY        10.124.0.72   146.70.165.2     2a0d:5600:24:2b6::f001     10     3072      ❌     M247           ✔️      us-nyc-wg-501 
  🇺🇸    USA             New York, NY        10.124.0.75   146.70.165.130   2a0d:5600:24:2b8::f001     10     3075      ❌     M247           ✔️      us-nyc-wg-502 
  🇺🇸    USA             New York, NY        10.124.0.76   146.70.165.194   2a0d:5600:24:2b9::f001     10     3076      ❌     M247           ✔️      us-nyc-wg-503 
