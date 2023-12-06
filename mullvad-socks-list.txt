@@ -1,5 +1,5 @@
-Date: 2023-12-06 06-47-07 UTC
-Total active proxies: 407
+Date: 2023-12-06 12-57-13 UTC
+Total active proxies: 406
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -164,9 +164,6 @@ Total active proxies: 407
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
  🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001       10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001       10     3201      ❌     M247           ✔️      it-mil-wg-202 
- 🇯🇵    Japan           Osaka               10.124.1.177  45.8.223.195     2400:ddc0:c000::f001       1      3431      ❌     xtom           ✔️      jp-osa-wg-001 
- 🇯🇵    Japan           Osaka               10.124.1.179  45.8.223.225     2400:ddc0:c000::f201       1      3433      ❌     xtom           ✔️      jp-osa-wg-003 
- 🇯🇵    Japan           Osaka               10.124.1.180  45.8.223.240     2400:ddc0:c000::f301       1      3434      ❌     xtom           ✔️      jp-osa-wg-004 
  🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️      jp-tyo-wg-001 
  🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️      jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️      jp-tyo-wg-201 
@@ -341,6 +338,7 @@ Total active proxies: 407
  🇺🇸    USA             New York, NY        10.124.1.230  198.44.136.34    2607:9000:a000:12::f001    10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
  🇺🇸    USA             New York, NY        10.124.1.231  198.44.136.66    2607:9000:a000:13::f001    10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
  🇺🇸    USA             New York, NY        10.124.1.232  198.44.136.98    2607:9000:a000:14::f001    10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
+ 🇺🇸    USA             New York, NY        10.124.0.210  198.44.136.194   2607:9000:a000:17::f001    10     3210      ❌     Tzulo          ✔️      us-nyc-wg-404 
  🇺🇸    USA             New York, NY        10.124.0.72   146.70.165.2     2a0d:5600:24:2b6::f001     10     3072      ❌     M247           ✔️      us-nyc-wg-501 
  🇺🇸    USA             New York, NY        10.124.0.75   146.70.165.130   2a0d:5600:24:2b8::f001     10     3075      ❌     M247           ✔️      us-nyc-wg-502 
  🇺🇸    USA             New York, NY        10.124.0.76   146.70.165.194   2a0d:5600:24:2b9::f001     10     3076      ❌     M247           ✔️      us-nyc-wg-503 
@@ -381,6 +379,7 @@ Total active proxies: 407
  🇺🇸    USA             Seattle, WA         10.124.0.164  104.129.57.66    2607:fcd0:cd00:a00::b27f   10     3164      ❌     Quadranet      ✔️      us-sea-wg-301 
  🇺🇸    USA             Seattle, WA         10.124.0.158  173.205.93.2     2607:fcd0:cd00:a01::b28f   10     3158      ❌     Quadranet      ✔️      us-sea-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.0.78   198.54.134.98    2607:9000:8000:14::f001    10     3078      ❌     Tzulo          ✔️      us-sjc-wg-001 
+ 🇺🇸    USA             San Jose, CA        10.124.0.69   198.54.134.130   2607:9000:8000:15::b95f    10     3069      ❌     Tzulo          ✔️      us-sjc-wg-002 
  🇺🇸    USA             San Jose, CA        10.124.0.70   198.54.134.162   2607:9000:8000:16::b96f    10     3070      ❌     Tzulo          ✔️      us-sjc-wg-003 
  🇺🇸    USA             San Jose, CA        10.124.0.96   66.115.165.211   2607:f7a0:16:5::c01f       1      3096      ❌     100TB          ✔️      us-sjc-wg-101 
  🇺🇸    USA             San Jose, CA        10.124.0.97   66.115.165.212   2607:f7a0:16:5::c02f       1      3097      ❌     100TB          ✔️      us-sjc-wg-102 
