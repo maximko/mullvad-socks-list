@@ -1,5 +1,5 @@
-Date: 2023-12-08 12-56-22 UTC
-Total active proxies: 406
+Date: 2023-12-08 18-47-04 UTC
+Total active proxies: 409
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -164,6 +164,9 @@ Total active proxies: 406
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
  🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001       10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001       10     3201      ❌     M247           ✔️      it-mil-wg-202 
+ 🇯🇵    Japan           Osaka               10.124.1.177  194.114.136.3    2400:ddc0:a00b::f001       10     3431      ❌     xtom           ✔️      jp-osa-wg-001 
+ 🇯🇵    Japan           Osaka               10.124.1.179  194.114.136.65   2400:ddc0:a00b::f201       10     3433      ❌     xtom           ✔️      jp-osa-wg-003 
+ 🇯🇵    Japan           Osaka               10.124.1.180  194.114.136.96   2400:ddc0:a00b::f301       10     3434      ❌     xtom           ✔️      jp-osa-wg-004 
  🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️      jp-tyo-wg-001 
  🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️      jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️      jp-tyo-wg-201 

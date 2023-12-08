@@ -161,6 +161,9 @@
 10.124.1.208 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
+10.124.1.177 Asia/Tokyo
+10.124.1.179 Asia/Tokyo
+10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
