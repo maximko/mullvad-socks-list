@@ -1,5 +1,5 @@
-Date: 2023-12-12 12-57-10 UTC
-Total active proxies: 408
+Date: 2023-12-12 18-47-03 UTC
+Total active proxies: 406
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -141,8 +141,6 @@ Total active proxies: 408
  🇬🇧    UK              Manchester          10.124.2.15   146.70.132.194   2001:ac8:8b:28::f001       10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
  🇬🇧    UK              Manchester          10.124.2.16   146.70.132.226   2001:ac8:8b:29::f001       10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001       10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
- 🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001       10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
- 🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001       10     3527      ❌     M247           ✔️      gb-mnc-wg-008 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f       10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
