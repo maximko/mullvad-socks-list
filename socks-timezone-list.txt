@@ -13,6 +13,9 @@
 10.124.0.36 Australia/Sydney
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
+10.124.0.214 Australia/Sydney
+10.124.0.141 Australia/Sydney
+10.124.0.211 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
 10.124.2.44 Europe/Brussels
@@ -138,6 +141,7 @@
 10.124.2.15 Europe/London
 10.124.2.16 Europe/London
 10.124.2.17 Europe/London
+10.124.2.18 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong

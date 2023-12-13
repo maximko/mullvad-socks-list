@@ -1,5 +1,5 @@
-Date: 2023-12-13 06-47-03 UTC
-Total active proxies: 406
+Date: 2023-12-13 12-57-21 UTC
+Total active proxies: 410
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        1      3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f       10     3543      ❌     M247           ✔️      at-vie-wg-001 
@@ -16,6 +16,9 @@ Total active proxies: 406
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001        10     3036      ❌     M247           ✔️      au-syd-wg-001 
  🇦🇺    Australia       Sydney              10.124.0.37   146.70.141.194   2001:ac8:84:6::2f          10     3037      ❌     M247           ✔️      au-syd-wg-002 
  🇦🇺    Australia       Sydney              10.124.0.42   146.70.200.194   2001:ac8:84:4::3f          10     3042      ❌     M247           ✔️      au-syd-wg-003 
+ 🇦🇺    Australia       Sydney              10.124.0.214  103.136.147.3    2a11:3:500::f001           10     3214      ❌     xtom           ✔️      au-syd-wg-101 
+ 🇦🇺    Australia       Sydney              10.124.0.141  103.136.147.129  2a11:3:500::f201           10     3141      ❌     xtom           ✔️      au-syd-wg-103 
+ 🇦🇺    Australia       Sydney              10.124.0.211  103.136.147.197  2a11:3:500::f301           10     3211      ❌     xtom           ✔️      au-syd-wg-104 
  🇧🇪    Belgium         Brussels            10.124.2.42   91.90.123.2      2001:ac8:27:88::a01f       10     3550      ❌     M247           ✔️      be-bru-wg-101 
  🇧🇪    Belgium         Brussels            10.124.2.43   194.110.115.34   2001:ac8:27:89::a02f       10     3551      ❌     M247           ✔️      be-bru-wg-102 
  🇧🇪    Belgium         Brussels            10.124.2.44   194.110.115.2    2001:ac8:27:92::a03f       10     3552      ❌     M247           ✔️      be-bru-wg-103 
@@ -141,6 +144,7 @@ Total active proxies: 406
  🇬🇧    UK              Manchester          10.124.2.15   146.70.132.194   2001:ac8:8b:28::f001       10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
  🇬🇧    UK              Manchester          10.124.2.16   146.70.132.226   2001:ac8:8b:29::f001       10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001       10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
+ 🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001       10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f       10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
