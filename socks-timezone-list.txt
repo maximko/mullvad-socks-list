@@ -362,9 +362,9 @@
 10.124.0.10 America/New_York
 10.124.0.12 America/New_York
 10.124.0.22 America/New_York
-10.124.0.24 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.0.26 America/New_York
-10.124.1.229 America/Los_Angeles
+;; Warning: ID mismatch: expected ID 11558, got 33086 America/Los_Angeles
 10.124.1.228 America/Los_Angeles
 10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
