@@ -47,7 +47,7 @@
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
-10.124.0.105 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.0.106 America/Panama
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
@@ -170,7 +170,7 @@
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
-10.124.0.161 Asia/Tokyo
+;; communications error to 1.1.1.1#53: timed out Asia/Tokyo
 10.124.0.81 Europe/Riga
 10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
