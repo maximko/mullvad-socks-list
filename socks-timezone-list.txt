@@ -54,7 +54,7 @@
 10.124.1.215 Europe/Zurich
 10.124.1.216 Europe/Zurich
 10.124.2.12 Europe/Zurich
-;; communications error to 1.1.1.1#53: timed out Europe/Zurich
+10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
 10.124.2.8 Europe/Zurich
 10.124.2.9 Europe/Zurich
@@ -359,7 +359,7 @@
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
 10.124.0.10 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.0.12 America/New_York
 10.124.0.22 America/New_York
 10.124.0.24 America/New_York
 10.124.0.26 America/New_York
