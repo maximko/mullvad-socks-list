@@ -48,7 +48,7 @@
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
 10.124.0.105 Europe/Zurich
-10.124.0.106 America/Panama
+10.124.0.106 Europe/Zurich
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
@@ -302,7 +302,6 @@
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
-10.124.0.23 America/Detroit
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
@@ -321,9 +320,9 @@
 10.124.1.50 America/Los_Angeles
 10.124.1.51 America/Los_Angeles
 10.124.1.52 America/Los_Angeles
-10.124.0.207 America/Los_Angeles
-10.124.0.208 America/Los_Angeles
-10.124.0.209 America/Los_Angeles
+10.124.0.207 America/Chicago
+10.124.0.208 America/Chicago
+10.124.0.209 America/Chicago
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
