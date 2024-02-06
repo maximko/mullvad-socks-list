@@ -1,5 +1,5 @@
-Date: 2024-02-06 06-47-20 UTC
-Total active proxies: 410
+Date: 2024-02-06 12-52-29 UTC
+Total active proxies: 409
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -261,7 +261,6 @@ Total active proxies: 410
  🇺🇸    USA             Atlanta, GA         10.124.1.160  66.115.180.238   2607:f7a0:1:d::f701        1      3414      ❌     100TB          ✔️      us-atl-wg-108 
  🇺🇸    USA             Atlanta, GA         10.124.1.161  66.115.180.239   2607:f7a0:1:d::b75f        1      3415      ❌     100TB          ✔️      us-atl-wg-109 
  🇺🇸    USA             Atlanta, GA         10.124.1.162  66.115.180.240   2607:f7a0:1:d::f901        1      3416      ❌     100TB          ✔️      us-atl-wg-110 
- 🇺🇸    USA             Atlanta, GA         10.124.0.29   107.150.22.2     2607:fcd0:aa80:1304::f001  10     3029      ❌     Quadranet      ✔️      us-atl-wg-201 
  🇺🇸    USA             Atlanta, GA         10.124.0.169  104.129.24.98    2607:fcd0:aa80:1302::f001  10     3169      ❌     Quadranet      ✔️      us-atl-wg-202 
  🇺🇸    USA             Atlanta, GA         10.124.0.170  104.129.24.114   2607:fcd0:aa80:1303::b34f  10     3170      ❌     Quadranet      ✔️      us-atl-wg-203 
  🇺🇸    USA             Atlanta, GA         10.124.0.184  104.223.91.18    2607:fcd0:aa80:1305::b43f  10     3184      ❌     Quadranet      ✔️      us-atl-wg-204 
