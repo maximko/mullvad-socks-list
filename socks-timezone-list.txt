@@ -303,6 +303,7 @@
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
 10.124.0.16 America/Detroit
+10.124.0.23 America/Detroit
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
