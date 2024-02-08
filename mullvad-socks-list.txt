@@ -1,5 +1,5 @@
-Date: 2024-02-08 01-33-48 UTC
-Total active proxies: 410
+Date: 2024-02-08 06-47-02 UTC
+Total active proxies: 409
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -378,7 +378,6 @@ Total active proxies: 410
  🇺🇸    USA             Seattle, WA         10.124.0.104  199.229.250.55   2607:f7a0:c:4::f301        1      3104      ❌     100TB          ✔️      us-sea-wg-204 
  🇺🇸    USA             Seattle, WA         10.124.0.115  199.229.250.56   2607:f7a0:c:4::f401        1      3115      ❌     100TB          ✔️      us-sea-wg-205 
  🇺🇸    USA             Seattle, WA         10.124.0.128  199.229.250.57   2607:f7a0:c:4::f501        1      3128      ❌     100TB          ✔️      us-sea-wg-206 
- 🇺🇸    USA             Seattle, WA         10.124.0.129  199.229.250.58   2607:f7a0:c:4::f601        1      3129      ❌     100TB          ✔️      us-sea-wg-207 
  🇺🇸    USA             Seattle, WA         10.124.0.130  199.229.250.59   2607:f7a0:c:4::f701        1      3130      ❌     100TB          ✔️      us-sea-wg-208 
  🇺🇸    USA             Seattle, WA         10.124.0.164  104.129.57.66    2607:fcd0:cd00:a00::b27f   10     3164      ❌     Quadranet      ✔️      us-sea-wg-301 
  🇺🇸    USA             Seattle, WA         10.124.0.158  173.205.93.2     2607:fcd0:cd00:a01::b28f   10     3158      ❌     Quadranet      ✔️      us-sea-wg-302 
