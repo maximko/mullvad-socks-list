@@ -165,6 +165,7 @@
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
 10.124.1.177 Asia/Tokyo
+10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
@@ -382,7 +383,6 @@
 10.124.0.158 America/Los_Angeles
 10.124.0.78 America/Los_Angeles
 10.124.0.69 America/Los_Angeles
-10.124.0.70 America/Los_Angeles
 10.124.0.96 America/Los_Angeles
 10.124.0.97 America/Los_Angeles
 10.124.0.131 America/Los_Angeles
