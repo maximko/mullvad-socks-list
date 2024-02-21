@@ -1,5 +1,5 @@
-Date: 2024-02-21 01-35-21 UTC
-Total active proxies: 412
+Date: 2024-02-21 06-47-06 UTC
+Total active proxies: 413
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -278,6 +278,7 @@ Total active proxies: 412
  🇺🇸    USA             Chicago, IL         10.124.0.58   68.235.44.98     2607:9000:0:59::a06f       10     3058      ❌     Tzulo          ✔️      us-chi-wg-006 
  🇺🇸    USA             Chicago, IL         10.124.0.168  66.63.167.114    2607:fcd0:bb80:403::b32f   10     3168      ❌     Quadranet      ✔️      us-chi-wg-101 
  🇺🇸    USA             Chicago, IL         10.124.0.165  66.63.167.194    2607:fcd0:bb80:402::f001   10     3165      ❌     Quadranet      ✔️      us-chi-wg-102 
+ 🇺🇸    USA             Chicago, IL         10.124.0.188  66.63.167.162    2607:fcd0:bb80:404::b44f   10     3188      ❌     Quadranet      ✔️      us-chi-wg-103 
  🇺🇸    USA             Chicago, IL         10.124.1.182  66.63.167.146    2607:fcd0:bb80:405::f001   10     3436      ❌     Quadranet      ✔️      us-chi-wg-104 
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f       10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
  🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f     10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
