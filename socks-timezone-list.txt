@@ -48,6 +48,7 @@
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
+10.124.0.241 Europe/Zurich
 10.124.0.105 Europe/Zurich
 10.124.0.106 Europe/Zurich
 10.124.1.213 Europe/Zurich
@@ -188,6 +189,7 @@
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
+10.124.0.243 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam

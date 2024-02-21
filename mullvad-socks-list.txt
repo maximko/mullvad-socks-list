@@ -1,5 +1,5 @@
-Date: 2024-02-21 12-53-44 UTC
-Total active proxies: 420
+Date: 2024-02-21 18-47-26 UTC
+Total active proxies: 422
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -51,6 +51,7 @@ Total active proxies: 420
  🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201     20     3123      ✔️     31173          ✔️      ch-zrh-wg-003 
  🇨🇭    Switzerland     Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::f301     20     3124      ✔️     31173          ✔️      ch-zrh-wg-004 
  🇨🇭    Switzerland     Zurich              10.124.0.125  193.32.127.70    2a03:1b20:a:f011::f401     20     3125      ✔️     31173          ✔️      ch-zrh-wg-005 
+ 🇨🇭    Switzerland     Zurich              10.124.0.241  193.32.127.84    2a03:1b20:a:f011::f601     20     3241      ✔️     31173          ✔️      ch-zrh-wg-006 
  🇨🇭    Switzerland     Zurich              10.124.0.105  179.43.189.66    2a02:29b8:dc01:1832::a1f   10     3105      ❌     PrivateLayer   ✔️      ch-zrh-wg-201 
  🇨🇭    Switzerland     Zurich              10.124.0.106  46.19.136.226    2a02:29b8:dc01:1831::f002  10     3106      ❌     PrivateLayer   ✔️      ch-zrh-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.1.213  138.199.6.194    2a02:6ea0:d406:1::a18f     10     3467      ❌     DataPacket     ✔️      ch-zrh-wg-401 
@@ -191,6 +192,7 @@ Total active proxies: 420
  🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301     20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401     20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
  🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501     20     3094      ✔️     31173          ✔️      nl-ams-wg-006 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.243  185.65.134.76    2a03:1b20:3:f011::f701     20     3243      ✔️     31173          ✔️      nl-ams-wg-007 
  🇳🇱    Netherlands     Amsterdam           10.124.0.19   92.60.40.194     2a0c:59c0:18::a20f         10     3019      ❌     xtom           ✔️      nl-ams-wg-101 
  🇳🇱    Netherlands     Amsterdam           10.124.0.41   92.60.40.209     2a0c:59c0:18::a21f         10     3041      ❌     xtom           ✔️      nl-ams-wg-102 
  🇳🇱    Netherlands     Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️      nl-ams-wg-201 
