@@ -1,5 +1,5 @@
-Date: 2024-02-28 18-47-17 UTC
-Total active proxies: 425
+Date: 2024-02-29 01-33-28 UTC
+Total active proxies: 422
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -420,9 +420,6 @@ Total active proxies: 425
  🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601       1      3296      ❌     100TB          ✔️      us-slc-wg-107 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701       1      3297      ❌     100TB          ✔️      us-slc-wg-108 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801       1      3298      ❌     100TB          ✔️      us-slc-wg-109 
- 🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f  10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 
- 🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f  10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
- 🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f  10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001       10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001       10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
 Failed to resovle:
