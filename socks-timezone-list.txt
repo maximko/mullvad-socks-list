@@ -128,6 +128,8 @@
 10.124.0.238 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
+10.124.0.246 Asia/Jerusalem
+10.124.0.247 Asia/Jerusalem
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.16 Europe/London
