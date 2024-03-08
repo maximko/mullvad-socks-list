@@ -129,7 +129,6 @@
 10.124.0.224 Europe/Paris
 10.124.0.246 Europe/London
 10.124.0.247 Europe/London
-10.124.0.59 Europe/London
 10.124.0.60 Europe/London
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
@@ -392,8 +391,6 @@
 10.124.0.128 America/Los_Angeles
 10.124.0.129 America/Los_Angeles
 10.124.0.130 America/Los_Angeles
-10.124.0.164 America/Los_Angeles
-10.124.0.158 America/Los_Angeles
 10.124.0.78 America/Los_Angeles
 10.124.0.69 America/Los_Angeles
 10.124.0.70 America/Los_Angeles

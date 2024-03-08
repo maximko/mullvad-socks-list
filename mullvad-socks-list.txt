@@ -1,5 +1,5 @@
-Date: 2024-03-08 06-47-09 UTC
-Total active proxies: 425
+Date: 2024-03-08 12-58-41 UTC
+Total active proxies: 422
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -132,7 +132,6 @@ Total active proxies: 425
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001       10     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001      10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101      10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
- 🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f     20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
  🇬🇧    UK              London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f     20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
  🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f     20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
  🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f     20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
@@ -395,8 +394,6 @@ Total active proxies: 425
  🇺🇸    USA             Seattle, WA         10.124.0.128  199.229.250.57   2607:f7a0:c:4::f501        1      3128      ❌     100TB          ✔️      us-sea-wg-206 
  🇺🇸    USA             Seattle, WA         10.124.0.129  199.229.250.58   2607:f7a0:c:4::f601        1      3129      ❌     100TB          ✔️      us-sea-wg-207 
  🇺🇸    USA             Seattle, WA         10.124.0.130  199.229.250.59   2607:f7a0:c:4::f701        1      3130      ❌     100TB          ✔️      us-sea-wg-208 
- 🇺🇸    USA             Seattle, WA         10.124.0.164  104.129.57.66    2607:fcd0:cd00:a00::b27f   10     3164      ❌     Quadranet      ✔️      us-sea-wg-301 
- 🇺🇸    USA             Seattle, WA         10.124.0.158  173.205.93.2     2607:fcd0:cd00:a01::b28f   10     3158      ❌     Quadranet      ✔️      us-sea-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.0.78   198.54.134.98    2607:9000:8000:14::f001    10     3078      ❌     Tzulo          ✔️      us-sjc-wg-001 
  🇺🇸    USA             San Jose, CA        10.124.0.69   198.54.134.130   2607:9000:8000:15::b95f    10     3069      ❌     Tzulo          ✔️      us-sjc-wg-002 
  🇺🇸    USA             San Jose, CA        10.124.0.70   198.54.134.162   2607:9000:8000:16::b96f    10     3070      ❌     Tzulo          ✔️      us-sjc-wg-003 
