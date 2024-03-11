@@ -1,5 +1,5 @@
-Date: 2024-03-11 01-35-12 UTC
-Total active proxies: 422
+Date: 2024-03-11 06-47-04 UTC
+Total active proxies: 424
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -254,6 +254,8 @@ Total active proxies: 422
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f       10     3100      ❌     M247           ✔️      sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️      sg-sin-wg-102 
+ 🇸🇮    Slovenia        Ljubljana           10.124.0.248  93.115.0.3       2a06:3040:7:210::f001      10     3248      ❌     HostRoyale     ✔️      si-lju-wg-001 
+ 🇸🇮    Slovenia        Ljubljana           10.124.0.249  93.115.0.33      2a06:3040:7:210::f101      10     3249      ❌     HostRoyale     ✔️      si-lju-wg-002 
  🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001     10     3511      ❌     DataPacket     ✔️      sk-bts-wg-001 
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️      sk-bts-wg-002 
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f     10     3025      ❌     DataPacket     ✔️      ua-iev-wg-001 

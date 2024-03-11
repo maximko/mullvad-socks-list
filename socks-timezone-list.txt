@@ -251,6 +251,8 @@
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
+10.124.0.248 Asia/Dubai
+10.124.0.249 Asia/Dubai
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.0.25 Europe/Kyiv
