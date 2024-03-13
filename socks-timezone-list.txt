@@ -1,8 +1,5 @@
 10.124.0.155 Europe/Tirane
 10.124.0.212 Europe/Tirane
-10.124.2.35 Europe/Vienna
-10.124.2.36 Europe/Vienna
-10.124.2.37 Europe/Vienna
 10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
@@ -235,7 +232,7 @@
 10.124.0.185 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
-10.124.0.191 Europe/Stockholm
+;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
