@@ -1,8 +1,9 @@
-Date: 2024-03-13 18-47-12 UTC
-Total active proxies: 421
+Date: 2024-03-14 01-34-24 UTC
+Total active proxies: 422
  flag  country         city                socks5                                            ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212                                      31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
+ 🇦🇹    Austria         Vienna              10.124.2.36                                       146.70.116.130   2001:ac8:29:85::a02f       10     3544      ❌     M247           ✔️      at-vie-wg-002 
  🇦🇺    Australia       Adelaide            10.124.0.99                                       103.214.20.50    2404:f780:0:deb::c1f       10     3099      ❌     hostuniversal  ✔️      au-adl-wg-301 
  🇦🇺    Australia       Adelaide            10.124.0.156                                      103.214.20.130   2404:f780:0:dec::c2f       10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.220                                      103.216.220.18   2404:f780:4:deb::f001      10     3220      ❌     hostuniversal  ✔️      au-bne-wg-301 
@@ -235,7 +236,7 @@ Total active proxies: 421
  🇸🇪    Sweden          Malmö               10.124.0.185                                      193.138.218.82   2a03:1b20:1:f410::a17f     10     3185      ✔️     31173          ✔️      se-mma-wg-005 
  🇸🇪    Sweden          Malmö               10.124.0.189                                      45.83.220.68     2a03:1b20:1:e011::a21f     20     3189      ✔️     31173          ✔️      se-mma-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.190                                      45.83.220.69     2a03:1b20:1:e011::a22f     20     3190      ✔️     31173          ✔️      se-mma-wg-102 
- 🇸🇪    Sweden          Malmö               ;; communications error to 1.1.1.1#53: timed out  45.83.220.70     2a03:1b20:1:e011::a23f     10     3191      ✔️     31173          ✔️      se-mma-wg-103 
+ 🇸🇪    Sweden          Malmö               10.124.0.191                                      45.83.220.70     2a03:1b20:1:e011::a23f     10     3191      ✔️     31173          ✔️      se-mma-wg-103 
  🇸🇪    Sweden          Stockholm           10.124.1.184                                      185.195.233.76   2a03:1b20:4:f011::999f     20     3438      ✔️     31173          ✔️      se-sto-wg-001 
  🇸🇪    Sweden          Stockholm           10.124.0.11                                       185.65.135.67    2a03:1b20:4:f011::a02f     20     3011      ✔️     31173          ✔️      se-sto-wg-002 
  🇸🇪    Sweden          Stockholm           10.124.2.48                                       185.65.135.68    2a03:1b20:4:f011::f201     20     3556      ✔️     31173          ✔️      se-sto-wg-003 
@@ -273,7 +274,7 @@ Total active proxies: 421
  🇺🇸    USA             Atlanta, GA         10.124.0.169                                      104.129.24.98    2607:fcd0:aa80:1302::f001  10     3169      ❌     Quadranet      ✔️      us-atl-wg-202 
  🇺🇸    USA             Atlanta, GA         10.124.0.170                                      104.129.24.114   2607:fcd0:aa80:1303::b34f  10     3170      ❌     Quadranet      ✔️      us-atl-wg-203 
  🇺🇸    USA             Atlanta, GA         10.124.0.184                                      104.223.91.18    2607:fcd0:aa80:1305::b43f  10     3184      ❌     Quadranet      ✔️      us-atl-wg-204 
- 🇺🇸    USA             Boston, MA          10.124.0.85                                       43.225.189.131   2a06:3040:12:610::a01f     10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
+ 🇺🇸    USA             Boston, MA          ;; communications error to 1.1.1.1#53: timed out  43.225.189.131   2a06:3040:12:610::a01f     10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
  🇺🇸    USA             Boston, MA          10.124.0.126                                      43.225.189.162   2a06:3040:12:610::a02f     10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127                                      149.40.50.98     2a02:6ea0:f901::a01f       10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
  🇺🇸    USA             Boston, MA          10.124.0.197                                      149.40.50.112    2a02:6ea0:f901:1::a02f     10     3197      ❌     DataPacket     ✔️      us-bos-wg-102 
@@ -391,7 +392,7 @@ Total active proxies: 421
  🇺🇸    USA             Seattle, WA         10.124.0.104                                      199.229.250.55   2607:f7a0:c:4::f301        1      3104      ❌     100TB          ✔️      us-sea-wg-204 
  🇺🇸    USA             Seattle, WA         10.124.0.115                                      199.229.250.56   2607:f7a0:c:4::f401        1      3115      ❌     100TB          ✔️      us-sea-wg-205 
  🇺🇸    USA             Seattle, WA         10.124.0.128                                      199.229.250.57   2607:f7a0:c:4::f501        1      3128      ❌     100TB          ✔️      us-sea-wg-206 
- 🇺🇸    USA             Seattle, WA         10.124.0.129                                      199.229.250.58   2607:f7a0:c:4::f601        1      3129      ❌     100TB          ✔️      us-sea-wg-207 
+ 🇺🇸    USA             Seattle, WA         ;; communications error to 1.1.1.1#53: timed out  199.229.250.58   2607:f7a0:c:4::f601        1      3129      ❌     100TB          ✔️      us-sea-wg-207 
  🇺🇸    USA             Seattle, WA         10.124.0.130                                      199.229.250.59   2607:f7a0:c:4::f701        1      3130      ❌     100TB          ✔️      us-sea-wg-208 
  🇺🇸    USA             San Jose, CA        10.124.0.78                                       198.54.134.98    2607:9000:8000:14::f001    10     3078      ❌     Tzulo          ✔️      us-sjc-wg-001 
  🇺🇸    USA             San Jose, CA        10.124.0.69                                       198.54.134.130   2607:9000:8000:15::b95f    10     3069      ❌     Tzulo          ✔️      us-sjc-wg-002 

@@ -1,5 +1,6 @@
 10.124.0.155 Europe/Tirane
 10.124.0.212 Europe/Tirane
+10.124.2.36 Europe/Vienna
 10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
@@ -232,7 +233,7 @@
 10.124.0.185 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.191 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
@@ -270,7 +271,7 @@
 10.124.0.169 America/New_York
 10.124.0.170 America/New_York
 10.124.0.184 America/New_York
-10.124.0.85 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.0.126 America/New_York
 10.124.0.127 America/New_York
 10.124.0.197 America/New_York
@@ -388,7 +389,7 @@
 10.124.0.104 America/Los_Angeles
 10.124.0.115 America/Los_Angeles
 10.124.0.128 America/Los_Angeles
-10.124.0.129 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.0.130 America/Los_Angeles
 10.124.0.78 America/Los_Angeles
 10.124.0.69 America/Los_Angeles
