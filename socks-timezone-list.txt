@@ -185,7 +185,7 @@
 10.124.0.205 America/Mexico_City
 10.124.0.206 America/Mexico_City
 10.124.0.4 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
+10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
