@@ -378,9 +378,6 @@
 10.124.0.22 America/New_York
 10.124.0.24 America/New_York
 10.124.0.26 America/New_York
-10.124.1.229 America/Los_Angeles
-10.124.1.228 America/Los_Angeles
-10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
 10.124.0.3 America/Los_Angeles
 10.124.0.98 America/Los_Angeles

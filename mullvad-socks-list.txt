@@ -1,5 +1,5 @@
-Date: 2024-03-25 06-47-10 UTC
-Total active proxies: 424
+Date: 2024-03-25 12-53-15 UTC
+Total active proxies: 421
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -381,9 +381,6 @@ Total active proxies: 424
  🇺🇸    USA             Raleigh, NC         10.124.0.22   198.54.130.114   2607:9000:4000:17::b85f    1      3022      ❌     Tzulo          ✔️      us-rag-wg-103 
  🇺🇸    USA             Raleigh, NC         10.124.0.24   198.54.130.130   2607:9000:4000:18::f001    1      3024      ❌     Tzulo          ✔️      us-rag-wg-104 
  🇺🇸    USA             Raleigh, NC         10.124.0.26   198.54.130.146   2607:9000:4000:19::f001    1      3026      ❌     Tzulo          ✔️      us-rag-wg-105 
- 🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f     10     3483      ❌     DataPacket     ✔️      us-sea-wg-001 
- 🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001     10     3482      ❌     DataPacket     ✔️      us-sea-wg-002 
- 🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f     10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
  🇺🇸    USA             Seattle, WA         10.124.0.1    198.54.131.130   2607:9000:5000:15::b77f    10     3001      ❌     Tzulo          ✔️      us-sea-wg-101 
  🇺🇸    USA             Seattle, WA         10.124.0.3    198.54.131.162   2607:9000:5000:16::b78f    10     3003      ❌     Tzulo          ✔️      us-sea-wg-102 
  🇺🇸    USA             Seattle, WA         10.124.0.98   199.229.250.52   2607:f7a0:c:4::c09f        1      3098      ❌     100TB          ✔️      us-sea-wg-201 
