@@ -1,5 +1,5 @@
-Date: 2024-03-25 01-37-02 UTC
-Total active proxies: 426
+Date: 2024-03-25 06-47-10 UTC
+Total active proxies: 424
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -218,8 +218,6 @@ Total active proxies: 426
  🇵🇱    Poland          Warsaw              10.124.1.221  45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
  🇵🇱    Poland          Warsaw              10.124.2.45   45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️      pl-waw-wg-201 
  🇵🇱    Poland          Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️      pl-waw-wg-202 
- 🇵🇹    Portugal        Lisbon              10.124.0.86   94.46.24.33      2a00:1651:0:4000::a01f     1      3086      ❌     ptisp          ✔️      pt-lis-wg-101 
- 🇵🇹    Portugal        Lisbon              10.124.0.88   94.46.24.49      2a00:1651:0:4001::a02f     1      3088      ❌     ptisp          ✔️      pt-lis-wg-102 
  🇵🇹    Portugal        Lisbon              10.124.0.198  149.88.20.206    2a02:6ea0:fb01:1::f001     10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199  149.88.20.193    2a02:6ea0:fb01:2::f002     10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
  🇷🇴    Romania         Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f      10     3535      ❌     M247           ✔️      ro-buh-wg-001 

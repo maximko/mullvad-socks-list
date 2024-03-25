@@ -215,8 +215,6 @@
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
-10.124.0.86 Europe/Lisbon
-10.124.0.88 Europe/Lisbon
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
@@ -251,8 +249,8 @@
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
-10.124.0.248 Asia/Dubai
-10.124.0.249 Asia/Dubai
+10.124.0.248 Europe/Ljubljana
+10.124.0.249 Europe/Ljubljana
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.0.25 Europe/Kyiv
