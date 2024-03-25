@@ -15,7 +15,7 @@
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
 10.124.0.214 Australia/Sydney
-10.124.0.215 Australia/Sydney
+;; communications error to 1.1.1.1#53: timed out Australia/Sydney
 10.124.0.141 Australia/Sydney
 10.124.0.211 Australia/Sydney
 10.124.2.42 Europe/Brussels
@@ -405,7 +405,7 @@
 10.124.1.36 America/Chicago
 10.124.1.37 America/Chicago
 10.124.1.38 America/Chicago
-10.124.1.39 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.1.40 America/Chicago
 10.124.1.41 America/Chicago
 10.124.1.42 America/Chicago
