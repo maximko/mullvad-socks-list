@@ -106,6 +106,8 @@
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
+10.124.0.252 Europe/Madrid
+10.124.0.253 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
 10.124.2.28 Europe/Madrid
@@ -117,7 +119,7 @@
 10.124.2.54 Europe/Helsinki
 10.124.2.55 Europe/Helsinki
 10.124.2.56 Europe/Helsinki
-;; communications error to 1.1.1.1#53: timed out Europe/Paris
+10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
 10.124.0.116 Europe/Paris
 10.124.0.117 Europe/Paris
@@ -378,6 +380,9 @@
 10.124.0.22 America/New_York
 10.124.0.24 America/New_York
 10.124.0.26 America/New_York
+10.124.1.229 America/Los_Angeles
+10.124.1.228 America/Los_Angeles
+10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
 10.124.0.3 America/Los_Angeles
 10.124.0.98 America/Los_Angeles
@@ -388,6 +393,8 @@
 10.124.0.128 America/Los_Angeles
 10.124.0.129 America/Los_Angeles
 10.124.0.130 America/Los_Angeles
+10.124.0.164 America/Los_Angeles
+10.124.0.158 America/Los_Angeles
 10.124.0.78 America/Los_Angeles
 10.124.0.69 America/Los_Angeles
 10.124.0.70 America/Los_Angeles
