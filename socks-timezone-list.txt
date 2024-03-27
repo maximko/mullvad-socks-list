@@ -213,7 +213,7 @@
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
-10.124.2.45 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
@@ -266,7 +266,7 @@
 10.124.1.159 America/Chicago
 10.124.1.160 America/Chicago
 10.124.1.161 America/Chicago
-10.124.1.162 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
 10.124.0.170 America/New_York
