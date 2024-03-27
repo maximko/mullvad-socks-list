@@ -1,4 +1,4 @@
-Date: 2024-03-27 01-35-44 UTC
+Date: 2024-03-27 06-47-11 UTC
 Total active proxies: 421
  flag  country         city                socks5                                            ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -120,7 +120,7 @@ Total active proxies: 421
  🇫🇮    Finland         Helsinki            10.124.2.54                                       193.138.7.157    2a02:ed04:3581:2::f001     10     3562      ✔️     Blix           ✔️      fi-hel-wg-102 
  🇫🇮    Finland         Helsinki            10.124.2.55                                       193.138.7.177    2a02:ed04:3581:3::f001     10     3563      ✔️     Blix           ✔️      fi-hel-wg-103 
  🇫🇮    Finland         Helsinki            10.124.2.56                                       193.138.7.197    2a02:ed04:3581:4::f001     10     3564      ✔️     Blix           ✔️      fi-hel-wg-104 
- 🇫🇷    France          Marseille           10.124.0.45                                       138.199.15.162   2a02:6ea0:dc05::a15f       10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
+ 🇫🇷    France          Marseille           ;; communications error to 1.1.1.1#53: timed out  138.199.15.162   2a02:6ea0:dc05::a15f       10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183                                      138.199.15.146   2a02:6ea0:dc06::a16f       10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
  🇫🇷    France          Paris               10.124.0.116                                      193.32.126.66    2a03:1b20:9:f011::a01f     20     3116      ✔️     31173          ✔️      fr-par-wg-001 
  🇫🇷    France          Paris               10.124.0.117                                      193.32.126.67    2a03:1b20:9:f011::f101     20     3117      ✔️     31173          ✔️      fr-par-wg-002 
@@ -216,7 +216,7 @@ Total active proxies: 421
  🇵🇱    Poland          Warsaw              10.124.1.219                                      45.134.212.66    2a02:6ea0:ce08:1::f001     10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220                                      45.134.212.79    2a02:6ea0:ce08:2::a06f     10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
  🇵🇱    Poland          Warsaw              10.124.1.221                                      45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
- 🇵🇱    Poland          Warsaw              ;; communications error to 1.1.1.1#53: timed out  45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️      pl-waw-wg-201 
+ 🇵🇱    Poland          Warsaw              10.124.2.45                                       45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️      pl-waw-wg-201 
  🇵🇱    Poland          Warsaw              10.124.2.46                                       146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198                                      149.88.20.206    2a02:6ea0:fb01:1::f001     10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199                                      149.88.20.193    2a02:6ea0:fb01:2::f002     10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
@@ -269,7 +269,7 @@ Total active proxies: 421
  🇺🇸    USA             Atlanta, GA         10.124.1.159                                      66.115.180.237   2607:f7a0:1:d::f601        1      3413      ❌     100TB          ✔️      us-atl-wg-107 
  🇺🇸    USA             Atlanta, GA         10.124.1.160                                      66.115.180.238   2607:f7a0:1:d::f701        1      3414      ❌     100TB          ✔️      us-atl-wg-108 
  🇺🇸    USA             Atlanta, GA         10.124.1.161                                      66.115.180.239   2607:f7a0:1:d::b75f        1      3415      ❌     100TB          ✔️      us-atl-wg-109 
- 🇺🇸    USA             Atlanta, GA         ;; communications error to 1.1.1.1#53: timed out  66.115.180.240   2607:f7a0:1:d::f901        1      3416      ❌     100TB          ✔️      us-atl-wg-110 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.162                                      66.115.180.240   2607:f7a0:1:d::f901        1      3416      ❌     100TB          ✔️      us-atl-wg-110 
  🇺🇸    USA             Atlanta, GA         10.124.0.29                                       107.150.22.2     2607:fcd0:aa80:1304::f001  10     3029      ❌     Quadranet      ✔️      us-atl-wg-201 
  🇺🇸    USA             Atlanta, GA         10.124.0.169                                      104.129.24.98    2607:fcd0:aa80:1302::f001  10     3169      ❌     Quadranet      ✔️      us-atl-wg-202 
  🇺🇸    USA             Atlanta, GA         10.124.0.170                                      104.129.24.114   2607:fcd0:aa80:1303::b34f  10     3170      ❌     Quadranet      ✔️      us-atl-wg-203 
