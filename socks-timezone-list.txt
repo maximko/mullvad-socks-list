@@ -156,7 +156,7 @@
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
-10.124.0.202 Asia/Hong_Kong
+;; communications error to 1.1.1.1#53: timed out Asia/Hong_Kong
 10.124.0.203 Asia/Hong_Kong
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
@@ -164,7 +164,7 @@
 10.124.0.228 Europe/Budapest
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
-10.124.2.5 Asia/Jerusalem
+;; Warning: ID mismatch: expected ID 34457, got 14666 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
