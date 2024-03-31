@@ -162,7 +162,7 @@
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
-;; communications error to 1.1.1.1#53: timed out Europe/Dublin
+10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
