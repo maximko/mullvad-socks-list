@@ -145,7 +145,7 @@
 10.124.1.164 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
-10.124.1.248 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.0.237 Europe/London
 10.124.2.20 Europe/London
 10.124.2.13 Europe/London
