@@ -107,7 +107,6 @@
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
 10.124.0.252 Europe/Madrid
-10.124.0.253 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
 10.124.2.28 Europe/Madrid
@@ -233,7 +232,7 @@
 10.124.0.2 Europe/Stockholm
 10.124.0.183 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
