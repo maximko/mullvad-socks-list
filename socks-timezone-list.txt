@@ -234,7 +234,7 @@
 10.124.0.186 Europe/Stockholm
 10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
-10.124.0.189 Europe/Stockholm
+;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
 10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
