@@ -163,6 +163,8 @@
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
+10.124.0.254 Asia/Jakarta
+10.124.1.1 Asia/Jakarta
 10.124.1.58 Europe/Dublin
 10.124.1.59 Europe/Dublin
 10.124.2.5 Asia/Jerusalem
@@ -256,6 +258,8 @@
 10.124.0.249 Europe/Ljubljana
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
+10.124.1.4 Asia/Bangkok
+10.124.1.5 Asia/Bangkok
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
