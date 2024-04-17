@@ -249,8 +249,6 @@
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
-10.124.1.244 Asia/Singapore
-10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
@@ -288,6 +286,7 @@
 10.124.0.52 America/Chicago
 10.124.0.57 America/Chicago
 10.124.0.58 America/Chicago
+10.124.1.8 America/Chicago
 10.124.0.168 America/Chicago
 10.124.0.165 America/Chicago
 10.124.0.188 America/Chicago
@@ -414,6 +413,8 @@
 10.124.1.209 America/Los_Angeles
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
+10.124.1.6 America/Los_Angeles
+10.124.1.7 America/Los_Angeles
 10.124.1.36 America/Chicago
 10.124.1.37 America/Chicago
 10.124.1.38 America/Chicago
