@@ -20,6 +20,7 @@
 10.124.0.211 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
+10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
 10.124.0.194 America/Sao_Paulo
@@ -357,7 +358,7 @@
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
 10.124.1.230 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.231 America/New_York
 10.124.1.232 America/New_York
 10.124.0.210 America/New_York
 10.124.0.72 America/New_York
@@ -373,12 +374,12 @@
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
 10.124.0.34 America/Phoenix
-10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
 10.124.1.189 America/New_York
+10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
 10.124.0.10 America/New_York
@@ -391,7 +392,6 @@
 10.124.1.227 America/Los_Angeles
 10.124.0.1 America/Los_Angeles
 10.124.0.3 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.0.98 America/Los_Angeles
 10.124.0.101 America/Los_Angeles
 10.124.0.103 America/Los_Angeles
