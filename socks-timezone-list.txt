@@ -62,6 +62,8 @@
 10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
+10.124.1.20 America/Santiago
+10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
 10.124.2.33 Europe/Prague
