@@ -1,5 +1,5 @@
-Date: 2024-04-24 01-39-55 UTC
-Total active proxies: 439
+Date: 2024-04-24 06-46-59 UTC
+Total active proxies: 438
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -372,7 +372,6 @@ Total active proxies: 439
  🇺🇸    USA             New York, NY        10.124.0.87   146.70.166.130   2a0d:5600:24:2c2::f001     10     3087      ❌     M247           ✔️      us-nyc-wg-504 
  🇺🇸    USA             New York, NY        10.124.0.90   146.70.166.194   2a0d:5600:24:2c3::f001     10     3090      ❌     M247           ✔️      us-nyc-wg-505 
  🇺🇸    USA             New York, NY        10.124.0.213  146.70.165.66    2a0d:5600:24:2b7::f001     10     3213      ❌     M247           ✔️      us-nyc-wg-506 
- 🇺🇸    USA             New York, NY        10.124.0.167  146.70.185.2     2a0d:5600:24:136a::f001    10     3167      ❌     M247           ✔️      us-nyc-wg-601 
  🇺🇸    USA             New York, NY        10.124.0.187  146.70.168.130   2a0d:5600:24:1378::f001    10     3187      ❌     M247           ✔️      us-nyc-wg-602 
  🇺🇸    USA             New York, NY        10.124.1.45   146.70.168.66    2a0d:5600:24:1377::f001    10     3299      ❌     M247           ✔️      us-nyc-wg-603 
  🇺🇸    USA             New York, NY        10.124.1.46   146.70.171.66    2a0d:5600:24:1372::f001    10     3300      ❌     M247           ✔️      us-nyc-wg-604 
