@@ -1,5 +1,5 @@
-Date: 2024-04-25 01-39-52 UTC
-Total active proxies: 438
+Date: 2024-04-25 06-47-07 UTC
+Total active proxies: 441
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -236,6 +236,9 @@ Total active proxies: 438
  🇸🇪    Sweden          Gothenburg          10.124.0.49   185.213.154.67   2a03:1b20:5:f011::a05f     20     3049      ✔️     31173          ✔️      se-got-wg-002 
  🇸🇪    Sweden          Gothenburg          10.124.0.152  185.213.154.68   2a03:1b20:5:f011::a09f     20     3152      ✔️     31173          ✔️      se-got-wg-003 
  🇸🇪    Sweden          Gothenburg          10.124.0.65   185.213.154.69   2a03:1b20:5:f011::a10f     20     3065      ✔️     31173          ✔️      se-got-wg-004 
+ 🇸🇪    Sweden          Gothenburg          10.124.1.56   185.209.199.7    2a03:1b20:5:f011:6::f001   20     3310      ✔️     31173          ✔️      se-got-wg-006 
+ 🇸🇪    Sweden          Gothenburg          10.124.1.60   185.209.199.12   2a03:1b20:5:f011:7::f001   20     3314      ✔️     31173          ✔️      se-got-wg-007 
+ 🇸🇪    Sweden          Gothenburg          10.124.1.61   185.209.199.17   2a03:1b20:5:f011:8::f001   20     3315      ✔️     31173          ✔️      se-got-wg-008 
  🇸🇪    Sweden          Gothenburg          10.124.1.185  185.213.154.70   2a03:1b20:5:f011::aaaf     10     3439      ✔️     31173          ✔️      se-got-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.2    193.138.218.220  2a03:1b20:1:f410::a01f     40     3002      ✔️     31173          ✔️      se-mma-wg-001 
  🇸🇪    Sweden          Malmö               10.124.0.183  193.138.218.80   2a03:1b20:1:f410::a15f     10     3183      ✔️     31173          ✔️      se-mma-wg-002 
