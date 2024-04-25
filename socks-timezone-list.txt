@@ -165,7 +165,7 @@
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
-;; communications error to 1.1.1.1#53: timed out Europe/Budapest
+10.124.0.228 Europe/Budapest
 10.124.0.254 Asia/Jakarta
 10.124.1.1 Asia/Jakarta
 10.124.1.58 Europe/Dublin
@@ -248,7 +248,7 @@
 10.124.2.49 Europe/Stockholm
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.173 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
