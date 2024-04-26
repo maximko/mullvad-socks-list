@@ -1,5 +1,5 @@
-Date: 2024-04-26 01-38-19 UTC
-Total active proxies: 441
+Date: 2024-04-26 06-47-16 UTC
+Total active proxies: 443
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -138,6 +138,7 @@ Total active proxies: 441
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001       10     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001      10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101      10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
+ 🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f     20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
  🇬🇧    UK              London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f     20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
  🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f     20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
  🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f     20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
@@ -236,6 +237,7 @@ Total active proxies: 441
  🇸🇪    Sweden          Gothenburg          10.124.0.49   185.213.154.67   2a03:1b20:5:f011::a05f     20     3049      ✔️     31173          ✔️      se-got-wg-002 
  🇸🇪    Sweden          Gothenburg          10.124.0.152  185.213.154.68   2a03:1b20:5:f011::a09f     20     3152      ✔️     31173          ✔️      se-got-wg-003 
  🇸🇪    Sweden          Gothenburg          10.124.0.65   185.213.154.69   2a03:1b20:5:f011::a10f     20     3065      ✔️     31173          ✔️      se-got-wg-004 
+ 🇸🇪    Sweden          Gothenburg          10.124.1.22   185.209.199.2    2a03:1b20:5:f011:5::f001   20     3276      ✔️     31173          ✔️      se-got-wg-005 
  🇸🇪    Sweden          Gothenburg          10.124.1.56   185.209.199.7    2a03:1b20:5:f011:6::f001   20     3310      ✔️     31173          ✔️      se-got-wg-006 
  🇸🇪    Sweden          Gothenburg          10.124.1.60   185.209.199.12   2a03:1b20:5:f011:7::f001   20     3314      ✔️     31173          ✔️      se-got-wg-007 
  🇸🇪    Sweden          Gothenburg          10.124.1.61   185.209.199.17   2a03:1b20:5:f011:8::f001   20     3315      ✔️     31173          ✔️      se-got-wg-008 
