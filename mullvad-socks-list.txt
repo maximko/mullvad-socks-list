@@ -1,5 +1,5 @@
-Date: 2024-04-30 06-47-05 UTC
-Total active proxies: 442
+Date: 2024-04-30 12-54-26 UTC
+Total active proxies: 438
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001        10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001        10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -152,7 +152,6 @@ Total active proxies: 442
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f     10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f     10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f     10     3502      ❌     M247           ✔️      gb-lon-wg-303 
- 🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001     10     3237      ❌     M247           ✔️      gb-lon-wg-304 
  🇬🇧    UK              Manchester          10.124.2.20   146.70.133.98    2001:ac8:8b:2d::a47f       10     3528      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::f001       10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.2.14   146.70.132.162   2001:ac8:8b:27::f001       10     3522      ❌     M247           ✔️      gb-mnc-wg-003 
@@ -197,7 +196,6 @@ Total active proxies: 442
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001     10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
  🇲🇽    Mexico          Queretaro           10.124.0.206  149.88.22.168    2a02:6ea0:f803:3::f001     10     3206      ❌     DataPacket     ✔️      mx-qro-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::f001     20     3004      ✔️     31173          ✔️      nl-ams-wg-001 
- 🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f     20     3039      ✔️     31173          ✔️      nl-ams-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201     20     3040      ✔️     31173          ✔️      nl-ams-wg-003 
  🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301     20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401     20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
@@ -343,7 +341,6 @@ Total active proxies: 442
  🇺🇸    USA             Los Angeles, CA     10.124.0.182  198.44.129.34    2607:9000:3000:13::a51f    10     3182      ❌     Tzulo          ✔️      us-lax-wg-103 
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
- 🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
  🇺🇸    USA             Los Angeles, CA     10.124.1.174  198.96.89.194    2607:fcd0:100:7c03::f001   10     3428      ❌     Quadranet      ✔️      us-lax-wg-301 
  🇺🇸    USA             Los Angeles, CA     10.124.0.162  204.152.216.98   2607:fcd0:100:7c01::b29f   10     3162      ❌     Quadranet      ✔️      us-lax-wg-302 
  🇺🇸    USA             Los Angeles, CA     10.124.0.163  204.152.216.114  2607:fcd0:100:7c02::b30f   10     3163      ❌     Quadranet      ✔️      us-lax-wg-303 
@@ -352,7 +349,6 @@ Total active proxies: 442
  🇺🇸    USA             Los Angeles, CA     10.124.1.50   146.70.173.130   2a0d:5600:8:d::d3f         10     3304      ❌     M247           ✔️      us-lax-wg-403 
  🇺🇸    USA             Los Angeles, CA     10.124.1.51   146.70.173.194   2a0d:5600:8:2f::f001       10     3305      ❌     M247           ✔️      us-lax-wg-404 
  🇺🇸    USA             Los Angeles, CA     10.124.1.52   146.70.172.2     2a0d:5600:8:37::f001       10     3306      ❌     M247           ✔️      us-lax-wg-405 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.236  146.70.174.2     2a0d:5600:8:3b::f001       10     3236      ❌     M247           ✔️      us-lax-wg-406 
  🇺🇸    USA             Los Angeles, CA     10.124.0.207  23.162.40.4      2602:fa19:4::f001          10     3207      ❌     xtom           ✔️      us-lax-wg-501 
  🇺🇸    USA             Los Angeles, CA     10.124.0.208  23.162.40.45     2602:fa19:4::f101          10     3208      ❌     xtom           ✔️      us-lax-wg-502 
  🇺🇸    USA             Los Angeles, CA     10.124.0.209  23.162.40.86     2602:fa19:4::f201          10     3209      ❌     xtom           ✔️      us-lax-wg-503 
@@ -366,7 +362,6 @@ Total active proxies: 442
  🇺🇸    USA             Miami, FL           10.124.0.153  104.129.41.194   2607:ff48:aa81:2603::b26f  10     3153      ❌     Quadranet      ✔️      us-mia-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001       10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001     10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
- 🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f     10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
  🇺🇸    USA             New York, NY        10.124.1.230  198.44.136.34    2607:9000:a000:12::f001    10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
  🇺🇸    USA             New York, NY        10.124.1.231  198.44.136.66    2607:9000:a000:13::f001    10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
  🇺🇸    USA             New York, NY        10.124.1.232  198.44.136.98    2607:9000:a000:14::f001    10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
@@ -377,6 +372,7 @@ Total active proxies: 442
  🇺🇸    USA             New York, NY        10.124.0.87   146.70.166.130   2a0d:5600:24:2c2::f001     10     3087      ❌     M247           ✔️      us-nyc-wg-504 
  🇺🇸    USA             New York, NY        10.124.0.90   146.70.166.194   2a0d:5600:24:2c3::f001     10     3090      ❌     M247           ✔️      us-nyc-wg-505 
  🇺🇸    USA             New York, NY        10.124.0.213  146.70.165.66    2a0d:5600:24:2b7::f001     10     3213      ❌     M247           ✔️      us-nyc-wg-506 
+ 🇺🇸    USA             New York, NY        10.124.0.167  146.70.185.2     2a0d:5600:24:136a::f001    10     3167      ❌     M247           ✔️      us-nyc-wg-601 
  🇺🇸    USA             New York, NY        10.124.0.187  146.70.168.130   2a0d:5600:24:1378::f001    10     3187      ❌     M247           ✔️      us-nyc-wg-602 
  🇺🇸    USA             New York, NY        10.124.1.45   146.70.168.66    2a0d:5600:24:1377::f001    10     3299      ❌     M247           ✔️      us-nyc-wg-603 
  🇺🇸    USA             New York, NY        10.124.1.46   146.70.171.66    2a0d:5600:24:1372::f001    10     3300      ❌     M247           ✔️      us-nyc-wg-604 
