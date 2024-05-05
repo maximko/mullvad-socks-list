@@ -232,7 +232,7 @@
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
-10.124.0.49 Europe/Stockholm
+;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
 10.124.0.152 Europe/Stockholm
 10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Berlin
