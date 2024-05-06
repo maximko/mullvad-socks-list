@@ -1,5 +1,5 @@
-Date: 2024-05-06 01-40-51 UTC
-Total active proxies: 449
+Date: 2024-05-06 06-47-19 UTC
+Total active proxies: 451
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -125,6 +125,8 @@ Total active proxies: 449
  🇫🇮    Finland         Helsinki            10.124.2.54   193.138.7.157    2a02:ed04:3581:2::f001                10     3562      ✔️     Blix           ✔️      fi-hel-wg-102 
  🇫🇮    Finland         Helsinki            10.124.2.55   193.138.7.177    2a02:ed04:3581:3::f001                10     3563      ✔️     Blix           ✔️      fi-hel-wg-103 
  🇫🇮    Finland         Helsinki            10.124.2.56   193.138.7.197    2a02:ed04:3581:4::f001                10     3564      ✔️     Blix           ✔️      fi-hel-wg-104 
+ 🇫🇷    France          Bordeaux            10.124.1.63   45.134.79.67     2a06:3040:4:610::f001                 10     3317      ❌     HostRoyale     ✔️      fr-bod-wg-001 
+ 🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
  🇫🇷    France          Paris               10.124.0.116  193.32.126.66    2a03:1b20:9:f011::a01f                20     3116      ✔️     31173          ✔️      fr-par-wg-001 
