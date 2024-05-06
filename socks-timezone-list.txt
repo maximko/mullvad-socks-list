@@ -109,6 +109,7 @@
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
 10.124.0.252 Europe/Madrid
+10.124.0.253 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
 10.124.2.28 Europe/Madrid
@@ -270,7 +271,6 @@
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.1.4 Asia/Bangkok
-10.124.1.5 Asia/Bangkok
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
@@ -389,6 +389,7 @@
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
 10.124.0.34 America/Phoenix
+10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York

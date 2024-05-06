@@ -1,5 +1,5 @@
-Date: 2024-05-06 06-47-19 UTC
-Total active proxies: 451
+Date: 2024-05-06 12-55-21 UTC
+Total active proxies: 452
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -112,6 +112,7 @@ Total active proxies: 451
  🇪🇪    Estonia         Tallinn             10.124.0.139  194.127.167.87   2a07:d880:2::a02f                     10     3139      ❌     xtom           ✔️      ee-tll-wg-002 
  🇪🇪    Estonia         Tallinn             10.124.0.140  194.127.167.107  2a07:d880:2::a03f                     10     3140      ❌     xtom           ✔️      ee-tll-wg-003 
  🇪🇸    Spain           Barcelona           10.124.0.252  185.188.61.195   2a06:3040:2:210::f001                 10     3252      ❌     HostRoyale     ✔️      es-bcn-wg-001 
+ 🇪🇸    Spain           Barcelona           10.124.0.253  185.188.61.225   2a06:3040:2:210::f101                 10     3253      ❌     HostRoyale     ✔️      es-bcn-wg-002 
  🇪🇸    Spain           Madrid              10.124.1.223  45.134.213.194   2a02:6ea0:c318:1::a06f                10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
  🇪🇸    Spain           Madrid              10.124.1.222  45.134.213.207   2a02:6ea0:c318:2::a07f                10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
  🇪🇸    Spain           Madrid              10.124.2.28   146.70.128.194   2001:ac8:23:85::a01f                  10     3536      ❌     M247           ✔️      es-mad-wg-201 
@@ -273,7 +274,6 @@ Total active proxies: 451
  🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001                10     3511      ❌     DataPacket     ✔️      sk-bts-wg-001 
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f                  10     3512      ❌     DataPacket     ✔️      sk-bts-wg-002 
  🇹🇭    Thailand        Bangkok             10.124.1.4    156.59.50.194    2602:ffe4:c09:10a::f001               10     3258      ❌     Zenlayer       ✔️      th-bkk-wg-001 
- 🇹🇭    Thailand        Bangkok             10.124.1.5    156.59.50.226    2602:ffe4:c09:109::f101               10     3259      ❌     Zenlayer       ✔️      th-bkk-wg-002 
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f                10     3025      ❌     DataPacket     ✔️      ua-iev-wg-001 
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f                10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f                10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 
@@ -392,6 +392,7 @@ Total active proxies: 451
  🇺🇸    USA             New York, NY        10.124.1.47   146.70.171.130   2a0d:5600:24:1374::f001               10     3301      ❌     M247           ✔️      us-nyc-wg-605 
  🇺🇸    USA             New York, NY        10.124.0.235  146.70.168.194   2a0d:5600:24:1379::f001               10     3235      ❌     M247           ✔️      us-nyc-wg-606 
  🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
+ 🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
  🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
  🇺🇸    USA             Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f               10     3440      ❌     Tzulo          ✔️      us-qas-wg-001 
  🇺🇸    USA             Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f               10     3441      ❌     Tzulo          ✔️      us-qas-wg-002 
