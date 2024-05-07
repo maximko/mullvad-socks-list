@@ -1,5 +1,5 @@
-Date: 2024-05-07 01-40-40 UTC
-Total active proxies: 452
+Date: 2024-05-07 06-47-23 UTC
+Total active proxies: 453
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -26,6 +26,7 @@ Total active proxies: 452
  🇧🇪    Belgium         Brussels            10.124.2.44   194.110.115.2    2001:ac8:27:92::a03f                  10     3552      ❌     M247           ✔️      be-bru-wg-103 
  🇧🇬    Bulgaria        Sofia               10.124.0.225  146.70.188.130   2001:ac8:30:56::f001                  10     3225      ❌     M247           ✔️      bg-sof-wg-001 
  🇧🇬    Bulgaria        Sofia               10.124.0.226  146.70.188.194   2001:ac8:30:57::f001                  10     3226      ❌     M247           ✔️      bg-sof-wg-002 
+ 🇧🇷    Brazil          Sao Paulo           10.124.0.194  149.78.184.194   2804:5364:7000:40::f001               1      3194      ❌     Qnax           ✔️      br-sao-wg-001 
  🇧🇷    Brazil          Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f                10     3539      ❌     DataPacket     ✔️      br-sao-wg-201 
  🇧🇷    Brazil          Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f                10     3540      ❌     DataPacket     ✔️      br-sao-wg-202 
  🇨🇦    Canada          Montreal            10.124.0.231  146.70.198.66    2a0d:5600:9:c::f001                   10     3231      ❌     M247           ✔️      ca-mtr-wg-001 
@@ -273,7 +274,7 @@ Total active proxies: 452
  🇸🇮    Slovenia        Ljubljana           10.124.0.249  93.115.0.33      2a06:3040:7:210::f101                 10     3249      ❌     HostRoyale     ✔️      si-lju-wg-002 
  🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001                10     3511      ❌     DataPacket     ✔️      sk-bts-wg-001 
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f                  10     3512      ❌     DataPacket     ✔️      sk-bts-wg-002 
- 🇹🇭    Thailand        Bangkok             10.124.1.4    156.59.50.194    2602:ffe4:c09:10a::f001               10     3258      ❌     Zenlayer       ✔️      th-bkk-wg-001 
+ 🇹🇭    Thailand        Bangkok             10.124.1.5    156.59.50.226    2602:ffe4:c09:109::f101               10     3259      ❌     Zenlayer       ✔️      th-bkk-wg-002 
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f                10     3025      ❌     DataPacket     ✔️      ua-iev-wg-001 
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f                10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f                10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 
