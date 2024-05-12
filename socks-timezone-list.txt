@@ -19,7 +19,7 @@
 10.124.0.141 Australia/Sydney
 10.124.0.211 Australia/Sydney
 10.124.2.42 Europe/Brussels
-;; communications error to 1.1.1.1#53: timed out Europe/Brussels
+10.124.2.43 Europe/Brussels
 10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
