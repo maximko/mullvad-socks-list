@@ -1,4 +1,4 @@
-Date: 2024-05-13 06-47-00 UTC
+Date: 2024-05-13 12-55-45 UTC
 Total active proxies: 458
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -44,6 +44,8 @@ Total active proxies: 458
  🇨🇦    Canada          Toronto             10.124.0.15   198.44.140.194   2607:9000:6000:20::a07f               10     3015      ❌     Tzulo          ✔️      ca-tor-wg-107 
  🇨🇦    Canada          Vancouver           10.124.0.13   104.193.135.196  2606:9580:103:e::f001                 10     3013      ❌     techfutures    ✔️      ca-van-wg-201 
  🇨🇦    Canada          Vancouver           10.124.0.71   104.193.135.100  2606:9580:103:f::f001                 10     3071      ❌     techfutures    ✔️      ca-van-wg-202 
+ 🇨🇦    Canada          Vancouver           10.124.1.65   149.22.81.194    2a02:6ea0:5100:1::f001                10     3319      ❌     DataPacket     ✔️      ca-van-wg-301 
+ 🇨🇦    Canada          Vancouver           10.124.1.66   149.22.81.207    2a02:6ea0:5100:2::f001                10     3320      ❌     DataPacket     ✔️      ca-van-wg-302 
  🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f                10     3174      ❌     techfutures    ✔️      ca-yyc-wg-201 
  🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f                10     3178      ❌     techfutures    ✔️      ca-yyc-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::f001                20     3121      ✔️     31173          ✔️      ch-zrh-wg-001 
@@ -186,6 +188,8 @@ Total active proxies: 458
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f                10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
  🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001                  10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001                  10     3201      ❌     M247           ✔️      it-mil-wg-202 
+ 🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001                  10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
+ 🇮🇹    Italy           Palermo             10.124.1.68   149.22.91.79     2a02:6ea0:4f00::f101                  10     3322      ❌     DataPacket     ✔️      it-pmo-wg-002 
  🇯🇵    Japan           Osaka               10.124.1.177  194.114.136.3    2400:ddc0:a00b::f001                  10     3431      ❌     xtom           ✔️      jp-osa-wg-001 
  🇯🇵    Japan           Osaka               10.124.1.178  194.114.136.34   2400:ddc0:a00b::f101                  10     3432      ❌     xtom           ✔️      jp-osa-wg-002 
  🇯🇵    Japan           Osaka               10.124.1.179  194.114.136.65   2400:ddc0:a00b::f201                  10     3433      ❌     xtom           ✔️      jp-osa-wg-003 
@@ -447,10 +451,6 @@ Total active proxies: 458
  🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601                  1      3296      ❌     100TB          ✔️      us-slc-wg-107 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701                  1      3297      ❌     100TB          ✔️      us-slc-wg-108 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801                  1      3298      ❌     100TB          ✔️      us-slc-wg-109 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f             10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 

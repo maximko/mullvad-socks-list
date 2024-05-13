@@ -41,6 +41,8 @@
 10.124.0.15 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
+10.124.1.65 America/Vancouver
+10.124.1.66 America/Vancouver
 10.124.0.174 America/Edmonton
 10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
@@ -183,6 +185,8 @@
 10.124.1.208 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
+10.124.1.67 Europe/Rome
+10.124.1.68 Europe/Rome
 10.124.1.177 Asia/Tokyo
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
@@ -444,10 +448,6 @@
 10.124.1.42 America/Chicago
 10.124.1.43 America/Chicago
 10.124.1.44 America/Chicago
-10.124.1.12 America/Chicago
-10.124.1.13 America/Chicago
-10.124.1.14 America/Chicago
-10.124.1.15 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.0.242 America/New_York
