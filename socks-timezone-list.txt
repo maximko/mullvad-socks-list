@@ -444,6 +444,10 @@
 10.124.1.42 America/Chicago
 10.124.1.43 America/Chicago
 10.124.1.44 America/Chicago
+10.124.1.12 America/Chicago
+10.124.1.13 America/Chicago
+10.124.1.14 America/Chicago
+10.124.1.15 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.0.242 America/New_York
