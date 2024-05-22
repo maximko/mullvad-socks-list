@@ -24,7 +24,7 @@
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
 10.124.0.194 America/Sao_Paulo
-;; communications error to 1.1.1.1#53: timed out America/Sao_Paulo
+10.124.2.31 America/Sao_Paulo
 10.124.2.32 America/Sao_Paulo
 10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
