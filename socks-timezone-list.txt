@@ -20,7 +20,6 @@
 10.124.0.211 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
-10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
 10.124.0.194 America/Sao_Paulo
@@ -242,7 +241,6 @@
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
-10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Stockholm
 10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
