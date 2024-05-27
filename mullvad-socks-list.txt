@@ -1,5 +1,5 @@
-Date: 2024-05-27 01-44-10 UTC
-Total active proxies: 454
+Date: 2024-05-27 06-47-16 UTC
+Total active proxies: 453
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -395,7 +395,6 @@ Total active proxies: 454
  🇺🇸    USA             New York, NY        10.124.0.235  146.70.168.194   2a0d:5600:24:1379::f001               10     3235      ❌     M247           ✔️      us-nyc-wg-606 
  🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
  🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
- 🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
  🇺🇸    USA             Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f               10     3440      ❌     Tzulo          ✔️      us-qas-wg-001 
  🇺🇸    USA             Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f               10     3441      ❌     Tzulo          ✔️      us-qas-wg-002 
  🇺🇸    USA             Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f               10     3442      ❌     Tzulo          ✔️      us-qas-wg-003 
