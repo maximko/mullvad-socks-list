@@ -119,7 +119,6 @@
 10.124.2.47 Europe/Madrid
 10.124.1.2 Europe/Madrid
 10.124.1.3 Europe/Madrid
-10.124.0.21 Europe/Helsinki
 10.124.0.111 Europe/Helsinki
 10.124.0.112 Europe/Helsinki
 10.124.2.53 Europe/Helsinki
