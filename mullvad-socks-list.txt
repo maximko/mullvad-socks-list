@@ -1,5 +1,5 @@
-Date: 2024-05-29 06-47-07 UTC
-Total active proxies: 452
+Date: 2024-05-29 12-56-12 UTC
+Total active proxies: 455
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -244,6 +244,7 @@ Total active proxies: 452
  🇸🇪    Sweden          Gothenburg          10.124.0.20   185.213.154.66   2a03:1b20:5:f011:31::a03f             20     3020      ✔️     31173          ✔️      se-got-wg-001 
  🇸🇪    Sweden          Gothenburg          10.124.0.49   185.213.154.67   2a03:1b20:5:f011::a05f                20     3049      ✔️     31173          ✔️      se-got-wg-002 
  🇸🇪    Sweden          Gothenburg          10.124.0.152  185.213.154.68   2a03:1b20:5:f011::a09f                20     3152      ✔️     31173          ✔️      se-got-wg-003 
+ 🇸🇪    Sweden          Gothenburg          10.124.0.65   185.213.154.69   2a03:1b20:5:f011::a10f                20     3065      ✔️     31173          ✔️      se-got-wg-004 
  🇸🇪    Sweden          Gothenburg          10.124.1.22   185.209.199.2    2a03:1b20:5:f011:5::f001              20     3276      ✔️     31173          ✔️      se-got-wg-005 
  🇸🇪    Sweden          Gothenburg          10.124.1.56   185.209.199.7    2a03:1b20:5:f011:6::f001              20     3310      ✔️     31173          ✔️      se-got-wg-006 
  🇸🇪    Sweden          Gothenburg          10.124.1.60   185.209.199.12   2a03:1b20:5:f011:7::f001              20     3314      ✔️     31173          ✔️      se-got-wg-007 
@@ -263,6 +264,7 @@ Total active proxies: 452
  🇸🇪    Sweden          Stockholm           10.124.2.50   185.65.135.72    2a03:1b20:4:f011::f401                20     3558      ✔️     31173          ✔️      se-sto-wg-005 
  🇸🇪    Sweden          Stockholm           10.124.2.51   185.65.135.73    2a03:1b20:4:f011::f501                20     3559      ✔️     31173          ✔️      se-sto-wg-006 
  🇸🇪    Sweden          Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::f701                20     3173      ✔️     31173          ✔️      se-sto-wg-008 
+ 🇸🇪    Sweden          Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f                20     3050      ✔️     31173          ✔️      se-sto-wg-009 
  🇸🇪    Sweden          Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f                20     3062      ✔️     31173          ✔️      se-sto-wg-011 
  🇸🇪    Sweden          Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::fb01                20     3077      ✔️     31173          ✔️      se-sto-wg-012 
  🇸🇪    Sweden          Stockholm           10.124.0.80   185.195.233.68   2a03:1b20:4:f011::fd01                20     3080      ✔️     31173          ✔️      se-sto-wg-014 
@@ -302,6 +304,7 @@ Total active proxies: 452
  🇺🇸    USA             Chicago, IL         10.124.0.18   68.235.44.2      2607:9000:0:56::a01f                  10     3018      ❌     Tzulo          ✔️      us-chi-wg-001 
  🇺🇸    USA             Chicago, IL         10.124.0.38   68.235.43.130    2607:9000:0:54::a02f                  10     3038      ❌     Tzulo          ✔️      us-chi-wg-002 
  🇺🇸    USA             Chicago, IL         10.124.0.46   68.235.44.34     2607:9000:0:57::a03f                  10     3046      ❌     Tzulo          ✔️      us-chi-wg-003 
+ 🇺🇸    USA             Chicago, IL         10.124.0.57   68.235.44.66     2607:9000:0:58::a05f                  10     3057      ❌     Tzulo          ✔️      us-chi-wg-005 
  🇺🇸    USA             Chicago, IL         10.124.0.58   68.235.44.98     2607:9000:0:59::a06f                  10     3058      ❌     Tzulo          ✔️      us-chi-wg-006 
  🇺🇸    USA             Chicago, IL         10.124.1.8    68.235.44.194    2607:9000:0:84::f001                  10     3262      ❌     Tzulo          ✔️      us-chi-wg-007 
  🇺🇸    USA             Chicago, IL         10.124.0.168  66.63.167.114    2607:fcd0:bb80:403::b32f              10     3168      ❌     Quadranet      ✔️      us-chi-wg-101 

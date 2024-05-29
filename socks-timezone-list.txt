@@ -241,6 +241,7 @@
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
+10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Stockholm
 10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
@@ -260,6 +261,7 @@
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
+10.124.0.50 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
@@ -299,6 +301,7 @@
 10.124.0.18 America/Chicago
 10.124.0.38 America/Chicago
 10.124.0.46 America/Chicago
+10.124.0.57 America/Chicago
 10.124.0.58 America/Chicago
 10.124.1.8 America/Chicago
 10.124.0.168 America/Chicago
