@@ -203,7 +203,6 @@
 10.124.0.4 Europe/Amsterdam
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
-10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
 10.124.0.243 Europe/Amsterdam
@@ -448,7 +447,7 @@
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.0.242 America/New_York
-10.124.1.29 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
