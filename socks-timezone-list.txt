@@ -23,9 +23,9 @@
 10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
-10.124.0.194 America/Sao_Paulo
+;; communications error to 1.1.1.1#53: timed out America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
-10.124.2.32 America/Sao_Paulo
+;; Warning: ID mismatch: expected ID 57013, got 11618 America/Sao_Paulo
 10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
@@ -234,7 +234,7 @@
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
-10.124.0.198 Europe/Lisbon
+;; communications error to 1.1.1.1#53: timed out Europe/Lisbon
 10.124.0.199 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
