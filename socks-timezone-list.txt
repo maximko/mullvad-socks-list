@@ -289,7 +289,7 @@
 10.124.1.156 America/Chicago
 10.124.1.157 America/Chicago
 10.124.1.158 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.1.159 America/Chicago
 10.124.1.160 America/Chicago
 10.124.1.161 America/Chicago
 10.124.1.162 America/Chicago
