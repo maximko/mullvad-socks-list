@@ -1,5 +1,5 @@
-Date: 2024-06-24 01-47-38 UTC
-Total active proxies: 455
+Date: 2024-06-24 06-46-58 UTC
+Total active proxies: 458
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -100,6 +100,10 @@ Total active proxies: 455
  🇩🇪    Germany         Frankfurt           10.124.1.240  146.70.107.194   2001:ac8:20:277::f001                 10     3494      ❌     M247           ✔️      de-fra-wg-104 
  🇩🇪    Germany         Frankfurt           10.124.1.241  146.70.117.2     2001:ac8:20:269::f001                 10     3495      ❌     M247           ✔️      de-fra-wg-105 
  🇩🇪    Germany         Frankfurt           10.124.1.242  146.70.117.34    2001:ac8:20:270::f001                 10     3496      ❌     M247           ✔️      de-fra-wg-106 
+ 🇩🇪    Germany         Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f                     10     3284      ❌     xtom           ✔️      de-fra-wg-301 
+ 🇩🇪    Germany         Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f                     10     3285      ❌     xtom           ✔️      de-fra-wg-302 
+ 🇩🇪    Germany         Frankfurt           10.124.1.32   194.36.25.33     2a07:fe00:1::a25f                     10     3286      ❌     xtom           ✔️      de-fra-wg-303 
+ 🇩🇪    Germany         Frankfurt           10.124.1.33   194.36.25.48     2a07:fe00:1::a26f                     10     3287      ❌     xtom           ✔️      de-fra-wg-304 
  🇩🇪    Germany         Frankfurt           10.124.1.250  169.150.201.2    2a02:6ea0:c762:1::a35f                10     3504      ❌     DataPacket     ✔️      de-fra-wg-401 
  🇩🇪    Germany         Frankfurt           10.124.1.251  169.150.201.15   2a02:6ea0:c762:2::a36f                10     3505      ❌     DataPacket     ✔️      de-fra-wg-402 
  🇩🇪    Germany         Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f                10     3506      ❌     DataPacket     ✔️      de-fra-wg-403 
@@ -127,7 +131,6 @@ Total active proxies: 455
  🇫🇮    Finland         Helsinki            10.124.2.54   193.138.7.157    2a02:ed04:3581:2::f001                10     3562      ✔️     Blix           ✔️      fi-hel-wg-102 
  🇫🇮    Finland         Helsinki            10.124.2.55   193.138.7.177    2a02:ed04:3581:3::f001                10     3563      ✔️     Blix           ✔️      fi-hel-wg-103 
  🇫🇮    Finland         Helsinki            10.124.2.56   193.138.7.197    2a02:ed04:3581:4::f001                10     3564      ✔️     Blix           ✔️      fi-hel-wg-104 
- 🇫🇷    France          Bordeaux            10.124.1.63   45.134.79.67     2a06:3040:4:610::f001                 10     3317      ❌     HostRoyale     ✔️      fr-bod-wg-001 
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
