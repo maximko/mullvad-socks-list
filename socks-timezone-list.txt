@@ -197,7 +197,6 @@
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
-10.124.0.81 Europe/Riga
 10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
 10.124.0.205 America/Mexico_City
