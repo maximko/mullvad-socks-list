@@ -108,8 +108,8 @@
 10.124.0.17 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
 10.124.0.230 Europe/Copenhagen
-;; communications error to 1.1.1.1#53: timed out Europe/Tallinn
-;; Warning: ID mismatch: expected ID 594, got 40692 Europe/Tallinn
+10.124.0.138 Europe/Tallinn
+10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
