@@ -1,5 +1,5 @@
-Date: 2024-07-11 01-48-27 UTC
-Total active proxies: 459
+Date: 2024-07-11 06-47-02 UTC
+Total active proxies: 461
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -281,6 +281,8 @@ Total active proxies: 459
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f                  10     3512      ❌     DataPacket     ✔️      sk-bts-wg-002 
  🇹🇭    Thailand        Bangkok             10.124.1.4    156.59.50.194    2602:ffe4:c09:10a::f001               10     3258      ❌     Zenlayer       ✔️      th-bkk-wg-001 
  🇹🇭    Thailand        Bangkok             10.124.1.5    156.59.50.226    2602:ffe4:c09:109::f101               10     3259      ❌     Zenlayer       ✔️      th-bkk-wg-002 
+ 🇹🇷    Turkey          Istanbul            10.124.1.71   149.102.229.129  2a02:6ea0:e813::f001                  10     3325      ❌     DataPacket     ✔️      tr-ist-wg-001 
+ 🇹🇷    Turkey          Istanbul            10.124.1.72   149.102.229.158  2a02:6ea0:e813:1::f001                10     3326      ❌     DataPacket     ✔️      tr-ist-wg-002 
  🇺🇦    Ukraine         Kyiv                10.124.0.25   149.102.240.79   2a02:6ea0:e109:2::a01f                10     3025      ❌     DataPacket     ✔️      ua-iev-wg-001 
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f                10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f                10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 

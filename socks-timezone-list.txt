@@ -278,6 +278,8 @@
 10.124.2.4 Europe/Bratislava
 10.124.1.4 Asia/Bangkok
 10.124.1.5 Asia/Bangkok
+10.124.1.71 Europe/Istanbul
+10.124.1.72 Europe/Istanbul
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
