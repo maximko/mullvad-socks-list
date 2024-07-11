@@ -1,5 +1,5 @@
-Date: 2024-07-11 06-47-02 UTC
-Total active proxies: 461
+Date: 2024-07-11 12-58-22 UTC
+Total active proxies: 459
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -400,7 +400,6 @@ Total active proxies: 461
  🇺🇸    USA             New York, NY        10.124.1.46   146.70.171.66    2a0d:5600:24:1372::f001               10     3300      ❌     M247           ✔️      us-nyc-wg-604 
  🇺🇸    USA             New York, NY        10.124.1.47   146.70.171.130   2a0d:5600:24:1374::f001               10     3301      ❌     M247           ✔️      us-nyc-wg-605 
  🇺🇸    USA             New York, NY        10.124.0.235  146.70.168.194   2a0d:5600:24:1379::f001               10     3235      ❌     M247           ✔️      us-nyc-wg-606 
- 🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
  🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
  🇺🇸    USA             Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f               10     3440      ❌     Tzulo          ✔️      us-qas-wg-001 
  🇺🇸    USA             Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f               10     3441      ❌     Tzulo          ✔️      us-qas-wg-002 
@@ -456,7 +455,6 @@ Total active proxies: 461
  🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801                  1      3298      ❌     100TB          ✔️      us-slc-wg-109 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
- 🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f             10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f             10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f             10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001                  10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 

@@ -397,7 +397,6 @@
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
-10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York
@@ -453,7 +452,6 @@
 10.124.1.44 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
-10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
