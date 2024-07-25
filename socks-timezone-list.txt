@@ -3,6 +3,7 @@
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
+10.124.1.74 Europe/Vienna
 10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
@@ -232,7 +233,7 @@
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
-10.124.2.46 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
