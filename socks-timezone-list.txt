@@ -140,6 +140,8 @@
 10.124.0.238 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
+10.124.1.78 Europe/Paris
+10.124.1.79 Europe/Paris
 10.124.0.246 Europe/London
 10.124.0.247 Europe/London
 10.124.0.59 Europe/London
@@ -449,6 +451,9 @@
 10.124.1.42 America/Chicago
 10.124.1.43 America/Chicago
 10.124.1.44 America/Chicago
+10.124.1.12 America/Chicago
+10.124.1.14 America/Chicago
+10.124.1.15 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.1.29 America/New_York

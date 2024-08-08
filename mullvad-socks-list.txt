@@ -1,5 +1,5 @@
-Date: 2024-08-08 06-47-09 UTC
-Total active proxies: 458
+Date: 2024-08-08 12-59-36 UTC
+Total active proxies: 463
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -143,6 +143,8 @@ Total active proxies: 458
  🇫🇷    France          Paris               10.124.0.238  193.32.126.84    2a03:1b20:9:f011::f001                20     3238      ✔️     31173          ✔️      fr-par-wg-006 
  🇫🇷    France          Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::f001                  10     3223      ❌     M247           ✔️      fr-par-wg-101 
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001                  10     3224      ❌     M247           ✔️      fr-par-wg-102 
+ 🇫🇷    France          Paris               10.124.1.78   95.173.222.2     2a02:6ea0:1901:2::f001                10     3332      ❌     DataPacket     ✔️      fr-par-wg-301 
+ 🇫🇷    France          Paris               10.124.1.79   95.173.222.31    2a02:6ea0:1901:3::f001                10     3333      ❌     DataPacket     ✔️      fr-par-wg-302 
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001                 10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101                 10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
  🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f                20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
@@ -452,6 +454,9 @@ Total active proxies: 458
  🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601                  1      3296      ❌     100TB          ✔️      us-slc-wg-107 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701                  1      3297      ❌     100TB          ✔️      us-slc-wg-108 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801                  1      3298      ❌     100TB          ✔️      us-slc-wg-109 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f             10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
