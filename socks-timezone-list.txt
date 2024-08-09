@@ -48,7 +48,7 @@
 10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
-10.124.0.123 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
 10.124.0.241 Europe/Zurich
