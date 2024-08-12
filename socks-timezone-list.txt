@@ -78,8 +78,8 @@
 10.124.0.9 Europe/Berlin
 10.124.0.55 Europe/Berlin
 10.124.0.179 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
-;; Warning: ID mismatch: expected ID 24037, got 21420 Europe/Berlin
+10.124.0.196 Europe/Berlin
+10.124.0.239 Europe/Berlin
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
@@ -338,8 +338,8 @@
 10.124.1.224 America/Chicago
 10.124.0.86 America/Chicago
 10.124.0.88 America/Chicago
-10.124.1.9 America/Chicago
-10.124.1.10 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
+;; Warning: ID mismatch: expected ID 33418, got 45175 America/Chicago
 10.124.1.11 America/Chicago
 10.124.0.175 America/Denver
 10.124.0.176 America/Denver
