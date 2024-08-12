@@ -232,7 +232,7 @@
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
 10.124.1.219 Europe/Warsaw
-10.124.1.220 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
@@ -338,8 +338,8 @@
 10.124.1.224 America/Chicago
 10.124.0.86 America/Chicago
 10.124.0.88 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
-;; Warning: ID mismatch: expected ID 33418, got 45175 America/Chicago
+10.124.1.9 America/Chicago
+10.124.1.10 America/Chicago
 10.124.1.11 America/Chicago
 10.124.0.175 America/Denver
 10.124.0.176 America/Denver
