@@ -213,7 +213,6 @@
 10.124.0.243 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
-10.124.0.48 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
@@ -406,8 +405,6 @@
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
 10.124.1.189 America/New_York
-10.124.2.23 America/New_York
-10.124.2.24 America/New_York
 10.124.0.10 America/New_York
 10.124.0.12 America/New_York
 10.124.0.22 America/New_York
