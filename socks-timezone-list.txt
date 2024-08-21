@@ -454,6 +454,6 @@
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.1.29 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
-;; Warning: ID mismatch: expected ID 36065, got 16913 Africa/Johannesburg
+10.124.2.60 Africa/Johannesburg
