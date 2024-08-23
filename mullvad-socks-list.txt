@@ -1,5 +1,5 @@
-Date: 2024-08-23 06-47-01 UTC
-Total active proxies: 463
+Date: 2024-08-23 12-59-05 UTC
+Total active proxies: 465
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -409,6 +409,8 @@ Total active proxies: 463
  🇺🇸    USA             Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f               10     3442      ❌     Tzulo          ✔️      us-qas-wg-003 
  🇺🇸    USA             Ashburn, VA         10.124.1.189  198.54.135.130   2607:9000:9000:15::b49f               10     3443      ❌     Tzulo          ✔️      us-qas-wg-004 
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   2a02:6ea0:e206:1::a01f                10     3530      ❌     DataPacket     ✔️      us-qas-wg-101 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f                10     3531      ❌     DataPacket     ✔️      us-qas-wg-102 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f                10     3532      ❌     DataPacket     ✔️      us-qas-wg-103 
  🇺🇸    USA             Raleigh, NC         10.124.0.10   198.54.130.82    2607:9000:4000:15::b83f               1      3010      ❌     Tzulo          ✔️      us-rag-wg-101 
  🇺🇸    USA             Raleigh, NC         10.124.0.12   198.54.130.98    2607:9000:4000:16::b84f               1      3012      ❌     Tzulo          ✔️      us-rag-wg-102 
  🇺🇸    USA             Raleigh, NC         10.124.0.22   198.54.130.114   2607:9000:4000:17::b85f               1      3022      ❌     Tzulo          ✔️      us-rag-wg-103 

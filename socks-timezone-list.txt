@@ -406,6 +406,8 @@
 10.124.1.188 America/New_York
 10.124.1.189 America/New_York
 10.124.2.22 America/New_York
+10.124.2.23 America/New_York
+10.124.2.24 America/New_York
 10.124.0.10 America/New_York
 10.124.0.12 America/New_York
 10.124.0.22 America/New_York
