@@ -98,7 +98,7 @@
 10.124.1.240 Europe/Berlin
 10.124.1.241 Europe/Berlin
 10.124.1.242 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
 10.124.1.33 Europe/Berlin
@@ -230,6 +230,8 @@
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
+10.124.1.81 America/Lima
+10.124.1.82 America/Lima
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
