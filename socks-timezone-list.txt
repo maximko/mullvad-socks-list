@@ -398,7 +398,7 @@
 10.124.0.167 America/New_York
 10.124.0.187 America/New_York
 10.124.1.45 America/New_York
-10.124.1.46 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
 10.124.0.31 America/Phoenix
