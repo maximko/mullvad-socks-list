@@ -348,8 +348,8 @@
 10.124.0.177 America/Denver
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
-;; communications error to 1.1.1.1#53: timed out America/Denver
-;; Warning: ID mismatch: expected ID 30430, got 54394 America/Chicago
+10.124.1.198 America/Denver
+10.124.0.16 America/Chicago
 10.124.0.23 America/Chicago
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
