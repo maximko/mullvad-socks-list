@@ -69,6 +69,8 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
+10.124.1.83 Asia/Nicosia
+10.124.1.84 Asia/Nicosia
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
@@ -361,7 +363,6 @@
 10.124.0.83 America/Los_Angeles
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
-10.124.1.174 America/Los_Angeles
 10.124.0.162 America/Los_Angeles
 10.124.0.163 America/Los_Angeles
 10.124.1.48 America/Los_Angeles
