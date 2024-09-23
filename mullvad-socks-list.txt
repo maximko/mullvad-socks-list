@@ -1,5 +1,5 @@
-Date: 2024-09-23 02-06-07 UTC
-Total active proxies: 469
+Date: 2024-09-23 06-50-07 UTC
+Total active proxies: 450
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -330,16 +330,6 @@ Total active proxies: 469
  🇺🇸    USA             Dallas, TX          10.124.0.27   146.70.211.66    2001:ac8:9a:76::1f                    10     3027      ❌     M247           ✔️      us-dal-wg-001 
  🇺🇸    USA             Dallas, TX          10.124.0.43   146.70.211.2     2001:ac8:9a:75::2f                    10     3043      ❌     M247           ✔️      us-dal-wg-002 
  🇺🇸    USA             Dallas, TX          10.124.0.44   146.70.211.130   2001:ac8:9a:78::3f                    10     3044      ❌     M247           ✔️      us-dal-wg-003 
- 🇺🇸    USA             Dallas, TX          10.124.0.142  174.127.113.8    2606:2e00:8007:1::a30f                1      3142      ❌     100TB          ✔️      us-dal-wg-101 
- 🇺🇸    USA             Dallas, TX          10.124.0.143  174.127.113.9    2606:2e00:8007:1::a31f                1      3143      ❌     100TB          ✔️      us-dal-wg-102 
- 🇺🇸    USA             Dallas, TX          10.124.0.144  174.127.113.10   2606:2e00:8007:1::a32f                1      3144      ❌     100TB          ✔️      us-dal-wg-103 
- 🇺🇸    USA             Dallas, TX          10.124.0.145  174.127.113.11   2606:2e00:8007:1::a33f                1      3145      ❌     100TB          ✔️      us-dal-wg-104 
- 🇺🇸    USA             Dallas, TX          10.124.0.146  174.127.113.12   2606:2e00:8007:1::a34f                1      3146      ❌     100TB          ✔️      us-dal-wg-105 
- 🇺🇸    USA             Dallas, TX          10.124.0.147  174.127.113.13   2606:2e00:8007:1::a35f                1      3147      ❌     100TB          ✔️      us-dal-wg-106 
- 🇺🇸    USA             Dallas, TX          10.124.0.148  174.127.113.14   2606:2e00:8007:1::a36f                1      3148      ❌     100TB          ✔️      us-dal-wg-107 
- 🇺🇸    USA             Dallas, TX          10.124.0.149  174.127.113.15   2606:2e00:8007:1::a37f                1      3149      ❌     100TB          ✔️      us-dal-wg-108 
- 🇺🇸    USA             Dallas, TX          10.124.0.150  174.127.113.16   2606:2e00:8007:1::a38f                1      3150      ❌     100TB          ✔️      us-dal-wg-109 
- 🇺🇸    USA             Dallas, TX          10.124.0.151  174.127.113.17   2606:2e00:8007:1::a39f                1      3151      ❌     100TB          ✔️      us-dal-wg-110 
  🇺🇸    USA             Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f                10     3480      ❌     DataPacket     ✔️      us-dal-wg-401 
  🇺🇸    USA             Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f                10     3479      ❌     DataPacket     ✔️      us-dal-wg-402 
  🇺🇸    USA             Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::f001                10     3478      ❌     DataPacket     ✔️      us-dal-wg-403 
@@ -450,15 +440,6 @@ Total active proxies: 469
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f                     10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
  🇺🇸    USA             San Jose, CA        10.124.1.7    79.127.217.47    2a02:6ea0:e611:1::f001                10     3261      ❌     DataPacket     ✔️      us-sjc-wg-402 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.36   69.4.234.147     2606:2e00:0:b9::b34f                  1      3290      ❌     100TB          ✔️      us-slc-wg-101 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.37   69.4.234.138     2606:2e00:0:b9::b35f                  1      3291      ❌     100TB          ✔️      us-slc-wg-102 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.38   69.4.234.139     2606:2e00:0:b9::b36f                  1      3292      ❌     100TB          ✔️      us-slc-wg-103 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.39   69.4.234.140     2606:2e00:0:b9::b37f                  1      3293      ❌     100TB          ✔️      us-slc-wg-104 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.40   69.4.234.141     2606:2e00:0:b9::f401                  1      3294      ❌     100TB          ✔️      us-slc-wg-105 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.41   69.4.234.142     2606:2e00:0:b9::f501                  1      3295      ❌     100TB          ✔️      us-slc-wg-106 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.42   69.4.234.143     2606:2e00:0:b9::f601                  1      3296      ❌     100TB          ✔️      us-slc-wg-107 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.43   69.4.234.144     2606:2e00:0:b9::f701                  1      3297      ❌     100TB          ✔️      us-slc-wg-108 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.44   69.4.234.145     2606:2e00:0:b9::f801                  1      3298      ❌     100TB          ✔️      us-slc-wg-109 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
