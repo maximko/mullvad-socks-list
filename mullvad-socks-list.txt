@@ -1,5 +1,5 @@
-Date: 2024-09-24 02-06-57 UTC
-Total active proxies: 450
+Date: 2024-09-24 06-50-23 UTC
+Total active proxies: 451
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -121,6 +121,7 @@ Total active proxies: 450
  🇪🇸    Spain           Barcelona           10.124.0.253  185.188.61.225   2a06:3040:2:210::f101                 10     3253      ❌     HostRoyale     ✔️      es-bcn-wg-002 
  🇪🇸    Spain           Barcelona           10.124.1.69   185.253.99.30    2001:ac8:35:1::f001                   10     3323      ❌     M247           ✔️      es-bcn-wg-101 
  🇪🇸    Spain           Barcelona           10.124.1.70   185.253.99.98    2001:ac8:35:1::f101                   10     3324      ❌     M247           ✔️      es-bcn-wg-102 
+ 🇪🇸    Spain           Madrid              10.124.1.223  45.134.213.194   2a02:6ea0:c318:1::a06f                10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
  🇪🇸    Spain           Madrid              10.124.1.222  45.134.213.207   2a02:6ea0:c318:2::a07f                10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
  🇪🇸    Spain           Madrid              10.124.2.28   146.70.128.194   2001:ac8:23:85::a01f                  10     3536      ❌     M247           ✔️      es-mad-wg-201 
  🇪🇸    Spain           Madrid              10.124.2.47   146.70.128.226   2001:ac8:23:86::a02f                  10     3555      ❌     M247           ✔️      es-mad-wg-202 
