@@ -258,7 +258,7 @@
 10.124.1.61 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.183 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
 10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
@@ -395,7 +395,7 @@
 10.124.0.235 America/New_York
 10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
-;; communications error to 1.1.1.1#53: timed out America/Phoenix
+10.124.0.32 America/Phoenix
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
