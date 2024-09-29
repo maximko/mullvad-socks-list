@@ -145,9 +145,9 @@
 10.124.1.78 Europe/Paris
 10.124.1.79 Europe/Paris
 10.124.0.246 Europe/London
-10.124.0.247 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.0.59 Europe/London
-10.124.0.60 Europe/London
+;; Warning: ID mismatch: expected ID 17275, got 58099 Europe/London
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
 10.124.1.18 Europe/London
