@@ -75,8 +75,8 @@
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
-10.124.0.7 Europe/Berlin
-10.124.0.8 Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+;; Warning: ID mismatch: expected ID 46272, got 15025 Europe/Berlin
 10.124.0.9 Europe/Berlin
 10.124.0.55 Europe/Berlin
 10.124.0.179 Europe/Berlin
