@@ -1,5 +1,5 @@
-Date: 2024-10-07 06-50-46 UTC
-Total active proxies: 451
+Date: 2024-10-07 13-04-47 UTC
+Total active proxies: 459
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -328,6 +328,14 @@ Total active proxies: 451
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f                  10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
  🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f                10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
  🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001                10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
+ 🇺🇸    USA             Chicago, IL         10.124.1.87   68.235.46.2      2607:9000:0:101::f001                 10     3341      ❌     Tzulo          ✔️      us-chi-wg-301 
+ 🇺🇸    USA             Chicago, IL         10.124.1.88   68.235.46.33     2607:9000:0:102::f001                 10     3342      ❌     Tzulo          ✔️      us-chi-wg-302 
+ 🇺🇸    USA             Chicago, IL         10.124.1.89   68.235.46.64     2607:9000:0:103::f001                 10     3343      ❌     Tzulo          ✔️      us-chi-wg-303 
+ 🇺🇸    USA             Chicago, IL         10.124.1.90   68.235.46.95     2607:9000:0:104::f001                 10     3344      ❌     Tzulo          ✔️      us-chi-wg-304 
+ 🇺🇸    USA             Chicago, IL         10.124.1.92   68.235.46.126    2607:9000:0:105::f001                 10     3346      ❌     Tzulo          ✔️      us-chi-wg-305 
+ 🇺🇸    USA             Chicago, IL         10.124.1.93   68.235.46.157    2607:9000:0:106::f001                 10     3347      ❌     Tzulo          ✔️      us-chi-wg-306 
+ 🇺🇸    USA             Chicago, IL         10.124.1.94   68.235.46.188    2607:9000:0:107::f001                 10     3348      ❌     Tzulo          ✔️      us-chi-wg-307 
+ 🇺🇸    USA             Chicago, IL         10.124.1.95   68.235.46.209    2607:9000:0:108::f001                 10     3349      ❌     Tzulo          ✔️      us-chi-wg-308 
  🇺🇸    USA             Dallas, TX          10.124.0.27   146.70.211.66    2001:ac8:9a:76::1f                    10     3027      ❌     M247           ✔️      us-dal-wg-001 
  🇺🇸    USA             Dallas, TX          10.124.0.43   146.70.211.2     2001:ac8:9a:75::2f                    10     3043      ❌     M247           ✔️      us-dal-wg-002 
  🇺🇸    USA             Dallas, TX          10.124.0.44   146.70.211.130   2001:ac8:9a:78::3f                    10     3044      ❌     M247           ✔️      us-dal-wg-003 

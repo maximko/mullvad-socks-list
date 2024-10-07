@@ -325,6 +325,14 @@
 10.124.1.201 America/Chicago
 10.124.1.202 America/Chicago
 10.124.1.203 America/Chicago
+10.124.1.87 America/Chicago
+10.124.1.88 America/Chicago
+10.124.1.89 America/Chicago
+10.124.1.90 America/Chicago
+10.124.1.92 America/Chicago
+10.124.1.93 America/Chicago
+10.124.1.94 America/Chicago
+10.124.1.95 America/Chicago
 10.124.0.27 America/Chicago
 10.124.0.43 America/Chicago
 10.124.0.44 America/Chicago
