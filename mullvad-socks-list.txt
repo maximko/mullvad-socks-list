@@ -1,11 +1,12 @@
-Date: 2024-10-08 06-50-20 UTC
-Total active proxies: 457
+Date: 2024-10-08 13-03-24 UTC
+Total active proxies: 459
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f                  10     3543      ❌     M247           ✔️      at-vie-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.36   146.70.116.130   2001:ac8:29:85::a02f                  10     3544      ❌     M247           ✔️      at-vie-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f                  10     3545      ❌     M247           ✔️      at-vie-wg-003 
+ 🇦🇹    Austria         Vienna              10.124.1.73   185.24.11.130    2a02:6ea0:cb1b:1::f001                10     3327      ❌     DataPacket     ✔️      at-vie-wg-101 
  🇦🇹    Austria         Vienna              10.124.1.74   185.24.11.159    2a02:6ea0:cb1b:2::f001                10     3328      ❌     DataPacket     ✔️      at-vie-wg-102 
  🇦🇺    Australia       Adelaide            10.124.0.99   103.214.20.50    2404:f780:0:deb::c1f                  10     3099      ❌     hostuniversal  ✔️      au-adl-wg-301 
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f                  10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
@@ -48,6 +49,7 @@ Total active proxies: 457
  🇨🇦    Canada          Vancouver           10.124.1.65   149.22.81.194    2a02:6ea0:5100:1::f001                10     3319      ❌     DataPacket     ✔️      ca-van-wg-301 
  🇨🇦    Canada          Vancouver           10.124.1.66   149.22.81.207    2a02:6ea0:5100:2::f001                10     3320      ❌     DataPacket     ✔️      ca-van-wg-302 
  🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f                10     3174      ❌     techfutures    ✔️      ca-yyc-wg-201 
+ 🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f                10     3178      ❌     techfutures    ✔️      ca-yyc-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::f001                20     3121      ✔️     31173          ✔️      ch-zrh-wg-001 
  🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101                20     3122      ✔️     31173          ✔️      ch-zrh-wg-002 
  🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201                20     3123      ✔️     31173          ✔️      ch-zrh-wg-003 
