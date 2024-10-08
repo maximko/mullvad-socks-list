@@ -45,7 +45,6 @@
 10.124.1.65 America/Vancouver
 10.124.1.66 America/Vancouver
 10.124.0.174 America/Edmonton
-10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
@@ -84,7 +83,6 @@
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
-10.124.0.53 Europe/Berlin
 10.124.0.54 Europe/Berlin
 10.124.1.23 Europe/Berlin
 10.124.1.26 Europe/Berlin
@@ -447,8 +445,8 @@
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
 10.124.1.12 America/Chicago
+10.124.1.13 America/Chicago
 10.124.1.14 America/Chicago
-10.124.1.15 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
 10.124.0.242 America/New_York

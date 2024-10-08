@@ -1,5 +1,5 @@
-Date: 2024-10-08 02-08-12 UTC
-Total active proxies: 459
+Date: 2024-10-08 06-50-20 UTC
+Total active proxies: 457
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -48,7 +48,6 @@ Total active proxies: 459
  🇨🇦    Canada          Vancouver           10.124.1.65   149.22.81.194    2a02:6ea0:5100:1::f001                10     3319      ❌     DataPacket     ✔️      ca-van-wg-301 
  🇨🇦    Canada          Vancouver           10.124.1.66   149.22.81.207    2a02:6ea0:5100:2::f001                10     3320      ❌     DataPacket     ✔️      ca-van-wg-302 
  🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f                10     3174      ❌     techfutures    ✔️      ca-yyc-wg-201 
- 🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f                10     3178      ❌     techfutures    ✔️      ca-yyc-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::f001                20     3121      ✔️     31173          ✔️      ch-zrh-wg-001 
  🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101                20     3122      ✔️     31173          ✔️      ch-zrh-wg-002 
  🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201                20     3123      ✔️     31173          ✔️      ch-zrh-wg-003 
@@ -87,7 +86,6 @@ Total active proxies: 459
  🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f                  10     3030      ❌     xtom           ✔️      de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f                  10     3091      ❌     xtom           ✔️      de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f                  10     3092      ❌     xtom           ✔️      de-dus-wg-003 
- 🇩🇪    Germany         Frankfurt           10.124.0.53   185.213.155.73   2a03:1b20:6:f011::f001                20     3053      ✔️     31173          ✔️      de-fra-wg-001 
  🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101                20     3054      ✔️     31173          ✔️      de-fra-wg-002 
  🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201                20     3277      ✔️     31173          ✔️      de-fra-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301                20     3280      ✔️     31173          ✔️      de-fra-wg-004 
@@ -450,8 +448,8 @@ Total active proxies: 459
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
  🇺🇸    USA             San Jose, CA        10.124.1.7    79.127.217.47    2a02:6ea0:e611:1::f001                10     3261      ❌     DataPacket     ✔️      us-sjc-wg-402 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f             10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 
