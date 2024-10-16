@@ -1,5 +1,5 @@
-Date: 2024-10-16 06-50-39 UTC
-Total active proxies: 458
+Date: 2024-10-16 13-04-08 UTC
+Total active proxies: 459
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -191,6 +191,7 @@ Total active proxies: 458
  🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f                10     3460      ❌     DataPacket     ✔️      it-mil-wg-001 
  🇮🇹    Italy           Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f                10     3461      ❌     DataPacket     ✔️      it-mil-wg-002 
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f                10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
+ 🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001                  10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001                  10     3201      ❌     M247           ✔️      it-mil-wg-202 
  🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001                  10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
  🇮🇹    Italy           Palermo             10.124.1.68   149.22.91.79     2a02:6ea0:4f00::f101                  10     3322      ❌     DataPacket     ✔️      it-pmo-wg-002 
