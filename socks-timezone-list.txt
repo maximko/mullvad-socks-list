@@ -234,7 +234,7 @@
 10.124.0.219 Pacific/Auckland
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
-10.124.1.219 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
