@@ -1,5 +1,5 @@
-Date: 2025-02-21 06-49-17 UTC
-Total active proxies: 473
+Date: 2025-02-21 13-02-35 UTC
+Total active proxies: 479
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -44,6 +44,12 @@ Total active proxies: 473
  🇨🇦    Canada          Toronto             10.124.0.67   198.44.140.162   2607:9000:6000:19::a05f               10     3067      ❌     Tzulo          ✔️      ca-tor-wg-105 
  🇨🇦    Canada          Toronto             10.124.0.68   198.54.132.162   2607:9000:6000:16::a26f               10     3068      ❌     Tzulo          ✔️      ca-tor-wg-106 
  🇨🇦    Canada          Toronto             10.124.0.15   198.44.140.194   2607:9000:6000:20::a07f               10     3015      ❌     Tzulo          ✔️      ca-tor-wg-107 
+ 🇨🇦    Canada          Toronto             10.124.0.81   23.234.84.2      2607:9000:600:31::f001                10     3081      ❌     Tzulo          ✔️      ca-tor-wg-201 
+ 🇨🇦    Canada          Toronto             10.124.1.110  23.234.84.127    2607:9000:600:32::f001                10     3364      ❌     Tzulo          ✔️      ca-tor-wg-202 
+ 🇨🇦    Canada          Toronto             10.124.1.111  23.234.85.2      2607:9000:600:33::f001                10     3365      ❌     Tzulo          ✔️      ca-tor-wg-203 
+ 🇨🇦    Canada          Toronto             10.124.1.112  23.234.85.127    2607:9000:600:34::f001                10     3366      ❌     Tzulo          ✔️      ca-tor-wg-204 
+ 🇨🇦    Canada          Toronto             10.124.1.113  23.234.86.2      2607:9000:600:35::f001                10     3367      ❌     Tzulo          ✔️      ca-tor-wg-205 
+ 🇨🇦    Canada          Toronto             10.124.1.114  23.234.86.127    2607:9000:600:36::f001                10     3368      ❌     Tzulo          ✔️      ca-tor-wg-206 
  🇨🇦    Canada          Vancouver           10.124.0.13   104.193.135.196  2606:9580:103:e::f001                 10     3013      ❌     techfutures    ✔️      ca-van-wg-201 
  🇨🇦    Canada          Vancouver           10.124.0.71   104.193.135.100  2606:9580:103:f::f001                 10     3071      ❌     techfutures    ✔️      ca-van-wg-202 
  🇨🇦    Canada          Vancouver           10.124.1.65   149.22.81.194    2a02:6ea0:5100:1::f001                10     3319      ❌     DataPacket     ✔️      ca-van-wg-301 
