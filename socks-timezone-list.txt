@@ -473,7 +473,7 @@
 10.124.0.242 America/Los_Angeles
 10.124.1.29 America/Los_Angeles
 10.124.1.176 America/New_York
-10.124.1.108 America/New_York
-10.124.1.109 America/New_York
+10.124.1.108 Europe/Amsterdam
+10.124.1.109 Europe/Amsterdam
 10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
