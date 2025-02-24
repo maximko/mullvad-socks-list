@@ -47,6 +47,7 @@
 10.124.1.112 America/Chicago
 10.124.1.113 America/Chicago
 10.124.1.114 America/Chicago
+10.124.1.115 America/Chicago
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.1.65 America/Vancouver
