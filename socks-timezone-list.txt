@@ -419,6 +419,8 @@
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
 10.124.0.131 America/New_York
+10.124.0.132 America/New_York
+10.124.0.133 America/New_York
 10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
 10.124.0.32 America/Phoenix
