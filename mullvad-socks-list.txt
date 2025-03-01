@@ -1,5 +1,5 @@
-Date: 2025-03-01 02-14-35 UTC
-Total active proxies: 481
+Date: 2025-03-01 06-48-59 UTC
+Total active proxies: 484
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -333,6 +333,12 @@ Total active proxies: 481
  🇺🇸    USA             Atlanta, GA         10.124.0.169  104.129.24.98    2607:fcd0:aa80:1302::f001             10     3169      ❌     Quadranet      ✔️      us-atl-wg-202 
  🇺🇸    USA             Atlanta, GA         10.124.0.170  104.129.24.114   2607:fcd0:aa80:1303::b34f             10     3170      ❌     Quadranet      ✔️      us-atl-wg-203 
  🇺🇸    USA             Atlanta, GA         10.124.0.184  104.223.91.18    2607:fcd0:aa80:1305::b43f             10     3184      ❌     Quadranet      ✔️      us-atl-wg-204 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.116  67.213.209.116   2606:2e00:8000:4::f001                10     3370      ❌     100TB          ✔️      us-atl-wg-301 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.117  67.213.209.117   2606:2e00:8000:4::f101                10     3371      ❌     100TB          ✔️      us-atl-wg-302 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.118  67.213.209.118   2606:2e00:8000:4::f201                10     3372      ❌     100TB          ✔️      us-atl-wg-303 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.119  67.213.209.119   2606:2e00:8000:4::f301                10     3373      ❌     100TB          ✔️      us-atl-wg-304 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.120  67.213.209.120   2606:2e00:8000:4::f401                10     3374      ❌     100TB          ✔️      us-atl-wg-305 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.121  67.213.209.121   2606:2e00:8000:4::f501                10     3375      ❌     100TB          ✔️      us-atl-wg-306 
  🇺🇸    USA             Boston, MA          10.124.0.85   43.225.189.131   2a06:3040:12:610::a01f                10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
  🇺🇸    USA             Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f                10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f                  10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
@@ -392,9 +398,6 @@ Total active proxies: 481
  🇺🇸    USA             Los Angeles, CA     10.124.1.51   146.70.173.194   2a0d:5600:8:2f::f001                  10     3305      ❌     M247           ✔️      us-lax-wg-404 
  🇺🇸    USA             Los Angeles, CA     10.124.1.52   146.70.172.2     2a0d:5600:8:37::f001                  10     3306      ❌     M247           ✔️      us-lax-wg-405 
  🇺🇸    USA             Los Angeles, CA     10.124.0.236  146.70.174.2     2a0d:5600:8:3b::f001                  10     3236      ❌     M247           ✔️      us-lax-wg-406 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.207  23.162.40.4      2602:fa19:4::f001                     10     3207      ❌     xtom           ✔️      us-lax-wg-501 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.208  23.162.40.45     2602:fa19:4::f101                     10     3208      ❌     xtom           ✔️      us-lax-wg-502 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.209  23.162.40.86     2602:fa19:4::f201                     10     3209      ❌     xtom           ✔️      us-lax-wg-503 
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
