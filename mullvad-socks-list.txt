@@ -1,5 +1,5 @@
-Date: 2025-03-13 13-06-11 UTC
-Total active proxies: 484
+Date: 2025-03-13 18-51-11 UTC
+Total active proxies: 478
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -392,12 +392,6 @@ Total active proxies: 484
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f                10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f                10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f                10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.48   146.70.173.2     2a0d:5600:8:4::d1f                    10     3302      ❌     M247           ✔️      us-lax-wg-401 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.49   146.70.173.66    2a0d:5600:8:6::d2f                    10     3303      ❌     M247           ✔️      us-lax-wg-402 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.50   146.70.173.130   2a0d:5600:8:d::d3f                    10     3304      ❌     M247           ✔️      us-lax-wg-403 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.51   146.70.173.194   2a0d:5600:8:2f::f001                  10     3305      ❌     M247           ✔️      us-lax-wg-404 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.52   146.70.172.2     2a0d:5600:8:37::f001                  10     3306      ❌     M247           ✔️      us-lax-wg-405 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.236  146.70.174.2     2a0d:5600:8:3b::f001                  10     3236      ❌     M247           ✔️      us-lax-wg-406 
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
