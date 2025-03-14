@@ -1,5 +1,5 @@
-Date: 2025-03-14 13-03-41 UTC
-Total active proxies: 484
+Date: 2025-03-14 18-50-29 UTC
+Total active proxies: 486
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -397,7 +397,9 @@ Total active proxies: 484
  🇺🇸    USA             Los Angeles, CA     10.124.1.51   146.70.173.194   2a0d:5600:8:2f::f001                  10     3305      ❌     M247           ✔️      us-lax-wg-404 
  🇺🇸    USA             Los Angeles, CA     10.124.1.52   146.70.172.2     2a0d:5600:8:37::f001                  10     3306      ❌     M247           ✔️      us-lax-wg-405 
  🇺🇸    USA             Los Angeles, CA     10.124.0.236  146.70.174.2     2a0d:5600:8:3b::f001                  10     3236      ❌     M247           ✔️      us-lax-wg-406 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.123  146.70.172.66    2a0d:5600:8:38::f001                  10     3377      ❌     M247           ✔️      us-lax-wg-407 
  🇺🇸    USA             Los Angeles, CA     10.124.1.124  146.70.172.130   2a0d:5600:8:39::f001                  10     3378      ❌     M247           ✔️      us-lax-wg-408 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.125  146.70.172.194   2a0d:5600:8:3a::f001                  10     3379      ❌     M247           ✔️      us-lax-wg-409 
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
@@ -485,5 +487,3 @@ Total active proxies: 484
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101                10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001                  10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001                  10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
-Failed to resovle:
-
