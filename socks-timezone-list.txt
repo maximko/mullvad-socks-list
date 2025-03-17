@@ -233,7 +233,7 @@
 10.124.0.48 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
+10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
@@ -297,7 +297,6 @@
 10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
-10.124.0.77 Europe/Stockholm
 10.124.0.143 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
 10.124.0.46 Europe/Stockholm
