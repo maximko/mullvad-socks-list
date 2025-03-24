@@ -145,7 +145,7 @@
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
 10.124.0.120 Europe/Paris
-10.124.0.238 Europe/Paris
+;; communications error to 1.1.1.1#53: timed out Europe/Paris
 10.124.0.142 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
@@ -230,7 +230,6 @@
 10.124.0.96 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
-10.124.0.48 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
