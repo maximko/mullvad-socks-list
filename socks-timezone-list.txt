@@ -113,7 +113,7 @@
 10.124.1.33 Europe/Berlin
 10.124.1.250 Europe/Berlin
 10.124.1.251 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
@@ -323,10 +323,10 @@
 10.124.1.72 Europe/Istanbul
 10.124.0.25 Europe/Kyiv
 10.124.0.195 Europe/Kyiv
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.233 America/New_York
 10.124.1.234 America/New_York
 10.124.0.29 America/Los_Angeles
-;; Warning: ID mismatch: expected ID 60287, got 54939 America/Los_Angeles
+10.124.0.169 America/Los_Angeles
 10.124.0.170 America/Los_Angeles
 10.124.0.184 America/Los_Angeles
 10.124.1.116 America/New_York
