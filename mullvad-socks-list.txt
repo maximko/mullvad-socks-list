@@ -1,5 +1,5 @@
-Date: 2025-03-27 06-52-14 UTC
-Total active proxies: 478
+Date: 2025-03-27 13-06-31 UTC
+Total active proxies: 483
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -290,7 +290,6 @@ Total active proxies: 478
  🇸🇪    Sweden          Malmö               10.124.1.77   45.129.59.129    2a03:1b20:1:e011::f601                40     3331      ✔️     31173          ✔️      se-mma-wg-112 
  🇸🇪    Sweden          Stockholm           10.124.1.184  185.195.233.76   2a03:1b20:4:f011::999f                20     3438      ✔️     31173          ✔️      se-sto-wg-001 
  🇸🇪    Sweden          Stockholm           10.124.0.11   185.65.135.67    2a03:1b20:4:f011::a02f                20     3011      ✔️     31173          ✔️      se-sto-wg-002 
- 🇸🇪    Sweden          Stockholm           10.124.2.48   185.65.135.68    2a03:1b20:4:f011::f201                20     3556      ✔️     31173          ✔️      se-sto-wg-003 
  🇸🇪    Sweden          Stockholm           10.124.2.49   185.65.135.69    2a03:1b20:4:f011::f301                20     3557      ✔️     31173          ✔️      se-sto-wg-004 
  🇸🇪    Sweden          Stockholm           10.124.2.50   185.65.135.72    2a03:1b20:4:f011::f401                20     3558      ✔️     31173          ✔️      se-sto-wg-005 
  🇸🇪    Sweden          Stockholm           10.124.2.51   185.65.135.73    2a03:1b20:4:f011::f501                20     3559      ✔️     31173          ✔️      se-sto-wg-006 
@@ -410,6 +409,12 @@ Total active proxies: 478
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001                  10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
+ 🇺🇸    USA             New York, NY        10.124.1.230  198.44.136.34    2607:9000:a000:12::f001               10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
+ 🇺🇸    USA             New York, NY        10.124.1.231  198.44.136.66    2607:9000:a000:13::f001               10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
+ 🇺🇸    USA             New York, NY        10.124.1.232  198.44.136.98    2607:9000:a000:14::f001               10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
+ 🇺🇸    USA             New York, NY        10.124.0.210  198.44.136.194   2607:9000:a000:17::f001               10     3210      ❌     Tzulo          ✔️      us-nyc-wg-404 
+ 🇺🇸    USA             New York, NY        10.124.0.103  198.44.136.130   2607:9000:a000:15::f001               10     3103      ❌     Tzulo          ✔️      us-nyc-wg-405 
+ 🇺🇸    USA             New York, NY        10.124.0.104  198.44.136.162   2607:9000:a000:16::f001               10     3104      ❌     Tzulo          ✔️      us-nyc-wg-406 
  🇺🇸    USA             New York, NY        10.124.0.72   146.70.165.2     2a0d:5600:24:2b6::f001                10     3072      ❌     M247           ✔️      us-nyc-wg-501 
  🇺🇸    USA             New York, NY        10.124.0.75   146.70.165.130   2a0d:5600:24:2b8::f001                10     3075      ❌     M247           ✔️      us-nyc-wg-502 
  🇺🇸    USA             New York, NY        10.124.0.76   146.70.165.194   2a0d:5600:24:2b9::f001                10     3076      ❌     M247           ✔️      us-nyc-wg-503 
