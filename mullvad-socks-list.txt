@@ -1,4 +1,4 @@
-Date: 2025-04-03 18-51-19 UTC
+Date: 2025-04-04 02-14-36 UTC
 Total active proxies: 479
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
