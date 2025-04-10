@@ -289,6 +289,7 @@
 10.124.1.77 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
+10.124.2.48 Europe/Stockholm
 10.124.2.49 Europe/Stockholm
 10.124.2.50 Europe/Stockholm
 10.124.2.51 Europe/Stockholm
