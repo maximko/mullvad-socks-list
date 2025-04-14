@@ -307,9 +307,6 @@
 10.124.0.128 Europe/Stockholm
 10.124.0.129 Europe/Stockholm
 10.124.0.130 Europe/Stockholm
-10.124.1.244 Asia/Singapore
-10.124.1.245 Asia/Singapore
-10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana

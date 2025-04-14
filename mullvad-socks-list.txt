@@ -1,5 +1,5 @@
-Date: 2025-04-14 02-20-08 UTC
-Total active proxies: 481
+Date: 2025-04-14 06-53-12 UTC
+Total active proxies: 478
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -310,9 +310,6 @@ Total active proxies: 481
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001                40     3128      ❌     DataPacket     ✔️      se-sto-wg-207 
  🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001                40     3129      ❌     DataPacket     ✔️      se-sto-wg-208 
  🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001                40     3130      ❌     DataPacket     ✔️      se-sto-wg-209 
- 🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f                10     3498      ❌     DataPacket     ✔️      sg-sin-wg-001 
- 🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f                10     3499      ❌     DataPacket     ✔️      sg-sin-wg-002 
- 🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f                10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f                  10     3100      ❌     M247           ✔️      sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f                  10     3102      ❌     M247           ✔️      sg-sin-wg-102 
  🇸🇮    Slovenia        Ljubljana           10.124.0.248  93.115.0.3       2a06:3040:7:210::f001                 10     3248      ❌     HostRoyale     ✔️      si-lju-wg-001 
