@@ -1,5 +1,5 @@
-Date: 2025-04-14 06-53-12 UTC
-Total active proxies: 478
+Date: 2025-04-14 13-15-45 UTC
+Total active proxies: 483
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -115,6 +115,9 @@ Total active proxies: 478
  🇩🇪    Germany         Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f                     10     3284      ❌     xtom           ✔️      de-fra-wg-301 
  🇩🇪    Germany         Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f                     10     3285      ❌     xtom           ✔️      de-fra-wg-302 
  🇩🇪    Germany         Frankfurt           10.124.1.33   194.36.25.48     2a07:fe00:1::a26f                     10     3287      ❌     xtom           ✔️      de-fra-wg-304 
+ 🇩🇪    Germany         Frankfurt           10.124.1.250  169.150.201.2    2a02:6ea0:c762:1::a35f                10     3504      ❌     DataPacket     ✔️      de-fra-wg-401 
+ 🇩🇪    Germany         Frankfurt           10.124.1.251  169.150.201.15   2a02:6ea0:c762:2::a36f                10     3505      ❌     DataPacket     ✔️      de-fra-wg-402 
+ 🇩🇪    Germany         Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f                10     3506      ❌     DataPacket     ✔️      de-fra-wg-403 
  🇩🇰    Denmark         Copenhagen          10.124.0.64   45.129.56.67     2a03:1b20:8:f011::f001                20     3064      ✔️     31173          ✔️      dk-cph-wg-001 
  🇩🇰    Denmark         Copenhagen          10.124.0.17   45.129.56.68     2a03:1b20:8:f011::f101                20     3017      ✔️     31173          ✔️      dk-cph-wg-002 
  🇩🇰    Denmark         Copenhagen          10.124.0.229  146.70.197.194   2001:ac8:37:97::f001                  10     3229      ❌     M247           ✔️      dk-cph-wg-401 
@@ -209,7 +212,6 @@ Total active proxies: 478
  🇯🇵    Japan           Osaka               10.124.1.179  194.114.136.65   2400:ddc0:a00b::f201                  10     3433      ❌     xtom           ✔️      jp-osa-wg-003 
  🇯🇵    Japan           Osaka               10.124.1.180  194.114.136.96   2400:ddc0:a00b::f301                  10     3434      ❌     xtom           ✔️      jp-osa-wg-004 
  🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f                  10     3472      ❌     DataPacket     ✔️      jp-tyo-wg-001 
- 🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f                  10     3471      ❌     DataPacket     ✔️      jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f                  10     3107      ❌     M247           ✔️      jp-tyo-wg-201 
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f                  10     3160      ❌     M247           ✔️      jp-tyo-wg-202 
  🇯🇵    Japan           Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f                  10     3161      ❌     M247           ✔️      jp-tyo-wg-203 
@@ -310,6 +312,9 @@ Total active proxies: 478
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001                40     3128      ❌     DataPacket     ✔️      se-sto-wg-207 
  🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001                40     3129      ❌     DataPacket     ✔️      se-sto-wg-208 
  🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001                40     3130      ❌     DataPacket     ✔️      se-sto-wg-209 
+ 🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f                10     3498      ❌     DataPacket     ✔️      sg-sin-wg-001 
+ 🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f                10     3499      ❌     DataPacket     ✔️      sg-sin-wg-002 
+ 🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f                10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f                  10     3100      ❌     M247           ✔️      sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f                  10     3102      ❌     M247           ✔️      sg-sin-wg-102 
  🇸🇮    Slovenia        Ljubljana           10.124.0.248  93.115.0.3       2a06:3040:7:210::f001                 10     3248      ❌     HostRoyale     ✔️      si-lju-wg-001 

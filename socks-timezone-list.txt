@@ -112,6 +112,9 @@
 10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
 10.124.1.33 Europe/Berlin
+10.124.1.250 Europe/Berlin
+10.124.1.251 Europe/Berlin
+10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
@@ -206,7 +209,6 @@
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
-10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
@@ -307,6 +309,9 @@
 10.124.0.128 Europe/Stockholm
 10.124.0.129 Europe/Stockholm
 10.124.0.130 Europe/Stockholm
+10.124.1.244 Asia/Singapore
+10.124.1.245 Asia/Singapore
+10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
