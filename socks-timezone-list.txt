@@ -354,9 +354,6 @@
 10.124.0.27 America/Chicago
 10.124.0.43 America/Chicago
 10.124.0.44 America/Chicago
-10.124.0.171 America/Los_Angeles
-10.124.0.193 America/Los_Angeles
-10.124.1.175 America/Los_Angeles
 10.124.1.226 America/Chicago
 10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
