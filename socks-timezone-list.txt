@@ -317,7 +317,7 @@
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
-10.124.0.249 Europe/Ljubljana
+;; communications error to 1.1.1.1#53: timed out Europe/Ljubljana
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
 10.124.1.4 Asia/Bangkok
