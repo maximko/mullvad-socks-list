@@ -1,5 +1,5 @@
-Date: 2025-04-25 06-52-46 UTC
-Total active proxies: 498
+Date: 2025-04-25 13-14-14 UTC
+Total active proxies: 509
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -106,7 +106,6 @@ Total active proxies: 498
  🇩🇪    Germany         Frankfurt           10.124.1.27   185.209.196.75   2a03:1b20:6:f011::f401                20     3281      ✔️     31173          ✔️      de-fra-wg-005 
  🇩🇪    Germany         Frankfurt           10.124.0.222  185.209.196.76   2a03:1b20:6:f011::f501                20     3222      ✔️     31173          ✔️      de-fra-wg-006 
  🇩🇪    Germany         Frankfurt           10.124.1.24   185.209.196.77   2a03:1b20:6:f011::f601                20     3278      ✔️     31173          ✔️      de-fra-wg-007 
- 🇩🇪    Germany         Frankfurt           10.124.1.25   185.209.196.78   2a03:1b20:6:f011::f701                20     3279      ✔️     31173          ✔️      de-fra-wg-008 
  🇩🇪    Germany         Frankfurt           10.124.0.240  185.213.155.72   2a03:1b20:6:f011::f901                20     3240      ✔️     31173          ✔️      de-fra-wg-009 
  🇩🇪    Germany         Frankfurt           10.124.1.243  146.70.117.162   2001:ac8:20:274::a99f                 10     3497      ❌     M247           ✔️      de-fra-wg-101 
  🇩🇪    Germany         Frankfurt           10.124.1.238  146.70.117.194   2001:ac8:20:275::f001                 10     3492      ❌     M247           ✔️      de-fra-wg-102 
@@ -167,10 +166,6 @@ Total active proxies: 498
  🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f                20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
  🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
  🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801                20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
- 🇬🇧    UK              London              10.124.1.34   185.248.85.3     2a0b:89c1:3::a33f                     10     3288      ❌     xtom           ✔️      gb-lon-wg-201 
- 🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f                     10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
- 🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
- 🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f                10     3502      ❌     M247           ✔️      gb-lon-wg-303 
@@ -450,6 +445,14 @@ Total active proxies: 498
  🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
  🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
  🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.146  23.234.88.3      2607:9000:700:41::f001                10     3400      ❌     Tzulo          ✔️      us-phx-wg-201 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.147  23.234.88.127    2607:9000:700:42::f001                10     3401      ❌     Tzulo          ✔️      us-phx-wg-202 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.148  23.234.89.3      2607:9000:700:43::f001                10     3402      ❌     Tzulo          ✔️      us-phx-wg-203 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.149  23.234.89.127    2607:9000:700:44::f001                10     3403      ❌     Tzulo          ✔️      us-phx-wg-204 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.150  23.234.90.3      2607:9000:700:45::f001                10     3404      ❌     Tzulo          ✔️      us-phx-wg-205 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.151  23.234.90.127    2607:9000:700:46::f001                10     3405      ❌     Tzulo          ✔️      us-phx-wg-206 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.152  23.234.91.3      2607:9000:700:47::f001                10     3406      ❌     Tzulo          ✔️      us-phx-wg-207 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.153  23.234.91.127    2607:9000:700:48::f001                10     3407      ❌     Tzulo          ✔️      us-phx-wg-208 
  🇺🇸    USA             Ashburn, VA         10.124.1.186  198.54.135.34    2607:9000:9000:12::b46f               10     3440      ❌     Tzulo          ✔️      us-qas-wg-001 
  🇺🇸    USA             Ashburn, VA         10.124.1.187  198.54.135.66    2607:9000:9000:13::b47f               10     3441      ❌     Tzulo          ✔️      us-qas-wg-002 
  🇺🇸    USA             Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f               10     3442      ❌     Tzulo          ✔️      us-qas-wg-003 
@@ -491,6 +494,14 @@ Total active proxies: 498
  🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.138  23.234.112.3     2607:9000:d00:2::f001                 10     3392      ❌     Tzulo          ✔️      us-slc-wg-301 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.139  23.234.112.127   2607:9000:d00:3::f001                 10     3393      ❌     Tzulo          ✔️      us-slc-wg-302 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.140  23.234.113.3     2607:9000:d00:4::f001                 10     3394      ❌     Tzulo          ✔️      us-slc-wg-303 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.141  23.234.113.127   2607:9000:d00:5::f001                 10     3395      ❌     Tzulo          ✔️      us-slc-wg-304 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.142  23.234.114.3     2607:9000:d00:6::f001                 10     3396      ❌     Tzulo          ✔️      us-slc-wg-305 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.143  23.234.114.127   2607:9000:d00:7::f001                 10     3397      ❌     Tzulo          ✔️      us-slc-wg-306 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.144  23.234.115.3     2607:9000:d00:8::f001                 10     3398      ❌     Tzulo          ✔️      us-slc-wg-307 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.145  23.234.115.127   2607:9000:d00:9::f001                 10     3399      ❌     Tzulo          ✔️      us-slc-wg-308 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f             10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
