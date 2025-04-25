@@ -1,5 +1,5 @@
-Date: 2025-04-25 02-19-38 UTC
-Total active proxies: 490
+Date: 2025-04-25 06-52-46 UTC
+Total active proxies: 498
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -341,6 +341,14 @@ Total active proxies: 490
  🇺🇸    USA             Atlanta, GA         10.124.1.119  67.213.209.119   2606:2e00:8000:4::f301                10     3373      ❌     100TB          ✔️      us-atl-wg-304 
  🇺🇸    USA             Atlanta, GA         10.124.1.120  67.213.209.120   2606:2e00:8000:4::f401                10     3374      ❌     100TB          ✔️      us-atl-wg-305 
  🇺🇸    USA             Atlanta, GA         10.124.1.121  67.213.209.121   2606:2e00:8000:4::f501                10     3375      ❌     100TB          ✔️      us-atl-wg-306 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.130  23.234.108.3     2607:9000:c00:31::f001                10     3384      ❌     Tzulo          ✔️      us-atl-wg-401 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.131  23.234.108.127   2607:9000:c00:32::f001                10     3385      ❌     Tzulo          ✔️      us-atl-wg-402 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.132  23.234.109.3     2607:9000:c00:33::f001                10     3386      ❌     Tzulo          ✔️      us-atl-wg-403 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.133  23.234.109.127   2607:9000:c00:34::f001                10     3387      ❌     Tzulo          ✔️      us-atl-wg-404 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.134  23.234.110.3     2607:9000:c00:35::f001                10     3388      ❌     Tzulo          ✔️      us-atl-wg-405 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.135  23.234.110.127   2607:9000:c00:36::f001                10     3389      ❌     Tzulo          ✔️      us-atl-wg-406 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.136  23.234.111.3     2607:9000:c00:37::f001                10     3390      ❌     Tzulo          ✔️      us-atl-wg-407 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.137  23.234.111.127   2607:9000:c00:38::f001                10     3391      ❌     Tzulo          ✔️      us-atl-wg-408 
  🇺🇸    USA             Boston, MA          10.124.0.85   43.225.189.131   2a06:3040:12:610::a01f                10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
  🇺🇸    USA             Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f                10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f                  10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
