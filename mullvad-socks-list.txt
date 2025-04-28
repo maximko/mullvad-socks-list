@@ -1,5 +1,5 @@
-Date: 2025-04-28 07-00-08 UTC
-Total active proxies: 509
+Date: 2025-04-28 13-28-45 UTC
+Total active proxies: 519
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -178,6 +178,8 @@ Total active proxies: 509
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001                  10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
  🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001                  10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
  🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001                  10     3527      ❌     M247           ✔️      gb-mnc-wg-008 
+ 🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001                  10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
+ 🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101                  10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001                10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001                10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f                  10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
@@ -490,6 +492,14 @@ Total active proxies: 509
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f                     10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
  🇺🇸    USA             San Jose, CA        10.124.1.7    79.127.217.47    2a02:6ea0:e611:1::f001                10     3261      ❌     DataPacket     ✔️      us-sjc-wg-402 
+ 🇺🇸    USA             San Jose, CA        10.124.1.154  23.234.92.3      2607:9000:800:31::f001                10     3408      ❌     Tzulo          ✔️      us-sjc-wg-501 
+ 🇺🇸    USA             San Jose, CA        10.124.1.155  23.234.92.127    2607:9000:800:32::f001                10     3409      ❌     Tzulo          ✔️      us-sjc-wg-502 
+ 🇺🇸    USA             San Jose, CA        10.124.1.156  23.234.93.3      2607:9000:800:33::f001                10     3410      ❌     Tzulo          ✔️      us-sjc-wg-503 
+ 🇺🇸    USA             San Jose, CA        10.124.1.157  23.234.93.127    2607:9000:800:34::f001                10     3411      ❌     Tzulo          ✔️      us-sjc-wg-504 
+ 🇺🇸    USA             San Jose, CA        10.124.1.158  23.234.94.3      2607:9000:800:35::f001                10     3412      ❌     Tzulo          ✔️      us-sjc-wg-505 
+ 🇺🇸    USA             San Jose, CA        10.124.1.159  23.234.94.127    2607:9000:800:36::f001                10     3413      ❌     Tzulo          ✔️      us-sjc-wg-506 
+ 🇺🇸    USA             San Jose, CA        10.124.1.160  23.234.95.3      2607:9000:800:37::f001                10     3414      ❌     Tzulo          ✔️      us-sjc-wg-507 
+ 🇺🇸    USA             San Jose, CA        10.124.1.161  23.234.95.127    2607:9000:800:38::f001                10     3415      ❌     Tzulo          ✔️      us-sjc-wg-508 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 

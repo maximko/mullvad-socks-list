@@ -175,6 +175,8 @@
 10.124.2.17 Europe/London
 10.124.2.18 Europe/London
 10.124.2.19 Europe/London
+10.124.1.162 Europe/Amsterdam
+10.124.1.163 Europe/Amsterdam
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
@@ -487,6 +489,14 @@
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
+10.124.1.154 America/Chicago
+10.124.1.155 America/Chicago
+10.124.1.156 America/Chicago
+10.124.1.157 America/Chicago
+10.124.1.158 America/Chicago
+10.124.1.159 America/Chicago
+10.124.1.160 America/Chicago
+10.124.1.161 America/Chicago
 10.124.1.12 America/Chicago
 10.124.1.13 America/Chicago
 10.124.1.14 America/Chicago
