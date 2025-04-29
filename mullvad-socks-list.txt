@@ -1,5 +1,5 @@
-Date: 2025-04-29 06-53-12 UTC
-Total active proxies: 519
+Date: 2025-04-29 13-19-28 UTC
+Total active proxies: 517
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -261,8 +261,6 @@ Total active proxies: 519
  🇵🇱    Poland          Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f                10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198  149.88.20.206    2a02:6ea0:fb01:1::f001                10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199  149.88.20.193    2a02:6ea0:fb01:2::f002                10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
- 🇵🇹    Portugal        Lisbon              10.124.1.75   185.92.210.195   2a06:3040:0:1410::f001                10     3329      ❌     HostRoyale     ✔️      pt-lis-wg-301 
- 🇵🇹    Portugal        Lisbon              10.124.1.76   185.92.210.225   2a06:3040:0:1410::f101                10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
  🇷🇴    Romania         Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f                 10     3535      ❌     M247           ✔️      ro-buh-wg-001 
  🇷🇴    Romania         Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::f001                 10     3093      ❌     M247           ✔️      ro-buh-wg-002 
  🇷🇸    Serbia          Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f                  10     3033      ❌     M247           ✔️      rs-beg-wg-101 
