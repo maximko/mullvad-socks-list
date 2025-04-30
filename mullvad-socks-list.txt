@@ -1,5 +1,5 @@
-Date: 2025-04-30 02-19-31 UTC
-Total active proxies: 517
+Date: 2025-04-30 06-55-00 UTC
+Total active proxies: 515
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -416,8 +416,6 @@ Total active proxies: 517
  🇺🇸    USA             Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f                 10     3014      ❌     M247           ✔️      us-mia-wg-101 
  🇺🇸    USA             Miami, FL           10.124.0.82   146.70.187.66    2a0d:5600:6:105::f001                 10     3082      ❌     M247           ✔️      us-mia-wg-102 
  🇺🇸    USA             Miami, FL           10.124.0.89   146.70.187.130   2a0d:5600:6:106::f001                 10     3089      ❌     M247           ✔️      us-mia-wg-103 
- 🇺🇸    USA             Miami, FL           10.124.0.157  173.44.63.66     2607:ff48:aa81:2602::b25f             10     3157      ❌     Quadranet      ✔️      us-mia-wg-301 
- 🇺🇸    USA             Miami, FL           10.124.0.153  104.129.41.194   2607:ff48:aa81:2603::b26f             10     3153      ❌     Quadranet      ✔️      us-mia-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001                  10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
