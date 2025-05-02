@@ -1,5 +1,5 @@
-Date: 2025-05-02 02-20-31 UTC
-Total active proxies: 516
+Date: 2025-05-02 06-52-54 UTC
+Total active proxies: 517
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -262,6 +262,8 @@ Total active proxies: 516
  🇵🇱    Poland          Warsaw              10.124.2.46   146.70.144.34    2a0d:5600:13:c47::a02f                10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198  149.88.20.206    2a02:6ea0:fb01:1::f001                10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199  149.88.20.193    2a02:6ea0:fb01:2::f002                10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
+ 🇵🇹    Portugal        Lisbon              10.124.1.75   185.92.210.195   2a06:3040:0:1410::f001                10     3329      ❌     HostRoyale     ✔️      pt-lis-wg-301 
+ 🇵🇹    Portugal        Lisbon              10.124.1.76   185.92.210.225   2a06:3040:0:1410::f101                10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
  🇷🇴    Romania         Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f                 10     3535      ❌     M247           ✔️      ro-buh-wg-001 
  🇷🇴    Romania         Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::f001                 10     3093      ❌     M247           ✔️      ro-buh-wg-002 
  🇷🇸    Serbia          Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f                  10     3033      ❌     M247           ✔️      rs-beg-wg-101 
@@ -511,7 +513,6 @@ Total active proxies: 516
  🇺🇸    USA             Salt Lake City, UT  10.124.1.145  23.234.115.127   2607:9000:d00:9::f001                 10     3399      ❌     Tzulo          ✔️      us-slc-wg-308 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
- 🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f             10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f             10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
  🇺🇸    USA             Washington DC       10.124.1.108  185.213.193.3    2604:980:1002:11::f001                10     3362      ❌     Zenlayer       ✔️      us-was-wg-001 
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101                10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
