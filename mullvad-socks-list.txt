@@ -1,5 +1,5 @@
-Date: 2025-05-02 06-52-54 UTC
-Total active proxies: 517
+Date: 2025-05-02 13-14-00 UTC
+Total active proxies: 525
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -419,6 +419,14 @@ Total active proxies: 517
  🇺🇸    USA             Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f                 10     3014      ❌     M247           ✔️      us-mia-wg-101 
  🇺🇸    USA             Miami, FL           10.124.0.82   146.70.187.66    2a0d:5600:6:105::f001                 10     3082      ❌     M247           ✔️      us-mia-wg-102 
  🇺🇸    USA             Miami, FL           10.124.0.89   146.70.187.130   2a0d:5600:6:106::f001                 10     3089      ❌     M247           ✔️      us-mia-wg-103 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.86   23.234.116.3     2607:9000:e00:2::f001                 10     3086      ❌     Tzulo          ✔️      us-mkc-wg-001 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.153  23.234.116.127   2607:9000:e00:3::f001                 10     3153      ❌     Tzulo          ✔️      us-mkc-wg-002 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.157  23.234.117.3     2607:9000:e00:4::f001                 10     3157      ❌     Tzulo          ✔️      us-mkc-wg-003 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.158  23.234.117.127   2607:9000:e00:5::f001                 10     3158      ❌     Tzulo          ✔️      us-mkc-wg-004 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.162  23.234.118.3     2607:9000:e00:6::f001                 10     3162      ❌     Tzulo          ✔️      us-mkc-wg-005 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.163  23.234.118.127   2607:9000:e00:7::f001                 10     3163      ❌     Tzulo          ✔️      us-mkc-wg-006 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.164  23.234.119.3     2607:9000:e00:8::f001                 10     3164      ❌     Tzulo          ✔️      us-mkc-wg-007 
+ 🇺🇸    USA             Kansas City, MO     10.124.0.165  23.234.119.127   2607:9000:e00:9::f001                 10     3165      ❌     Tzulo          ✔️      us-mkc-wg-008 
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001                  10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
