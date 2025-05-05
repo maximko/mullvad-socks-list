@@ -163,6 +163,10 @@
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
 10.124.1.62 Europe/London
+10.124.1.34 Europe/London
+10.124.1.35 Europe/London
+10.124.1.91 Europe/London
+10.124.1.164 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.1.248 Europe/London
@@ -326,10 +330,6 @@
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
-10.124.0.29 America/Los_Angeles
-10.124.0.169 America/Los_Angeles
-10.124.0.170 America/Los_Angeles
-10.124.0.184 America/Los_Angeles
 10.124.1.116 America/New_York
 10.124.1.117 America/New_York
 10.124.1.118 America/New_York

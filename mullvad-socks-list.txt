@@ -1,4 +1,4 @@
-Date: 2025-05-05 02-24-47 UTC
+Date: 2025-05-05 06-53-56 UTC
 Total active proxies: 525
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -166,6 +166,10 @@ Total active proxies: 525
  🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f                20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
  🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
  🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801                20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
+ 🇬🇧    UK              London              10.124.1.34   185.248.85.3     2a0b:89c1:3::a33f                     10     3288      ❌     xtom           ✔️      gb-lon-wg-201 
+ 🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f                     10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
+ 🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
+ 🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.1.248  146.70.119.34    2001:ac8:31:f006::a38f                10     3502      ❌     M247           ✔️      gb-lon-wg-303 
@@ -329,10 +333,6 @@ Total active proxies: 525
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f                10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f                10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 
  🇺🇸    USA             Atlanta, GA         10.124.1.234  45.134.140.143   2a02:6ea0:c122:2::b80f                10     3488      ❌     DataPacket     ✔️      us-atl-wg-002 
- 🇺🇸    USA             Atlanta, GA         10.124.0.29   107.150.22.2     2607:fcd0:aa80:1304::f001             10     3029      ❌     Quadranet      ✔️      us-atl-wg-201 
- 🇺🇸    USA             Atlanta, GA         10.124.0.169  104.129.24.98    2607:fcd0:aa80:1302::f001             10     3169      ❌     Quadranet      ✔️      us-atl-wg-202 
- 🇺🇸    USA             Atlanta, GA         10.124.0.170  104.129.24.114   2607:fcd0:aa80:1303::b34f             10     3170      ❌     Quadranet      ✔️      us-atl-wg-203 
- 🇺🇸    USA             Atlanta, GA         10.124.0.184  104.223.91.18    2607:fcd0:aa80:1305::b43f             10     3184      ❌     Quadranet      ✔️      us-atl-wg-204 
  🇺🇸    USA             Atlanta, GA         10.124.1.116  67.213.209.116   2606:2e00:8000:4::f001                10     3370      ❌     100TB          ✔️      us-atl-wg-301 
  🇺🇸    USA             Atlanta, GA         10.124.1.117  67.213.209.117   2606:2e00:8000:4::f101                10     3371      ❌     100TB          ✔️      us-atl-wg-302 
  🇺🇸    USA             Atlanta, GA         10.124.1.118  67.213.209.118   2606:2e00:8000:4::f201                10     3372      ❌     100TB          ✔️      us-atl-wg-303 
