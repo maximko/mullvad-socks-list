@@ -1,5 +1,5 @@
-Date: 2025-05-08 06-53-58 UTC
-Total active proxies: 526
+Date: 2025-05-08 13-17-17 UTC
+Total active proxies: 528
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -523,6 +523,8 @@ Total active proxies: 526
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f             10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
+ 🇺🇸    USA             Secaucus, NJ        10.124.0.29   104.36.50.3      2a06:3040:12:620::f001                10     3029      ❌     HostRoyale     ✔️      us-uyk-wg-201 
+ 🇺🇸    USA             Secaucus, NJ        10.124.0.169  104.36.50.33     2a06:3040:12:620::f101                10     3169      ❌     HostRoyale     ✔️      us-uyk-wg-202 
  🇺🇸    USA             Washington DC       10.124.1.108  185.213.193.3    2604:980:1002:11::f001                10     3362      ❌     Zenlayer       ✔️      us-was-wg-001 
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101                10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001                  10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
