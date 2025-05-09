@@ -1,4 +1,4 @@
-Date: 2025-05-09 02-22-08 UTC
+Date: 2025-05-09 06-53-43 UTC
 Total active proxies: 528
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -144,6 +144,7 @@ Total active proxies: 528
  🇫🇮    Finland         Helsinki            10.124.2.54   193.138.7.157    2a02:ed04:3581:2::f001                10     3562      ✔️     Blix           ✔️      fi-hel-wg-102 
  🇫🇮    Finland         Helsinki            10.124.2.55   193.138.7.177    2a02:ed04:3581:3::f001                10     3563      ✔️     Blix           ✔️      fi-hel-wg-103 
  🇫🇮    Finland         Helsinki            10.124.2.56   193.138.7.197    2a02:ed04:3581:4::f001                10     3564      ✔️     Blix           ✔️      fi-hel-wg-104 
+ 🇫🇷    France          Bordeaux            10.124.1.63   45.134.79.67     2a06:3040:4:610::f001                 10     3317      ❌     HostRoyale     ✔️      fr-bod-wg-001 
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
@@ -313,7 +314,6 @@ Total active proxies: 528
  🇸🇪    Sweden          Stockholm           10.124.0.57   89.37.63.129     2a02:6ea0:1508:3::f001                40     3057      ❌     DataPacket     ✔️      se-sto-wg-203 
  🇸🇪    Sweden          Stockholm           10.124.0.58   89.37.63.190     2a02:6ea0:1508:4::f001                40     3058      ❌     DataPacket     ✔️      se-sto-wg-204 
  🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001                40     3079      ❌     DataPacket     ✔️      se-sto-wg-205 
- 🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001                40     3115      ❌     DataPacket     ✔️      se-sto-wg-206 
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001                40     3128      ❌     DataPacket     ✔️      se-sto-wg-207 
  🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001                40     3129      ❌     DataPacket     ✔️      se-sto-wg-208 
  🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001                40     3130      ❌     DataPacket     ✔️      se-sto-wg-209 
