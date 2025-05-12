@@ -1,5 +1,5 @@
-Date: 2025-05-12 06-54-42 UTC
-Total active proxies: 529
+Date: 2025-05-12 13-19-00 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -161,10 +161,6 @@ Total active proxies: 529
  🇫🇷    France          Paris               10.124.1.79   95.173.222.31    2a02:6ea0:1901:3::f001                10     3333      ❌     DataPacket     ✔️      fr-par-wg-302 
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001                 10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101                 10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
- 🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f                20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
- 🇬🇧    UK              London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f                20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
- 🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f                20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
- 🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f                20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
  🇬🇧    UK              London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f                20     3272      ✔️     31173          ✔️      gb-lon-wg-005 
  🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f                20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
  🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
@@ -453,6 +449,14 @@ Total active proxies: 529
  🇺🇸    USA             New York, NY        10.124.0.131  23.162.8.3       2602:fa1f:1::f001                     10     3131      ❌     xtom           ✔️      us-nyc-wg-701 
  🇺🇸    USA             New York, NY        10.124.0.132  23.162.8.67      2602:fa1f:1::f033                     10     3132      ❌     xtom           ✔️      us-nyc-wg-702 
  🇺🇸    USA             New York, NY        10.124.0.133  23.162.8.130     2602:fa1f:1:3::f001                   10     3133      ❌     xtom           ✔️      us-nyc-wg-703 
+ 🇺🇸    USA             New York, NY        10.124.0.170  23.234.100.3     2607:9000:a000:31::f001               10     3170      ❌     Tzulo          ✔️      us-nyc-wg-801 
+ 🇺🇸    USA             New York, NY        10.124.0.184  23.234.100.127   2607:9000:a000:32::f001               10     3184      ❌     Tzulo          ✔️      us-nyc-wg-802 
+ 🇺🇸    USA             New York, NY        10.124.0.188  23.234.101.3     2607:9000:a000:33::f001               10     3188      ❌     Tzulo          ✔️      us-nyc-wg-803 
+ 🇺🇸    USA             New York, NY        10.124.0.193  23.234.101.127   2607:9000:a000:34::f001               10     3193      ❌     Tzulo          ✔️      us-nyc-wg-804 
+ 🇺🇸    USA             New York, NY        10.124.0.242  23.234.102.3     2607:9000:a000:35::f001               10     3242      ❌     Tzulo          ✔️      us-nyc-wg-805 
+ 🇺🇸    USA             New York, NY        10.124.1.29   23.234.102.127   2607:9000:a000:36::f001               10     3283      ❌     Tzulo          ✔️      us-nyc-wg-806 
+ 🇺🇸    USA             New York, NY        10.124.1.165  23.234.103.3     2607:9000:a000:37::f001               10     3419      ❌     Tzulo          ✔️      us-nyc-wg-807 
+ 🇺🇸    USA             New York, NY        10.124.1.166  23.234.103.127   2607:9000:a000:38::f001               10     3420      ❌     Tzulo          ✔️      us-nyc-wg-808 
  🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
  🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
  🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
