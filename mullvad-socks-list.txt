@@ -1,5 +1,5 @@
-Date: 2025-05-13 02-24-14 UTC
-Total active proxies: 533
+Date: 2025-05-13 06-53-45 UTC
+Total active proxies: 532
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -161,10 +161,9 @@ Total active proxies: 533
  🇫🇷    France          Paris               10.124.1.79   95.173.222.31    2a02:6ea0:1901:3::f001                10     3333      ❌     DataPacket     ✔️      fr-par-wg-302 
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001                 10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101                 10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
- 🇬🇧    UK              London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f                20     3272      ✔️     31173          ✔️      gb-lon-wg-005 
- 🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f                20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
- 🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
- 🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801                20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
+ 🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f                20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
+ 🇬🇧    UK              London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f                20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
+ 🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f                20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
  🇬🇧    UK              London              10.124.1.34   185.248.85.3     2a0b:89c1:3::a33f                     10     3288      ❌     xtom           ✔️      gb-lon-wg-201 
  🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f                     10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
  🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
