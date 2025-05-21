@@ -94,7 +94,7 @@
 10.124.0.179 Europe/Berlin
 10.124.0.196 Europe/Berlin
 10.124.0.239 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.0.101 Europe/Berlin
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
@@ -110,7 +110,7 @@
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
 10.124.1.240 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.1.241 Europe/Berlin
 10.124.1.242 Europe/Berlin
 10.124.1.30 Europe/Berlin
 10.124.1.31 Europe/Berlin
@@ -163,7 +163,7 @@
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
 10.124.1.18 Europe/London
-;; communications error to 1.1.1.1#53: timed out Europe/London
+10.124.1.19 Europe/London
 10.124.1.28 Europe/London
 10.124.1.62 Europe/London
 10.124.1.34 Europe/London
@@ -215,7 +215,7 @@
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
-;; communications error to 1.1.1.1#53: timed out Asia/Tokyo
+10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
@@ -258,7 +258,7 @@
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
 10.124.0.145 Asia/Manila
-;; communications error to 1.1.1.1#53: timed out Asia/Manila
+10.124.0.146 Asia/Manila
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
 10.124.1.221 Europe/Warsaw
@@ -305,7 +305,7 @@
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.143 Europe/Stockholm
 10.124.0.80 Europe/Stockholm
 10.124.0.46 Europe/Stockholm
 10.124.0.52 Europe/Stockholm
@@ -365,7 +365,7 @@
 10.124.0.43 America/Chicago
 10.124.0.44 America/Chicago
 10.124.1.226 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
 10.124.0.88 America/Chicago
 10.124.1.9 America/Chicago
@@ -394,7 +394,7 @@
 10.124.0.181 America/Los_Angeles
 10.124.0.182 America/Los_Angeles
 10.124.0.83 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
+10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
 10.124.1.49 America/Los_Angeles
 10.124.1.50 America/Los_Angeles
@@ -460,7 +460,7 @@
 10.124.1.166 America/Chicago
 10.124.0.34 America/Phoenix
 10.124.0.31 America/Phoenix
-;; communications error to 1.1.1.1#53: timed out America/Phoenix
+10.124.0.32 America/Phoenix
 10.124.1.146 America/Chicago
 10.124.1.147 America/Chicago
 10.124.1.148 America/Chicago
@@ -501,7 +501,7 @@
 10.124.0.78 America/Los_Angeles
 10.124.0.69 America/Los_Angeles
 10.124.0.70 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
+10.124.1.209 America/Los_Angeles
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
