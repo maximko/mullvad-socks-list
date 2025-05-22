@@ -219,10 +219,10 @@
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
-10.124.0.154 America/Mexico_City
-10.124.0.204 America/Mexico_City
-10.124.0.205 America/Mexico_City
-10.124.0.206 America/Mexico_City
+10.124.0.154 America/Ciudad_Juarez
+10.124.0.204 America/Ciudad_Juarez
+10.124.0.205 America/Ciudad_Juarez
+10.124.0.206 America/Ciudad_Juarez
 10.124.1.39 Asia/Kuala_Lumpur
 10.124.1.40 Asia/Kuala_Lumpur
 10.124.0.97 Africa/Lagos
@@ -472,7 +472,7 @@
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
-10.124.1.189 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
