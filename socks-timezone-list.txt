@@ -528,7 +528,6 @@
 10.124.1.145 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
-10.124.1.176 America/New_York
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
 10.124.1.108 Europe/Amsterdam
