@@ -1,5 +1,5 @@
-Date: 2025-05-30 02-22-44 UTC
-Total active proxies: 529
+Date: 2025-05-30 06-54-33 UTC
+Total active proxies: 528
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -220,7 +220,6 @@ Total active proxies: 529
  🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f                  10     3472      ❌     DataPacket     ✔️      jp-tyo-wg-001 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f                  10     3107      ❌     M247           ✔️      jp-tyo-wg-201 
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f                  10     3160      ❌     M247           ✔️      jp-tyo-wg-202 
- 🇯🇵    Japan           Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f                  10     3161      ❌     M247           ✔️      jp-tyo-wg-203 
  🇲🇽    Mexico          Queretaro           10.124.0.154  149.88.22.129    2a02:6ea0:f803::f001                  10     3154      ❌     DataPacket     ✔️      mx-qro-wg-001 
  🇲🇽    Mexico          Queretaro           10.124.0.204  149.88.22.142    2a02:6ea0:f803:1::f001                10     3204      ❌     DataPacket     ✔️      mx-qro-wg-002 
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001                10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
