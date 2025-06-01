@@ -435,8 +435,8 @@
 10.124.0.213 America/New_York
 10.124.0.167 America/New_York
 10.124.0.187 America/New_York
-10.124.1.45 America/New_York
-10.124.1.46 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
+;; Warning: ID mismatch: expected ID 11530, got 24769 America/New_York
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
 10.124.0.131 America/New_York
