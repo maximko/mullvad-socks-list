@@ -348,8 +348,8 @@
 10.124.1.87 America/Chicago
 10.124.1.88 America/Chicago
 10.124.1.89 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
-;; Warning: ID mismatch: expected ID 16977, got 996 America/Chicago
+10.124.1.90 America/Chicago
+10.124.1.92 America/Chicago
 10.124.1.93 America/Chicago
 10.124.1.94 America/Chicago
 10.124.1.95 America/Chicago
