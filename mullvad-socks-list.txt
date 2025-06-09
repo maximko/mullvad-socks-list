@@ -1,5 +1,5 @@
-Date: 2025-06-09 06-56-33 UTC
-Total active proxies: 527
+Date: 2025-06-09 13-19-04 UTC
+Total active proxies: 538
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -86,7 +86,6 @@ Total active proxies: 527
  🇨🇴    Colombia        Bogota              10.124.0.217  154.47.16.47     2a02:6ea0:f101:2::f001                10     3217      ❌     DataPacket     ✔️      co-bog-wg-002 
  🇨🇾    Cyprus          Nicosia             10.124.1.83   195.47.194.131   2a06:3040:f:601::f001                 10     3337      ❌     HostRoyale     ✔️      cy-nic-wg-001 
  🇨🇾    Cyprus          Nicosia             10.124.1.84   195.47.194.161   2a06:3040:f:601::f101                 10     3338      ❌     HostRoyale     ✔️      cy-nic-wg-002 
- 🇨🇿    Czech Republic  Prague              10.124.2.33   146.70.129.98    2001:ac8:33:c::a01f                   10     3541      ❌     M247           ✔️      cz-prg-wg-101 
  🇨🇿    Czech Republic  Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f                   10     3542      ❌     M247           ✔️      cz-prg-wg-102 
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001                10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
  🇨🇿    Czech Republic  Prague              10.124.2.58   178.249.209.175  2a02:6ea0:c201:1::f101                10     3566      ❌     DataPacket     ✔️      cz-prg-wg-202 
@@ -367,6 +366,10 @@ Total active proxies: 527
  🇺🇸    USA             Dallas, TX          10.124.1.11   206.217.206.107  2606:2e00:8007:a:ae1f:6bff:fef5:7983  10     3265      ❌     100TB          ✔️      us-dal-wg-505 
  🇺🇸    USA             Dallas, TX          10.124.1.85   206.217.206.4    2606:2e00:8007:a:ae1f:6bff:fef5:7b8d  10     3339      ❌     100TB          ✔️      us-dal-wg-506 
  🇺🇸    USA             Dallas, TX          10.124.1.86   206.217.206.16   2606:2e00:8007:a:ae1f:6bff:fef5:7b27  10     3340      ❌     100TB          ✔️      us-dal-wg-507 
+ 🇺🇸    USA             Dallas, TX          10.124.1.171  103.102.246.3    2a01:4740:2::f001                     10     3425      ❌     HostRoyale     ✔️      us-dal-wg-601 
+ 🇺🇸    USA             Dallas, TX          10.124.1.172  103.102.246.127  2a01:4740:2::f101                     10     3426      ❌     HostRoyale     ✔️      us-dal-wg-602 
+ 🇺🇸    USA             Dallas, TX          10.124.1.173  103.102.247.3    2a01:4740:2::f201                     10     3427      ❌     HostRoyale     ✔️      us-dal-wg-603 
+ 🇺🇸    USA             Dallas, TX          10.124.1.174  103.102.247.127  2a01:4740:2::f301                     10     3428      ❌     HostRoyale     ✔️      us-dal-wg-604 
  🇺🇸    USA             Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f                  10     3450      ❌     DataPacket     ✔️      us-den-wg-101 
  🇺🇸    USA             Denver, CO          10.124.1.197  37.19.210.14     2a02:6ea0:d70a:1::b58f                10     3451      ❌     DataPacket     ✔️      us-den-wg-102 
  🇺🇸    USA             Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f                10     3452      ❌     DataPacket     ✔️      us-den-wg-103 
@@ -406,6 +409,10 @@ Total active proxies: 527
  🇺🇸    USA             Los Angeles, CA     10.124.0.209  23.160.24.127    2602:fa45::f101                       10     3209      ❌     xtom           ✔️      us-lax-wg-606 
  🇺🇸    USA             Los Angeles, CA     10.124.1.128  23.168.216.3     2602:f99d::f001                       10     3382      ❌     xtom           ✔️      us-lax-wg-607 
  🇺🇸    USA             Los Angeles, CA     10.124.1.129  23.168.216.127   2602:f99d::f101                       10     3383      ❌     xtom           ✔️      us-lax-wg-608 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.175  103.251.26.3     2a01:4740:3::f001                     10     3429      ❌     HostRoyale     ✔️      us-lax-wg-701 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.181  103.251.26.127   2a01:4740:3::f101                     10     3435      ❌     HostRoyale     ✔️      us-lax-wg-702 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.176  103.251.27.3     2a01:4740:3::f201                     10     3430      ❌     HostRoyale     ✔️      us-lax-wg-703 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.182  103.251.27.127   2a01:4740:3::f301                     10     3436      ❌     HostRoyale     ✔️      us-lax-wg-704 
  🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
@@ -470,6 +477,10 @@ Total active proxies: 527
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   2a02:6ea0:e206:1::a01f                10     3530      ❌     DataPacket     ✔️      us-qas-wg-101 
  🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f                10     3531      ❌     DataPacket     ✔️      us-qas-wg-102 
  🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f                10     3532      ❌     DataPacket     ✔️      us-qas-wg-103 
+ 🇺🇸    USA             Ashburn, VA         10.124.1.167  103.81.230.3     2a01:4740:1::f001                     10     3421      ❌     HostRoyale     ✔️      us-qas-wg-201 
+ 🇺🇸    USA             Ashburn, VA         10.124.1.168  103.81.230.127   2a01:4740:1::f101                     10     3422      ❌     HostRoyale     ✔️      us-qas-wg-202 
+ 🇺🇸    USA             Ashburn, VA         10.124.1.169  103.81.231.3     2a01:4740:1::f201                     10     3423      ❌     HostRoyale     ✔️      us-qas-wg-203 
+ 🇺🇸    USA             Ashburn, VA         10.124.1.170  103.81.231.127   2a01:4740:1::f301                     10     3424      ❌     HostRoyale     ✔️      us-qas-wg-204 
  🇺🇸    USA             Raleigh, NC         10.124.1.41   23.234.76.2      2607:9000:4000:31::f001               10     3295      ❌     Tzulo          ✔️      us-rag-wg-201 
  🇺🇸    USA             Raleigh, NC         10.124.1.42   23.234.76.127    2607:9000:4000:32::f001               10     3296      ❌     Tzulo          ✔️      us-rag-wg-202 
  🇺🇸    USA             Raleigh, NC         10.124.1.43   23.234.77.2      2607:9000:4000:33::f001               10     3297      ❌     Tzulo          ✔️      us-rag-wg-203 

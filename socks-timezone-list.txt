@@ -83,7 +83,6 @@
 10.124.0.217 America/Bogota
 10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
-10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
@@ -364,6 +363,10 @@
 10.124.1.11 America/Chicago
 10.124.1.85 America/Chicago
 10.124.1.86 America/Chicago
+10.124.1.171 Asia/Tokyo
+10.124.1.172 Asia/Tokyo
+10.124.1.173 Asia/Tokyo
+10.124.1.174 Asia/Tokyo
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
@@ -403,6 +406,10 @@
 10.124.0.209 America/Chicago
 10.124.1.128 America/Chicago
 10.124.1.129 America/Chicago
+10.124.1.175 Asia/Kolkata
+10.124.1.181 Asia/Kolkata
+10.124.1.176 Asia/Kolkata
+10.124.1.182 Asia/Kolkata
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
@@ -467,6 +474,10 @@
 10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
+10.124.1.167 Asia/Kolkata
+10.124.1.168 Asia/Kolkata
+10.124.1.169 Asia/Kolkata
+10.124.1.170 Asia/Kolkata
 10.124.1.41 America/Chicago
 10.124.1.42 America/Chicago
 10.124.1.43 America/Chicago
