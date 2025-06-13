@@ -400,10 +400,10 @@
 10.124.1.125 America/Los_Angeles
 10.124.0.22 America/Chicago
 10.124.0.24 America/Chicago
-10.124.0.26 America/Los_Angeles
-10.124.0.207 America/Los_Angeles
-10.124.0.208 America/Chicago
-10.124.0.209 America/Chicago
+10.124.0.26 America/Chicago
+10.124.0.207 America/Chicago
+10.124.0.208 America/Los_Angeles
+10.124.0.209 America/Los_Angeles
 10.124.1.128 America/Chicago
 10.124.1.129 America/Chicago
 10.124.1.175 Asia/Kolkata
