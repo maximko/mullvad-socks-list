@@ -103,7 +103,7 @@
 10.124.1.26 Europe/Berlin
 10.124.1.27 Europe/Berlin
 10.124.0.222 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.1.24 Europe/Berlin
 10.124.0.240 Europe/Berlin
 10.124.1.243 Europe/Berlin
 10.124.1.238 Europe/Berlin
@@ -123,7 +123,7 @@
 10.124.0.230 Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
-;; communications error to 1.1.1.1#53: timed out Europe/Tallinn
+10.124.0.140 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
 10.124.1.69 Europe/Madrid
