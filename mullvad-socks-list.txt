@@ -1,5 +1,5 @@
-Date: 2025-06-19 02-27-47 UTC
-Total active proxies: 538
+Date: 2025-06-19 06-55-57 UTC
+Total active proxies: 537
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -161,7 +161,6 @@ Total active proxies: 538
  🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001                 10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101                 10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
  🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f                20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
- 🇬🇧    UK              London              10.124.0.60   141.98.252.222   2a03:1b20:7:f011::a02f                20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
  🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f                20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
  🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f                20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
  🇬🇧    UK              London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f                20     3272      ✔️     31173          ✔️      gb-lon-wg-005 
