@@ -1,5 +1,5 @@
-Date: 2025-07-01 02-50-34 UTC
-Total active proxies: 533
+Date: 2025-07-01 06-57-15 UTC
+Total active proxies: 531
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -409,7 +409,6 @@ Total active proxies: 533
  🇺🇸    USA             Los Angeles, CA     10.124.1.181  103.251.26.127   2a01:4740:3::f101                     10     3435      ❌     HostRoyale     ✔️      us-lax-wg-702 
  🇺🇸    USA             Los Angeles, CA     10.124.1.176  103.251.27.3     2a01:4740:3::f201                     10     3430      ❌     HostRoyale     ✔️      us-lax-wg-703 
  🇺🇸    USA             Los Angeles, CA     10.124.1.182  103.251.27.127   2a01:4740:3::f301                     10     3436      ❌     HostRoyale     ✔️      us-lax-wg-704 
- 🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
  🇺🇸    USA             Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f                 10     3014      ❌     M247           ✔️      us-mia-wg-101 
@@ -484,7 +483,6 @@ Total active proxies: 533
  🇺🇸    USA             Raleigh, NC         10.124.1.96   23.234.78.2      2607:9000:4000:35::f001               10     3350      ❌     Tzulo          ✔️      us-rag-wg-205 
  🇺🇸    USA             Raleigh, NC         10.124.1.97   23.234.78.127    2607:9000:4000:36::f001               10     3351      ❌     Tzulo          ✔️      us-rag-wg-206 
  🇺🇸    USA             Raleigh, NC         10.124.1.98   23.234.79.2      2607:9000:4000:37::f001               10     3352      ❌     Tzulo          ✔️      us-rag-wg-207 
- 🇺🇸    USA             Raleigh, NC         10.124.1.99   23.234.79.127    2607:9000:4000:38::f001               10     3353      ❌     Tzulo          ✔️      us-rag-wg-208 
  🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f                10     3483      ❌     DataPacket     ✔️      us-sea-wg-001 
  🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001                10     3482      ❌     DataPacket     ✔️      us-sea-wg-002 
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f                10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
