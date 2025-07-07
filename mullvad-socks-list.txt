@@ -1,5 +1,5 @@
-Date: 2025-07-07 06-57-42 UTC
-Total active proxies: 529
+Date: 2025-07-07 13-20-19 UTC
+Total active proxies: 527
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -485,8 +485,6 @@ Total active proxies: 529
  🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f                10     3483      ❌     DataPacket     ✔️      us-sea-wg-001 
  🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001                10     3482      ❌     DataPacket     ✔️      us-sea-wg-002 
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f                10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
- 🇺🇸    USA             Seattle, WA         10.124.0.3    198.54.131.162   2607:9000:5000:16::b78f               10     3003      ❌     Tzulo          ✔️      us-sea-wg-102 
- 🇺🇸    USA             Seattle, WA         10.124.0.5    198.54.131.98    2607:9000:5000:14::b03f               10     3005      ❌     Tzulo          ✔️      us-sea-wg-103 
  🇺🇸    USA             Seattle, WA         10.124.1.100  23.234.80.2      2607:9000:5000:31::f001               10     3354      ❌     Tzulo          ✔️      us-sea-wg-401 
  🇺🇸    USA             Seattle, WA         10.124.1.101  23.234.80.127    2607:9000:5000:32::f001               10     3355      ❌     Tzulo          ✔️      us-sea-wg-402 
  🇺🇸    USA             Seattle, WA         10.124.1.102  23.234.81.2      2607:9000:5000:33::f001               10     3356      ❌     Tzulo          ✔️      us-sea-wg-403 
