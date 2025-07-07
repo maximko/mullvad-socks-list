@@ -171,7 +171,6 @@
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.0.237 Europe/London
-10.124.2.20 Europe/London
 10.124.2.13 Europe/London
 10.124.2.14 Europe/London
 10.124.2.15 Europe/London
@@ -483,7 +482,6 @@
 10.124.1.229 America/Los_Angeles
 10.124.1.228 America/Los_Angeles
 10.124.1.227 America/Los_Angeles
-10.124.0.1 America/Los_Angeles
 10.124.0.3 America/Los_Angeles
 10.124.0.5 America/Los_Angeles
 10.124.1.100 America/Chicago

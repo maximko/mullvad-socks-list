@@ -1,5 +1,5 @@
-Date: 2025-07-07 02-34-36 UTC
-Total active proxies: 531
+Date: 2025-07-07 06-57-42 UTC
+Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -174,7 +174,6 @@ Total active proxies: 531
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001                10     3237      ❌     M247           ✔️      gb-lon-wg-304 
- 🇬🇧    UK              Manchester          10.124.2.20   146.70.133.98    2001:ac8:8b:2d::a47f                  10     3528      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::f001                  10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.2.14   146.70.132.162   2001:ac8:8b:27::f001                  10     3522      ❌     M247           ✔️      gb-mnc-wg-003 
  🇬🇧    UK              Manchester          10.124.2.15   146.70.132.194   2001:ac8:8b:28::f001                  10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
@@ -486,7 +485,6 @@ Total active proxies: 531
  🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f                10     3483      ❌     DataPacket     ✔️      us-sea-wg-001 
  🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001                10     3482      ❌     DataPacket     ✔️      us-sea-wg-002 
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f                10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
- 🇺🇸    USA             Seattle, WA         10.124.0.1    198.54.131.130   2607:9000:5000:15::b77f               10     3001      ❌     Tzulo          ✔️      us-sea-wg-101 
  🇺🇸    USA             Seattle, WA         10.124.0.3    198.54.131.162   2607:9000:5000:16::b78f               10     3003      ❌     Tzulo          ✔️      us-sea-wg-102 
  🇺🇸    USA             Seattle, WA         10.124.0.5    198.54.131.98    2607:9000:5000:14::b03f               10     3005      ❌     Tzulo          ✔️      us-sea-wg-103 
  🇺🇸    USA             Seattle, WA         10.124.1.100  23.234.80.2      2607:9000:5000:31::f001               10     3354      ❌     Tzulo          ✔️      us-sea-wg-401 
