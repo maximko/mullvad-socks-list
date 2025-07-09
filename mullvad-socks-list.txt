@@ -1,5 +1,5 @@
-Date: 2025-07-09 06-57-30 UTC
-Total active proxies: 528
+Date: 2025-07-09 13-20-33 UTC
+Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -197,6 +197,7 @@ Total active proxies: 528
  🇭🇺    Hungary         Budapest            10.124.0.137  79.127.182.160   2a02:6ea0:5700:2::f001                10     3137      ❌     DataPacket     ✔️      hu-bud-wg-202 
  🇮🇩    Indonesia       Jakarta             10.124.0.254  129.227.46.130   2602:ffe4:c0d:801d::f001              10     3254      ❌     Zenlayer       ✔️      id-jpu-wg-001 
  🇮🇩    Indonesia       Jakarta             10.124.1.1    129.227.46.162   2602:ffe4:c0d:801e::f101              10     3255      ❌     Zenlayer       ✔️      id-jpu-wg-002 
+ 🇮🇪    Ireland         Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f                  10     3312      ❌     M247           ✔️      ie-dub-wg-101 
  🇮🇪    Ireland         Dublin              10.124.1.59   146.70.189.66    2001:ac8:88:85::f001                  10     3313      ❌     M247           ✔️      ie-dub-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f                10     3513      ❌     DataPacket     ✔️      il-tlv-wg-101 
  🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f                10     3533      ❌     DataPacket     ✔️      il-tlv-wg-102 
