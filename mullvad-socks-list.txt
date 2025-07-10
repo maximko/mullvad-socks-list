@@ -1,4 +1,4 @@
-Date: 2025-07-10 06-57-44 UTC
+Date: 2025-07-10 13-21-06 UTC
 Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -409,7 +409,7 @@ Total active proxies: 529
  🇺🇸    USA             Los Angeles, CA     10.124.1.175  103.251.26.3     2a01:4740:3::f001                     10     3429      ❌     HostRoyale     ✔️      us-lax-wg-701 
  🇺🇸    USA             Los Angeles, CA     10.124.1.181  103.251.26.127   2a01:4740:3::f101                     10     3435      ❌     HostRoyale     ✔️      us-lax-wg-702 
  🇺🇸    USA             Los Angeles, CA     10.124.1.176  103.251.27.3     2a01:4740:3::f201                     10     3430      ❌     HostRoyale     ✔️      us-lax-wg-703 
- 🇺🇸    USA             Los Angeles, CA     10.124.1.182  103.251.27.127   2a01:4740:3::f301                     10     3436      ❌     HostRoyale     ✔️      us-lax-wg-704 
+ 🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f                10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
  🇺🇸    USA             Miami, FL           10.124.1.200  45.134.142.206   2a02:6ea0:cc1f:1::b61f                10     3454      ❌     DataPacket     ✔️      us-mia-wg-002 
  🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001                  10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
  🇺🇸    USA             Miami, FL           10.124.0.14   146.70.187.2     2a0d:5600:6:104::a01f                 10     3014      ❌     M247           ✔️      us-mia-wg-101 
