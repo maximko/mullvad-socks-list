@@ -1,5 +1,5 @@
-Date: 2025-07-15 02-48-01 UTC
-Total active proxies: 523
+Date: 2025-07-15 06-58-38 UTC
+Total active proxies: 525
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -176,7 +176,6 @@ Total active proxies: 523
  🇬🇧    UK              Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::f001                  10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.2.14   146.70.132.162   2001:ac8:8b:27::f001                  10     3522      ❌     M247           ✔️      gb-mnc-wg-003 
  🇬🇧    UK              Manchester          10.124.2.15   146.70.132.194   2001:ac8:8b:28::f001                  10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
- 🇬🇧    UK              Manchester          10.124.2.16   146.70.132.226   2001:ac8:8b:29::f001                  10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001                  10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
  🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001                  10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
  🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001                  10     3527      ❌     M247           ✔️      gb-mnc-wg-008 
@@ -337,6 +336,9 @@ Total active proxies: 523
  🇺🇸    USA             Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f                10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f                  10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
  🇺🇸    USA             Boston, MA          10.124.0.197  149.40.50.112    2a02:6ea0:f901:1::a02f                10     3197      ❌     DataPacket     ✔️      us-bos-wg-102 
+ 🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f                  10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
+ 🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f                10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
+ 🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001                10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
  🇺🇸    USA             Chicago, IL         10.124.1.87   68.235.46.2      2607:9000:0:101::f001                 10     3341      ❌     Tzulo          ✔️      us-chi-wg-301 
  🇺🇸    USA             Chicago, IL         10.124.1.88   68.235.46.33     2607:9000:0:102::f001                 10     3342      ❌     Tzulo          ✔️      us-chi-wg-302 
  🇺🇸    USA             Chicago, IL         10.124.1.89   68.235.46.64     2607:9000:0:103::f001                 10     3343      ❌     Tzulo          ✔️      us-chi-wg-303 
