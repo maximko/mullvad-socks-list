@@ -1,7 +1,8 @@
-Date: 2025-07-18 02-47-08 UTC
-Total active proxies: 524
+Date: 2025-07-18 07-00-18 UTC
+Total active proxies: 526
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
+ 🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f                  10     3543      ❌     M247           ✔️      at-vie-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.36   146.70.116.130   2001:ac8:29:85::a02f                  10     3544      ❌     M247           ✔️      at-vie-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f                  10     3545      ❌     M247           ✔️      at-vie-wg-003 
@@ -182,6 +183,7 @@ Total active proxies: 524
  🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101                  10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001                10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001                10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
+ 🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f                  10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.192  103.125.233.3    2403:2c81:1000::a05f                  10     3192      ❌     xtom           ✔️      hk-hkg-wg-202 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.202  146.70.224.2     2001:ac8:a:f::f001                    10     3202      ❌     M247           ✔️      hk-hkg-wg-301 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.203  146.70.224.66    2001:ac8:a:19::f001                   10     3203      ❌     M247           ✔️      hk-hkg-wg-302 
