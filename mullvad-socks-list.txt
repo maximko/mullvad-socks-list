@@ -1,5 +1,5 @@
-Date: 2025-07-22 02-36-35 UTC
-Total active proxies: 526
+Date: 2025-07-22 06-59-15 UTC
+Total active proxies: 522
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -492,10 +492,6 @@ Total active proxies: 526
  🇺🇸    USA             Seattle, WA         10.124.1.105  23.234.82.127    2607:9000:5000:36::f001               10     3359      ❌     Tzulo          ✔️      us-sea-wg-406 
  🇺🇸    USA             Seattle, WA         10.124.1.106  23.234.83.2      2607:9000:5000:37::f001               10     3360      ❌     Tzulo          ✔️      us-sea-wg-407 
  🇺🇸    USA             Seattle, WA         10.124.1.107  23.234.83.127    2607:9000:5000:38::f001               10     3361      ❌     Tzulo          ✔️      us-sea-wg-408 
- 🇺🇸    USA             San Jose, CA        10.124.0.78   198.54.134.98    2607:9000:8000:14::f001               10     3078      ❌     Tzulo          ✔️      us-sjc-wg-001 
- 🇺🇸    USA             San Jose, CA        10.124.0.69   198.54.134.130   2607:9000:8000:15::b95f               10     3069      ❌     Tzulo          ✔️      us-sjc-wg-002 
- 🇺🇸    USA             San Jose, CA        10.124.0.70   198.54.134.162   2607:9000:8000:16::b96f               10     3070      ❌     Tzulo          ✔️      us-sjc-wg-003 
- 🇺🇸    USA             San Jose, CA        10.124.1.209  142.147.89.195   2604:e8c0:7::b66f                     10     3463      ❌     xtom           ✔️      us-sjc-wg-301 
  🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001                     10     3464      ❌     xtom           ✔️      us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f                     10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
