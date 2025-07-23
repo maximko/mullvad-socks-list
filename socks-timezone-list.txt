@@ -123,8 +123,6 @@
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
-10.124.0.252 Europe/Madrid
-10.124.0.253 Europe/Madrid
 10.124.1.69 Europe/Madrid
 10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
