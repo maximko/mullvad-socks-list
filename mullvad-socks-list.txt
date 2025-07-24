@@ -1,5 +1,5 @@
-Date: 2025-07-24 02-37-10 UTC
-Total active proxies: 520
+Date: 2025-07-24 06-59-33 UTC
+Total active proxies: 522
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -33,6 +33,9 @@ Total active proxies: 520
  🇧🇷    Brazil          Sao Paulo           10.124.0.194  149.78.184.194   2804:5364:7000:40::f001               1      3194      ❌     Qnax           ✔️      br-sao-wg-001 
  🇧🇷    Brazil          Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f                10     3539      ❌     DataPacket     ✔️      br-sao-wg-201 
  🇧🇷    Brazil          Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f                10     3540      ❌     DataPacket     ✔️      br-sao-wg-202 
+ 🇧🇷    Brazil          Sao Paulo           10.124.2.2    103.139.178.63   2a06:3040:10:610::f101                10     3510      ❌     HostRoyale     ✔️      br-sao-wg-302 
+ 🇧🇷    Brazil          Sao Paulo           10.124.2.21   103.139.178.123  2a06:3040:10:610::f201                10     3529      ❌     HostRoyale     ✔️      br-sao-wg-303 
+ 🇧🇷    Brazil          Sao Paulo           10.124.2.52   103.139.178.183  2a06:3040:10:610::f301                10     3560      ❌     HostRoyale     ✔️      br-sao-wg-304 
  🇨🇦    Canada          Montreal            10.124.0.231  146.70.198.66    2a0d:5600:9:c::f001                   10     3231      ❌     M247           ✔️      ca-mtr-wg-001 
  🇨🇦    Canada          Montreal            10.124.0.232  146.70.198.130   2a0d:5600:9:d::f001                   10     3232      ❌     M247           ✔️      ca-mtr-wg-002 
  🇨🇦    Canada          Montreal            10.124.0.233  146.70.198.194   2a0d:5600:9:e::a02f                   10     3233      ❌     M247           ✔️      ca-mtr-wg-003 
@@ -126,7 +129,6 @@ Total active proxies: 520
  🇪🇪    Estonia         Tallinn             10.124.0.138  194.127.167.67   2a07:d880:2::a01f                     10     3138      ❌     xtom           ✔️      ee-tll-wg-001 
  🇪🇪    Estonia         Tallinn             10.124.0.139  194.127.167.87   2a07:d880:2::a02f                     10     3139      ❌     xtom           ✔️      ee-tll-wg-002 
  🇪🇪    Estonia         Tallinn             10.124.0.140  194.127.167.107  2a07:d880:2::a03f                     10     3140      ❌     xtom           ✔️      ee-tll-wg-003 
- 🇪🇸    Spain           Barcelona           10.124.1.69   185.253.99.30    2001:ac8:35:1::f001                   10     3323      ❌     M247           ✔️      es-bcn-wg-101 
  🇪🇸    Spain           Barcelona           10.124.1.70   185.253.99.98    2001:ac8:35:1::f101                   10     3324      ❌     M247           ✔️      es-bcn-wg-102 
  🇪🇸    Spain           Madrid              10.124.1.223  45.134.213.194   2a02:6ea0:c318:1::a06f                10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
  🇪🇸    Spain           Madrid              10.124.1.222  45.134.213.207   2a02:6ea0:c318:2::a07f                10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
