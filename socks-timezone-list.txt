@@ -325,6 +325,12 @@
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
+10.124.1.116 America/New_York
+10.124.1.117 America/New_York
+10.124.1.118 America/New_York
+10.124.1.119 America/New_York
+10.124.1.120 America/New_York
+10.124.1.121 America/New_York
 10.124.1.130 America/Chicago
 10.124.1.131 America/Chicago
 10.124.1.132 America/Chicago

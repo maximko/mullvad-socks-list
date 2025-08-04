@@ -1,5 +1,5 @@
-Date: 2025-08-04 03-01-37 UTC
-Total active proxies: 525
+Date: 2025-08-04 07-05-04 UTC
+Total active proxies: 531
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -328,6 +328,12 @@ Total active proxies: 525
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f                10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f                10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 
  🇺🇸    USA             Atlanta, GA         10.124.1.234  45.134.140.143   2a02:6ea0:c122:2::b80f                10     3488      ❌     DataPacket     ✔️      us-atl-wg-002 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.116  67.213.209.116   2606:2e00:8000:4::f001                10     3370      ❌     100TB          ✔️      us-atl-wg-301 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.117  67.213.209.117   2606:2e00:8000:4::f101                10     3371      ❌     100TB          ✔️      us-atl-wg-302 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.118  67.213.209.118   2606:2e00:8000:4::f201                10     3372      ❌     100TB          ✔️      us-atl-wg-303 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.119  67.213.209.119   2606:2e00:8000:4::f301                10     3373      ❌     100TB          ✔️      us-atl-wg-304 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.120  67.213.209.120   2606:2e00:8000:4::f401                10     3374      ❌     100TB          ✔️      us-atl-wg-305 
+ 🇺🇸    USA             Atlanta, GA         10.124.1.121  67.213.209.121   2606:2e00:8000:4::f501                10     3375      ❌     100TB          ✔️      us-atl-wg-306 
  🇺🇸    USA             Atlanta, GA         10.124.1.130  23.234.108.3     2607:9000:c00:31::f001                10     3384      ❌     Tzulo          ✔️      us-atl-wg-401 
  🇺🇸    USA             Atlanta, GA         10.124.1.131  23.234.108.127   2607:9000:c00:32::f001                10     3385      ❌     Tzulo          ✔️      us-atl-wg-402 
  🇺🇸    USA             Atlanta, GA         10.124.1.132  23.234.109.3     2607:9000:c00:33::f001                10     3386      ❌     Tzulo          ✔️      us-atl-wg-403 
