@@ -266,7 +266,7 @@
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
-;; communications error to 1.1.1.1#53: timed out Europe/Belgrade
+10.124.0.73 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
