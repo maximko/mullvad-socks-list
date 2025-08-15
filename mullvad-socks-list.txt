@@ -1,5 +1,5 @@
-Date: 2025-08-15 13-17-58 UTC
-Total active proxies: 531
+Date: 2025-08-15 18-55-42 UTC
+Total active proxies: 524
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -517,13 +517,6 @@ Total active proxies: 531
  🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.139  23.234.112.127   2607:9000:d00:3::f001                 10     3393      ❌     Tzulo          ✔️      us-slc-wg-302 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.140  23.234.113.3     2607:9000:d00:4::f001                 10     3394      ❌     Tzulo          ✔️      us-slc-wg-303 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.141  23.234.113.127   2607:9000:d00:5::f001                 10     3395      ❌     Tzulo          ✔️      us-slc-wg-304 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.142  23.234.114.3     2607:9000:d00:6::f001                 10     3396      ❌     Tzulo          ✔️      us-slc-wg-305 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.143  23.234.114.127   2607:9000:d00:7::f001                 10     3397      ❌     Tzulo          ✔️      us-slc-wg-306 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.144  23.234.115.3     2607:9000:d00:8::f001                 10     3398      ❌     Tzulo          ✔️      us-slc-wg-307 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.145  23.234.115.127   2607:9000:d00:9::f001                 10     3399      ❌     Tzulo          ✔️      us-slc-wg-308 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.0.29   104.36.50.3      2a06:3040:12:620::f001                10     3029      ❌     HostRoyale     ✔️      us-uyk-wg-201 
