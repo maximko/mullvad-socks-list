@@ -1,5 +1,5 @@
-Date: 2025-08-19 02-21-49 UTC
-Total active proxies: 530
+Date: 2025-08-19 06-54-40 UTC
+Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -256,7 +256,6 @@ Total active proxies: 530
  🇵🇪    Peru            Lima                10.124.1.81   95.173.223.130   2a02:6ea0:5500:1::f001                10     3335      ❌     DataPacket     ✔️      pe-lim-wg-001 
  🇵🇪    Peru            Lima                10.124.1.82   95.173.223.159   2a02:6ea0:5500:2::f001                10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
  🇵🇭    Philippines     Manila              10.124.0.145  129.227.118.162  2602:ffe4:c06:11e::f001               10     3145      ❌     Zenlayer       ✔️      ph-mnl-wg-001 
- 🇵🇭    Philippines     Manila              10.124.0.146  156.59.127.194   2602:ffe4:c06:11e::f101               10     3146      ❌     Zenlayer       ✔️      ph-mnl-wg-002 
  🇵🇱    Poland          Warsaw              10.124.1.219  45.134.212.66    2a02:6ea0:ce08:1::f001                10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220  45.134.212.79    2a02:6ea0:ce08:2::a06f                10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
  🇵🇱    Poland          Warsaw              10.124.1.221  45.134.212.92    2a02:6ea0:ce08:3::a07f                10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
