@@ -1,4 +1,4 @@
-Date: 2025-08-21 07-00-29 UTC
+Date: 2025-08-21 13-16-35 UTC
 Total active proxies: 532
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -86,6 +86,7 @@ Total active proxies: 532
  🇨🇱    Chile           Santiago            10.124.1.21   149.88.104.15    2a02:6ea0:fc02:3::f101                10     3275      ❌     DataPacket     ✔️      cl-scl-wg-002 
  🇨🇴    Colombia        Bogota              10.124.0.216  154.47.16.34     2a02:6ea0:f101:1::f001                10     3216      ❌     DataPacket     ✔️      co-bog-wg-001 
  🇨🇴    Colombia        Bogota              10.124.0.217  154.47.16.47     2a02:6ea0:f101:2::f001                10     3217      ❌     DataPacket     ✔️      co-bog-wg-002 
+ 🇨🇾    Cyprus          Nicosia             10.124.1.83   195.47.194.131   2a06:3040:f:601::f001                 10     3337      ❌     HostRoyale     ✔️      cy-nic-wg-001 
  🇨🇾    Cyprus          Nicosia             10.124.1.84   195.47.194.161   2a06:3040:f:601::f101                 10     3338      ❌     HostRoyale     ✔️      cy-nic-wg-002 
  🇨🇿    Czech Republic  Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f                   10     3542      ❌     M247           ✔️      cz-prg-wg-102 
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001                10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
@@ -149,7 +150,6 @@ Total active proxies: 532
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
- 🇫🇷    France          Paris               10.124.0.116  193.32.126.66    2a03:1b20:9:f011::a01f                20     3116      ✔️     31173          ✔️      fr-par-wg-001 
  🇫🇷    France          Paris               10.124.0.117  193.32.126.67    2a03:1b20:9:f011::f101                20     3117      ✔️     31173          ✔️      fr-par-wg-002 
  🇫🇷    France          Paris               10.124.0.118  193.32.126.68    2a03:1b20:9:f011::f201                20     3118      ✔️     31173          ✔️      fr-par-wg-003 
  🇫🇷    France          Paris               10.124.0.119  193.32.126.69    2a03:1b20:9:f011::f301                20     3119      ✔️     31173          ✔️      fr-par-wg-004 
