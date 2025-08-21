@@ -83,7 +83,6 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
-10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
@@ -425,6 +424,11 @@
 10.124.0.163 America/Chicago
 10.124.0.164 America/Chicago
 10.124.0.165 America/Chicago
+10.124.2.61 Europe/Amsterdam
+10.124.2.62 Europe/Amsterdam
+10.124.2.63 Europe/Amsterdam
+10.124.2.64 Europe/Amsterdam
+10.124.2.65 Europe/Amsterdam
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
