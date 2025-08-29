@@ -1,8 +1,10 @@
-Date: 2025-08-29 06-52-24 UTC
-Total active proxies: 534
+Date: 2025-08-29 13-06-41 UTC
+Total active proxies: 539
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
+ 🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
+ 🇦🇱    Albania         Tirana              10.124.2.67   103.204.123.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
  🇦🇹    Austria         Vienna              10.124.2.35   146.70.116.98    2001:ac8:29:84::a01f                  10     3543      ❌     M247           ✔️      at-vie-wg-001 
  🇦🇹    Austria         Vienna              10.124.2.36   146.70.116.130   2001:ac8:29:85::a02f                  10     3544      ❌     M247           ✔️      at-vie-wg-002 
  🇦🇹    Austria         Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f                  10     3545      ❌     M247           ✔️      at-vie-wg-003 
@@ -182,6 +184,7 @@ Total active proxies: 534
  🇬🇧    UK              Manchester          10.124.2.16   146.70.132.226   2001:ac8:8b:29::f001                  10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001                  10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
  🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001                  10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
+ 🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001                  10     3527      ❌     M247           ✔️      gb-mnc-wg-008 
  🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001                  10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
  🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101                  10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001                10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
@@ -243,6 +246,7 @@ Total active proxies: 534
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f                  10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f                  10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
  🇳🇴    Norway          Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f                  10     3110      ✔️     Blix           ✔️      no-osl-wg-004 
+ 🇳🇴    Norway          Oslo                10.124.0.56   178.255.149.140  2a02:20c8:4124::f401                  10     3056      ✔️     Blix           ✔️      no-osl-wg-005 
  🇳🇴    Norway          Oslo                10.124.0.136  178.255.149.165  2a02:20c8:4124::f501                  10     3136      ✔️     Blix           ✔️      no-osl-wg-006 
  🇳🇴    Norway          Oslo                10.124.0.244  91.90.44.15      2a02:20c8:4124::f701                  10     3244      ✔️     Blix           ✔️      no-osl-wg-007 
  🇳🇴    Norway          Oslo                10.124.0.245  91.90.44.18      2a02:20c8:4124::f801                  10     3245      ✔️     Blix           ✔️      no-osl-wg-008 
@@ -306,6 +310,7 @@ Total active proxies: 534
  🇸🇪    Sweden          Stockholm           10.124.0.57   89.37.63.129     2a02:6ea0:1508:3::f001                40     3057      ❌     DataPacket     ✔️      se-sto-wg-203 
  🇸🇪    Sweden          Stockholm           10.124.0.58   89.37.63.190     2a02:6ea0:1508:4::f001                40     3058      ❌     DataPacket     ✔️      se-sto-wg-204 
  🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001                40     3079      ❌     DataPacket     ✔️      se-sto-wg-205 
+ 🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001                40     3115      ❌     DataPacket     ✔️      se-sto-wg-206 
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001                40     3128      ❌     DataPacket     ✔️      se-sto-wg-207 
  🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001                40     3129      ❌     DataPacket     ✔️      se-sto-wg-208 
  🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001                40     3130      ❌     DataPacket     ✔️      se-sto-wg-209 
