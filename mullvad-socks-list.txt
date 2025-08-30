@@ -1,4 +1,4 @@
-Date: 2025-08-30 06-49-34 UTC
+Date: 2025-08-30 13-02-25 UTC
 Total active proxies: 539
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -540,5 +540,3 @@ Total active proxies: 539
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101                10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001                  10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001                  10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
-Failed to resovle:
-
