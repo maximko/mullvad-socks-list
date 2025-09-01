@@ -10,7 +10,6 @@
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-10.124.1.53 Australia/Melbourne
 10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
@@ -123,6 +122,7 @@
 10.124.1.251 Europe/Berlin
 10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
+10.124.0.17 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
 10.124.0.230 Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
@@ -149,6 +149,7 @@
 10.124.1.64 Europe/Paris
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
+10.124.0.116 Europe/Paris
 10.124.0.117 Europe/Paris
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
@@ -217,6 +218,7 @@
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
+10.124.0.161 Asia/Tokyo
 10.124.0.154 America/Ciudad_Juarez
 10.124.0.204 America/Ciudad_Juarez
 10.124.0.205 America/Ciudad_Juarez

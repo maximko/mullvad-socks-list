@@ -1,5 +1,5 @@
-Date: 2025-09-01 02-32-31 UTC
-Total active proxies: 539
+Date: 2025-09-01 06-55-57 UTC
+Total active proxies: 541
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -13,7 +13,6 @@ Total active proxies: 539
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f                  10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::f001                 10     3220      ❌     hostuniversal  ✔️      au-bne-wg-301 
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f                 10     3221      ❌     hostuniversal  ✔️      au-bne-wg-302 
- 🇦🇺    Australia       Melbourne           10.124.1.53   103.108.229.50   2406:d501:f:deb::a01f                 10     3307      ❌     hostuniversal  ✔️      au-mel-wg-301 
  🇦🇺    Australia       Melbourne           10.124.1.54   103.108.229.66   2406:d501:f:dec::a02f                 10     3308      ❌     hostuniversal  ✔️      au-mel-wg-302 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f                 10     3309      ❌     hostuniversal  ✔️      au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001                 10     3311      ❌     hostuniversal  ✔️      au-per-wg-302 
@@ -126,6 +125,7 @@ Total active proxies: 539
  🇩🇪    Germany         Frankfurt           10.124.1.251  169.150.201.15   2a02:6ea0:c762:2::a36f                10     3505      ❌     DataPacket     ✔️      de-fra-wg-402 
  🇩🇪    Germany         Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f                10     3506      ❌     DataPacket     ✔️      de-fra-wg-403 
  🇩🇰    Denmark         Copenhagen          10.124.0.64   45.129.56.67     2a03:1b20:8:f011::f001                20     3064      ✔️     31173          ✔️      dk-cph-wg-001 
+ 🇩🇰    Denmark         Copenhagen          10.124.0.17   45.129.56.68     2a03:1b20:8:f011::f101                20     3017      ✔️     31173          ✔️      dk-cph-wg-002 
  🇩🇰    Denmark         Copenhagen          10.124.0.229  146.70.197.194   2001:ac8:37:97::f001                  10     3229      ❌     M247           ✔️      dk-cph-wg-401 
  🇩🇰    Denmark         Copenhagen          10.124.0.230  146.70.197.130   2001:ac8:37:96::f001                  10     3230      ❌     M247           ✔️      dk-cph-wg-402 
  🇪🇪    Estonia         Tallinn             10.124.0.138  194.127.167.67   2a07:d880:2::a01f                     10     3138      ❌     xtom           ✔️      ee-tll-wg-001 
@@ -152,6 +152,7 @@ Total active proxies: 539
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101                 10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f                  10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
  🇫🇷    France          Marseille           10.124.1.183  138.199.15.146   2a02:6ea0:dc06::a16f                  10     3437      ❌     DataPacket     ✔️      fr-mrs-wg-002 
+ 🇫🇷    France          Paris               10.124.0.116  193.32.126.66    2a03:1b20:9:f011::a01f                20     3116      ✔️     31173          ✔️      fr-par-wg-001 
  🇫🇷    France          Paris               10.124.0.117  193.32.126.67    2a03:1b20:9:f011::f101                20     3117      ✔️     31173          ✔️      fr-par-wg-002 
  🇫🇷    France          Paris               10.124.0.118  193.32.126.68    2a03:1b20:9:f011::f201                20     3118      ✔️     31173          ✔️      fr-par-wg-003 
  🇫🇷    France          Paris               10.124.0.119  193.32.126.69    2a03:1b20:9:f011::f301                20     3119      ✔️     31173          ✔️      fr-par-wg-004 
@@ -220,6 +221,7 @@ Total active proxies: 539
  🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f                  10     3471      ❌     DataPacket     ✔️      jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f                  10     3107      ❌     M247           ✔️      jp-tyo-wg-201 
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f                  10     3160      ❌     M247           ✔️      jp-tyo-wg-202 
+ 🇯🇵    Japan           Tokyo               10.124.0.161  146.70.201.66    2001:ac8:40:14::b03f                  10     3161      ❌     M247           ✔️      jp-tyo-wg-203 
  🇲🇽    Mexico          Queretaro           10.124.0.154  149.88.22.129    2a02:6ea0:f803::f001                  10     3154      ❌     DataPacket     ✔️      mx-qro-wg-001 
  🇲🇽    Mexico          Queretaro           10.124.0.204  149.88.22.142    2a02:6ea0:f803:1::f001                10     3204      ❌     DataPacket     ✔️      mx-qro-wg-002 
  🇲🇽    Mexico          Queretaro           10.124.0.205  149.88.22.155    2a02:6ea0:f803:2::f001                10     3205      ❌     DataPacket     ✔️      mx-qro-wg-003 
