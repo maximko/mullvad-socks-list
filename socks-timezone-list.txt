@@ -244,7 +244,7 @@
 10.124.0.109 Europe/Oslo
 10.124.0.110 Europe/Oslo
 10.124.0.56 Europe/Oslo
-;; communications error to 1.1.1.1#53: timed out Europe/Oslo
+10.124.0.136 Europe/Oslo
 10.124.0.244 Europe/Oslo
 10.124.0.245 Europe/Oslo
 10.124.2.38 Europe/Oslo
