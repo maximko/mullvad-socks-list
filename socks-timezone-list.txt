@@ -21,10 +21,10 @@
 10.124.0.215 Australia/Sydney
 10.124.0.141 Australia/Sydney
 10.124.0.211 Australia/Sydney
-10.124.2.70 Asia/Kolkata
-10.124.2.71 Asia/Kolkata
-10.124.2.72 Asia/Kolkata
-10.124.2.73 Asia/Kolkata
+10.124.2.70 Australia/Sydney
+10.124.2.71 Australia/Sydney
+10.124.2.72 Australia/Sydney
+10.124.2.73 Australia/Sydney
 10.124.2.42 Europe/Brussels
 10.124.2.43 Europe/Brussels
 10.124.2.44 Europe/Brussels
