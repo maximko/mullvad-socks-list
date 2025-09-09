@@ -1,7 +1,3 @@
-10.124.0.155 Europe/Tirane
-10.124.0.212 Europe/Tirane
-10.124.2.66 Europe/Tirane
-10.124.2.67 Europe/Tirane
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
@@ -46,13 +42,6 @@
 10.124.0.171 America/Toronto
 10.124.1.235 America/Toronto
 10.124.1.236 America/Toronto
-10.124.0.47 America/Toronto
-10.124.0.51 America/Toronto
-10.124.0.63 America/Toronto
-10.124.0.66 America/Toronto
-10.124.0.67 America/Toronto
-10.124.0.68 America/Toronto
-10.124.0.15 America/Toronto
 10.124.0.81 America/Toronto
 10.124.1.110 America/Toronto
 10.124.1.111 America/Toronto
@@ -238,10 +227,6 @@
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
-10.124.0.114 Europe/Amsterdam
-10.124.0.94 Europe/Amsterdam
-10.124.0.243 Europe/Amsterdam
-10.124.0.96 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
