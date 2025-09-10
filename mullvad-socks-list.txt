@@ -1,5 +1,5 @@
-Date: 2025-09-10 13-06-07 UTC
-Total active proxies: 534
+Date: 2025-09-10 18-51-33 UTC
+Total active proxies: 539
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -231,6 +231,11 @@ Total active proxies: 534
  🇳🇱    Netherlands     Amsterdam           10.124.0.4    193.32.249.66    2a03:1b20:3:f011::f001                20     3004      ✔️     31173          ✔️      nl-ams-wg-001 
  🇳🇱    Netherlands     Amsterdam           10.124.0.39   185.65.134.82    2a03:1b20:3:f011::a02f                20     3039      ✔️     31173          ✔️      nl-ams-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.40   185.65.134.83    2a03:1b20:3:f011::f201                20     3040      ✔️     31173          ✔️      nl-ams-wg-003 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.113  193.32.249.69    2a03:1b20:3:f011::f301                20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.114  193.32.249.70    2a03:1b20:3:f011::f401                20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.94   185.65.134.86    2a03:1b20:3:f011::f501                20     3094      ✔️     31173          ✔️      nl-ams-wg-006 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.243  185.65.134.76    2a03:1b20:3:f011::f701                20     3243      ✔️     31173          ✔️      nl-ams-wg-007 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.96   193.32.249.73    2a03:1b20:3:f011::f801                20     3096      ✔️     31173          ✔️      nl-ams-wg-008 
  🇳🇱    Netherlands     Amsterdam           10.124.0.19   92.60.40.194     2a0c:59c0:18::a20f                    10     3019      ❌     xtom           ✔️      nl-ams-wg-101 
  🇳🇱    Netherlands     Amsterdam           10.124.0.41   92.60.40.209     2a0c:59c0:18::a21f                    10     3041      ❌     xtom           ✔️      nl-ams-wg-102 
  🇳🇱    Netherlands     Amsterdam           10.124.0.48   92.60.40.224     2a0c:59c0:18::a22f                    10     3048      ❌     xtom           ✔️      nl-ams-wg-103 
