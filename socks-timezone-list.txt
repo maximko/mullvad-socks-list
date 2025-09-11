@@ -80,8 +80,6 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
-10.124.1.83 Asia/Nicosia
-10.124.1.84 Asia/Nicosia
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
