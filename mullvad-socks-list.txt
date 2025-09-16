@@ -1,5 +1,5 @@
-Date: 2025-09-16 02-09-34 UTC
-Total active proxies: 541
+Date: 2025-09-16 06-52-35 UTC
+Total active proxies: 538
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -206,9 +206,6 @@ Total active proxies: 541
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f                10     3513      ❌     DataPacket     ✔️      il-tlv-wg-101 
  🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f                10     3533      ❌     DataPacket     ✔️      il-tlv-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f                10     3534      ❌     DataPacket     ✔️      il-tlv-wg-103 
- 🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f                10     3460      ❌     DataPacket     ✔️      it-mil-wg-001 
- 🇮🇹    Italy           Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f                10     3461      ❌     DataPacket     ✔️      it-mil-wg-002 
- 🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f                10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
  🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001                  10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001                  10     3201      ❌     M247           ✔️      it-mil-wg-202 
  🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001                  10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
