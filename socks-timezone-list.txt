@@ -1,5 +1,3 @@
-10.124.0.155 Europe/Tirane
-10.124.0.212 Europe/Tirane
 10.124.2.66 Europe/Tirane
 10.124.2.67 Europe/Tirane
 10.124.2.35 Europe/Vienna
