@@ -1,6 +1,6 @@
-10.124.2.66 Europe/Tirane
+;; communications error to 1.1.1.1#53: timed out Europe/Tirane
 10.124.2.67 Europe/Tirane
-10.124.2.35 Europe/Vienna
+;; Warning: ID mismatch: expected ID 49320, got 9457 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
@@ -32,7 +32,7 @@
 10.124.0.12 America/Fortaleza
 10.124.0.194 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
-;; communications error to 1.1.1.1#53: timed out America/Sao_Paulo
+10.124.2.32 America/Sao_Paulo
 10.124.2.2 America/Sao_Paulo
 10.124.2.21 America/Sao_Paulo
 10.124.2.52 America/Sao_Paulo
