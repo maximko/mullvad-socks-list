@@ -1,6 +1,6 @@
-;; communications error to 1.1.1.1#53: timed out Europe/Tirane
+10.124.2.66 Europe/Tirane
 10.124.2.67 Europe/Tirane
-;; Warning: ID mismatch: expected ID 49320, got 9457 Europe/Vienna
+10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
