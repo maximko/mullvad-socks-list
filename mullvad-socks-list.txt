@@ -1,5 +1,5 @@
-Date: 2025-09-22 02-20-20 UTC
-Total active proxies: 536
+Date: 2025-09-22 06-54-19 UTC
+Total active proxies: 535
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.204.123.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -33,7 +33,6 @@ Total active proxies: 536
  🇧🇬    Bulgaria        Sofia               10.124.0.226  146.70.188.194   2001:ac8:30:57::f001                  10     3226      ❌     M247           ✔️      bg-sof-wg-002 
  🇧🇷    Brazil          Fortaleza           10.124.0.10   98.98.12.178     2604:980:e007:100::f001               10     3010      ❌     Zenlayer       ✔️      br-for-wg-001 
  🇧🇷    Brazil          Fortaleza           10.124.0.12   98.98.12.182     2604:980:e007:100::f101               10     3012      ❌     Zenlayer       ✔️      br-for-wg-002 
- 🇧🇷    Brazil          Sao Paulo           10.124.0.194  149.78.184.194   2804:5364:7000:40::f001               1      3194      ❌     Qnax           ✔️      br-sao-wg-001 
  🇧🇷    Brazil          Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f                10     3539      ❌     DataPacket     ✔️      br-sao-wg-201 
  🇧🇷    Brazil          Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f                10     3540      ❌     DataPacket     ✔️      br-sao-wg-202 
  🇧🇷    Brazil          Sao Paulo           10.124.2.2    103.139.178.63   2a06:3040:10:610::f101                10     3510      ❌     HostRoyale     ✔️      br-sao-wg-302 

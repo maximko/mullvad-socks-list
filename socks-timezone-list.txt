@@ -30,7 +30,6 @@
 10.124.0.226 Europe/Sofia
 10.124.0.10 America/Fortaleza
 10.124.0.12 America/Fortaleza
-10.124.0.194 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
 10.124.2.32 America/Sao_Paulo
 10.124.2.2 America/Sao_Paulo
@@ -409,10 +408,10 @@
 10.124.0.209 America/Chicago
 10.124.1.128 America/Chicago
 10.124.1.129 America/Chicago
-10.124.1.175 Asia/Kolkata
-10.124.1.181 Asia/Kolkata
-10.124.1.176 Asia/Kolkata
-10.124.1.182 Asia/Kolkata
+10.124.1.175 America/Los_Angeles
+10.124.1.181 America/Los_Angeles
+10.124.1.176 America/Los_Angeles
+10.124.1.182 America/Los_Angeles
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
