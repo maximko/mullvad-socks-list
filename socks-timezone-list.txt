@@ -211,7 +211,6 @@
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
-10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
 10.124.0.154 America/Ciudad_Juarez
 10.124.0.204 America/Ciudad_Juarez
