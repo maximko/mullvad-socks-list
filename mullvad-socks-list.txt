@@ -1,4 +1,4 @@
-Date: 2025-09-24 02-11-25 UTC
+Date: 2025-09-24 06-52-28 UTC
 Total active proxies: 535
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -173,8 +173,8 @@ Total active proxies: 535
  🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
  🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
- 🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001                10     3237      ❌     M247           ✔️      gb-lon-wg-304 
+ 🇬🇧    UK              Manchester          10.124.2.20   146.70.133.98    2001:ac8:8b:2d::a47f                  10     3528      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::f001                  10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.2.14   146.70.132.162   2001:ac8:8b:27::f001                  10     3522      ❌     M247           ✔️      gb-mnc-wg-003 
  🇬🇧    UK              Manchester          10.124.2.15   146.70.132.194   2001:ac8:8b:28::f001                  10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
