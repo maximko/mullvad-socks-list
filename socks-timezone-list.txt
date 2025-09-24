@@ -156,8 +156,6 @@
 10.124.0.224 Europe/Paris
 10.124.1.78 Europe/Paris
 10.124.1.79 Europe/Paris
-10.124.0.246 Europe/London
-10.124.0.247 Europe/London
 10.124.0.59 Europe/London
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
@@ -403,7 +401,7 @@
 10.124.0.22 America/Chicago
 10.124.0.24 America/Chicago
 10.124.0.26 America/Chicago
-10.124.0.207 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.0.208 America/Chicago
 10.124.0.209 America/Chicago
 10.124.1.128 America/Chicago
@@ -507,7 +505,7 @@
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
-10.124.1.154 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.1.155 America/Chicago
 10.124.1.156 America/Chicago
 10.124.1.157 America/Chicago
