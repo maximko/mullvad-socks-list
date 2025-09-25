@@ -51,7 +51,7 @@
 10.124.1.114 America/Toronto
 10.124.1.115 America/Toronto
 10.124.0.13 America/Vancouver
-;; communications error to 1.1.1.1#53: timed out America/Vancouver
+10.124.0.71 America/Vancouver
 10.124.1.65 America/Vancouver
 10.124.1.66 America/Vancouver
 10.124.0.174 America/Edmonton
@@ -158,7 +158,7 @@
 10.124.1.79 Europe/Paris
 10.124.0.246 Europe/London
 10.124.0.247 Europe/London
-;; communications error to 1.1.1.1#53: timed out Europe/London
+10.124.0.59 Europe/London
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
 10.124.1.18 Europe/London
@@ -402,7 +402,7 @@
 10.124.1.125 America/Los_Angeles
 10.124.0.22 America/Chicago
 10.124.0.24 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.0.26 America/Chicago
 10.124.0.207 America/Chicago
 10.124.0.208 America/Chicago
 10.124.0.209 America/Chicago
