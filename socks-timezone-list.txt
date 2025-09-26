@@ -200,6 +200,7 @@
 10.124.2.5 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
+10.124.1.206 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
 10.124.1.67 Europe/Rome
@@ -463,9 +464,6 @@
 10.124.1.29 America/Chicago
 10.124.1.165 America/Chicago
 10.124.1.166 America/Chicago
-10.124.0.34 America/Phoenix
-10.124.0.31 America/Phoenix
-10.124.0.32 America/Phoenix
 10.124.1.146 America/Chicago
 10.124.1.147 America/Chicago
 10.124.1.148 America/Chicago

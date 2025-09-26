@@ -1,5 +1,5 @@
-Date: 2025-09-26 02-12-21 UTC
-Total active proxies: 535
+Date: 2025-09-26 06-52-07 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.204.123.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -203,6 +203,7 @@ Total active proxies: 535
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f                10     3513      ❌     DataPacket     ✔️      il-tlv-wg-101 
  🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f                10     3533      ❌     DataPacket     ✔️      il-tlv-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f                10     3534      ❌     DataPacket     ✔️      il-tlv-wg-103 
+ 🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f                10     3460      ❌     DataPacket     ✔️      it-mil-wg-001 
  🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001                  10     3200      ❌     M247           ✔️      it-mil-wg-201 
  🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001                  10     3201      ❌     M247           ✔️      it-mil-wg-202 
  🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001                  10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
@@ -466,9 +467,6 @@ Total active proxies: 535
  🇺🇸    USA             New York, NY        10.124.1.29   23.234.102.127   2607:9000:a000:36::f001               10     3283      ❌     Tzulo          ✔️      us-nyc-wg-806 
  🇺🇸    USA             New York, NY        10.124.1.165  23.234.103.3     2607:9000:a000:37::f001               10     3419      ❌     Tzulo          ✔️      us-nyc-wg-807 
  🇺🇸    USA             New York, NY        10.124.1.166  23.234.103.127   2607:9000:a000:38::f001               10     3420      ❌     Tzulo          ✔️      us-nyc-wg-808 
- 🇺🇸    USA             Phoenix, AZ         10.124.0.34   198.54.133.98    2607:9000:7000:14::103f               10     3034      ❌     Tzulo          ✔️      us-phx-wg-101 
- 🇺🇸    USA             Phoenix, AZ         10.124.0.31   198.54.133.130   2607:9000:7000:15::b89f               10     3031      ❌     Tzulo          ✔️      us-phx-wg-102 
- 🇺🇸    USA             Phoenix, AZ         10.124.0.32   198.54.133.162   2607:9000:7000:16::f001               10     3032      ❌     Tzulo          ✔️      us-phx-wg-103 
  🇺🇸    USA             Phoenix, AZ         10.124.1.146  23.234.88.3      2607:9000:700:41::f001                10     3400      ❌     Tzulo          ✔️      us-phx-wg-201 
  🇺🇸    USA             Phoenix, AZ         10.124.1.147  23.234.88.127    2607:9000:700:42::f001                10     3401      ❌     Tzulo          ✔️      us-phx-wg-202 
  🇺🇸    USA             Phoenix, AZ         10.124.1.148  23.234.89.3      2607:9000:700:43::f001                10     3402      ❌     Tzulo          ✔️      us-phx-wg-203 
