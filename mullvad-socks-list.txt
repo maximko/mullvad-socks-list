@@ -1,5 +1,5 @@
-Date: 2025-10-02 06-51-07 UTC
-Total active proxies: 535
+Date: 2025-10-02 13-06-02 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.204.123.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -173,6 +173,7 @@ Total active proxies: 535
  🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
  🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
+ 🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001                10     3237      ❌     M247           ✔️      gb-lon-wg-304 
  🇬🇧    UK              Manchester          10.124.2.20   146.70.133.98    2001:ac8:8b:2d::a47f                  10     3528      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.2.13   146.70.132.130   2001:ac8:8b:26::f001                  10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
@@ -294,9 +295,6 @@ Total active proxies: 535
  🇸🇪    Sweden          Malmö               10.124.1.77   45.129.59.129    2a03:1b20:1:e011::f601                40     3331      ✔️     31173          ✔️      se-mma-wg-112 
  🇸🇪    Sweden          Stockholm           10.124.1.184  185.195.233.76   2a03:1b20:4:f011::999f                20     3438      ✔️     31173          ✔️      se-sto-wg-001 
  🇸🇪    Sweden          Stockholm           10.124.2.48   185.65.135.68    2a03:1b20:4:f011::f201                20     3556      ✔️     31173          ✔️      se-sto-wg-003 
- 🇸🇪    Sweden          Stockholm           10.124.2.49   185.65.135.69    2a03:1b20:4:f011::f301                20     3557      ✔️     31173          ✔️      se-sto-wg-004 
- 🇸🇪    Sweden          Stockholm           10.124.2.50   185.65.135.72    2a03:1b20:4:f011::f401                20     3558      ✔️     31173          ✔️      se-sto-wg-005 
- 🇸🇪    Sweden          Stockholm           10.124.2.51   185.65.135.73    2a03:1b20:4:f011::f501                20     3559      ✔️     31173          ✔️      se-sto-wg-006 
  🇸🇪    Sweden          Stockholm           10.124.0.172  185.65.135.70    2a03:1b20:4:f011::b07f                20     3172      ✔️     31173          ✔️      se-sto-wg-007 
  🇸🇪    Sweden          Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::f701                20     3173      ✔️     31173          ✔️      se-sto-wg-008 
  🇸🇪    Sweden          Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f                20     3050      ✔️     31173          ✔️      se-sto-wg-009 
