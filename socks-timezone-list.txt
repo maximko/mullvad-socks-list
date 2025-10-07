@@ -153,7 +153,7 @@
 10.124.0.238 Europe/Paris
 10.124.0.142 Europe/Paris
 10.124.0.223 Europe/Paris
-;; communications error to 1.1.1.1#53: timed out Europe/Paris
+10.124.0.224 Europe/Paris
 10.124.1.78 Europe/Paris
 10.124.1.79 Europe/Paris
 10.124.0.246 Europe/London
