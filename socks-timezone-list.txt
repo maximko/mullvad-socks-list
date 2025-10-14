@@ -1,4 +1,3 @@
-10.124.2.66 Europe/Tirane
 10.124.2.67 Europe/Tirane
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
@@ -272,8 +271,6 @@
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
-10.124.0.65 Europe/Stockholm
-10.124.1.22 Europe/Stockholm
 10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
 10.124.1.61 Europe/Stockholm
@@ -381,8 +378,6 @@
 10.124.1.36 America/Chicago
 10.124.1.37 America/Chicago
 10.124.1.38 America/Chicago
-10.124.0.16 America/Chicago
-10.124.0.23 America/Chicago
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
