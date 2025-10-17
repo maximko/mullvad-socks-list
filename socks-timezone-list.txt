@@ -78,8 +78,8 @@
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
-;; communications error to 1.1.1.1#53: timed out America/Bogota
-;; Warning: ID mismatch: expected ID 8971, got 4413 Asia/Nicosia
+10.124.0.217 America/Bogota
+10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
