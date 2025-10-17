@@ -223,8 +223,8 @@
 10.124.1.39 Asia/Kuala_Lumpur
 10.124.1.40 Asia/Kuala_Lumpur
 10.124.0.97 Africa/Lagos
-10.124.0.98 Africa/Lagos
-10.124.0.4 Europe/Amsterdam
+;; communications error to 1.1.1.1#53: timed out Africa/Lagos
+;; Warning: ID mismatch: expected ID 35535, got 31305 Europe/Amsterdam
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
