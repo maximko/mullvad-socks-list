@@ -516,7 +516,7 @@
 10.124.1.138 America/Chicago
 10.124.1.139 America/Chicago
 10.124.1.142 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.1.143 America/Chicago
 10.124.1.144 America/Chicago
 10.124.1.145 America/Chicago
 10.124.0.250 America/Chicago
