@@ -1,4 +1,4 @@
-Date: 2025-10-20 18-54-24 UTC
+Date: 2025-10-21 02-17-10 UTC
 Total active proxies: 529
  flag  country         city                socks5                                            ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66                                       103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -178,7 +178,7 @@ Total active proxies: 529
  🇬🇧    UK              Manchester          10.124.2.20                                       146.70.133.98    2001:ac8:8b:2d::a47f                  10     3528      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.2.13                                       146.70.132.130   2001:ac8:8b:26::f001                  10     3521      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.2.14                                       146.70.132.162   2001:ac8:8b:27::f001                  10     3522      ❌     M247           ✔️      gb-mnc-wg-003 
- 🇬🇧    UK              Manchester          ;; communications error to 1.1.1.1#53: timed out  146.70.132.194   2001:ac8:8b:28::f001                  10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
+ 🇬🇧    UK              Manchester          10.124.2.15                                       146.70.132.194   2001:ac8:8b:28::f001                  10     3523      ❌     M247           ✔️      gb-mnc-wg-004 
  🇬🇧    UK              Manchester          10.124.2.16                                       146.70.132.226   2001:ac8:8b:29::f001                  10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17                                       146.70.133.2     2001:ac8:8b:2a::f001                  10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
  🇬🇧    UK              Manchester          10.124.2.18                                       146.70.133.34    2001:ac8:8b:2b::f001                  10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
@@ -267,7 +267,7 @@ Total active proxies: 529
  🇵🇹    Portugal        Lisbon              10.124.0.198                                      149.88.20.206    2a02:6ea0:fb01:1::f001                10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199                                      149.88.20.193    2a02:6ea0:fb01:2::f002                10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.1.75                                       185.92.210.195   2a06:3040:0:1410::f001                10     3329      ❌     HostRoyale     ✔️      pt-lis-wg-301 
- 🇵🇹    Portugal        Lisbon              ;; communications error to 1.1.1.1#53: timed out  185.92.210.225   2a06:3040:0:1410::f101                10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
+ 🇵🇹    Portugal        Lisbon              10.124.1.76                                       185.92.210.225   2a06:3040:0:1410::f101                10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
  🇷🇴    Romania         Bucharest           10.124.2.27                                       146.70.124.130   2a04:9dc0:0:133::a01f                 10     3535      ❌     M247           ✔️      ro-buh-wg-001 
  🇷🇴    Romania         Bucharest           10.124.0.93                                       146.70.124.194   2a04:9dc0:0:135::f001                 10     3093      ❌     M247           ✔️      ro-buh-wg-002 
  🇷🇸    Serbia          Belgrade            10.124.0.33                                       146.70.193.2     2001:ac8:7d:37::a01f                  10     3033      ❌     M247           ✔️      rs-beg-wg-101 
@@ -430,7 +430,7 @@ Total active proxies: 529
  🇺🇸    USA             Kansas City, MO     10.124.2.62                                       155.2.191.53     2602:fed2:7e0a::f101                  10     3570      ❌     hostuniversal  ✔️      us-mkc-wg-102 
  🇺🇸    USA             Kansas City, MO     10.124.2.63                                       155.2.191.103    2602:fed2:7e0a::f201                  10     3571      ❌     hostuniversal  ✔️      us-mkc-wg-103 
  🇺🇸    USA             Kansas City, MO     10.124.2.64                                       155.2.191.153    2602:fed2:7e0a::f301                  10     3572      ❌     hostuniversal  ✔️      us-mkc-wg-104 
- 🇺🇸    USA             Kansas City, MO     10.124.2.65                                       155.2.191.203    2602:fed2:7e0a::f401                  10     3573      ❌     hostuniversal  ✔️      us-mkc-wg-105 
+ 🇺🇸    USA             Kansas City, MO     ;; communications error to 1.1.1.1#53: timed out  155.2.191.203    2602:fed2:7e0a::f401                  10     3573      ❌     hostuniversal  ✔️      us-mkc-wg-105 
  🇺🇸    USA             New York, NY        10.124.1.190                                      143.244.47.65    2a02:6ea0:c43f::f001                  10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191                                      143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192                                      143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
