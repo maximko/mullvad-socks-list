@@ -5,7 +5,6 @@
 10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
 10.124.1.74 Europe/Vienna
-10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
@@ -427,7 +426,7 @@
 10.124.2.62 Europe/Amsterdam
 10.124.2.63 Europe/Amsterdam
 10.124.2.64 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
+10.124.2.65 Europe/Amsterdam
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
