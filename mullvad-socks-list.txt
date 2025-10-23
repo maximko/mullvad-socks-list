@@ -1,5 +1,5 @@
-Date: 2025-10-23 02-15-17 UTC
-Total active proxies: 530
+Date: 2025-10-23 06-53-36 UTC
+Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -477,7 +477,6 @@ Total active proxies: 530
  🇺🇸    USA             Ashburn, VA         10.124.1.188  198.54.135.98    2607:9000:9000:14::b48f               10     3442      ❌     Tzulo          ✔️      us-qas-wg-003 
  🇺🇸    USA             Ashburn, VA         10.124.1.189  198.54.135.130   2607:9000:9000:15::b49f               10     3443      ❌     Tzulo          ✔️      us-qas-wg-004 
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   2a02:6ea0:e206:1::a01f                10     3530      ❌     DataPacket     ✔️      us-qas-wg-101 
- 🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f                10     3531      ❌     DataPacket     ✔️      us-qas-wg-102 
  🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f                10     3532      ❌     DataPacket     ✔️      us-qas-wg-103 
  🇺🇸    USA             Ashburn, VA         10.124.1.167  103.81.230.3     2a01:4740:1::f001                     10     3421      ❌     HostRoyale     ✔️      us-qas-wg-201 
  🇺🇸    USA             Ashburn, VA         10.124.1.168  103.81.230.127   2a01:4740:1::f101                     10     3422      ❌     HostRoyale     ✔️      us-qas-wg-202 
