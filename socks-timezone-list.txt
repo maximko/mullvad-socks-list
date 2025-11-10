@@ -471,7 +471,6 @@
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
 10.124.1.167 Asia/Kolkata
-10.124.1.168 Asia/Kolkata
 10.124.1.169 Asia/Kolkata
 10.124.1.170 Asia/Kolkata
 10.124.1.41 America/Chicago
