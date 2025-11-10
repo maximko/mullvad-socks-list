@@ -1,5 +1,5 @@
-Date: 2025-11-10 13-18-59 UTC
-Total active proxies: 523
+Date: 2025-11-10 18-51-33 UTC
+Total active proxies: 521
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -280,10 +280,8 @@ Total active proxies: 523
  🇸🇪    Sweden          Gothenburg          10.124.1.60   185.209.199.12   2a03:1b20:5:f011:7::f001              20     3314      ✔️     31173          ✔️      se-got-wg-007 
  🇸🇪    Sweden          Gothenburg          10.124.1.61   185.209.199.17   2a03:1b20:5:f011:8::f001              20     3315      ✔️     31173          ✔️      se-got-wg-008 
  🇸🇪    Sweden          Gothenburg          10.124.1.185  185.213.154.70   2a03:1b20:5:f011::aaaf                10     3439      ✔️     31173          ✔️      se-got-wg-101 
- 🇸🇪    Sweden          Malmö               10.124.0.2    193.138.218.220  2a03:1b20:1:f410::a01f                40     3002      ✔️     31173          ✔️      se-mma-wg-001 
  🇸🇪    Sweden          Malmö               10.124.0.183  193.138.218.80   2a03:1b20:1:f410::a15f                10     3183      ✔️     31173          ✔️      se-mma-wg-002 
  🇸🇪    Sweden          Malmö               10.124.0.186  193.138.218.83   2a03:1b20:1:f410::a18f                10     3186      ✔️     31173          ✔️      se-mma-wg-003 
- 🇸🇪    Sweden          Malmö               10.124.0.28   193.138.218.130  2a03:1b20:1:f410:40::a04f             40     3028      ✔️     31173          ✔️      se-mma-wg-004 
  🇸🇪    Sweden          Malmö               10.124.0.185  193.138.218.82   2a03:1b20:1:f410::a17f                10     3185      ✔️     31173          ✔️      se-mma-wg-005 
  🇸🇪    Sweden          Malmö               10.124.0.18   141.98.255.94    2a03:1b20:1:f410::f101                10     3018      ✔️     31173          ✔️      se-mma-wg-011 
  🇸🇪    Sweden          Malmö               10.124.0.38   141.98.255.97    2a03:1b20:1:f410::f201                10     3038      ✔️     31173          ✔️      se-mma-wg-012 
