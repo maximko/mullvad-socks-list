@@ -240,6 +240,7 @@
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
+10.124.0.109 Europe/Oslo
 10.124.0.110 Europe/Oslo
 10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo

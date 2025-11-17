@@ -1,5 +1,5 @@
-Date: 2025-11-17 02-22-46 UTC
-Total active proxies: 520
+Date: 2025-11-17 06-55-27 UTC
+Total active proxies: 521
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -243,6 +243,7 @@ Total active proxies: 520
  🇳🇱    Netherlands     Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f                10     3509      ❌     DataPacket     ✔️      nl-ams-wg-203 
  🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f                  10     3006      ✔️     Blix           ✔️      no-osl-wg-001 
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f                  10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
+ 🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f                  10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
  🇳🇴    Norway          Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f                  10     3110      ✔️     Blix           ✔️      no-osl-wg-004 
  🇳🇴    Norway          Oslo                10.124.0.56   178.255.149.140  2a02:20c8:4124::f401                  10     3056      ✔️     Blix           ✔️      no-osl-wg-005 
  🇳🇴    Norway          Oslo                10.124.0.136  178.255.149.165  2a02:20c8:4124::f501                  10     3136      ✔️     Blix           ✔️      no-osl-wg-006 
