@@ -389,9 +389,9 @@
 10.124.1.49 America/Los_Angeles
 10.124.1.50 America/Los_Angeles
 10.124.1.51 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
+10.124.1.52 America/Los_Angeles
 10.124.0.236 America/Los_Angeles
-;; Warning: ID mismatch: expected ID 45165, got 47015 America/Los_Angeles
+10.124.1.123 America/Los_Angeles
 10.124.1.124 America/Los_Angeles
 10.124.1.125 America/Los_Angeles
 10.124.0.22 America/Chicago
@@ -420,11 +420,11 @@
 10.124.0.163 America/Chicago
 10.124.0.164 America/Chicago
 10.124.0.165 America/Chicago
-10.124.2.61 Europe/Amsterdam
-10.124.2.62 Europe/Amsterdam
-10.124.2.63 Europe/Amsterdam
-10.124.2.64 Europe/Amsterdam
-10.124.2.65 Europe/Amsterdam
+10.124.2.61 America/Chicago
+10.124.2.62 America/Chicago
+10.124.2.63 America/Chicago
+10.124.2.64 America/Chicago
+10.124.2.65 America/Chicago
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
