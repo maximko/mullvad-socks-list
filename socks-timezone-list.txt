@@ -70,8 +70,8 @@
 10.124.2.12 Europe/Zurich
 10.124.2.6 Europe/Zurich
 10.124.2.7 Europe/Zurich
-;; communications error to 1.1.1.1#53: timed out Europe/Zurich
-;; Warning: ID mismatch: expected ID 46434, got 64601 Europe/Zurich
+10.124.2.8 Europe/Zurich
+10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
 10.124.1.20 America/Santiago
