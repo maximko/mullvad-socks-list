@@ -191,8 +191,8 @@
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
 10.124.0.228 Europe/Budapest
-10.124.0.135 Europe/Budapest
-10.124.0.137 Europe/Budapest
+;; communications error to 1.1.1.1#53: timed out Europe/Budapest
+;; Warning: ID mismatch: expected ID 37164, got 1307 Europe/Budapest
 10.124.0.254 Asia/Jakarta
 10.124.1.1 Asia/Jakarta
 10.124.1.58 Europe/Dublin
@@ -286,7 +286,6 @@
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
-10.124.1.80 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
