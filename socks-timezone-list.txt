@@ -289,6 +289,8 @@
 10.124.0.189 Europe/Stockholm
 10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
+10.124.1.80 Europe/Stockholm
+10.124.1.77 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
@@ -433,8 +435,8 @@
 10.124.1.192 America/New_York
 10.124.0.72 America/New_York
 10.124.0.75 America/New_York
-10.124.0.76 America/New_York
-10.124.0.87 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
+;; Warning: ID mismatch: expected ID 4727, got 43288 America/New_York
 10.124.0.90 America/New_York
 10.124.0.213 America/New_York
 10.124.0.167 America/New_York
