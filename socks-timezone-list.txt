@@ -82,6 +82,7 @@
 10.124.0.217 America/Bogota
 10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
+10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
@@ -254,7 +255,7 @@
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
-;; communications error to 1.1.1.1#53: timed out America/Lima
+10.124.1.81 America/Lima
 10.124.1.82 America/Lima
 10.124.0.145 Asia/Manila
 10.124.0.146 Asia/Manila
