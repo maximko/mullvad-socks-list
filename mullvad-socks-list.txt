@@ -1,5 +1,5 @@
-Date: 2025-12-09 02-25-37 UTC
-Total active proxies: 526
+Date: 2025-12-09 06-58-23 UTC
+Total active proxies: 524
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -133,8 +133,6 @@ Total active proxies: 526
  🇪🇸    Spain           Barcelona           10.124.0.253  185.188.61.225   2a06:3040:2:210::f101                 10     3253      ❌     HostRoyale     ✔️      es-bcn-wg-002 
  🇪🇸    Spain           Barcelona           10.124.1.69   185.253.99.30    2001:ac8:17:20::f001                  10     3323      ❌     M247           ✔️      es-bcn-wg-101 
  🇪🇸    Spain           Barcelona           10.124.1.70   185.253.99.98    2001:ac8:17:20::f101                  10     3324      ❌     M247           ✔️      es-bcn-wg-102 
- 🇪🇸    Spain           Madrid              10.124.1.223  45.134.213.194   2a02:6ea0:c318:1::a06f                10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
- 🇪🇸    Spain           Madrid              10.124.1.222  45.134.213.207   2a02:6ea0:c318:2::a07f                10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
  🇪🇸    Spain           Madrid              10.124.2.28   146.70.128.194   2001:ac8:23:85::a01f                  10     3536      ❌     M247           ✔️      es-mad-wg-201 
  🇪🇸    Spain           Madrid              10.124.2.47   146.70.128.226   2001:ac8:23:86::a02f                  10     3555      ❌     M247           ✔️      es-mad-wg-202 
  🇪🇸    Spain           Valencia            10.124.1.2    193.19.207.195   2a06:3040:3:210::f001                 10     3256      ❌     HostRoyale     ✔️      es-vlc-wg-001 
