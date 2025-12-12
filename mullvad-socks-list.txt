@@ -1,5 +1,5 @@
-Date: 2025-12-12 06-59-13 UTC
-Total active proxies: 524
+Date: 2025-12-12 13-21-23 UTC
+Total active proxies: 522
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -248,8 +248,6 @@ Total active proxies: 524
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f                  10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f                  10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
  🇳🇴    Norway          Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f                  10     3110      ✔️     Blix           ✔️      no-osl-wg-004 
- 🇳🇴    Norway          Oslo                10.124.0.56   178.255.149.140  2a02:20c8:4124::f401                  10     3056      ✔️     Blix           ✔️      no-osl-wg-005 
- 🇳🇴    Norway          Oslo                10.124.0.136  178.255.149.165  2a02:20c8:4124::f501                  10     3136      ✔️     Blix           ✔️      no-osl-wg-006 
  🇳🇴    Norway          Stavanger           10.124.2.38   194.127.199.2    2a02:20c8:4120::a01f                  10     3546      ✔️     Blix           ✔️      no-svg-wg-001 
  🇳🇴    Norway          Stavanger           10.124.2.39   194.127.199.31   2a02:20c8:4120::a02f                  10     3547      ✔️     Blix           ✔️      no-svg-wg-002 
  🇳🇴    Norway          Stavanger           10.124.2.40   194.127.199.62   2a02:20c8:4120::a03f                  10     3548      ✔️     Blix           ✔️      no-svg-wg-003 
@@ -289,9 +287,9 @@ Total active proxies: 524
  🇸🇪    Sweden          Malmö               10.124.0.185  193.138.218.82   2a03:1b20:1:f410::a17f                10     3185      ✔️     31173          ✔️      se-mma-wg-005 
  🇸🇪    Sweden          Malmö               10.124.0.18   141.98.255.94    2a03:1b20:1:f410::f101                10     3018      ✔️     31173          ✔️      se-mma-wg-011 
  🇸🇪    Sweden          Malmö               10.124.0.38   141.98.255.97    2a03:1b20:1:f410::f201                10     3038      ✔️     31173          ✔️      se-mma-wg-012 
- 🇸🇪    Sweden          Malmö               10.124.0.189  45.83.220.68     2a03:1b20:1:e011::a21f                100    3189      ✔️     31173          ✔️      se-mma-wg-101 
- 🇸🇪    Sweden          Malmö               10.124.0.190  45.83.220.69     2a03:1b20:1:e011::a22f                100    3190      ✔️     31173          ✔️      se-mma-wg-102 
- 🇸🇪    Sweden          Malmö               10.124.0.191  45.83.220.70     2a03:1b20:1:e011::a23f                10     3191      ✔️     31173          ✔️      se-mma-wg-103 
+ 🇸🇪    Sweden          Malmö               10.124.0.189  45.83.220.68     2a03:1b20:1:e011::a21f                200    3189      ✔️     31173          ✔️      se-mma-wg-101 
+ 🇸🇪    Sweden          Malmö               10.124.0.190  45.83.220.69     2a03:1b20:1:e011::a22f                200    3190      ✔️     31173          ✔️      se-mma-wg-102 
+ 🇸🇪    Sweden          Malmö               10.124.0.191  45.83.220.70     2a03:1b20:1:e011::a23f                20     3191      ✔️     31173          ✔️      se-mma-wg-103 
  🇸🇪    Sweden          Malmö               10.124.1.80   45.129.59.19     2a03:1b20:1:e011::f701                40     3334      ✔️     31173          ✔️      se-mma-wg-111 
  🇸🇪    Sweden          Malmö               10.124.1.77   45.129.59.129    2a03:1b20:1:e011::f601                40     3331      ✔️     31173          ✔️      se-mma-wg-112 
  🇸🇪    Sweden          Stockholm           10.124.1.184  185.195.233.76   2a03:1b20:4:f011::999f                20     3438      ✔️     31173          ✔️      se-sto-wg-001 
