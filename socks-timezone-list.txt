@@ -340,8 +340,6 @@
 10.124.1.136 America/Chicago
 10.124.1.137 America/Chicago
 10.124.0.85 America/New_York
-10.124.0.127 America/Chicago
-10.124.0.197 America/Chicago
 10.124.1.201 America/Chicago
 10.124.1.203 America/Chicago
 10.124.1.87 America/Chicago
