@@ -139,7 +139,7 @@
 10.124.0.112 Europe/Helsinki
 10.124.2.53 Europe/Helsinki
 10.124.2.54 Europe/Helsinki
-;; communications error to 1.1.1.1#53: timed out Europe/Helsinki
+10.124.2.55 Europe/Helsinki
 10.124.2.56 Europe/Helsinki
 10.124.1.63 Europe/Paris
 10.124.1.64 Europe/Paris
@@ -427,7 +427,7 @@
 10.124.2.62 America/Chicago
 10.124.2.63 America/Chicago
 10.124.2.64 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.2.65 America/Chicago
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
