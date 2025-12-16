@@ -130,6 +130,8 @@
 10.124.0.253 Europe/Madrid
 10.124.1.69 Europe/Madrid
 10.124.1.70 Europe/Madrid
+10.124.1.223 Europe/Madrid
+10.124.1.222 Europe/Madrid
 10.124.2.28 Europe/Madrid
 10.124.2.47 Europe/Madrid
 10.124.1.2 Europe/Madrid
@@ -340,6 +342,8 @@
 10.124.1.136 America/Chicago
 10.124.1.137 America/Chicago
 10.124.0.85 America/New_York
+10.124.0.127 America/Chicago
+10.124.0.197 America/Chicago
 10.124.1.201 America/Chicago
 10.124.1.203 America/Chicago
 10.124.1.87 America/Chicago
