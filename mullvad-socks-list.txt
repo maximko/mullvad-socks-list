@@ -1,5 +1,5 @@
-Date: 2025-12-23 02-31-03 UTC
-Total active proxies: 523
+Date: 2025-12-23 06-59-56 UTC
+Total active proxies: 524
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -289,6 +289,7 @@ Total active proxies: 523
  🇸🇪    Sweden          Malmö               10.124.0.185  193.138.218.82   2a03:1b20:1:f410::a17f                10     3185      ✔️     31173          ✔️      se-mma-wg-005 
  🇸🇪    Sweden          Malmö               10.124.0.18   141.98.255.94    2a03:1b20:1:f410::f101                10     3018      ✔️     31173          ✔️      se-mma-wg-011 
  🇸🇪    Sweden          Malmö               10.124.0.38   141.98.255.97    2a03:1b20:1:f410::f201                10     3038      ✔️     31173          ✔️      se-mma-wg-012 
+ 🇸🇪    Sweden          Malmö               10.124.0.189  45.83.220.68     2a03:1b20:1:e011::a21f                200    3189      ✔️     31173          ✔️      se-mma-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.190  45.83.220.69     2a03:1b20:1:e011::a22f                200    3190      ✔️     31173          ✔️      se-mma-wg-102 
  🇸🇪    Sweden          Malmö               10.124.0.191  45.83.220.70     2a03:1b20:1:e011::a23f                20     3191      ✔️     31173          ✔️      se-mma-wg-103 
  🇸🇪    Sweden          Malmö               10.124.1.80   45.129.59.19     2a03:1b20:1:e011::f701                40     3334      ✔️     31173          ✔️      se-mma-wg-111 
