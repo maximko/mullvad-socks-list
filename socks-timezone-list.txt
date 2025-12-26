@@ -256,10 +256,10 @@
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
 10.124.0.145 Asia/Manila
-10.124.0.146 Asia/Manila
+;; communications error to 1.1.1.1#53: timed out Asia/Manila
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
-10.124.1.221 Europe/Warsaw
+;; Warning: ID mismatch: expected ID 56164, got 2523 Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
