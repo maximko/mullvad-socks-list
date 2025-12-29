@@ -210,9 +210,9 @@
 10.124.1.208 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
-;; communications error to 1.1.1.1#53: timed out Europe/Rome
+10.124.1.67 Europe/Rome
 10.124.1.68 Europe/Rome
-;; Warning: ID mismatch: expected ID 4731, got 11485 Asia/Tokyo
+10.124.1.177 Asia/Tokyo
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
