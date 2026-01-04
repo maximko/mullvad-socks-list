@@ -366,8 +366,8 @@
 10.124.1.11 America/Chicago
 10.124.1.85 America/Chicago
 10.124.1.86 America/Chicago
-10.124.1.171 Asia/Tokyo
-10.124.1.172 Asia/Tokyo
+10.124.1.171 America/Chicago
+10.124.1.172 America/Chicago
 10.124.1.173 Asia/Tokyo
 10.124.1.174 Asia/Tokyo
 10.124.1.196 America/Denver
