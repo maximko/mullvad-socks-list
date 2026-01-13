@@ -483,7 +483,7 @@
 10.124.1.229 America/Los_Angeles
 10.124.1.228 America/Los_Angeles
 10.124.1.227 America/Los_Angeles
-10.124.1.100 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.1.101 America/Chicago
 10.124.1.102 America/Chicago
 10.124.1.103 America/Chicago
