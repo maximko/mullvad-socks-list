@@ -1,5 +1,5 @@
-Date: 2026-01-21 07-03-34 UTC
-Total active proxies: 525
+Date: 2026-01-21 13-30-25 UTC
+Total active proxies: 558
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -45,6 +45,14 @@ Total active proxies: 525
  🇨🇦    Canada          Montreal            10.124.0.234  188.241.176.194  2a0d:5600:9:16::f001                  10     3234      ❌     M247           ✔️      ca-mtr-wg-004 
  🇨🇦    Canada          Montreal            10.124.0.168  62.93.167.130    2a02:6ea0:a03:2::f001                 10     3168      ❌     DataPacket     ✔️      ca-mtr-wg-201 
  🇨🇦    Canada          Montreal            10.124.0.171  62.93.167.160    2a02:6ea0:a03::f001                   10     3171      ❌     DataPacket     ✔️      ca-mtr-wg-202 
+ 🇨🇦    Canada          Montreal            10.124.2.93   23.234.120.2     2607:9000:f00:2::f001                 20     3601      ❌     Tzulo          ✔️      ca-mtr-wg-301 
+ 🇨🇦    Canada          Montreal            10.124.2.94   23.234.120.127   2607:9000:f00:3::f001                 20     3602      ❌     Tzulo          ✔️      ca-mtr-wg-302 
+ 🇨🇦    Canada          Montreal            10.124.2.95   23.234.121.2     2607:9000:f00:4::f01f                 20     3603      ❌     Tzulo          ✔️      ca-mtr-wg-303 
+ 🇨🇦    Canada          Montreal            10.124.2.96   23.234.121.127   2607:9000:f00:5::f001                 20     3604      ❌     Tzulo          ✔️      ca-mtr-wg-304 
+ 🇨🇦    Canada          Montreal            10.124.2.97   23.234.122.2     2607:9000:f00:6::f001                 20     3605      ❌     Tzulo          ✔️      ca-mtr-wg-305 
+ 🇨🇦    Canada          Montreal            10.124.2.98   23.234.122.127   2607:9000:f00:7::f001                 20     3606      ❌     Tzulo          ✔️      ca-mtr-wg-306 
+ 🇨🇦    Canada          Montreal            10.124.2.99   23.234.123.2     2607:9000:f00:8::f001                 20     3607      ❌     Tzulo          ✔️      ca-mtr-wg-307 
+ 🇨🇦    Canada          Montreal            10.124.2.100  23.234.123.127   2607:9000:f00:9::f001                 20     3608      ❌     Tzulo          ✔️      ca-mtr-wg-308 
  🇨🇦    Canada          Toronto             10.124.1.235  178.249.214.2    2a02:6ea0:de08:1::f001                10     3489      ❌     DataPacket     ✔️      ca-tor-wg-001 
  🇨🇦    Canada          Toronto             10.124.1.236  178.249.214.15   2a02:6ea0:de08:2::a29f                10     3490      ❌     DataPacket     ✔️      ca-tor-wg-002 
  🇨🇦    Canada          Toronto             10.124.0.81   23.234.84.2      2607:9000:600:31::f001                10     3081      ❌     Tzulo          ✔️      ca-tor-wg-201 
@@ -124,6 +132,9 @@ Total active proxies: 525
  🇩🇪    Germany         Frankfurt           10.124.1.252  169.150.201.28   2a02:6ea0:c762:3::a37f                10     3506      ❌     DataPacket     ✔️      de-fra-wg-403 
  🇩🇰    Denmark         Copenhagen          10.124.0.64   45.129.56.67     2a03:1b20:8:f011::f001                20     3064      ✔️     31173          ✔️      dk-cph-wg-001 
  🇩🇰    Denmark         Copenhagen          10.124.0.17   45.129.56.68     2a03:1b20:8:f011::f101                20     3017      ✔️     31173          ✔️      dk-cph-wg-002 
+ 🇩🇰    Denmark         Copenhagen          10.124.2.90   149.88.109.72    2a02:6ea0:470b:0:1::f001              100    3598      ✔️     DataPacket     ✔️      dk-cph-wg-101 
+ 🇩🇰    Denmark         Copenhagen          10.124.2.91   149.88.109.73    2a02:6ea0:470b:0:2::f001              100    3599      ✔️     DataPacket     ✔️      dk-cph-wg-102 
+ 🇩🇰    Denmark         Copenhagen          10.124.2.92   149.88.109.74    2a02:6ea0:470b:0:3::f001              100    3600      ✔️     DataPacket     ✔️      dk-cph-wg-103 
  🇩🇰    Denmark         Copenhagen          10.124.0.229  146.70.197.194   2001:ac8:37:97::f001                  10     3229      ❌     M247           ✔️      dk-cph-wg-401 
  🇩🇰    Denmark         Copenhagen          10.124.0.230  146.70.197.130   2001:ac8:37:96::f001                  10     3230      ❌     M247           ✔️      dk-cph-wg-402 
  🇪🇪    Estonia         Tallinn             10.124.0.138  194.127.167.67   2a07:d880:2::a01f                     10     3138      ❌     xtom           ✔️      ee-tll-wg-001 
@@ -356,6 +367,14 @@ Total active proxies: 525
  🇺🇸    USA             Chicago, IL         10.124.1.93   68.235.46.157    2607:9000:0:106::f001                 10     3347      ❌     Tzulo          ✔️      us-chi-wg-306 
  🇺🇸    USA             Chicago, IL         10.124.1.94   68.235.46.188    2607:9000:0:107::f001                 10     3348      ❌     Tzulo          ✔️      us-chi-wg-307 
  🇺🇸    USA             Chicago, IL         10.124.1.95   68.235.46.209    2607:9000:0:108::f001                 10     3349      ❌     Tzulo          ✔️      us-chi-wg-308 
+ 🇺🇸    USA             Chicago, IL         10.124.0.212  173.249.252.2    2607:9000:100:41::f001                20     3212      ❌     Tzulo          ✔️      us-chi-wg-309 
+ 🇺🇸    USA             Chicago, IL         10.124.1.230  173.249.252.127  2607:9000:100:42::f001                20     3484      ❌     Tzulo          ✔️      us-chi-wg-310 
+ 🇺🇸    USA             Chicago, IL         10.124.1.231  173.249.253.2    2607:9000:100:43::f001                20     3485      ❌     Tzulo          ✔️      us-chi-wg-311 
+ 🇺🇸    USA             Chicago, IL         10.124.1.232  173.249.253.127  2607:9000:100:44::f001                20     3486      ❌     Tzulo          ✔️      us-chi-wg-312 
+ 🇺🇸    USA             Chicago, IL         10.124.2.76   173.249.254.2    2607:9000:100:45::f001                20     3584      ❌     Tzulo          ✔️      us-chi-wg-313 
+ 🇺🇸    USA             Chicago, IL         10.124.2.77   173.249.254.127  2607:9000:100:46::f001                20     3585      ❌     Tzulo          ✔️      us-chi-wg-314 
+ 🇺🇸    USA             Chicago, IL         10.124.2.78   173.249.255.2    2607:9000:100:47::f001                20     3586      ❌     Tzulo          ✔️      us-chi-wg-315 
+ 🇺🇸    USA             Chicago, IL         10.124.2.79   173.249.255.127  2607:9000:100:48::f001                20     3587      ❌     Tzulo          ✔️      us-chi-wg-316 
  🇺🇸    USA             Dallas, TX          10.124.0.27   146.70.211.66    2001:ac8:9a:76::1f                    10     3027      ❌     M247           ✔️      us-dal-wg-001 
  🇺🇸    USA             Dallas, TX          10.124.0.43   146.70.211.2     2001:ac8:9a:75::2f                    10     3043      ❌     M247           ✔️      us-dal-wg-002 
  🇺🇸    USA             Dallas, TX          10.124.0.44   146.70.211.130   2001:ac8:9a:78::3f                    10     3044      ❌     M247           ✔️      us-dal-wg-003 
@@ -373,7 +392,13 @@ Total active proxies: 525
  🇺🇸    USA             Dallas, TX          10.124.1.173  103.102.247.3    2a01:4740:2::f201                     10     3427      ❌     HostRoyale     ✔️      us-dal-wg-603 
  🇺🇸    USA             Dallas, TX          10.124.1.174  103.102.247.127  2a01:4740:2::f301                     10     3428      ❌     HostRoyale     ✔️      us-dal-wg-604 
  🇺🇸    USA             Dallas, TX          10.124.2.88   23.234.104.2     2607:9000:b00:31::f001                20     3596      ❌     Tzulo          ✔️      us-dal-wg-701 
+ 🇺🇸    USA             Dallas, TX          10.124.2.89   23.234.104.127   2607:9000:b00:32::f001                20     3597      ❌     Tzulo          ✔️      us-dal-wg-702 
+ 🇺🇸    USA             Dallas, TX          10.124.2.101  23.234.105.2     2607:9000:b00:33::f001                20     3609      ❌     Tzulo          ✔️      us-dal-wg-703 
+ 🇺🇸    USA             Dallas, TX          10.124.2.102  23.234.105.127   2607:9000:b00:34::f001                20     3610      ❌     Tzulo          ✔️      us-dal-wg-704 
  🇺🇸    USA             Dallas, TX          10.124.2.103  23.234.106.2     2607:9000:b00:35::f001                20     3611      ❌     Tzulo          ✔️      us-dal-wg-705 
+ 🇺🇸    USA             Dallas, TX          10.124.2.105  23.234.106.127   2607:9000:b00:36::f001                20     3613      ❌     Tzulo          ✔️      us-dal-wg-706 
+ 🇺🇸    USA             Dallas, TX          10.124.2.104  23.234.107.2     2607:9000:b00:37::f001                20     3612      ❌     Tzulo          ✔️      us-dal-wg-707 
+ 🇺🇸    USA             Dallas, TX          10.124.2.106  23.234.107.127   2607:9000:b00:38::f001                20     3614      ❌     Tzulo          ✔️      us-dal-wg-708 
  🇺🇸    USA             Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f                  10     3450      ❌     DataPacket     ✔️      us-den-wg-101 
  🇺🇸    USA             Denver, CO          10.124.1.197  37.19.210.14     2a02:6ea0:d70a:1::b58f                10     3451      ❌     DataPacket     ✔️      us-den-wg-102 
  🇺🇸    USA             Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f                10     3452      ❌     DataPacket     ✔️      us-den-wg-103 
@@ -478,6 +503,14 @@ Total active proxies: 525
  🇺🇸    USA             Ashburn, VA         10.124.1.167  103.81.230.3     2a01:4740:1::f001                     10     3421      ❌     HostRoyale     ✔️      us-qas-wg-201 
  🇺🇸    USA             Ashburn, VA         10.124.1.169  103.81.231.3     2a01:4740:1::f201                     10     3423      ❌     HostRoyale     ✔️      us-qas-wg-203 
  🇺🇸    USA             Ashburn, VA         10.124.1.170  103.81.231.127   2a01:4740:1::f301                     10     3424      ❌     HostRoyale     ✔️      us-qas-wg-204 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.80   23.234.96.2      2607:9000:900:31::f001                20     3588      ❌     Tzulo          ✔️      us-qas-wg-301 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.81   23.234.96.127    2607:9000:900:32::f001                20     3589      ❌     Tzulo          ✔️      us-qas-wg-302 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.82   23.234.97.2      2607:9000:900:33::f001                20     3590      ❌     Tzulo          ✔️      us-qas-wg-303 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.83   23.234.97.127    2607:9000:900:34::f001                20     3591      ❌     Tzulo          ✔️      us-qas-wg-304 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.84   23.234.98.2      2607:9000:900:35::f001                20     3592      ❌     Tzulo          ✔️      us-qas-wg-305 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.85   23.234.98.127    2607:9000:900:36::f001                20     3593      ❌     Tzulo          ✔️      us-qas-wg-306 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.86   23.234.99.2      2607:9000:900:37::f001                20     3594      ❌     Tzulo          ✔️      us-qas-wg-307 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.87   23.234.99.127    2607:9000:900:38::f001                20     3595      ❌     Tzulo          ✔️      us-qas-wg-308 
  🇺🇸    USA             Raleigh, NC         10.124.1.41   23.234.76.2      2607:9000:4000:31::f001               10     3295      ❌     Tzulo          ✔️      us-rag-wg-201 
  🇺🇸    USA             Raleigh, NC         10.124.1.42   23.234.76.127    2607:9000:4000:32::f001               10     3296      ❌     Tzulo          ✔️      us-rag-wg-202 
  🇺🇸    USA             Raleigh, NC         10.124.1.43   23.234.77.2      2607:9000:4000:33::f001               10     3297      ❌     Tzulo          ✔️      us-rag-wg-203 
