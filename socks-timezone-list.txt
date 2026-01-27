@@ -337,7 +337,7 @@
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.116 America/New_York
 10.124.1.117 America/New_York
 10.124.1.118 America/New_York
 10.124.1.119 America/New_York
