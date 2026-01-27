@@ -488,12 +488,12 @@
 10.124.1.149 America/Chicago
 10.124.1.150 America/Chicago
 10.124.1.151 America/Chicago
-10.124.1.152 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.1.153 America/Chicago
 10.124.1.186 America/New_York
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
-10.124.1.189 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
@@ -504,7 +504,7 @@
 10.124.2.81 America/Chicago
 10.124.2.82 America/Chicago
 10.124.2.83 America/Chicago
-10.124.2.84 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.2.85 America/Chicago
 10.124.2.86 America/Chicago
 10.124.2.87 America/Chicago
@@ -544,6 +544,6 @@
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
 10.124.1.108 America/New_York
-10.124.1.109 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
