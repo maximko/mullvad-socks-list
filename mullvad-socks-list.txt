@@ -1,5 +1,5 @@
-Date: 2026-01-28 02-52-07 UTC
-Total active proxies: 552
+Date: 2026-01-28 07-02-43 UTC
+Total active proxies: 559
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -521,6 +521,13 @@ Total active proxies: 552
  🇺🇸    USA             Seattle, WA         10.124.1.229  138.199.43.91    2a02:6ea0:d80b:3::b75f                10     3483      ❌     DataPacket     ✔️      us-sea-wg-001 
  🇺🇸    USA             Seattle, WA         10.124.1.228  138.199.43.78    2a02:6ea0:d80b:2::f001                10     3482      ❌     DataPacket     ✔️      us-sea-wg-002 
  🇺🇸    USA             Seattle, WA         10.124.1.227  138.199.43.65    2a02:6ea0:d80b:1::b73f                10     3481      ❌     DataPacket     ✔️      us-sea-wg-003 
+ 🇺🇸    USA             Seattle, WA         10.124.1.100  23.234.80.2      2607:9000:5000:31::f001               10     3354      ❌     Tzulo          ✔️      us-sea-wg-401 
+ 🇺🇸    USA             Seattle, WA         10.124.1.101  23.234.80.127    2607:9000:5000:32::f001               10     3355      ❌     Tzulo          ✔️      us-sea-wg-402 
+ 🇺🇸    USA             Seattle, WA         10.124.1.102  23.234.81.2      2607:9000:5000:33::f001               10     3356      ❌     Tzulo          ✔️      us-sea-wg-403 
+ 🇺🇸    USA             Seattle, WA         10.124.1.103  23.234.81.127    2607:9000:5000:34::f001               10     3357      ❌     Tzulo          ✔️      us-sea-wg-404 
+ 🇺🇸    USA             Seattle, WA         10.124.1.104  23.234.82.2      2607:9000:5000:35::f001               10     3358      ❌     Tzulo          ✔️      us-sea-wg-405 
+ 🇺🇸    USA             Seattle, WA         10.124.1.105  23.234.82.127    2607:9000:5000:36::f001               10     3359      ❌     Tzulo          ✔️      us-sea-wg-406 
+ 🇺🇸    USA             Seattle, WA         10.124.1.106  23.234.83.2      2607:9000:5000:37::f001               10     3360      ❌     Tzulo          ✔️      us-sea-wg-407 
  🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001                     10     3464      ❌     xtom           ✔️      us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f                     10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
