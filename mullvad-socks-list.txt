@@ -1,5 +1,5 @@
-Date: 2026-01-29 03-13-36 UTC
-Total active proxies: 560
+Date: 2026-01-29 07-27-32 UTC
+Total active proxies: 561
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -533,6 +533,7 @@ Total active proxies: 560
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f                     10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001                  10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 
  🇺🇸    USA             San Jose, CA        10.124.1.7    79.127.217.47    2a02:6ea0:e611:1::f001                10     3261      ❌     DataPacket     ✔️      us-sjc-wg-402 
+ 🇺🇸    USA             San Jose, CA        10.124.1.154  23.234.92.3      2607:9000:800:31::f001                10     3408      ❌     Tzulo          ✔️      us-sjc-wg-501 
  🇺🇸    USA             San Jose, CA        10.124.1.155  23.234.92.127    2607:9000:800:32::f001                10     3409      ❌     Tzulo          ✔️      us-sjc-wg-502 
  🇺🇸    USA             San Jose, CA        10.124.1.156  23.234.93.3      2607:9000:800:33::f001                10     3410      ❌     Tzulo          ✔️      us-sjc-wg-503 
  🇺🇸    USA             San Jose, CA        10.124.1.157  23.234.93.127    2607:9000:800:34::f001                10     3411      ❌     Tzulo          ✔️      us-sjc-wg-504 
