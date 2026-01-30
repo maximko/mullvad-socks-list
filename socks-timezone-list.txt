@@ -543,6 +543,8 @@
 10.124.1.15 America/Chicago
 10.124.1.138 America/Chicago
 10.124.1.139 America/Chicago
+10.124.1.140 America/Chicago
+10.124.1.141 America/Chicago
 10.124.1.142 America/Chicago
 10.124.1.143 America/Chicago
 10.124.1.144 America/Chicago
