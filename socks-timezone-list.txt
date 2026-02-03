@@ -230,7 +230,7 @@
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
-10.124.0.160 Asia/Tokyo
+;; communications error to 1.1.1.1#53: timed out Asia/Tokyo
 10.124.0.161 Asia/Tokyo
 10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
