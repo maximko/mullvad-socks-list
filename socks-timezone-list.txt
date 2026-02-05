@@ -487,7 +487,6 @@
 10.124.1.151 America/Phoenix
 10.124.1.152 America/Phoenix
 10.124.1.153 America/Phoenix
-10.124.1.186 America/New_York
 10.124.1.187 America/New_York
 10.124.1.188 America/New_York
 10.124.1.189 America/New_York
