@@ -1,5 +1,5 @@
-Date: 2026-02-16 03-31-42 UTC
-Total active proxies: 553
+Date: 2026-02-16 07-38-54 UTC
+Total active proxies: 554
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -10,6 +10,7 @@ Total active proxies: 553
  🇦🇹    Austria         Vienna              10.124.2.37   146.70.116.162   2001:ac8:29:86::a03f                  10     3545      ❌     M247           ✔️      at-vie-wg-003 
  🇦🇹    Austria         Vienna              10.124.1.73   185.24.11.130    2a02:6ea0:cb1b:1::f001                10     3327      ❌     DataPacket     ✔️      at-vie-wg-101 
  🇦🇹    Austria         Vienna              10.124.1.74   185.24.11.159    2a02:6ea0:cb1b:2::f001                10     3328      ❌     DataPacket     ✔️      at-vie-wg-102 
+ 🇦🇺    Australia       Adelaide            10.124.0.99   103.214.20.50    2404:f780:0:deb::c1f                  10     3099      ❌     hostuniversal  ✔️      au-adl-wg-301 
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f                  10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::f001                 10     3220      ❌     hostuniversal  ✔️      au-bne-wg-301 
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f                 10     3221      ❌     hostuniversal  ✔️      au-bne-wg-302 

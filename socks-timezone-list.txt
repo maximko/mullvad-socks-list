@@ -7,6 +7,7 @@
 10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
 10.124.1.74 Europe/Vienna
+10.124.0.99 Australia/Adelaide
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
