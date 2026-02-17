@@ -11,7 +11,6 @@
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
@@ -45,7 +44,7 @@
 10.124.0.171 America/Toronto
 10.124.2.93 America/Toronto
 10.124.2.94 America/Toronto
-;; communications error to 1.1.1.1#53: timed out America/Toronto
+10.124.2.95 America/Toronto
 10.124.2.96 America/Toronto
 10.124.2.97 America/Toronto
 10.124.2.98 America/Toronto
