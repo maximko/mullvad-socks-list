@@ -1,5 +1,5 @@
-Date: 2026-02-18 07-36-18 UTC
-Total active proxies: 551
+Date: 2026-02-18 13-52-29 UTC
+Total active proxies: 556
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -14,6 +14,7 @@ Total active proxies: 551
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f                  10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::f001                 10     3220      ❌     hostuniversal  ✔️      au-bne-wg-301 
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f                 10     3221      ❌     hostuniversal  ✔️      au-bne-wg-302 
+ 🇦🇺    Australia       Melbourne           10.124.1.54   103.108.229.66   2406:d501:f:dec::a02f                 10     3308      ❌     hostuniversal  ✔️      au-mel-wg-302 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f                 10     3309      ❌     hostuniversal  ✔️      au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001                 10     3311      ❌     hostuniversal  ✔️      au-per-wg-302 
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001                   10     3036      ❌     M247           ✔️      au-syd-wg-001 
@@ -118,7 +119,6 @@ Total active proxies: 551
  🇩🇪    Germany         Frankfurt           10.124.1.25   185.209.196.78   2a03:1b20:6:f011::f701                20     3279      ✔️     31173          ✔️      de-fra-wg-008 
  🇩🇪    Germany         Frankfurt           10.124.0.240  185.213.155.72   2a03:1b20:6:f011::f901                20     3240      ✔️     31173          ✔️      de-fra-wg-009 
  🇩🇪    Germany         Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f                     10     3284      ❌     xtom           ✔️      de-fra-wg-301 
- 🇩🇪    Germany         Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f                     10     3285      ❌     xtom           ✔️      de-fra-wg-302 
  🇩🇪    Germany         Frankfurt           10.124.1.32   194.36.25.33     2a07:fe00:1::a25f                     10     3286      ❌     xtom           ✔️      de-fra-wg-303 
  🇩🇪    Germany         Frankfurt           10.124.1.33   194.36.25.48     2a07:fe00:1::a26f                     10     3287      ❌     xtom           ✔️      de-fra-wg-304 
  🇩🇪    Germany         Frankfurt           10.124.1.250  169.150.201.2    2a02:6ea0:c762:1::a35f                10     3504      ❌     DataPacket     ✔️      de-fra-wg-401 
@@ -176,6 +176,10 @@ Total active proxies: 551
  🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f                20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
  🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f                20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
  🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801                20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
+ 🇬🇧    UK              London              10.124.1.34   185.248.85.3     2a0b:89c1:3::a33f                     10     3288      ❌     xtom           ✔️      gb-lon-wg-201 
+ 🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f                     10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
+ 🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f                     10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
+ 🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f                     10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f                10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f                10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001                10     3237      ❌     M247           ✔️      gb-lon-wg-304 
@@ -342,6 +346,7 @@ Total active proxies: 551
  🇺🇸    USA             Atlanta, GA         10.124.1.136  23.234.111.3     2607:9000:c00:37::f001                10     3390      ❌     Tzulo          ✔️      us-atl-wg-407 
  🇺🇸    USA             Atlanta, GA         10.124.1.137  23.234.111.127   2607:9000:c00:38::f001                10     3391      ❌     Tzulo          ✔️      us-atl-wg-408 
  🇺🇸    USA             Boston, MA          10.124.0.85   43.225.189.131   2a06:3040:12:610::a01f                10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
+ 🇺🇸    USA             Boston, MA          10.124.0.126  43.225.189.162   2a06:3040:12:610::a02f                10     3126      ❌     HostRoyale     ✔️      us-bos-wg-002 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f                  10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
  🇺🇸    USA             Boston, MA          10.124.0.197  149.40.50.112    2a02:6ea0:f901:1::a02f                10     3197      ❌     DataPacket     ✔️      us-bos-wg-102 
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f                  10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
