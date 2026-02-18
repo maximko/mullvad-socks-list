@@ -173,10 +173,6 @@
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
 10.124.1.62 Europe/London
-10.124.1.34 Europe/London
-10.124.1.35 Europe/London
-10.124.1.91 Europe/London
-10.124.1.164 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.0.237 Europe/London
@@ -287,8 +283,8 @@
 10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
 10.124.0.18 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
-;; Warning: ID mismatch: expected ID 53310, got 60092 Europe/Stockholm
+10.124.0.38 Europe/Stockholm
+10.124.0.190 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
 10.124.1.80 Europe/Stockholm
 10.124.1.77 Europe/Stockholm
