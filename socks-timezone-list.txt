@@ -11,7 +11,6 @@
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
@@ -403,9 +402,6 @@
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
 10.124.1.195 America/Chicago
-10.124.0.180 America/Los_Angeles
-10.124.0.181 America/Los_Angeles
-10.124.0.182 America/Los_Angeles
 10.124.0.83 America/Los_Angeles
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
@@ -466,10 +462,6 @@
 10.124.0.131 America/New_York
 10.124.0.132 America/New_York
 10.124.0.133 America/New_York
-10.124.0.170 America/New_York
-10.124.0.184 America/New_York
-10.124.0.188 America/New_York
-10.124.0.193 America/New_York
 10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.165 America/New_York
