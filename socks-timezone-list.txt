@@ -372,7 +372,6 @@
 10.124.1.9 America/Chicago
 10.124.1.10 America/Chicago
 10.124.1.11 America/Chicago
-10.124.1.85 America/Chicago
 10.124.1.86 America/Chicago
 10.124.1.171 America/Chicago
 10.124.1.172 America/Chicago
@@ -472,10 +471,6 @@
 10.124.1.151 America/Phoenix
 10.124.1.152 America/Phoenix
 10.124.1.153 America/Phoenix
-10.124.1.186 America/New_York
-10.124.1.187 America/New_York
-10.124.1.188 America/New_York
-10.124.1.189 America/New_York
 10.124.2.22 America/New_York
 10.124.2.23 America/New_York
 10.124.2.24 America/New_York
