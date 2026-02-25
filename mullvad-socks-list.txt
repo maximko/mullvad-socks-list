@@ -1,5 +1,5 @@
-Date: 2026-02-25 07-37-05 UTC
-Total active proxies: 530
+Date: 2026-02-25 13-54-48 UTC
+Total active proxies: 536
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -463,6 +463,12 @@ Total active proxies: 530
  🇺🇸    USA             New York, NY        10.124.1.166  23.234.103.127   2607:9000:a000:38::f001               10     3420      ❌     Tzulo          ✔️      us-nyc-wg-808 
  🇺🇸    USA             Phoenix, AZ         10.124.1.146  23.234.88.3      2607:9000:700:41::f001                10     3400      ❌     Tzulo          ✔️      us-phx-wg-201 
  🇺🇸    USA             Phoenix, AZ         10.124.1.147  23.234.88.127    2607:9000:700:42::f001                10     3401      ❌     Tzulo          ✔️      us-phx-wg-202 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.148  23.234.89.3      2607:9000:700:43::f001                10     3402      ❌     Tzulo          ✔️      us-phx-wg-203 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.149  23.234.89.127    2607:9000:700:44::f001                10     3403      ❌     Tzulo          ✔️      us-phx-wg-204 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.150  23.234.90.3      2607:9000:700:45::f001                10     3404      ❌     Tzulo          ✔️      us-phx-wg-205 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.151  23.234.90.127    2607:9000:700:46::f001                10     3405      ❌     Tzulo          ✔️      us-phx-wg-206 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.152  23.234.91.3      2607:9000:700:47::f001                10     3406      ❌     Tzulo          ✔️      us-phx-wg-207 
+ 🇺🇸    USA             Phoenix, AZ         10.124.1.153  23.234.91.127    2607:9000:700:48::f001                10     3407      ❌     Tzulo          ✔️      us-phx-wg-208 
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   2a02:6ea0:e206:1::a01f                10     3530      ❌     DataPacket     ✔️      us-qas-wg-101 
  🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f                10     3531      ❌     DataPacket     ✔️      us-qas-wg-102 
  🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f                10     3532      ❌     DataPacket     ✔️      us-qas-wg-103 
