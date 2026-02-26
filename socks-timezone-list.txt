@@ -52,8 +52,10 @@
 10.124.2.100 America/Toronto
 10.124.1.235 America/Toronto
 10.124.1.236 America/Toronto
-10.124.0.81 America/Toronto
-10.124.1.115 America/Toronto
+10.124.1.110 America/Toronto
+10.124.1.111 America/Toronto
+10.124.1.112 America/Toronto
+10.124.1.113 America/Toronto
 10.124.0.13 America/Vancouver
 10.124.0.71 America/Vancouver
 10.124.1.65 America/Vancouver
