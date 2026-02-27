@@ -344,6 +344,12 @@
 10.124.1.203 America/Chicago
 10.124.1.87 America/Chicago
 10.124.1.88 America/Chicago
+10.124.1.89 America/Chicago
+10.124.1.90 America/Chicago
+10.124.1.92 America/Chicago
+10.124.1.93 America/Chicago
+10.124.1.94 America/Chicago
+10.124.1.95 America/Chicago
 10.124.0.212 America/Chicago
 10.124.1.230 America/Chicago
 10.124.1.231 America/Chicago
@@ -419,12 +425,6 @@
 10.124.0.14 America/New_York
 10.124.0.82 America/New_York
 10.124.0.89 America/New_York
-10.124.0.86 America/Chicago
-10.124.0.153 America/Chicago
-10.124.0.157 America/Chicago
-10.124.0.158 America/Chicago
-10.124.0.162 America/Chicago
-10.124.0.163 America/Chicago
 10.124.0.164 America/Chicago
 10.124.0.165 America/Chicago
 10.124.2.61 America/Chicago
