@@ -1,4 +1,4 @@
-Date: 2026-03-03 07-28-51 UTC
+Date: 2026-03-03 13-43-35 UTC
 Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -295,15 +295,15 @@ Total active proxies: 529
  🇸🇪    Sweden          Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f     20     3062      ✔️     31173          ✔️      se-sto-wg-011 
  🇸🇪    Sweden          Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::fb01     20     3077      ✔️     31173          ✔️      se-sto-wg-012 
  🇸🇪    Sweden          Stockholm           10.124.0.143  185.195.233.67   2a03:1b20:4:f011::fe01     20     3143      ✔️     31173          ✔️      se-sto-wg-013 
- 🇸🇪    Sweden          Stockholm           10.124.0.46   89.37.63.10      2a02:6ea0:1508:1::f001     40     3046      ❌     DataPacket     ✔️      se-sto-wg-201 
- 🇸🇪    Sweden          Stockholm           10.124.0.52   89.37.63.66      2a02:6ea0:1508:2::f001     40     3052      ❌     DataPacket     ✔️      se-sto-wg-202 
- 🇸🇪    Sweden          Stockholm           10.124.0.57   89.37.63.129     2a02:6ea0:1508:3::f001     40     3057      ❌     DataPacket     ✔️      se-sto-wg-203 
- 🇸🇪    Sweden          Stockholm           10.124.0.58   89.37.63.190     2a02:6ea0:1508:4::f001     40     3058      ❌     DataPacket     ✔️      se-sto-wg-204 
- 🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001     40     3079      ❌     DataPacket     ✔️      se-sto-wg-205 
- 🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001     40     3115      ❌     DataPacket     ✔️      se-sto-wg-206 
- 🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001     40     3128      ❌     DataPacket     ✔️      se-sto-wg-207 
- 🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001     40     3129      ❌     DataPacket     ✔️      se-sto-wg-208 
- 🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001     40     3130      ❌     DataPacket     ✔️      se-sto-wg-209 
+ 🇸🇪    Sweden          Stockholm           10.124.0.46   89.37.63.10      2a02:6ea0:1508:1::f001     40     3046      ✔️     DataPacket     ✔️      se-sto-wg-201 
+ 🇸🇪    Sweden          Stockholm           10.124.0.52   89.37.63.66      2a02:6ea0:1508:2::f001     40     3052      ✔️     DataPacket     ✔️      se-sto-wg-202 
+ 🇸🇪    Sweden          Stockholm           10.124.0.57   89.37.63.129     2a02:6ea0:1508:3::f001     40     3057      ✔️     DataPacket     ✔️      se-sto-wg-203 
+ 🇸🇪    Sweden          Stockholm           10.124.0.58   89.37.63.190     2a02:6ea0:1508:4::f001     40     3058      ✔️     DataPacket     ✔️      se-sto-wg-204 
+ 🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001     40     3079      ✔️     DataPacket     ✔️      se-sto-wg-205 
+ 🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001     40     3115      ✔️     DataPacket     ✔️      se-sto-wg-206 
+ 🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001     40     3128      ✔️     DataPacket     ✔️      se-sto-wg-207 
+ 🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001     40     3129      ✔️     DataPacket     ✔️      se-sto-wg-208 
+ 🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001     40     3130      ✔️     DataPacket     ✔️      se-sto-wg-209 
  🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️      sg-sin-wg-001 
  🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️      sg-sin-wg-002 
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
