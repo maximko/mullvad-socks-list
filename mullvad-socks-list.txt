@@ -1,5 +1,5 @@
-Date: 2026-03-03 03-21-33 UTC
-Total active proxies: 530
+Date: 2026-03-03 07-28-51 UTC
+Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -512,7 +512,6 @@ Total active proxies: 530
  🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401       10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501       10     3268      ❌     100TB          ✔️      us-slc-wg-203 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601       10     3269      ❌     100TB          ✔️      us-slc-wg-204 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.138  23.234.112.3     2607:9000:d00:2::f001      10     3392      ❌     Tzulo          ✔️      us-slc-wg-301 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.139  23.234.112.127   2607:9000:d00:3::f001      10     3393      ❌     Tzulo          ✔️      us-slc-wg-302 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.140  23.234.113.3     2607:9000:d00:4::f001      10     3394      ❌     Tzulo          ✔️      us-slc-wg-303 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.141  23.234.113.127   2607:9000:d00:5::f001      10     3395      ❌     Tzulo          ✔️      us-slc-wg-304 
