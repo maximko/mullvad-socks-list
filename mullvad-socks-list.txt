@@ -1,5 +1,5 @@
-Date: 2026-03-09 03-22-14 UTC
-Total active proxies: 527
+Date: 2026-03-09 07-36-37 UTC
+Total active proxies: 552
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -12,8 +12,13 @@ Total active proxies: 527
  🇦🇹    Austria         Vienna              10.124.1.74   185.24.11.159    2a02:6ea0:cb1b:2::f001     10     3328      ❌     DataPacket     ✔️      at-vie-wg-102 
  🇦🇺    Australia       Adelaide            10.124.0.99   103.214.20.50    2404:f780:0:deb::c1f       10     3099      ❌     hostuniversal  ✔️      au-adl-wg-301 
  🇦🇺    Australia       Adelaide            10.124.0.156  103.214.20.130   2404:f780:0:dec::c2f       10     3156      ❌     hostuniversal  ✔️      au-adl-wg-302 
+ 🇦🇺    Australia       Adelaide            10.124.0.3    103.214.20.162   2404:f780:0:def::f201      10     3003      ❌     hostuniversal  ✔️      au-adl-wg-303 
  🇦🇺    Australia       Brisbane            10.124.0.220  103.216.220.18   2404:f780:4:deb::f001      10     3220      ❌     hostuniversal  ✔️      au-bne-wg-301 
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f      10     3221      ❌     hostuniversal  ✔️      au-bne-wg-302 
+ 🇦🇺    Australia       Brisbane            10.124.0.69   103.216.220.66   2404:f780:4:def::f201      10     3069      ❌     hostuniversal  ✔️      au-bne-wg-303 
+ 🇦🇺    Australia       Melbourne           10.124.1.53   163.47.16.146    2406:d501:f:dfa::f001      20     3307      ❌     hostuniversal  ✔️      au-mel-wg-401 
+ 🇦🇺    Australia       Melbourne           10.124.1.59   163.47.16.150    2406:d501:f:dfb::f001      20     3313      ❌     hostuniversal  ✔️      au-mel-wg-402 
+ 🇦🇺    Australia       Melbourne           10.124.2.107  163.47.16.154    2406:d501:f:dfc::f001      20     3615      ❌     hostuniversal  ✔️      au-mel-wg-403 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️      au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001      10     3311      ❌     hostuniversal  ✔️      au-per-wg-302 
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001        10     3036      ❌     M247           ✔️      au-syd-wg-001 
@@ -117,6 +122,10 @@ Total active proxies: 527
  🇩🇪    Germany         Frankfurt           10.124.1.24   185.209.196.77   2a03:1b20:6:f011::f601     20     3278      ✔️     31173          ✔️      de-fra-wg-007 
  🇩🇪    Germany         Frankfurt           10.124.1.25   185.209.196.78   2a03:1b20:6:f011::f701     20     3279      ✔️     31173          ✔️      de-fra-wg-008 
  🇩🇪    Germany         Frankfurt           10.124.0.240  185.213.155.72   2a03:1b20:6:f011::f901     20     3240      ✔️     31173          ✔️      de-fra-wg-009 
+ 🇩🇪    Germany         Frankfurt           10.124.1.238  146.70.117.2     2001:ac8:20:270:1::f001    20     3492      ❌     M247           ✔️      de-fra-wg-101 
+ 🇩🇪    Germany         Frankfurt           10.124.1.239  146.70.117.130   2001:ac8:20:270:2::f001    20     3493      ❌     M247           ✔️      de-fra-wg-102 
+ 🇩🇪    Germany         Frankfurt           10.124.1.241  135.136.19.2     2001:ac8:20:271::f001      20     3495      ❌     M247           ✔️      de-fra-wg-103 
+ 🇩🇪    Germany         Frankfurt           10.124.1.242  135.136.19.130   2001:ac8:20:272::f001      20     3496      ❌     M247           ✔️      de-fra-wg-104 
  🇩🇪    Germany         Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f          10     3284      ❌     xtom           ✔️      de-fra-wg-301 
  🇩🇪    Germany         Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f          10     3285      ❌     xtom           ✔️      de-fra-wg-302 
  🇩🇪    Germany         Frankfurt           10.124.1.32   194.36.25.33     2a07:fe00:1::a25f          10     3286      ❌     xtom           ✔️      de-fra-wg-303 
@@ -182,6 +191,8 @@ Total active proxies: 527
  🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f     10     3503      ❌     M247           ✔️      gb-lon-wg-301 
  🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f     10     3501      ❌     M247           ✔️      gb-lon-wg-302 
  🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001     10     3237      ❌     M247           ✔️      gb-lon-wg-304 
+ 🇬🇧    UK              Manchester          10.124.0.31   146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
+ 🇬🇧    UK              Manchester          10.124.0.32   135.136.22.2     2001:ac8:8b:105::f001      20     3032      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001       10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
  🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101       10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
@@ -198,6 +209,9 @@ Total active proxies: 527
  🇭🇺    Hungary         Budapest            10.124.0.137  79.127.182.160   2a02:6ea0:5700:2::f001     10     3137      ❌     DataPacket     ✔️      hu-bud-wg-202 
  🇮🇩    Indonesia       Jakarta             10.124.0.254  129.227.46.130   2602:ffe4:c0d:801d::f001   10     3254      ❌     Zenlayer       ✔️      id-jpu-wg-001 
  🇮🇩    Indonesia       Jakarta             10.124.1.1    129.227.46.162   2602:ffe4:c0d:801e::f101   10     3255      ❌     Zenlayer       ✔️      id-jpu-wg-002 
+ 🇮🇪    Ireland         Dublin              10.124.0.70   146.70.189.2     2001:ac8:88:107::f001      20     3070      ❌     M247           ✔️      ie-dub-wg-101 
+ 🇮🇪    Ireland         Dublin              10.124.0.78   146.70.189.130   2001:ac8:88:108::f001      20     3078      ❌     M247           ✔️      ie-dub-wg-102 
+ 🇮🇪    Ireland         Dublin              10.124.1.58   130.195.213.130  2001:ac8:88:109::f001      20     3312      ❌     M247           ✔️      ie-dub-wg-103 
  🇮🇱    Israel          Tel Aviv            10.124.2.5    169.150.227.197  2a02:6ea0:3b00:1::a01f     10     3513      ❌     DataPacket     ✔️      il-tlv-wg-101 
  🇮🇱    Israel          Tel Aviv            10.124.2.25   169.150.227.210  2a02:6ea0:3b00:2::a02f     10     3533      ❌     DataPacket     ✔️      il-tlv-wg-102 
  🇮🇱    Israel          Tel Aviv            10.124.2.26   169.150.227.222  2a02:6ea0:3b00:3::a03f     10     3534      ❌     DataPacket     ✔️      il-tlv-wg-103 
@@ -242,12 +256,15 @@ Total active proxies: 527
  🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f       10     3006      ✔️     Blix           ✔️      no-osl-wg-001 
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f       10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f       10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
+ 🇳🇴    Norway          Oslo                10.124.0.103  141.98.253.85    2a03:1b20:c:f011:2::f001   10     3103      ✔️     31173          ✔️      no-osl-wg-102 
+ 🇳🇴    Norway          Oslo                10.124.0.104  141.98.253.165   2a03:1b20:c:f011:3::f001   10     3104      ✔️     31173          ✔️      no-osl-wg-103 
  🇳🇴    Norway          Stavanger           10.124.2.38   194.127.199.2    2a02:20c8:4120::a01f       10     3546      ✔️     Blix           ✔️      no-svg-wg-001 
  🇳🇴    Norway          Stavanger           10.124.2.39   194.127.199.31   2a02:20c8:4120::a02f       10     3547      ✔️     Blix           ✔️      no-svg-wg-002 
  🇳🇴    Norway          Stavanger           10.124.2.40   194.127.199.62   2a02:20c8:4120::a03f       10     3548      ✔️     Blix           ✔️      no-svg-wg-003 
  🇳🇴    Norway          Stavanger           10.124.2.41   194.127.199.93   2a02:20c8:4120::a04f       10     3549      ✔️     Blix           ✔️      no-svg-wg-004 
  🇳🇿    New Zealand     Auckland            10.124.0.218  103.75.11.50     2404:f780:5:deb::f001      10     3218      ❌     hostuniversal  ✔️      nz-akl-wg-301 
  🇳🇿    New Zealand     Auckland            10.124.0.219  103.75.11.66     2404:f780:5:dec::c02f      10     3219      ❌     hostuniversal  ✔️      nz-akl-wg-302 
+ 🇳🇿    New Zealand     Auckland            10.124.0.5    103.75.11.98     2404:f780:5:def::f201      10     3005      ❌     hostuniversal  ✔️      nz-akl-wg-303 
  🇵🇪    Peru            Lima                10.124.1.81   95.173.223.130   2a02:6ea0:5500:1::f001     10     3335      ❌     DataPacket     ✔️      pe-lim-wg-001 
  🇵🇪    Peru            Lima                10.124.1.82   95.173.223.159   2a02:6ea0:5500:2::f001     10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
  🇵🇭    Philippines     Manila              10.124.0.145  129.227.118.162  2602:ffe4:c06:11e::f001    10     3145      ❌     Zenlayer       ✔️      ph-mnl-wg-001 
@@ -387,6 +404,14 @@ Total active proxies: 527
  🇺🇸    USA             Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::f001     10     3447      ❌     DataPacket     ✔️      us-hou-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️      us-hou-wg-003 
  🇺🇸    USA             Houston, TX         10.124.1.195  37.19.221.169    2a02:6ea0:e001:3::b56f     10     3449      ❌     DataPacket     ✔️      us-hou-wg-004 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.243  23.234.72.2      2607:9000:300:31::f001     20     3497      ❌     Tzulo          ✔️      us-lax-wg-001 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.108  23.234.72.127    2607:9000:300:32::f001     20     3616      ❌     Tzulo          ✔️      us-lax-wg-002 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.109  23.234.73.2      2607:9000:300:33::f001     20     3617      ❌     Tzulo          ✔️      us-lax-wg-003 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.110  23.234.73.127    2607:9000:300:34::f001     20     3618      ❌     Tzulo          ✔️      us-lax-wg-004 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.111  23.234.74.2      2607:9000:300:35::f001     20     3619      ❌     Tzulo          ✔️      us-lax-wg-005 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.112  23.234.74.127    2607:9000:300:36::f001     20     3620      ❌     Tzulo          ✔️      us-lax-wg-006 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.113  23.234.75.2      2607:9000:300:37::f001     20     3621      ❌     Tzulo          ✔️      us-lax-wg-007 
+ 🇺🇸    USA             Los Angeles, CA     10.124.2.114  23.234.75.127    2607:9000:300:38::f001     20     3622      ❌     Tzulo          ✔️      us-lax-wg-008 
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
