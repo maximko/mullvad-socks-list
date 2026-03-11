@@ -1,4 +1,4 @@
-Date: 2026-03-11 13-49-52 UTC
+Date: 2026-03-11 19-28-30 UTC
 Total active proxies: 552
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -159,6 +159,9 @@ Total active proxies: 552
  🇫🇮    Finland         Helsinki            10.124.2.54   193.138.7.157    2a02:ed04:3581:2::f001     10     3562      ✔️     Blix           ✔️      fi-hel-wg-102 
  🇫🇮    Finland         Helsinki            10.124.2.55   193.138.7.177    2a02:ed04:3581:3::f001     10     3563      ✔️     Blix           ✔️      fi-hel-wg-103 
  🇫🇮    Finland         Helsinki            10.124.2.56   193.138.7.197    2a02:ed04:3581:4::f001     10     3564      ✔️     Blix           ✔️      fi-hel-wg-104 
+ 🇫🇮    Finland         Helsinki            10.124.0.155  185.65.133.5     2a03:1b20:d:f011:1::f001   40     3155      ✔️     31173          ✔️      fi-hel-wg-201 
+ 🇫🇮    Finland         Helsinki            10.124.0.194  185.65.133.85    2a03:1b20:d:f011:2::f001   40     3194      ✔️     31173          ✔️      fi-hel-wg-202 
+ 🇫🇮    Finland         Helsinki            10.124.0.210  185.65.133.165   2a03:1b20:d:f011:3::f001   40     3210      ✔️     31173          ✔️      fi-hel-wg-203 
  🇫🇷    France          Bordeaux            10.124.1.63   45.134.79.67     2a06:3040:4:610::f001      10     3317      ❌     HostRoyale     ✔️      fr-bod-wg-001 
  🇫🇷    France          Bordeaux            10.124.1.64   45.134.79.97     2a06:3040:4:610::f101      10     3318      ❌     HostRoyale     ✔️      fr-bod-wg-002 
  🇫🇷    France          Marseille           10.124.0.45   138.199.15.162   2a02:6ea0:dc05::a15f       10     3045      ❌     DataPacket     ✔️      fr-mrs-wg-001 
@@ -550,8 +553,3 @@ Total active proxies: 552
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101     10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001       10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001       10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
-Failed to resovle:
- flag  country  city      socks5                                                      ipv4            ipv6                      speed  multihop  owned  provider  stboot  hostname      
- 🇫🇮    Finland  Helsinki  fi-hel-wg-socks5-201.relays.mullvad.net.relays.mullvad.net  185.65.133.5    2a03:1b20:d:f011:1::f001  40     3155      ✔️     31173     ✔️      fi-hel-wg-201 
- 🇫🇮    Finland  Helsinki  fi-hel-wg-socks5-202.relays.mullvad.net.relays.mullvad.net  185.65.133.85   2a03:1b20:d:f011:2::f001  40     3194      ✔️     31173     ✔️      fi-hel-wg-202 
- 🇫🇮    Finland  Helsinki  fi-hel-wg-socks5-203.relays.mullvad.net.relays.mullvad.net  185.65.133.165  2a03:1b20:d:f011:3::f001  40     3210      ✔️     31173     ✔️      fi-hel-wg-203 
