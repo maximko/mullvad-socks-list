@@ -1,5 +1,5 @@
-Date: 2026-03-28 07-31-38 UTC
-Total active proxies: 551
+Date: 2026-03-28 13-36-22 UTC
+Total active proxies: 549
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -71,8 +71,6 @@ Total active proxies: 551
  🇨🇦    Canada          Vancouver           10.124.0.71   104.193.135.100  2606:9580:103:f::f001      10     3071      ❌     techfutures    ✔️      ca-van-wg-202 
  🇨🇦    Canada          Vancouver           10.124.1.65   149.22.81.194    2a02:6ea0:5100:1::f001     10     3319      ❌     DataPacket     ✔️      ca-van-wg-301 
  🇨🇦    Canada          Vancouver           10.124.1.66   149.22.81.207    2a02:6ea0:5100:2::f001     10     3320      ❌     DataPacket     ✔️      ca-van-wg-302 
- 🇨🇦    Canada          Calgary             10.124.0.174  38.240.225.36    2606:9580:438:32::b01f     10     3174      ❌     techfutures    ✔️      ca-yyc-wg-201 
- 🇨🇦    Canada          Calgary             10.124.0.178  38.240.225.68    2606:9580:438:64::b02f     10     3178      ❌     techfutures    ✔️      ca-yyc-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.0.121  193.32.127.66    2a03:1b20:a:f011::f001     20     3121      ✔️     31173          ✔️      ch-zrh-wg-001 
  🇨🇭    Switzerland     Zurich              10.124.0.122  193.32.127.67    2a03:1b20:a:f011::f101     20     3122      ✔️     31173          ✔️      ch-zrh-wg-002 
  🇨🇭    Switzerland     Zurich              10.124.0.123  193.32.127.68    2a03:1b20:a:f011::f201     20     3123      ✔️     31173          ✔️      ch-zrh-wg-003 

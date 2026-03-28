@@ -68,8 +68,6 @@
 10.124.0.71 America/Vancouver
 10.124.1.65 America/Vancouver
 10.124.1.66 America/Vancouver
-10.124.0.174 America/Edmonton
-10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
