@@ -1,5 +1,5 @@
-Date: 2026-03-31 03-41-20 UTC
-Total active proxies: 542
+Date: 2026-03-31 07-53-26 UTC
+Total active proxies: 544
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -394,6 +394,8 @@ Total active proxies: 542
  🇺🇸    USA             Denver, CO          10.124.1.36   23.234.70.127    2607:9000:2000:46::f001    10     3290      ❌     Tzulo          ✔️      us-den-wg-206 
  🇺🇸    USA             Denver, CO          10.124.1.37   23.234.71.2      2607:9000:2000:47::f001    10     3291      ❌     Tzulo          ✔️      us-den-wg-207 
  🇺🇸    USA             Denver, CO          10.124.1.38   23.234.71.127    2607:9000:2000:48::f001    10     3292      ❌     Tzulo          ✔️      us-den-wg-208 
+ 🇺🇸    USA             Detroit, MI         10.124.0.16   185.141.119.131  2a06:3040:11:610::f001     10     3016      ❌     HostRoyale     ✔️      us-det-wg-001 
+ 🇺🇸    USA             Detroit, MI         10.124.0.23   185.141.119.161  2a06:3040:11:610::f101     10     3023      ❌     HostRoyale     ✔️      us-det-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.205  37.19.221.130    2a02:6ea0:e001::f001       10     3459      ❌     DataPacket     ✔️      us-hou-wg-001 
  🇺🇸    USA             Houston, TX         10.124.1.193  37.19.221.143    2a02:6ea0:e001:1::f001     10     3447      ❌     DataPacket     ✔️      us-hou-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.194  37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️      us-hou-wg-003 
