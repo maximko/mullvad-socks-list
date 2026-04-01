@@ -68,6 +68,8 @@
 10.124.0.71 America/Vancouver
 10.124.1.65 America/Vancouver
 10.124.1.66 America/Vancouver
+10.124.0.174 America/Edmonton
+10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
@@ -221,7 +223,7 @@
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
-;; communications error to 1.1.1.1#53: timed out America/Mexico_City
+10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
 10.124.0.205 America/Mexico_City
 10.124.0.206 America/Mexico_City
