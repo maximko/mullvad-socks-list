@@ -1,5 +1,5 @@
-Date: 2026-04-08 14-13-01 UTC
-Total active proxies: 543
+Date: 2026-04-08 19-47-58 UTC
+Total active proxies: 545
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -321,6 +321,8 @@ Total active proxies: 543
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
  🇸🇬    Singapore       Singapore           10.124.0.100  146.70.199.194   2a0d:5600:d:44::a01f       10     3100      ❌     M247           ✔️      sg-sin-wg-101 
  🇸🇬    Singapore       Singapore           10.124.0.102  146.70.199.130   2a0d:5600:d:43::a02f       10     3102      ❌     M247           ✔️      sg-sin-wg-102 
+ 🇸🇮    Slovenia        Ljubljana           10.124.0.248  93.115.0.3       2a06:3040:7:210::f001      10     3248      ❌     HostRoyale     ✔️      si-lju-wg-001 
+ 🇸🇮    Slovenia        Ljubljana           10.124.0.249  93.115.0.33      2a06:3040:7:210::f101      10     3249      ❌     HostRoyale     ✔️      si-lju-wg-002 
  🇸🇰    Slovakia        Bratislava          10.124.2.3    138.199.34.129   2a02:6ea0:2901:1::f001     10     3511      ❌     DataPacket     ✔️      sk-bts-wg-001 
  🇸🇰    Slovakia        Bratislava          10.124.2.4    138.199.34.143   2a02:6ea0:2901::a02f       10     3512      ❌     DataPacket     ✔️      sk-bts-wg-002 
  🇹🇭    Thailand        Bangkok             10.124.1.4    156.59.50.194    2602:ffe4:c09:10a::f001    10     3258      ❌     Zenlayer       ✔️      th-bkk-wg-001 
