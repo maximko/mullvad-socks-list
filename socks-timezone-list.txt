@@ -82,7 +82,6 @@
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
 10.124.1.216 Europe/Zurich
-10.124.0.176 Europe/Zurich
 10.124.0.177 Europe/Zurich
 10.124.0.180 Europe/Zurich
 10.124.1.20 America/Santiago
@@ -307,7 +306,6 @@
 10.124.0.46 Europe/Stockholm
 10.124.0.52 Europe/Stockholm
 10.124.0.58 Europe/Stockholm
-10.124.0.79 Europe/Stockholm
 10.124.0.115 Europe/Stockholm
 10.124.0.129 Europe/Stockholm
 10.124.0.130 Europe/Stockholm
