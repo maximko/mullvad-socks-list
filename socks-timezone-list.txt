@@ -14,7 +14,6 @@
 10.124.0.221 Australia/Brisbane
 10.124.0.69 Australia/Brisbane
 10.124.1.53 Australia/Perth
-10.124.1.59 Australia/Perth
 10.124.2.107 Australia/Perth
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
