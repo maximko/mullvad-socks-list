@@ -82,6 +82,7 @@
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
 10.124.1.216 Europe/Zurich
+10.124.0.176 Europe/Zurich
 10.124.0.177 Europe/Zurich
 10.124.0.180 Europe/Zurich
 10.124.1.20 America/Santiago
@@ -362,7 +363,7 @@
 10.124.2.76 America/Los_Angeles
 10.124.2.77 America/Los_Angeles
 10.124.2.78 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.2.79 America/Chicago
 10.124.0.27 America/Chicago
 10.124.0.43 America/Chicago
 10.124.0.44 America/Chicago
