@@ -1,5 +1,5 @@
-Date: 2026-05-08 04-00-19 UTC
-Total active proxies: 543
+Date: 2026-05-08 08-11-59 UTC
+Total active proxies: 542
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -164,7 +164,6 @@ Total active proxies: 543
  🇫🇷    France          Paris               10.124.0.117  193.32.126.67    2a03:1b20:9:f011::f101     20     3117      ✔️     31173          ✔️      fr-par-wg-002 
  🇫🇷    France          Paris               10.124.0.118  193.32.126.68    2a03:1b20:9:f011::f201     20     3118      ✔️     31173          ✔️      fr-par-wg-003 
  🇫🇷    France          Paris               10.124.0.119  193.32.126.69    2a03:1b20:9:f011::f301     20     3119      ✔️     31173          ✔️      fr-par-wg-004 
- 🇫🇷    France          Paris               10.124.0.120  193.32.126.70    2a03:1b20:9:f011::f401     20     3120      ✔️     31173          ✔️      fr-par-wg-005 
  🇫🇷    France          Paris               10.124.0.238  193.32.126.84    2a03:1b20:9:f011::f001     20     3238      ✔️     31173          ✔️      fr-par-wg-006 
  🇫🇷    France          Paris               10.124.0.142  193.32.126.83    2a03:1b20:9:f011::3f       20     3142      ✔️     31173          ✔️      fr-par-wg-007 
  🇫🇷    France          Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::f001       10     3223      ❌     M247           ✔️      fr-par-wg-101 
