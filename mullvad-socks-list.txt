@@ -1,5 +1,5 @@
-Date: 2026-05-13 04-32-32 UTC
-Total active proxies: 525
+Date: 2026-05-13 09-30-10 UTC
+Total active proxies: 541
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -348,6 +348,22 @@ Total active proxies: 525
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f       10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
  🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f     10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
  🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001     10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
+ 🇺🇸    USA             Chicago, IL         10.124.1.87   68.235.46.2      2607:9000:0:101::f001      10     3341      ❌     Tzulo          ✔️      us-chi-wg-301 
+ 🇺🇸    USA             Chicago, IL         10.124.1.88   68.235.46.33     2607:9000:0:102::f001      10     3342      ❌     Tzulo          ✔️      us-chi-wg-302 
+ 🇺🇸    USA             Chicago, IL         10.124.1.89   68.235.46.64     2607:9000:0:103::f001      10     3343      ❌     Tzulo          ✔️      us-chi-wg-303 
+ 🇺🇸    USA             Chicago, IL         10.124.1.90   68.235.46.95     2607:9000:0:104::f001      10     3344      ❌     Tzulo          ✔️      us-chi-wg-304 
+ 🇺🇸    USA             Chicago, IL         10.124.1.92   68.235.46.126    2607:9000:0:105::f001      10     3346      ❌     Tzulo          ✔️      us-chi-wg-305 
+ 🇺🇸    USA             Chicago, IL         10.124.1.93   68.235.46.157    2607:9000:0:106::f001      10     3347      ❌     Tzulo          ✔️      us-chi-wg-306 
+ 🇺🇸    USA             Chicago, IL         10.124.1.94   68.235.46.188    2607:9000:0:107::f001      10     3348      ❌     Tzulo          ✔️      us-chi-wg-307 
+ 🇺🇸    USA             Chicago, IL         10.124.1.95   68.235.46.209    2607:9000:0:108::f001      10     3349      ❌     Tzulo          ✔️      us-chi-wg-308 
+ 🇺🇸    USA             Chicago, IL         10.124.0.212  173.249.252.2    2607:9000:100:41::f001     20     3212      ❌     Tzulo          ✔️      us-chi-wg-309 
+ 🇺🇸    USA             Chicago, IL         10.124.1.230  173.249.252.127  2607:9000:100:42::f001     20     3484      ❌     Tzulo          ✔️      us-chi-wg-310 
+ 🇺🇸    USA             Chicago, IL         10.124.1.231  173.249.253.2    2607:9000:100:43::f001     20     3485      ❌     Tzulo          ✔️      us-chi-wg-311 
+ 🇺🇸    USA             Chicago, IL         10.124.1.232  173.249.253.127  2607:9000:100:44::f001     20     3486      ❌     Tzulo          ✔️      us-chi-wg-312 
+ 🇺🇸    USA             Chicago, IL         10.124.2.76   173.249.254.2    2607:9000:100:45::f001     20     3584      ❌     Tzulo          ✔️      us-chi-wg-313 
+ 🇺🇸    USA             Chicago, IL         10.124.2.77   173.249.254.127  2607:9000:100:46::f001     20     3585      ❌     Tzulo          ✔️      us-chi-wg-314 
+ 🇺🇸    USA             Chicago, IL         10.124.2.78   173.249.255.2    2607:9000:100:47::f001     20     3586      ❌     Tzulo          ✔️      us-chi-wg-315 
+ 🇺🇸    USA             Chicago, IL         10.124.2.79   173.249.255.127  2607:9000:100:48::f001     20     3587      ❌     Tzulo          ✔️      us-chi-wg-316 
  🇺🇸    USA             Dallas, TX          10.124.0.27   146.70.211.66    2001:ac8:9a:76::1f         10     3027      ❌     M247           ✔️      us-dal-wg-001 
  🇺🇸    USA             Dallas, TX          10.124.0.43   146.70.211.2     2001:ac8:9a:75::2f         10     3043      ❌     M247           ✔️      us-dal-wg-002 
  🇺🇸    USA             Dallas, TX          10.124.0.44   146.70.211.130   2001:ac8:9a:78::3f         10     3044      ❌     M247           ✔️      us-dal-wg-003 
