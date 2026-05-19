@@ -386,14 +386,6 @@
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
-10.124.0.147 America/Denver
-10.124.0.148 America/Denver
-10.124.0.149 America/Denver
-10.124.0.150 America/Denver
-10.124.0.151 America/Denver
-10.124.1.36 America/Denver
-10.124.1.37 America/Denver
-10.124.1.38 America/Denver
 10.124.0.16 America/Detroit
 10.124.0.23 America/Detroit
 10.124.1.205 America/Chicago
