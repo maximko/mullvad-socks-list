@@ -132,7 +132,7 @@
 10.124.0.230 Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
-10.124.0.140 Europe/Tallinn
+;; communications error to 1.1.1.1#53: timed out Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
 10.124.1.69 Europe/Madrid
@@ -150,7 +150,7 @@
 10.124.0.155 Europe/Helsinki
 10.124.0.194 Europe/Helsinki
 10.124.0.210 Europe/Helsinki
-10.124.1.63 Europe/Paris
+;; communications error to 1.1.1.1#53: timed out Europe/Paris
 10.124.1.64 Europe/Paris
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
@@ -384,6 +384,14 @@
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
 10.124.1.198 America/Denver
+10.124.0.147 America/Denver
+10.124.0.148 America/Denver
+10.124.0.149 America/Denver
+10.124.0.150 America/Denver
+10.124.0.151 America/Denver
+10.124.1.36 America/Denver
+10.124.1.37 America/Denver
+10.124.1.38 America/Denver
 10.124.0.16 America/Detroit
 10.124.0.23 America/Detroit
 10.124.1.205 America/Chicago
