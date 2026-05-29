@@ -129,7 +129,7 @@
 10.124.0.17 Europe/Copenhagen
 10.124.2.91 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
-10.124.0.230 Europe/Copenhagen
+;; communications error to 1.1.1.1#53: timed out Europe/Copenhagen
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
@@ -329,12 +329,6 @@
 10.124.0.195 Europe/Kyiv
 10.124.1.233 America/New_York
 10.124.1.234 America/New_York
-10.124.1.116 America/New_York
-10.124.1.117 America/New_York
-10.124.1.118 America/New_York
-10.124.1.119 America/New_York
-10.124.1.120 America/New_York
-10.124.1.121 America/New_York
 10.124.1.130 America/New_York
 10.124.1.131 America/New_York
 10.124.1.132 America/New_York
@@ -525,10 +519,6 @@
 10.124.1.159 America/Los_Angeles
 10.124.1.160 America/Los_Angeles
 10.124.1.161 America/Los_Angeles
-10.124.1.12 America/Chicago
-10.124.1.13 America/Chicago
-10.124.1.14 America/Chicago
-10.124.1.15 America/Chicago
 10.124.1.139 America/Denver
 10.124.1.140 America/Denver
 10.124.1.141 America/Denver
