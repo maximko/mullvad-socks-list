@@ -420,8 +420,8 @@
 10.124.0.208 America/Chicago
 10.124.0.209 America/Chicago
 10.124.1.128 America/Chicago
-10.124.1.129 America/Chicago
-10.124.1.175 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Chicago
+;; Warning: ID mismatch: expected ID 40377, got 26576 America/Los_Angeles
 10.124.1.181 America/Los_Angeles
 10.124.1.176 America/Los_Angeles
 10.124.1.182 America/Los_Angeles
