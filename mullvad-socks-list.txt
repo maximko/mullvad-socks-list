@@ -1,5 +1,5 @@
-Date: 2026-06-09 20-34-25 UTC
-Total active proxies: 536
+Date: 2026-06-10 05-04-54 UTC
+Total active proxies: 534
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -313,8 +313,6 @@ Total active proxies: 536
  🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001     40     3079      ✔️     DataPacket     ✔️      se-sto-wg-205 
  🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001     40     3115      ✔️     DataPacket     ✔️      se-sto-wg-206 
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001     40     3128      ✔️     DataPacket     ✔️      se-sto-wg-207 
- 🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001     40     3129      ✔️     DataPacket     ✔️      se-sto-wg-208 
- 🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001     40     3130      ✔️     DataPacket     ✔️      se-sto-wg-209 
  🇸🇬    Singapore       Singapore           10.124.1.244  138.199.60.2     2a02:6ea0:d13e:1::a09f     10     3498      ❌     DataPacket     ✔️      sg-sin-wg-001 
  🇸🇬    Singapore       Singapore           10.124.1.245  138.199.60.15    2a02:6ea0:d13e:2::a10f     10     3499      ❌     DataPacket     ✔️      sg-sin-wg-002 
  🇸🇬    Singapore       Singapore           10.124.1.246  138.199.60.28    2a02:6ea0:d13e:3::a11f     10     3500      ❌     DataPacket     ✔️      sg-sin-wg-003 
