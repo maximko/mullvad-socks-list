@@ -175,10 +175,10 @@
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
 10.124.1.62 Europe/London
-10.124.1.34 Asia/Vladivostok
-10.124.1.35 Asia/Vladivostok
-10.124.1.91 Asia/Vladivostok
-10.124.1.164 Asia/Vladivostok
+10.124.1.34 Europe/London
+10.124.1.35 Europe/London
+10.124.1.91 Europe/London
+10.124.1.164 Europe/London
 10.124.1.249 Europe/London
 10.124.1.247 Europe/London
 10.124.0.237 Europe/London
