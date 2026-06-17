@@ -73,9 +73,6 @@
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
-10.124.0.124 Europe/Zurich
-10.124.0.125 Europe/Zurich
-10.124.0.241 Europe/Zurich
 10.124.0.105 Europe/Zurich
 10.124.0.106 Europe/Zurich
 10.124.1.213 Europe/Zurich
@@ -175,7 +172,6 @@
 10.124.1.18 Europe/London
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
-10.124.1.62 Europe/London
 10.124.1.34 Europe/London
 10.124.1.35 Europe/London
 10.124.1.91 Europe/London
@@ -231,7 +227,6 @@
 10.124.1.40 Asia/Kuala_Lumpur
 10.124.0.97 Africa/Lagos
 10.124.0.98 Africa/Lagos
-10.124.0.4 Europe/Amsterdam
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
