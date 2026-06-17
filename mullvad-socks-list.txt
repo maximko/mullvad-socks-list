@@ -1,5 +1,5 @@
-Date: 2026-06-17 11-21-59 UTC
-Total active proxies: 531
+Date: 2026-06-17 16-25-49 UTC
+Total active proxies: 530
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -217,7 +217,6 @@ Total active proxies: 531
  🇯🇵    Japan           Osaka               10.124.1.178  194.114.136.34   2403:fbc0:7000::f101       10     3432      ❌     xtom           ✔️      jp-osa-wg-002 
  🇯🇵    Japan           Osaka               10.124.1.179  194.114.136.65   2403:fbc0:7000::f201       10     3433      ❌     xtom           ✔️      jp-osa-wg-003 
  🇯🇵    Japan           Osaka               10.124.1.180  194.114.136.96   2403:fbc0:7000::f301       10     3434      ❌     xtom           ✔️      jp-osa-wg-004 
- 🇯🇵    Japan           Tokyo               10.124.1.218  138.199.21.239   2a02:6ea0:d31c::a15f       10     3472      ❌     DataPacket     ✔️      jp-tyo-wg-001 
  🇯🇵    Japan           Tokyo               10.124.1.217  138.199.21.226   2a02:6ea0:d31b::a14f       10     3471      ❌     DataPacket     ✔️      jp-tyo-wg-002 
  🇯🇵    Japan           Tokyo               10.124.0.107  146.70.138.194   2001:ac8:40:11::b01f       10     3107      ❌     M247           ✔️      jp-tyo-wg-201 
  🇯🇵    Japan           Tokyo               10.124.0.160  146.70.201.2     2001:ac8:40:13::b02f       10     3160      ❌     M247           ✔️      jp-tyo-wg-202 
