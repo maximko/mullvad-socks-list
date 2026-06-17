@@ -4,6 +4,7 @@
 10.124.0.47 America/Argentina/Buenos_Aires
 10.124.0.182 Europe/Vienna
 10.124.1.9 Europe/Bucharest
+10.124.1.10 Europe/Bucharest
 10.124.1.73 Europe/Vienna
 10.124.1.74 Europe/Vienna
 10.124.0.99 Australia/Adelaide
