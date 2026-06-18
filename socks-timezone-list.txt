@@ -215,6 +215,7 @@
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
+10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
@@ -232,7 +233,7 @@
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
+10.124.0.94 Europe/Amsterdam
 10.124.0.243 Europe/Amsterdam
 10.124.0.96 Europe/Amsterdam
 10.124.0.19 Europe/Berlin
@@ -515,6 +516,7 @@
 10.124.1.159 America/Los_Angeles
 10.124.1.160 America/Los_Angeles
 10.124.1.161 America/Los_Angeles
+10.124.1.138 America/Denver
 10.124.1.139 America/Denver
 10.124.1.140 America/Denver
 10.124.1.141 America/Denver
