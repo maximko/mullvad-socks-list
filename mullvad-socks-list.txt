@@ -1,5 +1,5 @@
-Date: 2026-06-22 06-10-39 UTC
-Total active proxies: 535
+Date: 2026-06-22 12-36-34 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -17,7 +17,6 @@ Total active proxies: 535
  🇦🇺    Australia       Brisbane            10.124.0.221  103.216.220.34   2404:f780:4:dec::a02f      10     3221      ❌     hostuniversal  ✔️      au-bne-wg-302 
  🇦🇺    Australia       Brisbane            10.124.0.69   103.216.220.66   2404:f780:4:def::f201      10     3069      ❌     hostuniversal  ✔️      au-bne-wg-303 
  🇦🇺    Australia       Melbourne           10.124.1.53   163.47.16.146    2406:d501:f:dfa::f001      20     3307      ❌     hostuniversal  ✔️      au-mel-wg-401 
- 🇦🇺    Australia       Melbourne           10.124.1.59   163.47.16.150    2406:d501:f:dfb::f001      20     3313      ❌     hostuniversal  ✔️      au-mel-wg-402 
  🇦🇺    Australia       Melbourne           10.124.2.107  163.47.16.154    2406:d501:f:dfc::f001      20     3615      ❌     hostuniversal  ✔️      au-mel-wg-403 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️      au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001      10     3311      ❌     hostuniversal  ✔️      au-per-wg-302 
@@ -84,7 +83,6 @@ Total active proxies: 535
  🇨🇭    Switzerland     Zurich              10.124.1.214  138.199.6.207    2a02:6ea0:d406:2::a19f     10     3468      ❌     DataPacket     ✔️      ch-zrh-wg-402 
  🇨🇭    Switzerland     Zurich              10.124.1.216  138.199.6.233    2a02:6ea0:d406:4::a21f     10     3470      ❌     DataPacket     ✔️      ch-zrh-wg-404 
  🇨🇭    Switzerland     Zurich              10.124.0.176  135.136.18.194   2001:ac8:28:ab::f001       10     3176      ❌     M247           ✔️      ch-zrh-wg-502 
- 🇨🇭    Switzerland     Zurich              10.124.0.177  77.243.184.2     2001:ac8:28:ac::f001       10     3177      ❌     M247           ✔️      ch-zrh-wg-503 
  🇨🇭    Switzerland     Zurich              10.124.0.180  77.243.184.130   2001:ac8:28:ad::f001       10     3180      ❌     M247           ✔️      ch-zrh-wg-504 
  🇨🇱    Chile           Santiago            10.124.1.20   149.88.104.2     2a02:6ea0:fc02:2::f001     10     3274      ❌     DataPacket     ✔️      cl-scl-wg-001 
  🇨🇱    Chile           Santiago            10.124.1.21   149.88.104.15    2a02:6ea0:fc02:3::f101     10     3275      ❌     DataPacket     ✔️      cl-scl-wg-002 

@@ -14,7 +14,6 @@
 10.124.0.221 Australia/Brisbane
 10.124.0.69 Australia/Brisbane
 10.124.1.53 Australia/Perth
-10.124.1.59 Australia/Perth
 10.124.2.107 Australia/Perth
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
@@ -81,7 +80,6 @@
 10.124.1.214 Europe/Zurich
 10.124.1.216 Europe/Zurich
 10.124.0.176 Europe/Zurich
-10.124.0.177 Europe/Zurich
 10.124.0.180 Europe/Zurich
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
