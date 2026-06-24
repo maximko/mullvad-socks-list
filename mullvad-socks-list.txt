@@ -1,4 +1,4 @@
-Date: 2026-06-24 04-49-46 UTC
+Date: 2026-06-24 10-00-15 UTC
 Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -119,7 +119,6 @@ Total active proxies: 529
  🇩🇪    Germany         Frankfurt           10.124.1.241  135.136.19.2     2001:ac8:20:271::f001      20     3495      ❌     M247           ✔️      de-fra-wg-103 
  🇩🇪    Germany         Frankfurt           10.124.1.242  135.136.19.130   2001:ac8:20:272::f001      20     3496      ❌     M247           ✔️      de-fra-wg-104 
  🇩🇪    Germany         Frankfurt           10.124.1.30   194.36.25.3      2a07:fe00:1::a23f          10     3284      ❌     xtom           ✔️      de-fra-wg-301 
- 🇩🇪    Germany         Frankfurt           10.124.1.31   194.36.25.18     2a07:fe00:1::a24f          10     3285      ❌     xtom           ✔️      de-fra-wg-302 
  🇩🇪    Germany         Frankfurt           10.124.1.32   194.36.25.33     2a07:fe00:1::a25f          10     3286      ❌     xtom           ✔️      de-fra-wg-303 
  🇩🇪    Germany         Frankfurt           10.124.1.250  169.150.201.2    2a02:6ea0:c762:1::a35f     10     3504      ❌     DataPacket     ✔️      de-fra-wg-401 
  🇩🇪    Germany         Frankfurt           10.124.1.251  169.150.201.15   2a02:6ea0:c762:2::a36f     10     3505      ❌     DataPacket     ✔️      de-fra-wg-402 
@@ -180,9 +179,6 @@ Total active proxies: 529
  🇬🇧    UK              London              10.124.1.35   185.248.85.18    2a0b:89c1:3::a34f          10     3289      ❌     xtom           ✔️      gb-lon-wg-202 
  🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f          10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
  🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f          10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
- 🇬🇧    UK              London              10.124.1.249  146.70.119.66    2001:ac8:31:f007::a39f     10     3503      ❌     M247           ✔️      gb-lon-wg-301 
- 🇬🇧    UK              London              10.124.1.247  146.70.119.2     2001:ac8:31:f005::a37f     10     3501      ❌     M247           ✔️      gb-lon-wg-302 
- 🇬🇧    UK              London              10.124.0.237  146.70.119.162   2001:ac8:31:f00a::f001     10     3237      ❌     M247           ✔️      gb-lon-wg-304 
  🇬🇧    UK              Manchester          10.124.0.31   146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.0.32   135.136.22.2     2001:ac8:8b:105::f001      20     3032      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001       10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
@@ -426,6 +422,8 @@ Total active proxies: 529
  🇺🇸    USA             Los Angeles, CA     10.124.1.181  103.251.26.127   2a01:4740:3::f101          10     3435      ❌     HostRoyale     ✔️      us-lax-wg-702 
  🇺🇸    USA             Los Angeles, CA     10.124.1.176  103.251.27.3     2a01:4740:3::f201          10     3430      ❌     HostRoyale     ✔️      us-lax-wg-703 
  🇺🇸    USA             Los Angeles, CA     10.124.1.182  103.251.27.127   2a01:4740:3::f301          10     3436      ❌     HostRoyale     ✔️      us-lax-wg-704 
+ 🇺🇸    USA             Miami, FL           10.124.1.204  45.134.142.219   2a02:6ea0:cc1f:2::b62f     10     3458      ❌     DataPacket     ✔️      us-mia-wg-001 
+ 🇺🇸    USA             Miami, FL           10.124.1.199  45.134.142.193   2a02:6ea0:cc1f::f001       10     3453      ❌     DataPacket     ✔️      us-mia-wg-003 
  🇺🇸    USA             Kansas City, MO     10.124.0.86   23.234.116.3     2607:9000:e00:2::f001      10     3086      ❌     Tzulo          ✔️      us-mkc-wg-001 
  🇺🇸    USA             Kansas City, MO     10.124.0.153  23.234.116.127   2607:9000:e00:3::f001      10     3153      ❌     Tzulo          ✔️      us-mkc-wg-002 
  🇺🇸    USA             Kansas City, MO     10.124.0.157  23.234.117.3     2607:9000:e00:4::f001      10     3157      ❌     Tzulo          ✔️      us-mkc-wg-003 
@@ -502,6 +500,8 @@ Total active proxies: 529
  🇺🇸    USA             Seattle, WA         10.124.1.105  23.234.82.127    2607:9000:5000:36::f001    10     3359      ❌     Tzulo          ✔️      us-sea-wg-406 
  🇺🇸    USA             Seattle, WA         10.124.1.106  23.234.83.2      2607:9000:5000:37::f001    10     3360      ❌     Tzulo          ✔️      us-sea-wg-407 
  🇺🇸    USA             Seattle, WA         10.124.1.107  23.234.83.127    2607:9000:5000:38::f001    10     3361      ❌     Tzulo          ✔️      us-sea-wg-408 
+ 🇺🇸    USA             San Francisco, CA   10.124.1.14   45.153.102.3     2a06:3040:9:610::f101      10     3268      ❌     HostRoyale     ✔️      us-sfo-wg-001 
+ 🇺🇸    USA             San Francisco, CA   10.124.1.15   194.126.179.3    2a06:3040:9:610::f201      10     3269      ❌     HostRoyale     ✔️      us-sfo-wg-002 
  🇺🇸    USA             San Jose, CA        10.124.1.210  142.147.89.210   2604:e8c0:7::f001          10     3464      ❌     xtom           ✔️      us-sjc-wg-302 
  🇺🇸    USA             San Jose, CA        10.124.1.211  142.147.89.225   2604:e8c0:7::b68f          10     3465      ❌     xtom           ✔️      us-sjc-wg-303 
  🇺🇸    USA             San Jose, CA        10.124.1.6    79.127.217.34    2a02:6ea0:e611::f001       10     3260      ❌     DataPacket     ✔️      us-sjc-wg-401 

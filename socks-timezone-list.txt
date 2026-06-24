@@ -116,7 +116,6 @@
 10.124.1.241 Europe/Berlin
 10.124.1.242 Europe/Berlin
 10.124.1.30 Europe/Berlin
-10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
 10.124.1.250 Europe/Berlin
 10.124.1.251 Europe/Berlin
@@ -177,9 +176,6 @@
 10.124.1.35 Europe/London
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
-10.124.1.249 Europe/London
-10.124.1.247 Europe/London
-10.124.0.237 Europe/London
 10.124.0.31 Europe/London
 10.124.0.32 Europe/London
 10.124.1.162 Europe/London
@@ -423,6 +419,8 @@
 10.124.1.181 America/Los_Angeles
 10.124.1.176 America/Los_Angeles
 10.124.1.182 America/Los_Angeles
+10.124.1.204 America/New_York
+10.124.1.199 America/New_York
 10.124.0.86 America/Chicago
 10.124.0.153 America/Chicago
 10.124.0.157 America/Chicago
@@ -499,6 +497,8 @@
 10.124.1.105 America/Los_Angeles
 10.124.1.106 America/Los_Angeles
 10.124.1.107 America/Los_Angeles
+10.124.1.14 Europe/Dublin
+10.124.1.15 Africa/Cairo
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
