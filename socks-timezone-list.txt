@@ -423,12 +423,6 @@
 10.124.1.181 America/Los_Angeles
 10.124.1.176 America/Los_Angeles
 10.124.1.182 America/Los_Angeles
-10.124.1.204 America/New_York
-10.124.1.200 America/New_York
-10.124.1.199 America/New_York
-10.124.0.14 America/New_York
-10.124.0.82 America/New_York
-10.124.0.89 America/New_York
 10.124.0.86 America/Chicago
 10.124.0.153 America/Chicago
 10.124.0.157 America/Chicago
