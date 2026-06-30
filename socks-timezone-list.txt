@@ -175,6 +175,9 @@
 10.124.1.35 Europe/London
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
+10.124.1.85 Europe/London
+10.124.1.86 Europe/London
+10.124.1.117 Europe/London
 10.124.1.162 Europe/London
 10.124.1.163 Europe/London
 10.124.0.159 Europe/Athens
