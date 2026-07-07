@@ -1,4 +1,4 @@
-Date: 2026-07-07 04-36-27 UTC
+Date: 2026-07-07 10-10-56 UTC
 Total active proxies: 529
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -93,12 +93,11 @@ Total active proxies: 529
  🇨🇿    Czech Republic  Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f        10     3542      ❌     M247           ✔️      cz-prg-wg-102 
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001     10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
  🇨🇿    Czech Republic  Prague              10.124.2.58   178.249.209.175  2a02:6ea0:c201:1::f101     10     3566      ❌     DataPacket     ✔️      cz-prg-wg-202 
- 🇩🇪    Germany         Berlin              10.124.0.7    193.32.248.66    2a03:1b20:b:f011::a01f     20     3007      ✔️     31173          ✔️      de-ber-wg-001 
- 🇩🇪    Germany         Berlin              10.124.0.8    193.32.248.67    2a03:1b20:b:f011::a02f     20     3008      ✔️     31173          ✔️      de-ber-wg-002 
  🇩🇪    Germany         Berlin              10.124.0.9    193.32.248.68    2a03:1b20:b:f011::a03f     20     3009      ✔️     31173          ✔️      de-ber-wg-003 
  🇩🇪    Germany         Berlin              10.124.0.55   193.32.248.69    2a03:1b20:b:f011::a04f     20     3055      ✔️     31173          ✔️      de-ber-wg-004 
  🇩🇪    Germany         Berlin              10.124.0.179  193.32.248.70    2a03:1b20:b:f011::a05f     20     3179      ✔️     31173          ✔️      de-ber-wg-005 
  🇩🇪    Germany         Berlin              10.124.0.196  193.32.248.71    2a03:1b20:b:f011::a06f     20     3196      ✔️     31173          ✔️      de-ber-wg-006 
+ 🇩🇪    Germany         Berlin              10.124.0.239  193.32.248.75    2a03:1b20:b:f011::f701     20     3239      ✔️     31173          ✔️      de-ber-wg-007 
  🇩🇪    Germany         Berlin              10.124.0.101  193.32.248.74    2a03:1b20:b:f011::f801     20     3101      ✔️     31173          ✔️      de-ber-wg-008 
  🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f       10     3030      ❌     xtom           ✔️      de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f       10     3091      ❌     xtom           ✔️      de-dus-wg-002 
@@ -180,6 +179,7 @@ Total active proxies: 529
  🇬🇧    UK              London              10.124.1.85   146.70.119.2     2a04:9dc0:18:70::f001      20     3339      ❌     M247           ✔️      gb-lon-wg-305 
  🇬🇧    UK              London              10.124.1.86   146.70.119.130   2a04:9dc0:18:71::f001      20     3340      ❌     M247           ✔️      gb-lon-wg-306 
  🇬🇧    UK              London              10.124.1.117  135.136.58.130   2a04:9dc0:18:73::f001      29     3371      ❌     M247           ✔️      gb-lon-wg-308 
+ 🇬🇧    UK              Manchester          10.124.0.31   146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001       10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
  🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101       10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
