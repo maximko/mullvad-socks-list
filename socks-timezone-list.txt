@@ -84,7 +84,6 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
-10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
@@ -178,12 +177,14 @@
 10.124.1.117 Europe/London
 10.124.0.31 Europe/London
 10.124.0.32 Europe/London
+10.124.0.34 Europe/London
 10.124.0.88 Europe/London
 10.124.1.162 Europe/London
 10.124.1.163 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
+10.124.0.181 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
 10.124.0.203 Asia/Hong_Kong
 10.124.0.51 Asia/Hong_Kong
@@ -214,9 +215,9 @@
 10.124.1.180 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
-10.124.0.107 Asia/Tokyo
-10.124.0.160 Asia/Tokyo
-10.124.0.161 Asia/Tokyo
+10.124.1.118 Asia/Tokyo
+10.124.1.119 Asia/Tokyo
+10.124.1.120 Asia/Tokyo
 10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
 10.124.0.205 America/Mexico_City
@@ -423,6 +424,9 @@
 10.124.1.204 America/New_York
 10.124.1.200 America/New_York
 10.124.1.199 America/New_York
+10.124.0.14 America/New_York
+10.124.0.82 America/New_York
+10.124.0.89 America/New_York
 10.124.0.86 America/Chicago
 10.124.0.153 America/Chicago
 10.124.0.157 America/Chicago
