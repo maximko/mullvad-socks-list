@@ -84,11 +84,14 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
+10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
+10.124.0.7 Europe/Berlin
+10.124.0.8 Europe/Berlin
 10.124.0.9 Europe/Berlin
 10.124.0.55 Europe/Berlin
 10.124.0.179 Europe/Berlin
@@ -98,9 +101,6 @@
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
-10.124.0.53 Europe/Berlin
-10.124.0.54 Europe/Berlin
-10.124.1.23 Europe/Berlin
 10.124.1.26 Europe/Berlin
 10.124.1.27 Europe/Berlin
 10.124.0.222 Europe/Berlin
@@ -123,9 +123,9 @@
 10.124.0.230 Europe/Copenhagen
 10.124.0.138 Pacific/Efate
 10.124.0.139 Pacific/Efate
-10.124.0.140 Pacific/Efate
+;; communications error to 1.1.1.1#53: timed out Pacific/Efate
 10.124.0.252 Europe/Madrid
-10.124.0.253 Europe/Madrid
+;; Warning: ID mismatch: expected ID 44027, got 4132 Europe/Madrid
 10.124.1.69 Europe/Madrid
 10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
