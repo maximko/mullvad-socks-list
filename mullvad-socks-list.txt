@@ -1,5 +1,5 @@
-Date: 2026-07-14 03-46-38 UTC
-Total active proxies: 541
+Date: 2026-07-14 08-52-56 UTC
+Total active proxies: 544
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -246,6 +246,9 @@ Total active proxies: 541
  🇳🇱    Netherlands     Amsterdam           10.124.1.253  169.150.196.2    2a02:6ea0:c034:1::a30f     10     3507      ❌     DataPacket     ✔️      nl-ams-wg-201 
  🇳🇱    Netherlands     Amsterdam           10.124.1.254  169.150.196.15   2a02:6ea0:c034:2::a31f     10     3508      ❌     DataPacket     ✔️      nl-ams-wg-202 
  🇳🇱    Netherlands     Amsterdam           10.124.2.1    169.150.196.28   2a02:6ea0:c034:3::a32f     10     3509      ❌     DataPacket     ✔️      nl-ams-wg-203 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.244  185.184.222.3    2a07:d883:700:1::f001      100    3244      ❌     xtom           ✔️      nl-ams-wg-301 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.245  185.184.222.166  2a07:d883:700:2::f001      100    3245      ❌     xtom           ✔️      nl-ams-wg-302 
+ 🇳🇱    Netherlands     Amsterdam           10.124.1.121  185.184.222.209  2a07:d883:700:3::f001      100    3375      ❌     xtom           ✔️      nl-ams-wg-303 
  🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f       10     3006      ✔️     Blix           ✔️      no-osl-wg-001 
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f       10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f       10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
