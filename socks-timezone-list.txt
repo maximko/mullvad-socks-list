@@ -101,10 +101,6 @@
 10.124.1.23 Europe/Berlin
 10.124.1.26 Europe/Berlin
 10.124.1.27 Europe/Berlin
-10.124.0.222 Europe/Berlin
-10.124.1.24 Europe/Berlin
-10.124.1.25 Europe/Berlin
-10.124.0.240 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
 10.124.1.241 Europe/Berlin
