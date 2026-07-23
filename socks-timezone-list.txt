@@ -50,7 +50,7 @@
 10.124.2.93 America/Toronto
 10.124.2.94 America/Toronto
 10.124.2.95 America/Toronto
-10.124.2.96 America/Toronto
+;; communications error to 1.1.1.1#53: timed out America/Toronto
 10.124.2.97 America/Toronto
 10.124.2.98 America/Toronto
 10.124.2.99 America/Toronto
@@ -93,6 +93,8 @@
 10.124.2.58 Europe/Prague
 10.124.0.7 Europe/Berlin
 10.124.0.8 Europe/Berlin
+10.124.0.9 Europe/Berlin
+10.124.0.55 Europe/Berlin
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
