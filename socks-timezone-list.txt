@@ -98,6 +98,7 @@
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
+10.124.0.53 Europe/Berlin
 10.124.0.54 Europe/Berlin
 10.124.1.23 Europe/Berlin
 10.124.1.26 Europe/Berlin
@@ -401,14 +402,6 @@
 10.124.0.83 America/Los_Angeles
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
-10.124.1.49 America/Los_Angeles
-10.124.1.50 America/Los_Angeles
-10.124.1.51 America/Los_Angeles
-10.124.1.52 America/Los_Angeles
-10.124.0.236 America/Los_Angeles
-10.124.1.123 America/Los_Angeles
-10.124.1.124 America/Los_Angeles
-10.124.1.125 America/Los_Angeles
 10.124.0.22 America/Chicago
 10.124.0.24 America/Chicago
 10.124.0.26 America/Chicago
