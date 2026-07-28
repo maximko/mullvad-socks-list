@@ -1,5 +1,5 @@
-Date: 2026-07-28 03-50-19 UTC
-Total active proxies: 532
+Date: 2026-07-28 09-21-11 UTC
+Total active proxies: 540
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -98,6 +98,8 @@ Total active proxies: 532
  🇩🇪    Germany         Berlin              10.124.0.8    193.32.248.67    2a03:1b20:b:f011::a02f     20     3008      ✔️     31173          ✔️      de-ber-wg-002 
  🇩🇪    Germany         Berlin              10.124.0.9    193.32.248.68    2a03:1b20:b:f011::f201     20     3009      ✔️     31173          ✔️      de-ber-wg-003 
  🇩🇪    Germany         Berlin              10.124.0.55   193.32.248.69    2a03:1b20:b:f011::f301     20     3055      ✔️     31173          ✔️      de-ber-wg-004 
+ 🇩🇪    Germany         Berlin              10.124.2.10   152.233.51.3     2a02:6ea0:5e03:3::f001     50     3518      ❌     DataPacket     ✔️      de-ber-wg-101 
+ 🇩🇪    Germany         Berlin              10.124.2.12   152.233.51.63    2a02:6ea0:5e03:5::f001     50     3520      ❌     DataPacket     ✔️      de-ber-wg-103 
  🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f       10     3030      ❌     xtom           ✔️      de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f       10     3091      ❌     xtom           ✔️      de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f       10     3092      ❌     xtom           ✔️      de-dus-wg-003 
@@ -293,7 +295,7 @@ Total active proxies: 532
  🇸🇪    Sweden          Malmö               10.124.0.191  45.83.220.70     2a03:1b20:1:e011::a23f     20     3191      ✔️     31173          ✔️      se-mma-wg-103 
  🇸🇪    Sweden          Malmö               10.124.1.80   45.129.59.19     2a03:1b20:1:e011::f701     40     3334      ✔️     31173          ✔️      se-mma-wg-111 
  🇸🇪    Sweden          Malmö               10.124.1.77   45.129.59.129    2a03:1b20:1:e011::f601     40     3331      ✔️     31173          ✔️      se-mma-wg-112 
- 🇸🇪    Sweden          Stockholm           10.124.1.184  185.195.233.76   2a03:1b20:4:f011::999f     20     3438      ✔️     31173          ✔️      se-sto-wg-001 
+ 🇸🇪    Sweden          Stockholm           10.124.1.184  85.195.233.76    2a03:1b20:4:f011::999f     20     3438      ✔️     31173          ✔️      se-sto-wg-001 
  🇸🇪    Sweden          Stockholm           10.124.0.11   185.65.135.67    2a03:1b20:4:f011::a02f     20     3011      ✔️     31173          ✔️      se-sto-wg-002 
  🇸🇪    Sweden          Stockholm           10.124.2.48   185.65.135.68    2a03:1b20:4:f011::f201     20     3556      ✔️     31173          ✔️      se-sto-wg-003 
  🇸🇪    Sweden          Stockholm           10.124.0.172  185.65.135.70    2a03:1b20:4:f011::b07f     20     3172      ✔️     31173          ✔️      se-sto-wg-007 
@@ -405,6 +407,12 @@ Total active proxies: 532
  🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
+ 🇺🇸    USA             Los Angeles, CA     10.124.0.101  146.70.173.2     2a0d:5600:8:4::f001        20     3101      ❌     M247           ✔️      us-lax-wg-401 
+ 🇺🇸    USA             Los Angeles, CA     10.124.0.179  146.70.173.130   2a0d:5600:8:6::f001        20     3179      ❌     M247           ✔️      us-lax-wg-402 
+ 🇺🇸    USA             Los Angeles, CA     10.124.0.196  146.70.172.2     2a0d:5600:8:d::f001        20     3196      ❌     M247           ✔️      us-lax-wg-403 
+ 🇺🇸    USA             Los Angeles, CA     10.124.0.222  146.70.172.130   2a0d:5600:8:2f::f001       20     3222      ❌     M247           ✔️      us-lax-wg-404 
+ 🇺🇸    USA             Los Angeles, CA     10.124.0.239  89.45.4.130      2a0d:5600:8:37::f001       20     3239      ❌     M247           ✔️      us-lax-wg-405 
+ 🇺🇸    USA             Los Angeles, CA     10.124.1.24   146.70.174.2     2a0d:5600:8:38::f001       10     3278      ❌     M247           ✔️      us-lax-wg-406 
  🇺🇸    USA             Los Angeles, CA     10.124.0.22   23.162.40.3      2602:fa19::f001            10     3022      ❌     xtom           ✔️      us-lax-wg-601 
  🇺🇸    USA             Los Angeles, CA     10.124.0.24   23.162.40.127    2602:fa19::f101            10     3024      ❌     xtom           ✔️      us-lax-wg-602 
  🇺🇸    USA             Los Angeles, CA     10.124.0.26   23.159.216.3     2602:fa47::f001            10     3026      ❌     xtom           ✔️      us-lax-wg-603 
