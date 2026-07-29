@@ -1,5 +1,5 @@
-Date: 2026-07-28 20-04-47 UTC
-Total active proxies: 539
+Date: 2026-07-29 03-53-59 UTC
+Total active proxies: 538
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -457,7 +457,6 @@ Total active proxies: 539
  🇺🇸    USA             New York, NY        10.124.1.46   146.70.171.66    2a0d:5600:24:1372::f001    10     3300      ❌     M247           ✔️      us-nyc-wg-604 
  🇺🇸    USA             New York, NY        10.124.1.47   146.70.171.130   2a0d:5600:24:1374::f001    10     3301      ❌     M247           ✔️      us-nyc-wg-605 
  🇺🇸    USA             New York, NY        10.124.0.235  146.70.168.194   2a0d:5600:24:1379::f001    10     3235      ❌     M247           ✔️      us-nyc-wg-606 
- 🇺🇸    USA             New York, NY        10.124.0.132  23.162.8.67      2602:fa1f:1::f033          10     3132      ❌     xtom           ✔️      us-nyc-wg-702 
  🇺🇸    USA             New York, NY        10.124.0.170  23.234.100.3     2607:9000:a000:31::f001    10     3170      ❌     Tzulo          ✔️      us-nyc-wg-801 
  🇺🇸    USA             New York, NY        10.124.0.184  23.234.100.127   2607:9000:a000:32::f001    10     3184      ❌     Tzulo          ✔️      us-nyc-wg-802 
  🇺🇸    USA             New York, NY        10.124.0.188  23.234.101.3     2607:9000:a000:33::f001    10     3188      ❌     Tzulo          ✔️      us-nyc-wg-803 
