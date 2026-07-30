@@ -105,6 +105,7 @@
 10.124.0.54 Europe/Berlin
 10.124.1.23 Europe/Berlin
 10.124.1.26 Europe/Berlin
+10.124.0.240 Europe/Berlin
 10.124.1.238 Europe/Berlin
 10.124.1.239 Europe/Berlin
 10.124.1.241 Europe/Berlin
@@ -152,6 +153,7 @@
 10.124.0.238 Europe/Paris
 10.124.0.142 Europe/Paris
 10.124.0.223 Europe/Paris
+10.124.0.224 Europe/Paris
 10.124.1.11 Europe/Paris
 10.124.1.78 Europe/Paris
 10.124.1.79 Europe/Paris
@@ -170,6 +172,7 @@
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
 10.124.1.85 Europe/London
+10.124.1.86 Europe/London
 10.124.1.117 Europe/London
 10.124.0.31 Europe/London
 10.124.0.32 Europe/London

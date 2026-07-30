@@ -1,5 +1,5 @@
-Date: 2026-07-30 03-44-20 UTC
-Total active proxies: 539
+Date: 2026-07-30 09-16-29 UTC
+Total active proxies: 541
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -108,6 +108,7 @@ Total active proxies: 539
  🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101     20     3054      ✔️     31173          ✔️      de-fra-wg-002 
  🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201     20     3277      ✔️     31173          ✔️      de-fra-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301     20     3280      ✔️     31173          ✔️      de-fra-wg-004 
+ 🇩🇪    Germany         Frankfurt           10.124.0.240  185.209.196.75   2a03:1b20:6:f011::f401     20     3240      ✔️     31173          ✔️      de-fra-wg-005 
  🇩🇪    Germany         Frankfurt           10.124.1.238  146.70.117.2     2001:ac8:20:270:1::f001    20     3492      ❌     M247           ✔️      de-fra-wg-101 
  🇩🇪    Germany         Frankfurt           10.124.1.239  146.70.117.130   2001:ac8:20:270:2::f001    20     3493      ❌     M247           ✔️      de-fra-wg-102 
  🇩🇪    Germany         Frankfurt           10.124.1.241  135.136.19.2     2001:ac8:20:271::f001      20     3495      ❌     M247           ✔️      de-fra-wg-103 
@@ -155,6 +156,7 @@ Total active proxies: 539
  🇫🇷    France          Paris               10.124.0.238  193.32.126.84    2a03:1b20:9:f011::f501     20     3238      ✔️     31173          ✔️      fr-par-wg-006 
  🇫🇷    France          Paris               10.124.0.142  193.32.126.83    2a03:1b20:9:f011::3f       20     3142      ✔️     31173          ✔️      fr-par-wg-007 
  🇫🇷    France          Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::f001       20     3223      ❌     M247           ✔️      fr-par-wg-101 
+ 🇫🇷    France          Paris               10.124.0.224  146.70.184.130   2001:ac8:25:3b::f001       20     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇫🇷    France          Paris               10.124.1.11   185.244.213.2    2001:ac8:25:3c::f001       20     3265      ❌     M247           ✔️      fr-par-wg-103 
  🇫🇷    France          Paris               10.124.1.78   95.173.222.2     2a02:6ea0:1901:2::f001     10     3332      ❌     DataPacket     ✔️      fr-par-wg-301 
  🇫🇷    France          Paris               10.124.1.79   95.173.222.31    2a02:6ea0:1901:3::f001     10     3333      ❌     DataPacket     ✔️      fr-par-wg-302 
@@ -173,6 +175,7 @@ Total active proxies: 539
  🇬🇧    UK              London              10.124.1.91   185.248.85.33    2a0b:89c1:3::a35f          10     3345      ❌     xtom           ✔️      gb-lon-wg-203 
  🇬🇧    UK              London              10.124.1.164  185.248.85.48    2a0b:89c1:3::a36f          10     3418      ❌     xtom           ✔️      gb-lon-wg-204 
  🇬🇧    UK              London              10.124.1.85   146.70.119.2     2a04:9dc0:18:70::f001      20     3339      ❌     M247           ✔️      gb-lon-wg-305 
+ 🇬🇧    UK              London              10.124.1.86   146.70.119.130   2a04:9dc0:18:71::f001      20     3340      ❌     M247           ✔️      gb-lon-wg-306 
  🇬🇧    UK              London              10.124.1.117  135.136.58.130   2a04:9dc0:18:73::f001      29     3371      ❌     M247           ✔️      gb-lon-wg-308 
  🇬🇧    UK              Manchester          10.124.0.31   146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.0.32   135.136.22.2     2001:ac8:8b:105::f001      20     3032      ❌     M247           ✔️      gb-mnc-wg-002 
@@ -539,6 +542,3 @@ Total active proxies: 539
  🇺🇸    USA             Washington DC       10.124.1.109  185.213.193.127  2604:980:1002:11::f101     10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59   154.47.30.130    2a02:6ea0:f206::f001       10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60   154.47.30.143    2a02:6ea0:f207::f001       10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
-Failed to resovle:
- flag  country  city       socks5                                   ipv4            ipv6                    speed  multihop  owned  provider  stboot  hostname      
- 🇩🇪    Germany  Frankfurt  de-fra-wg-socks5-005.relays.mullvad.net  185.209.196.75  2a03:1b20:6:f011::f401  20     3240      ✔️     31173     ✔️      de-fra-wg-005 
