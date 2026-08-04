@@ -1,5 +1,5 @@
-Date: 2026-08-04 03-52-52 UTC
-Total active proxies: 540
+Date: 2026-08-04 09-25-49 UTC
+Total active proxies: 542
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
@@ -247,6 +247,8 @@ Total active proxies: 540
  🇳🇱    Netherlands     Amsterdam           10.124.0.244  185.184.222.3    2a07:d883:700:1::f001      100    3244      ✔️     xtom           ✔️      nl-ams-wg-301 
  🇳🇱    Netherlands     Amsterdam           10.124.0.245  185.184.222.166  2a07:d883:700:2::f001      100    3245      ✔️     xtom           ✔️      nl-ams-wg-302 
  🇳🇱    Netherlands     Amsterdam           10.124.1.121  185.184.222.209  2a07:d883:700:3::f001      100    3375      ✔️     xtom           ✔️      nl-ams-wg-303 
+ 🇳🇱    Netherlands     Amsterdam           10.124.0.236  109.104.134.3    2a06:3040:31:601::f001     100    3236      ❌     HostRoyale     ✔️      nl-ams-wg-401 
+ 🇳🇱    Netherlands     Amsterdam           10.124.1.48   62.101.160.3     2a06:3040:31:601::f101     100    3302      ❌     HostRoyale     ✔️      nl-ams-wg-402 
  🇳🇴    Norway          Oslo                10.124.0.6    176.125.235.71   2a02:20c8:4124::a01f       10     3006      ✔️     Blix           ✔️      no-osl-wg-001 
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f       10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f       10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
@@ -273,8 +275,8 @@ Total active proxies: 540
  🇵🇹    Portugal        Lisbon              10.124.0.199  149.88.20.193    2a02:6ea0:fb01:2::f002     10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.1.75   185.92.210.195   2a06:3040:0:1410::f001     10     3329      ❌     HostRoyale     ✔️      pt-lis-wg-301 
  🇵🇹    Portugal        Lisbon              10.124.1.76   185.92.210.225   2a06:3040:0:1410::f101     10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
- 🇷🇴    Romania         Bucharest           10.124.2.27   146.70.124.130   2a04:9dc0:0:133::a01f      10     3535      ❌     M247           ✔️      ro-buh-wg-001 
- 🇷🇴    Romania         Bucharest           10.124.0.93   146.70.124.194   2a04:9dc0:0:135::f001      10     3093      ❌     M247           ✔️      ro-buh-wg-002 
+ 🇷🇴    Romania         Bucharest           10.124.1.27   135.136.63.2     2a04:9dc0:0:135::f001      20     3281      ❌     M247           ✔️      ro-buh-wg-012 
+ 🇷🇴    Romania         Bucharest           10.124.2.9    135.136.63.130   2a04:9dc0:0:134::f001      20     3517      ❌     M247           ✔️      ro-buh-wg-013 
  🇷🇸    Serbia          Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f       10     3033      ❌     M247           ✔️      rs-beg-wg-101 
  🇷🇸    Serbia          Belgrade            10.124.0.73   146.70.193.66    2001:ac8:7d:38::a02f       10     3073      ❌     M247           ✔️      rs-beg-wg-102 
  🇸🇪    Sweden          Gothenburg          10.124.0.20   185.213.154.66   2a03:1b20:5:f011:31::a03f  20     3020      ✔️     31173          ✔️      se-got-wg-001 
