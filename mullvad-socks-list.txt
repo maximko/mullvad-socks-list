@@ -1,4 +1,4 @@
-Date: 2026-08-04 09-25-49 UTC
+Date: 2026-08-04 15-07-48 UTC
 Total active proxies: 542
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -181,7 +181,6 @@ Total active proxies: 542
  🇬🇧    UK              Manchester          10.124.0.34   135.136.22.130   2001:ac8:8b:106::f001      20     3034      ❌     M247           ✔️      gb-mnc-wg-003 
  🇬🇧    UK              Manchester          10.124.0.88   135.136.21.2     2001:ac8:8b:107::f001      20     3088      ❌     M247           ✔️      gb-mnc-wg-004 
  🇬🇧    UK              Manchester          10.124.1.162  167.160.13.3     2a03:ee40:3304::f001       10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
- 🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101       10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f       10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
@@ -275,6 +274,7 @@ Total active proxies: 542
  🇵🇹    Portugal        Lisbon              10.124.0.199  149.88.20.193    2a02:6ea0:fb01:2::f002     10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.1.75   185.92.210.195   2a06:3040:0:1410::f001     10     3329      ❌     HostRoyale     ✔️      pt-lis-wg-301 
  🇵🇹    Portugal        Lisbon              10.124.1.76   185.92.210.225   2a06:3040:0:1410::f101     10     3330      ❌     HostRoyale     ✔️      pt-lis-wg-302 
+ 🇷🇴    Romania         Bucharest           10.124.1.25   37.120.246.130   2a04:9dc0:0:136::f001      20     3279      ❌     M247           ✔️      ro-buh-wg-011 
  🇷🇴    Romania         Bucharest           10.124.1.27   135.136.63.2     2a04:9dc0:0:135::f001      20     3281      ❌     M247           ✔️      ro-buh-wg-012 
  🇷🇴    Romania         Bucharest           10.124.2.9    135.136.63.130   2a04:9dc0:0:134::f001      20     3517      ❌     M247           ✔️      ro-buh-wg-013 
  🇷🇸    Serbia          Belgrade            10.124.0.33   146.70.193.2     2001:ac8:7d:37::a01f       10     3033      ❌     M247           ✔️      rs-beg-wg-101 
