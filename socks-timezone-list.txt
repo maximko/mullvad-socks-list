@@ -81,6 +81,8 @@
 10.124.1.214 Europe/Zurich
 10.124.1.216 Europe/Zurich
 10.124.0.176 Europe/Zurich
+10.124.0.177 Europe/Zurich
+10.124.0.180 Europe/Zurich
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
@@ -110,6 +112,9 @@
 10.124.1.239 Europe/Berlin
 10.124.1.241 Europe/Berlin
 10.124.1.242 Europe/Berlin
+10.124.1.189 Europe/Berlin
+10.124.1.247 Europe/Berlin
+10.124.1.248 Europe/Berlin
 10.124.1.32 Europe/Berlin
 10.124.1.250 Europe/Berlin
 10.124.1.251 Europe/Berlin
@@ -270,7 +275,6 @@
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
 10.124.1.75 Europe/Lisbon
-10.124.1.76 Europe/Lisbon
 10.124.1.25 Europe/Bucharest
 10.124.1.27 Europe/Bucharest
 10.124.2.9 Europe/Bucharest
@@ -318,7 +322,6 @@
 10.124.0.130 Europe/Stockholm
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
-10.124.1.246 Asia/Singapore
 10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
