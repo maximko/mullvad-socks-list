@@ -248,8 +248,8 @@
 10.124.0.244 Europe/Amsterdam
 10.124.0.245 Europe/Amsterdam
 10.124.1.121 Europe/Amsterdam
-10.124.0.236 Europe/Tirane
-10.124.1.48 Europe/Tirane
+10.124.0.236 Europe/Amsterdam
+10.124.1.48 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
