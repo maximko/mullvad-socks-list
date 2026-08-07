@@ -132,6 +132,7 @@
 10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
+10.124.2.8 Europe/Madrid
 10.124.1.12 Europe/Madrid
 10.124.1.13 Europe/Madrid
 10.124.1.2 Europe/Madrid
