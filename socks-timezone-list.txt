@@ -128,6 +128,9 @@
 10.124.0.138 Pacific/Efate
 10.124.0.139 Pacific/Efate
 10.124.0.140 Pacific/Efate
+10.124.1.249 Europe/Tallinn
+10.124.2.6 Europe/Tallinn
+10.124.2.7 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
 10.124.1.69 Europe/Madrid
