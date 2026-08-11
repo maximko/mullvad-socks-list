@@ -174,8 +174,6 @@
 10.124.1.19 Europe/London
 10.124.1.28 Europe/London
 10.124.1.62 Europe/London
-10.124.1.34 Europe/London
-10.124.1.35 Europe/London
 10.124.1.91 Europe/London
 10.124.1.164 Europe/London
 10.124.1.85 Europe/London
