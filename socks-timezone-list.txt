@@ -1,4 +1,5 @@
 10.124.1.240 Europe/Tirane
+10.124.0.93 Europe/Tirane
 10.124.2.66 Europe/Tirane
 10.124.2.67 Europe/Tirane
 10.124.0.15 America/Argentina/Buenos_Aires
@@ -48,8 +49,8 @@
 10.124.0.168 America/Toronto
 10.124.0.171 America/Toronto
 10.124.2.93 America/Toronto
-10.124.2.94 America/Toronto
-10.124.2.95 America/Toronto
+;; communications error to 1.1.1.1#53: timed out America/Toronto
+;; Warning: ID mismatch: expected ID 20573, got 14229 America/Toronto
 10.124.2.96 America/Toronto
 10.124.2.97 America/Toronto
 10.124.2.98 America/Toronto
