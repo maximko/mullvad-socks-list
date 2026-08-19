@@ -263,7 +263,7 @@
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
-10.124.0.5 Pacific/Auckland
+;; communications error to 1.1.1.1#53: timed out Pacific/Auckland
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
 10.124.0.145 Asia/Manila
