@@ -1,5 +1,5 @@
-Date: 2026-08-20 02-05-36 UTC
-Total active proxies: 546
+Date: 2026-08-20 07-25-32 UTC
+Total active proxies: 550
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -176,7 +176,11 @@ Total active proxies: 546
  🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101      10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
  🇬🇧    UK              London              10.124.0.59   141.98.252.67    2a03:1b20:7:f011::a01f     20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
  🇬🇧    UK              London              10.124.0.60   141.98.252.68    2a03:1b20:7:f011::a02f     20     3060      ✔️     31173          ✔️      gb-lon-wg-002 
+ 🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f     20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
+ 🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f     20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
  🇬🇧    UK              London              10.124.1.18   185.195.232.68   2a03:1b20:7:f011::a13f     20     3272      ✔️     31173          ✔️      gb-lon-wg-005 
+ 🇬🇧    UK              London              10.124.1.19   185.195.232.69   2a03:1b20:7:f011::a14f     20     3273      ✔️     31173          ✔️      gb-lon-wg-006 
+ 🇬🇧    UK              London              10.124.1.28   185.195.232.70   2a03:1b20:7:f011::a15f     20     3282      ✔️     31173          ✔️      gb-lon-wg-007 
  🇬🇧    UK              London              10.124.1.62   141.98.252.138   2a03:1b20:7:f011::f801     20     3316      ✔️     31173          ✔️      gb-lon-wg-008 
  🇬🇧    UK              London              10.124.1.186  45.66.219.3      2a07:d883:701:1::f001      100    3440      ✔️     xtom           ✔️      gb-lon-wg-101 
  🇬🇧    UK              London              10.124.1.187  45.66.219.166    2a07:d883:701:2::f001      100    3441      ✔️     xtom           ✔️      gb-lon-wg-102 
