@@ -126,9 +126,6 @@
 10.124.2.91 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
 10.124.0.230 Europe/Copenhagen
-10.124.0.138 Pacific/Efate
-10.124.0.139 Pacific/Efate
-10.124.0.140 Pacific/Efate
 10.124.1.249 Europe/Tallinn
 10.124.2.6 Europe/Tallinn
 10.124.2.7 Europe/Tallinn
