@@ -493,7 +493,7 @@
 10.124.2.85 America/New_York
 10.124.2.86 America/New_York
 10.124.2.87 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.41 America/New_York
 10.124.1.42 America/New_York
 10.124.1.43 America/New_York
 10.124.1.44 America/New_York
