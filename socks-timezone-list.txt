@@ -510,7 +510,7 @@
 10.124.1.15 Africa/Cairo
 10.124.0.107 America/Chicago
 10.124.0.160 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.0.161 America/Chicago
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
 10.124.1.154 America/Los_Angeles
@@ -527,7 +527,7 @@
 10.124.1.141 America/Denver
 10.124.1.142 America/Denver
 10.124.1.143 America/Denver
-;; communications error to 1.1.1.1#53: timed out America/Denver
+10.124.1.144 America/Denver
 10.124.1.145 America/Denver
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
