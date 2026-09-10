@@ -229,9 +229,6 @@
 10.124.1.40 Asia/Kuala_Lumpur
 10.124.0.97 Africa/Lagos
 10.124.0.98 Africa/Lagos
-10.124.0.4 Europe/Amsterdam
-10.124.0.39 Europe/Amsterdam
-10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
@@ -443,7 +440,7 @@
 10.124.2.64 America/Chicago
 10.124.2.65 America/Chicago
 10.124.0.132 America/Chicago
-10.124.0.133 America/Chicago
+10.124.0.133 America/New_York
 10.124.0.134 America/Chicago
 10.124.1.190 America/New_York
 10.124.1.191 America/New_York
@@ -509,9 +506,9 @@
 10.124.1.107 America/Los_Angeles
 10.124.1.14 Europe/Dublin
 10.124.1.15 Africa/Cairo
-10.124.0.107 America/Chicago
-10.124.0.160 America/Chicago
-10.124.0.161 America/Chicago
+10.124.0.107 America/Los_Angeles
+10.124.0.160 America/Los_Angeles
+10.124.0.161 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
 10.124.1.154 America/Los_Angeles
