@@ -70,7 +70,8 @@
 10.124.1.66 America/Vancouver
 10.124.0.174 America/Edmonton
 10.124.0.178 America/Edmonton
-10.124.0.122 Europe/Zurich
+10.124.0.241 Europe/Zurich
+10.124.0.125 Europe/Zurich
 10.124.1.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.105 Europe/Zurich
@@ -311,7 +312,6 @@
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
-10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
 10.124.0.249 Europe/Ljubljana
