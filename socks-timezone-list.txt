@@ -35,6 +35,7 @@
 10.124.2.44 Europe/Brussels
 10.124.0.225 Europe/Sofia
 10.124.0.226 Europe/Sofia
+10.124.0.100 Europe/Sofia
 10.124.0.10 America/Fortaleza
 10.124.0.12 America/Fortaleza
 10.124.2.31 America/Sao_Paulo
@@ -153,6 +154,8 @@
 10.124.1.183 Europe/Paris
 10.124.0.116 Europe/Paris
 10.124.0.117 Europe/Paris
+10.124.0.118 Europe/Paris
+10.124.0.119 Europe/Paris
 10.124.0.223 Europe/Paris
 10.124.0.224 Europe/Paris
 10.124.1.11 Europe/Paris
@@ -279,6 +282,7 @@
 10.124.0.2 Europe/Stockholm
 10.124.0.183 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
+10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
 10.124.0.18 Europe/Stockholm
 10.124.0.38 Europe/Stockholm
@@ -306,7 +310,6 @@
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
-10.124.1.51 Asia/Singapore
 10.124.1.52 Asia/Singapore
 10.124.1.54 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
