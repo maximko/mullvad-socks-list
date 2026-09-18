@@ -310,7 +310,6 @@
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
 10.124.1.52 Asia/Singapore
-10.124.1.54 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
 10.124.0.249 Europe/Ljubljana
 10.124.2.3 Europe/Bratislava
