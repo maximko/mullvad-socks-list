@@ -117,7 +117,9 @@
 10.124.1.189 Europe/Berlin
 10.124.1.247 Europe/Berlin
 10.124.1.248 Europe/Berlin
-10.124.1.250 Europe/Berlin
+10.124.0.131 Europe/Berlin
+10.124.1.49 Europe/Berlin
+10.124.1.50 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.2.91 Europe/Copenhagen
