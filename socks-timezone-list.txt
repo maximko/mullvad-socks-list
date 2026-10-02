@@ -271,7 +271,6 @@
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
-10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
 10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Stockholm
@@ -317,8 +316,8 @@
 10.124.0.249 Europe/Ljubljana
 10.124.2.3 Europe/Bratislava
 10.124.2.4 Europe/Bratislava
-;; communications error to 1.1.1.1#53: timed out Asia/Bangkok
-;; Warning: ID mismatch: expected ID 43895, got 49159 Asia/Bangkok
+10.124.1.4 Asia/Bangkok
+10.124.1.5 Asia/Bangkok
 10.124.1.71 Europe/Istanbul
 10.124.1.72 Europe/Istanbul
 10.124.0.25 Europe/Kyiv
