@@ -327,8 +327,8 @@
 10.124.1.130 America/New_York
 10.124.1.131 America/New_York
 10.124.1.132 America/New_York
-10.124.1.133 America/New_York
-10.124.1.134 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
+;; Warning: ID mismatch: expected ID 22989, got 57099 America/New_York
 10.124.1.135 America/New_York
 10.124.1.136 America/New_York
 10.124.1.137 America/New_York
