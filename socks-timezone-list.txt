@@ -505,9 +505,9 @@
 10.124.1.107 America/Los_Angeles
 10.124.1.14 Europe/Dublin
 10.124.1.15 Africa/Cairo
-10.124.0.107 America/Los_Angeles
-10.124.0.160 America/Los_Angeles
-10.124.0.161 America/Los_Angeles
+10.124.0.107 America/Chicago
+10.124.0.160 America/Chicago
+10.124.0.161 America/Chicago
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
 10.124.1.154 America/Los_Angeles
