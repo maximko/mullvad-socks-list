@@ -1,5 +1,5 @@
-Date: 2026-10-08 06-38-04 UTC
-Total active proxies: 536
+Date: 2026-10-08 14-00-35 UTC
+Total active proxies: 534
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  103.124.165.2    2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -43,8 +43,6 @@ Total active proxies: 536
  🇧🇷    Brazil          Fortaleza           10.124.0.12   98.98.12.182     2604:980:e007:100::f101    10     3012      ❌     Zenlayer       ✔️      br-for-wg-002 
  🇧🇷    Brazil          Sao Paulo           10.124.2.31   169.150.198.66   2a02:6ea0:d00e:1::a01f     10     3539      ❌     DataPacket     ✔️      br-sao-wg-201 
  🇧🇷    Brazil          Sao Paulo           10.124.2.32   169.150.198.79   2a02:6ea0:d00e:2::a02f     10     3540      ❌     DataPacket     ✔️      br-sao-wg-202 
- 🇧🇷    Brazil          Sao Paulo           10.124.2.21   103.139.178.123  2a06:3040:10:610::f201     10     3529      ❌     HostRoyale     ✔️      br-sao-wg-303 
- 🇧🇷    Brazil          Sao Paulo           10.124.2.52   103.139.178.183  2a06:3040:10:610::f301     10     3560      ❌     HostRoyale     ✔️      br-sao-wg-304 
  🇨🇦    Canada          Montreal            10.124.0.231  146.70.198.66    2a0d:5600:9:c::f001        10     3231      ❌     M247           ✔️      ca-mtr-wg-001 
  🇨🇦    Canada          Montreal            10.124.0.232  146.70.198.130   2a0d:5600:9:d::f001        10     3232      ❌     M247           ✔️      ca-mtr-wg-002 
  🇨🇦    Canada          Montreal            10.124.0.233  146.70.198.194   2a0d:5600:9:e::a02f        10     3233      ❌     M247           ✔️      ca-mtr-wg-003 
