@@ -1,5 +1,5 @@
-Date: 2026-10-13 00-57-48 UTC
-Total active proxies: 535
+Date: 2026-10-13 14-33-45 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -91,8 +91,6 @@ Total active proxies: 535
  🇨🇱    Chile           Santiago            10.124.1.21   149.88.104.15    2a02:6ea0:fc02:3::f101     10     3275      ❌     DataPacket     ✔️      cl-scl-wg-002 
  🇨🇴    Colombia        Bogota              10.124.0.216  154.47.16.34     2a02:6ea0:f101:1::f001     10     3216      ❌     DataPacket     ✔️      co-bog-wg-001 
  🇨🇴    Colombia        Bogota              10.124.0.217  154.47.16.47     2a02:6ea0:f101:2::f001     10     3217      ❌     DataPacket     ✔️      co-bog-wg-002 
- 🇨🇾    Cyprus          Nicosia             10.124.1.83   195.47.194.131   2a06:3040:f:601::f001      10     3337      ❌     HostRoyale     ✔️      cy-nic-wg-001 
- 🇨🇾    Cyprus          Nicosia             10.124.1.84   195.47.194.161   2a06:3040:f:601::f101      10     3338      ❌     HostRoyale     ✔️      cy-nic-wg-002 
  🇨🇿    Czech Republic  Prague              10.124.2.33   146.70.129.98    2001:ac8:33:c::a01f        10     3541      ❌     M247           ✔️      cz-prg-wg-101 
  🇨🇿    Czech Republic  Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f        10     3542      ❌     M247           ✔️      cz-prg-wg-102 
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001     10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
