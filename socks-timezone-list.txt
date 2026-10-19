@@ -1,7 +1,7 @@
 10.124.1.240 Europe/Tirane
 10.124.0.93 Europe/Tirane
-10.124.2.66 Europe/Tirane
-10.124.2.67 Europe/Tirane
+10.124.2.66 Asia/Singapore
+10.124.2.67 Asia/Singapore
 10.124.0.15 America/Argentina/Buenos_Aires
 10.124.0.47 America/Argentina/Buenos_Aires
 10.124.0.182 Europe/Vienna
@@ -90,8 +90,8 @@
 10.124.0.217 America/Bogota
 10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
-10.124.2.33 Europe/Prague
-10.124.2.34 Europe/Prague
+10.124.0.77 Europe/Prague
+10.124.0.48 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
 10.124.0.7 Europe/Berlin
@@ -122,8 +122,6 @@
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.2.91 Europe/Copenhagen
-10.124.0.229 Europe/Copenhagen
-10.124.0.230 Europe/Copenhagen
 10.124.1.249 Europe/Tallinn
 10.124.2.6 Europe/Tallinn
 10.124.2.7 Europe/Tallinn
