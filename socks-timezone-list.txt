@@ -391,7 +391,7 @@
 10.124.2.108 America/Los_Angeles
 10.124.2.109 America/Los_Angeles
 10.124.2.110 America/Los_Angeles
-10.124.2.111 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.2.112 America/Los_Angeles
 10.124.2.113 America/Los_Angeles
 10.124.2.114 America/Los_Angeles
