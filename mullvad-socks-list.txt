@@ -1,5 +1,5 @@
-Date: 2026-10-22 05-20-19 UTC
-Total active proxies: 532
+Date: 2026-10-22 12-23-20 UTC
+Total active proxies: 533
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -303,6 +303,7 @@ Total active proxies: 532
  🇸🇪    Sweden          Stockholm           10.124.0.57   89.37.63.129     2a02:6ea0:1508:3::f001     40     3057      ✔️     DataPacket     ✔️      se-sto-wg-203 
  🇸🇪    Sweden          Stockholm           10.124.0.58   89.37.63.190     2a02:6ea0:1508:4::f001     40     3058      ✔️     DataPacket     ✔️      se-sto-wg-204 
  🇸🇪    Sweden          Stockholm           10.124.0.79   170.62.100.10    2a02:6ea0:1508:5::f001     40     3079      ✔️     DataPacket     ✔️      se-sto-wg-205 
+ 🇸🇪    Sweden          Stockholm           10.124.0.115  170.62.100.66    2a02:6ea0:1508:6::f001     40     3115      ✔️     DataPacket     ✔️      se-sto-wg-206 
  🇸🇪    Sweden          Stockholm           10.124.0.128  170.62.100.129   2a02:6ea0:1508:7::f001     40     3128      ✔️     DataPacket     ✔️      se-sto-wg-207 
  🇸🇪    Sweden          Stockholm           10.124.0.129  170.62.100.170   2a02:6ea0:1508:8::f001     40     3129      ✔️     DataPacket     ✔️      se-sto-wg-208 
  🇸🇪    Sweden          Stockholm           10.124.0.130  170.62.100.211   2a02:6ea0:1508:9::f001     40     3130      ✔️     DataPacket     ✔️      se-sto-wg-209 
