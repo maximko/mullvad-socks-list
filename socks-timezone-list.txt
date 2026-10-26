@@ -1,7 +1,5 @@
 10.124.1.240 Europe/Tirane
 10.124.0.93 Europe/Tirane
-10.124.2.66 Asia/Singapore
-10.124.2.67 Asia/Singapore
 10.124.0.15 America/Argentina/Buenos_Aires
 10.124.0.47 America/Argentina/Buenos_Aires
 10.124.0.182 Europe/Vienna
@@ -122,6 +120,8 @@
 10.124.0.64 Europe/Copenhagen
 10.124.0.17 Europe/Copenhagen
 10.124.2.91 Europe/Copenhagen
+10.124.0.19 Europe/Copenhagen
+10.124.0.30 Europe/Copenhagen
 10.124.1.249 Europe/Tallinn
 10.124.2.6 Europe/Tallinn
 10.124.2.7 Europe/Tallinn
@@ -190,7 +190,7 @@
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
-;; communications error to 1.1.1.1#53: timed out Europe/Budapest
+10.124.0.228 Europe/Budapest
 10.124.0.135 Europe/Budapest
 10.124.0.137 Europe/Budapest
 10.124.0.254 Asia/Jakarta
@@ -212,7 +212,6 @@
 10.124.0.136 Asia/Tokyo
 10.124.0.237 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
-10.124.1.217 Asia/Tokyo
 10.124.1.118 Asia/Tokyo
 10.124.1.119 Asia/Tokyo
 10.124.1.120 Asia/Tokyo
