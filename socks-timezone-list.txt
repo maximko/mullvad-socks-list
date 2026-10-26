@@ -190,7 +190,7 @@
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
 10.124.0.227 Europe/Budapest
-10.124.0.228 Europe/Budapest
+;; communications error to 1.1.1.1#53: timed out Europe/Budapest
 10.124.0.135 Europe/Budapest
 10.124.0.137 Europe/Budapest
 10.124.0.254 Asia/Jakarta
