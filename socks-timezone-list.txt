@@ -517,7 +517,7 @@
 10.124.1.138 America/Denver
 10.124.1.139 America/Denver
 10.124.1.140 America/Denver
-;; communications error to 1.1.1.1#53: timed out America/Denver
+10.124.1.141 America/Denver
 10.124.1.142 America/Denver
 10.124.1.143 America/Denver
 10.124.1.144 America/Denver
