@@ -83,7 +83,7 @@
 10.124.0.175 Europe/Zurich
 10.124.0.176 Europe/Zurich
 10.124.0.177 Europe/Zurich
-10.124.0.180 Europe/Zurich
+;; communications error to 1.1.1.1#53: timed out Europe/Zurich
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
@@ -174,7 +174,7 @@
 10.124.1.187 Europe/London
 10.124.1.188 Europe/London
 10.124.1.85 Europe/London
-10.124.1.86 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.1.117 Europe/London
 10.124.0.31 Europe/London
 10.124.0.32 Europe/London
@@ -223,7 +223,7 @@
 10.124.0.206 America/Mexico_City
 10.124.1.39 Asia/Kuala_Lumpur
 10.124.1.40 Asia/Kuala_Lumpur
-10.124.0.97 Africa/Lagos
+;; communications error to 1.1.1.1#53: timed out Africa/Lagos
 10.124.0.98 Africa/Lagos
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
@@ -243,20 +243,20 @@
 10.124.0.67 Europe/Oslo
 10.124.0.103 Europe/Oslo
 10.124.0.104 Europe/Oslo
-10.124.2.38 Europe/Oslo
+;; communications error to 1.1.1.1#53: timed out Europe/Oslo
 10.124.2.39 Europe/Oslo
 10.124.2.40 Europe/Oslo
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
-10.124.0.5 Pacific/Auckland
+;; communications error to 1.1.1.1#53: timed out Pacific/Auckland
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
 10.124.0.145 Asia/Manila
 10.124.0.146 Asia/Manila
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
-10.124.1.221 Europe/Warsaw
+;; communications error to 1.1.1.1#53: timed out Europe/Warsaw
 10.124.2.45 Europe/Warsaw
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
@@ -289,7 +289,6 @@
 10.124.1.184 Europe/Stockholm
 10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
-10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
 10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
@@ -381,7 +380,7 @@
 10.124.1.37 America/Denver
 10.124.1.38 America/Denver
 10.124.0.16 America/Detroit
-10.124.0.23 America/Detroit
+;; communications error to 1.1.1.1#53: timed out America/Detroit
 10.124.1.205 America/Chicago
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
@@ -476,7 +475,7 @@
 10.124.2.80 America/New_York
 10.124.2.81 America/New_York
 10.124.2.82 America/New_York
-10.124.2.83 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.2.84 America/New_York
 10.124.2.85 America/New_York
 10.124.2.86 America/New_York
@@ -511,7 +510,7 @@
 10.124.1.156 America/Los_Angeles
 10.124.1.157 America/Los_Angeles
 10.124.1.158 America/Los_Angeles
-10.124.1.159 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.1.160 America/Los_Angeles
 10.124.1.161 America/Los_Angeles
 10.124.1.138 America/Denver
@@ -523,10 +522,10 @@
 10.124.1.144 America/Denver
 10.124.1.145 America/Denver
 10.124.0.250 America/Chicago
-10.124.0.251 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
-10.124.1.108 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.1.109 America/New_York
 10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
