@@ -1,5 +1,5 @@
-Date: 2026-10-30 13-32-36 UTC
-Total active proxies: 531
+Date: 2026-10-30 22-38-35 UTC
+Total active proxies: 526
  flag  country         city                socks5                                            ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240                                      45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93                                       62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -86,13 +86,12 @@ Total active proxies: 531
  🇨🇭    Switzerland     Zurich              10.124.0.175                                      146.70.134.2     2001:ac8:28:aa::f001       10     3175      ❌     M247           ✔️      ch-zrh-wg-501 
  🇨🇭    Switzerland     Zurich              10.124.0.176                                      135.136.18.194   2001:ac8:28:ab::f001       10     3176      ❌     M247           ✔️      ch-zrh-wg-502 
  🇨🇭    Switzerland     Zurich              10.124.0.177                                      77.243.184.2     2001:ac8:28:ac::f001       10     3177      ❌     M247           ✔️      ch-zrh-wg-503 
- 🇨🇭    Switzerland     Zurich              ;; communications error to 1.1.1.1#53: timed out  77.243.184.130   2001:ac8:28:ad::f001       10     3180      ❌     M247           ✔️      ch-zrh-wg-504 
+ 🇨🇭    Switzerland     Zurich              10.124.0.180                                      77.243.184.130   2001:ac8:28:ad::f001       10     3180      ❌     M247           ✔️      ch-zrh-wg-504 
  🇨🇱    Chile           Santiago            10.124.1.20                                       149.88.104.2     2a02:6ea0:fc02:2::f001     10     3274      ❌     DataPacket     ✔️      cl-scl-wg-001 
  🇨🇱    Chile           Santiago            10.124.1.21                                       149.88.104.15    2a02:6ea0:fc02:3::f101     10     3275      ❌     DataPacket     ✔️      cl-scl-wg-002 
  🇨🇴    Colombia        Bogota              10.124.0.216                                      154.47.16.34     2a02:6ea0:f101:1::f001     10     3216      ❌     DataPacket     ✔️      co-bog-wg-001 
  🇨🇴    Colombia        Bogota              10.124.0.217                                      154.47.16.47     2a02:6ea0:f101:2::f001     10     3217      ❌     DataPacket     ✔️      co-bog-wg-002 
  🇨🇾    Cyprus          Nicosia             10.124.1.83                                       195.47.194.131   2a06:3040:f:601::f001      10     3337      ❌     HostRoyale     ✔️      cy-nic-wg-001 
- 🇨🇾    Cyprus          Nicosia             10.124.1.84                                       195.47.194.161   2a06:3040:f:601::f101      10     3338      ❌     HostRoyale     ✔️      cy-nic-wg-002 
  🇨🇿    Czech Republic  Prague              10.124.0.77                                       135.136.123.130  2001:ac8:33:e::f001        20     3077      ❌     M247           ✔️      cz-prg-wg-101 
  🇨🇿    Czech Republic  Prague              10.124.0.48                                       135.136.123.2    2001:ac8:33:d::f001        20     3048      ❌     M247           ✔️      cz-prg-wg-103 
  🇨🇿    Czech Republic  Prague              10.124.2.57                                       178.249.209.162  2a02:6ea0:c201:1::f001     10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
@@ -113,7 +112,6 @@ Total active proxies: 531
  🇩🇪    Germany         Frankfurt           10.124.1.26                                       185.209.196.74   2a03:1b20:6:f011::f301     20     3280      ✔️     31173          ✔️      de-fra-wg-004 
  🇩🇪    Germany         Frankfurt           10.124.0.240                                      185.209.196.75   2a03:1b20:6:f011::f401     20     3240      ✔️     31173          ✔️      de-fra-wg-005 
  🇩🇪    Germany         Frankfurt           10.124.1.238                                      146.70.117.2     2001:ac8:20:269::f001      20     3492      ❌     M247           ✔️      de-fra-wg-101 
- 🇩🇪    Germany         Frankfurt           10.124.1.239                                      146.70.117.130   2001:ac8:20:270::f001      20     3493      ❌     M247           ✔️      de-fra-wg-102 
  🇩🇪    Germany         Frankfurt           10.124.1.241                                      135.136.19.2     2001:ac8:20:271::f001      20     3495      ❌     M247           ✔️      de-fra-wg-103 
  🇩🇪    Germany         Frankfurt           10.124.1.242                                      135.136.19.130   2001:ac8:20:272::f001      20     3496      ❌     M247           ✔️      de-fra-wg-104 
  🇩🇪    Germany         Frankfurt           10.124.1.189                                      147.78.240.3     2a07:d883:702:1::f001      100    3443      ✔️     xtom           ✔️      de-fra-wg-201 
@@ -132,7 +130,6 @@ Total active proxies: 531
  🇪🇪    Estonia         Tallinn             10.124.2.7                                        213.232.112.209  2a07:d883:704:3::f001      100    3515      ✔️     xtom           ✔️      ee-tll-wg-103 
  🇪🇸    Spain           Barcelona           10.124.0.252                                      185.188.61.195   2a06:3040:2:210::f001      10     3252      ❌     HostRoyale     ✔️      es-bcn-wg-001 
  🇪🇸    Spain           Barcelona           10.124.0.253                                      185.188.61.225   2a06:3040:2:210::f101      10     3253      ❌     HostRoyale     ✔️      es-bcn-wg-002 
- 🇪🇸    Spain           Barcelona           10.124.1.69                                       185.253.99.30    2001:ac8:17:20::f001       10     3323      ❌     M247           ✔️      es-bcn-wg-101 
  🇪🇸    Spain           Barcelona           10.124.1.70                                       185.253.99.98    2001:ac8:17:20::f101       10     3324      ❌     M247           ✔️      es-bcn-wg-102 
  🇪🇸    Spain           Madrid              10.124.1.223                                      45.134.213.194   2a02:6ea0:c318:1::a06f     10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
  🇪🇸    Spain           Madrid              10.124.1.222                                      45.134.213.207   2a02:6ea0:c318:2::a07f     10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
@@ -177,13 +174,12 @@ Total active proxies: 531
  🇬🇧    UK              London              10.124.1.187                                      45.66.219.166    2a07:d883:701:2::f001      100    3441      ✔️     xtom           ✔️      gb-lon-wg-102 
  🇬🇧    UK              London              10.124.1.188                                      45.66.219.209    2a07:d883:701:3::f001      100    3442      ✔️     xtom           ✔️      gb-lon-wg-103 
  🇬🇧    UK              London              10.124.1.85                                       146.70.119.2     2a04:9dc0:18:70::f001      20     3339      ❌     M247           ✔️      gb-lon-wg-305 
- 🇬🇧    UK              London              ;; communications error to 1.1.1.1#53: timed out  146.70.119.130   2a04:9dc0:18:71::f001      20     3340      ❌     M247           ✔️      gb-lon-wg-306 
+ 🇬🇧    UK              London              10.124.1.86                                       146.70.119.130   2a04:9dc0:18:71::f001      20     3340      ❌     M247           ✔️      gb-lon-wg-306 
  🇬🇧    UK              London              10.124.1.117                                      135.136.58.130   2a04:9dc0:18:73::f001      29     3371      ❌     M247           ✔️      gb-lon-wg-308 
  🇬🇧    UK              Manchester          10.124.0.31                                       146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.0.32                                       135.136.22.2     2001:ac8:8b:105::f001      20     3032      ❌     M247           ✔️      gb-mnc-wg-002 
  🇬🇧    UK              Manchester          10.124.0.34                                       135.136.22.130   2001:ac8:8b:106::f001      20     3034      ❌     M247           ✔️      gb-mnc-wg-003 
  🇬🇧    UK              Manchester          10.124.0.88                                       135.136.21.2     2001:ac8:8b:107::f001      20     3088      ❌     M247           ✔️      gb-mnc-wg-004 
- 🇬🇧    UK              Manchester          10.124.1.162                                      167.160.13.3     2a03:ee40:3304::f001       10     3416      ❌     Veloxserv      ✔️      gb-mnc-wg-201 
  🇬🇧    UK              Manchester          10.124.1.163                                      167.160.13.127   2a03:ee40:3304::f101       10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159                                      149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166                                      149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
@@ -226,7 +222,7 @@ Total active proxies: 531
  🇲🇽    Mexico          Queretaro           10.124.0.206                                      149.88.22.168    2a02:6ea0:f803:3::f001     10     3206      ❌     DataPacket     ✔️      mx-qro-wg-004 
  🇲🇾    Malaysia        Kuala Lumpur        10.124.1.39                                       98.98.47.130     2602:ffe4:c20:112::f001    10     3293      ❌     Zenlayer       ✔️      my-kul-wg-001 
  🇲🇾    Malaysia        Kuala Lumpur        10.124.1.40                                       162.128.129.98   2602:ffe4:c20:112::f101    10     3294      ❌     Zenlayer       ✔️      my-kul-wg-002 
- 🇳🇬    Nigeria         Lagos               ;; communications error to 1.1.1.1#53: timed out  79.127.149.130   2a02:6ea0:5400:1::f001     10     3097      ❌     DataPacket     ✔️      ng-los-wg-001 
+ 🇳🇬    Nigeria         Lagos               10.124.0.97                                       79.127.149.130   2a02:6ea0:5400:1::f001     10     3097      ❌     DataPacket     ✔️      ng-los-wg-001 
  🇳🇬    Nigeria         Lagos               10.124.0.98                                       79.127.149.159   2a02:6ea0:5400:2::f001     10     3098      ❌     DataPacket     ✔️      ng-los-wg-002 
  🇳🇱    Netherlands     Amsterdam           10.124.0.113                                      193.32.249.69    2a03:1b20:3:f011::f301     20     3113      ✔️     31173          ✔️      nl-ams-wg-004 
  🇳🇱    Netherlands     Amsterdam           10.124.0.114                                      193.32.249.70    2a03:1b20:3:f011::f401     20     3114      ✔️     31173          ✔️      nl-ams-wg-005 
@@ -246,20 +242,20 @@ Total active proxies: 531
  🇳🇴    Norway          Oslo                10.124.0.67                                       141.98.253.5     2a03:1b20:c:f011:1::f001   10     3067      ✔️     31173          ✔️      no-osl-wg-101 
  🇳🇴    Norway          Oslo                10.124.0.103                                      141.98.253.85    2a03:1b20:c:f011:2::f001   10     3103      ✔️     31173          ✔️      no-osl-wg-102 
  🇳🇴    Norway          Oslo                10.124.0.104                                      141.98.253.165   2a03:1b20:c:f011:3::f001   10     3104      ✔️     31173          ✔️      no-osl-wg-103 
- 🇳🇴    Norway          Stavanger           ;; communications error to 1.1.1.1#53: timed out  194.127.199.2    2a02:20c8:4120::a01f       10     3546      ✔️     Blix           ✔️      no-svg-wg-001 
+ 🇳🇴    Norway          Stavanger           10.124.2.38                                       194.127.199.2    2a02:20c8:4120::a01f       10     3546      ✔️     Blix           ✔️      no-svg-wg-001 
  🇳🇴    Norway          Stavanger           10.124.2.39                                       194.127.199.31   2a02:20c8:4120::a02f       10     3547      ✔️     Blix           ✔️      no-svg-wg-002 
  🇳🇴    Norway          Stavanger           10.124.2.40                                       194.127.199.62   2a02:20c8:4120::a03f       10     3548      ✔️     Blix           ✔️      no-svg-wg-003 
  🇳🇴    Norway          Stavanger           10.124.2.41                                       194.127.199.93   2a02:20c8:4120::a04f       10     3549      ✔️     Blix           ✔️      no-svg-wg-004 
  🇳🇿    New Zealand     Auckland            10.124.0.218                                      103.75.11.50     2404:f780:5:deb::f001      10     3218      ❌     hostuniversal  ✔️      nz-akl-wg-301 
  🇳🇿    New Zealand     Auckland            10.124.0.219                                      103.75.11.66     2404:f780:5:dec::c02f      10     3219      ❌     hostuniversal  ✔️      nz-akl-wg-302 
- 🇳🇿    New Zealand     Auckland            ;; communications error to 1.1.1.1#53: timed out  103.75.11.98     2404:f780:5:def::f201      10     3005      ❌     hostuniversal  ✔️      nz-akl-wg-303 
+ 🇳🇿    New Zealand     Auckland            10.124.0.5                                        103.75.11.98     2404:f780:5:def::f201      10     3005      ❌     hostuniversal  ✔️      nz-akl-wg-303 
  🇵🇪    Peru            Lima                10.124.1.81                                       95.173.223.130   2a02:6ea0:5500:1::f001     10     3335      ❌     DataPacket     ✔️      pe-lim-wg-001 
  🇵🇪    Peru            Lima                10.124.1.82                                       95.173.223.159   2a02:6ea0:5500:2::f001     10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
  🇵🇭    Philippines     Manila              10.124.0.145                                      129.227.118.162  2602:ffe4:c06:11e::f001    10     3145      ❌     Zenlayer       ✔️      ph-mnl-wg-001 
  🇵🇭    Philippines     Manila              10.124.0.146                                      156.59.127.194   2602:ffe4:c06:11e::f101    10     3146      ❌     Zenlayer       ✔️      ph-mnl-wg-002 
  🇵🇱    Poland          Warsaw              10.124.1.219                                      45.134.212.66    2a02:6ea0:ce08:1::f001     10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220                                      45.134.212.79    2a02:6ea0:ce08:2::a06f     10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
- 🇵🇱    Poland          Warsaw              ;; communications error to 1.1.1.1#53: timed out  45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
+ 🇵🇱    Poland          Warsaw              10.124.1.221                                      45.134.212.92    2a02:6ea0:ce08:3::a07f     10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
  🇵🇱    Poland          Warsaw              10.124.2.45                                       45.128.38.226    2a0d:5600:13:67::a01f      10     3553      ❌     M247           ✔️      pl-waw-wg-201 
  🇵🇱    Poland          Warsaw              10.124.2.46                                       146.70.144.34    2a0d:5600:13:c47::a02f     10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198                                      149.88.20.206    2a02:6ea0:fb01:1::f001     10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
@@ -280,7 +276,6 @@ Total active proxies: 531
  🇸🇪    Sweden          Gothenburg          10.124.1.185                                      185.213.154.70   2a03:1b20:5:f011::aaaf     10     3439      ✔️     31173          ✔️      se-got-wg-101 
  🇸🇪    Sweden          Malmö               10.124.0.2                                        193.138.218.220  2a03:1b20:1:f410::fa01     20     3002      ✔️     31173          ✔️      se-mma-wg-001 
  🇸🇪    Sweden          Malmö               10.124.0.183                                      193.138.218.80   2a03:1b20:1:f410::a15f     10     3183      ✔️     31173          ✔️      se-mma-wg-002 
- 🇸🇪    Sweden          Malmö               10.124.0.186                                      193.138.218.83   2a03:1b20:1:f410::a18f     10     3186      ✔️     31173          ✔️      se-mma-wg-003 
  🇸🇪    Sweden          Malmö               10.124.0.28                                       193.138.218.130  2a03:1b20:1:f410:40::a04f  20     3028      ✔️     31173          ✔️      se-mma-wg-004 
  🇸🇪    Sweden          Malmö               10.124.0.185                                      193.138.218.82   2a03:1b20:1:f410::a17f     10     3185      ✔️     31173          ✔️      se-mma-wg-005 
  🇸🇪    Sweden          Malmö               10.124.0.18                                       141.98.255.94    2a03:1b20:1:f410::f101     10     3018      ✔️     31173          ✔️      se-mma-wg-011 
@@ -383,7 +378,7 @@ Total active proxies: 531
  🇺🇸    USA             Denver, CO          10.124.1.37                                       23.234.71.2      2607:9000:2000:47::f001    10     3291      ❌     Tzulo          ✔️      us-den-wg-207 
  🇺🇸    USA             Denver, CO          10.124.1.38                                       23.234.71.127    2607:9000:2000:48::f001    10     3292      ❌     Tzulo          ✔️      us-den-wg-208 
  🇺🇸    USA             Detroit, MI         10.124.0.16                                       185.141.119.131  2a06:3040:11:610::f001     10     3016      ❌     HostRoyale     ✔️      us-det-wg-001 
- 🇺🇸    USA             Detroit, MI         ;; communications error to 1.1.1.1#53: timed out  185.141.119.161  2a06:3040:11:610::f101     10     3023      ❌     HostRoyale     ✔️      us-det-wg-002 
+ 🇺🇸    USA             Detroit, MI         10.124.0.23                                       185.141.119.161  2a06:3040:11:610::f101     10     3023      ❌     HostRoyale     ✔️      us-det-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.205                                      37.19.221.130    2a02:6ea0:e001::f001       10     3459      ❌     DataPacket     ✔️      us-hou-wg-001 
  🇺🇸    USA             Houston, TX         10.124.1.193                                      37.19.221.143    2a02:6ea0:e001:1::f001     10     3447      ❌     DataPacket     ✔️      us-hou-wg-002 
  🇺🇸    USA             Houston, TX         10.124.1.194                                      37.19.221.156    2a02:6ea0:e001:2::b55f     10     3448      ❌     DataPacket     ✔️      us-hou-wg-003 
@@ -439,7 +434,7 @@ Total active proxies: 531
  🇺🇸    USA             New York, NY        10.124.0.132                                      23.165.56.3      2a07:d883:705:1::f001      100    3132      ✔️     xtom           ✔️      us-nyc-wg-001 
  🇺🇸    USA             New York, NY        10.124.0.133                                      23.165.8.3       2a07:d883:705:2::f001      100    3133      ✔️     xtom           ✔️      us-nyc-wg-002 
  🇺🇸    USA             New York, NY        10.124.0.134                                      23.162.8.3       2a07:d883:705:3::f001      100    3134      ✔️     xtom           ✔️      us-nyc-wg-003 
- 🇺🇸    USA             New York, NY        10.124.1.190                                      143.244.47.65    2a02:6ea0:c43f::f001       10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
+ 🇺🇸    USA             New York, NY        ;; communications error to 1.1.1.1#53: timed out  143.244.47.65    2a02:6ea0:c43f::f001       10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191                                      143.244.47.78    2a02:6ea0:c43f:1::f001     10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192                                      143.244.47.91    2a02:6ea0:c43f:2::b52f     10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
  🇺🇸    USA             New York, NY        10.124.0.72                                       146.70.165.2     2a0d:5600:24:2b6::f001     10     3072      ❌     M247           ✔️      us-nyc-wg-501 
@@ -478,12 +473,12 @@ Total active proxies: 531
  🇺🇸    USA             Ashburn, VA         10.124.2.80                                       23.234.96.2      2607:9000:900:31::f001     20     3588      ❌     Tzulo          ✔️      us-qas-wg-301 
  🇺🇸    USA             Ashburn, VA         10.124.2.81                                       23.234.96.127    2607:9000:900:32::f001     20     3589      ❌     Tzulo          ✔️      us-qas-wg-302 
  🇺🇸    USA             Ashburn, VA         10.124.2.82                                       23.234.97.2      2607:9000:900:33::f001     20     3590      ❌     Tzulo          ✔️      us-qas-wg-303 
- 🇺🇸    USA             Ashburn, VA         ;; communications error to 1.1.1.1#53: timed out  23.234.97.127    2607:9000:900:34::f001     20     3591      ❌     Tzulo          ✔️      us-qas-wg-304 
+ 🇺🇸    USA             Ashburn, VA         10.124.2.83                                       23.234.97.127    2607:9000:900:34::f001     20     3591      ❌     Tzulo          ✔️      us-qas-wg-304 
  🇺🇸    USA             Ashburn, VA         10.124.2.84                                       23.234.98.2      2607:9000:900:35::f001     20     3592      ❌     Tzulo          ✔️      us-qas-wg-305 
  🇺🇸    USA             Ashburn, VA         10.124.2.85                                       23.234.98.127    2607:9000:900:36::f001     20     3593      ❌     Tzulo          ✔️      us-qas-wg-306 
  🇺🇸    USA             Ashburn, VA         10.124.2.86                                       23.234.99.2      2607:9000:900:37::f001     20     3594      ❌     Tzulo          ✔️      us-qas-wg-307 
  🇺🇸    USA             Ashburn, VA         10.124.2.87                                       23.234.99.127    2607:9000:900:38::f001     20     3595      ❌     Tzulo          ✔️      us-qas-wg-308 
- 🇺🇸    USA             Raleigh, NC         10.124.1.41                                       23.234.76.2      2607:9000:4000:31::f001    10     3295      ❌     Tzulo          ✔️      us-rag-wg-201 
+ 🇺🇸    USA             Raleigh, NC         ;; communications error to 1.1.1.1#53: timed out  23.234.76.2      2607:9000:4000:31::f001    10     3295      ❌     Tzulo          ✔️      us-rag-wg-201 
  🇺🇸    USA             Raleigh, NC         10.124.1.42                                       23.234.76.127    2607:9000:4000:32::f001    10     3296      ❌     Tzulo          ✔️      us-rag-wg-202 
  🇺🇸    USA             Raleigh, NC         10.124.1.43                                       23.234.77.2      2607:9000:4000:33::f001    10     3297      ❌     Tzulo          ✔️      us-rag-wg-203 
  🇺🇸    USA             Raleigh, NC         10.124.1.44                                       23.234.77.127    2607:9000:4000:34::f001    10     3298      ❌     Tzulo          ✔️      us-rag-wg-204 
@@ -501,7 +496,7 @@ Total active proxies: 531
  🇺🇸    USA             Seattle, WA         10.124.1.105                                      23.234.82.127    2607:9000:5000:36::f001    10     3359      ❌     Tzulo          ✔️      us-sea-wg-406 
  🇺🇸    USA             Seattle, WA         10.124.1.106                                      23.234.83.2      2607:9000:5000:37::f001    10     3360      ❌     Tzulo          ✔️      us-sea-wg-407 
  🇺🇸    USA             Seattle, WA         10.124.1.107                                      23.234.83.127    2607:9000:5000:38::f001    10     3361      ❌     Tzulo          ✔️      us-sea-wg-408 
- 🇺🇸    USA             San Francisco, CA   10.124.1.14                                       45.153.102.3     2a06:3040:9:610::f101      10     3268      ❌     HostRoyale     ✔️      us-sfo-wg-001 
+ 🇺🇸    USA             San Francisco, CA   ;; communications error to 1.1.1.1#53: timed out  45.153.102.3     2a06:3040:9:610::f101      10     3268      ❌     HostRoyale     ✔️      us-sfo-wg-001 
  🇺🇸    USA             San Francisco, CA   10.124.1.15                                       194.126.179.3    2a06:3040:9:610::f201      10     3269      ❌     HostRoyale     ✔️      us-sfo-wg-002 
  🇺🇸    USA             San Jose, CA        10.124.0.107                                      23.144.160.67    2604:e8c0:6::f001          100    3107      ✔️     xtom           ✔️      us-sjc-wg-001 
  🇺🇸    USA             San Jose, CA        10.124.0.160                                      23.144.160.86    2604:e8c0:6::f101          100    3160      ✔️     xtom           ✔️      us-sjc-wg-002 
@@ -513,7 +508,7 @@ Total active proxies: 531
  🇺🇸    USA             San Jose, CA        10.124.1.156                                      23.234.93.3      2607:9000:800:33::f001     10     3410      ❌     Tzulo          ✔️      us-sjc-wg-503 
  🇺🇸    USA             San Jose, CA        10.124.1.157                                      23.234.93.127    2607:9000:800:34::f001     10     3411      ❌     Tzulo          ✔️      us-sjc-wg-504 
  🇺🇸    USA             San Jose, CA        10.124.1.158                                      23.234.94.3      2607:9000:800:35::f001     10     3412      ❌     Tzulo          ✔️      us-sjc-wg-505 
- 🇺🇸    USA             San Jose, CA        ;; communications error to 1.1.1.1#53: timed out  23.234.94.127    2607:9000:800:36::f001     10     3413      ❌     Tzulo          ✔️      us-sjc-wg-506 
+ 🇺🇸    USA             San Jose, CA        10.124.1.159                                      23.234.94.127    2607:9000:800:36::f001     10     3413      ❌     Tzulo          ✔️      us-sjc-wg-506 
  🇺🇸    USA             San Jose, CA        10.124.1.160                                      23.234.95.3      2607:9000:800:37::f001     10     3414      ❌     Tzulo          ✔️      us-sjc-wg-507 
  🇺🇸    USA             San Jose, CA        10.124.1.161                                      23.234.95.127    2607:9000:800:38::f001     10     3415      ❌     Tzulo          ✔️      us-sjc-wg-508 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.138                                      23.234.112.3     2607:9000:d00:2::f001      10     3392      ❌     Tzulo          ✔️      us-slc-wg-301 
@@ -525,10 +520,10 @@ Total active proxies: 531
  🇺🇸    USA             Salt Lake City, UT  10.124.1.144                                      23.234.115.3     2607:9000:d00:8::f001      10     3398      ❌     Tzulo          ✔️      us-slc-wg-307 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.145                                      23.234.115.127   2607:9000:d00:9::f001      10     3399      ❌     Tzulo          ✔️      us-slc-wg-308 
  🇺🇸    USA             McAllen, TX         10.124.0.250                                      79.127.222.194   2a02:6ea0:fe00:1::f001     10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
- 🇺🇸    USA             McAllen, TX         ;; communications error to 1.1.1.1#53: timed out  79.127.222.207   2a02:6ea0:fe00:2::f001     10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
+ 🇺🇸    USA             McAllen, TX         10.124.0.251                                      79.127.222.207   2a02:6ea0:fe00:2::f001     10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.0.29                                       104.36.50.3      2a06:3040:22:620::f001     10     3029      ❌     HostRoyale     ✔️      us-uyk-wg-201 
  🇺🇸    USA             Secaucus, NJ        10.124.0.169                                      104.36.50.33     2a06:3040:22:620::f101     10     3169      ❌     HostRoyale     ✔️      us-uyk-wg-202 
- 🇺🇸    USA             Washington DC       ;; communications error to 1.1.1.1#53: timed out  185.213.193.3    2604:980:1002:11::f001     10     3362      ❌     Zenlayer       ✔️      us-was-wg-001 
+ 🇺🇸    USA             Washington DC       10.124.1.108                                      185.213.193.3    2604:980:1002:11::f001     10     3362      ❌     Zenlayer       ✔️      us-was-wg-001 
  🇺🇸    USA             Washington DC       10.124.1.109                                      185.213.193.127  2604:980:1002:11::f101     10     3363      ❌     Zenlayer       ✔️      us-was-wg-002 
  🇿🇦    South Africa    Johannesburg        10.124.2.59                                       154.47.30.130    2a02:6ea0:f206::f001       10     3567      ❌     DataPacket     ✔️      za-jnb-wg-001 
  🇿🇦    South Africa    Johannesburg        10.124.2.60                                       154.47.30.143    2a02:6ea0:f207::f001       10     3568      ❌     DataPacket     ✔️      za-jnb-wg-002 
