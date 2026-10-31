@@ -127,7 +127,7 @@
 10.124.2.7 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
-10.124.1.70 Europe/Madrid
+;; communications error to 1.1.1.1#53: timed out Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
 10.124.2.8 Europe/Madrid
@@ -232,7 +232,7 @@
 10.124.0.244 Europe/Amsterdam
 10.124.0.245 Europe/Amsterdam
 10.124.1.121 Europe/Amsterdam
-10.124.1.48 Europe/Amsterdam
+;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
