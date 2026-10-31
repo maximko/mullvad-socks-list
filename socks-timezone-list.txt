@@ -431,7 +431,7 @@
 10.124.0.132 America/New_York
 10.124.0.133 America/New_York
 10.124.0.134 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.190 America/New_York
 10.124.1.191 America/New_York
 10.124.1.192 America/New_York
 10.124.0.72 America/New_York
@@ -475,7 +475,7 @@
 10.124.2.85 America/New_York
 10.124.2.86 America/New_York
 10.124.2.87 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.1.41 America/New_York
 10.124.1.42 America/New_York
 10.124.1.43 America/New_York
 10.124.1.44 America/New_York
@@ -493,7 +493,7 @@
 10.124.1.105 America/Los_Angeles
 10.124.1.106 America/Los_Angeles
 10.124.1.107 America/Los_Angeles
-;; communications error to 1.1.1.1#53: timed out Europe/Dublin
+10.124.1.14 Europe/Dublin
 10.124.1.15 Africa/Cairo
 10.124.0.107 America/Los_Angeles
 10.124.0.160 America/Los_Angeles
