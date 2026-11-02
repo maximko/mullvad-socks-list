@@ -232,7 +232,6 @@
 10.124.0.244 Europe/Amsterdam
 10.124.0.245 Europe/Amsterdam
 10.124.1.121 Europe/Amsterdam
-10.124.1.48 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
@@ -257,7 +256,6 @@
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
-10.124.1.75 Europe/Lisbon
 10.124.1.25 Europe/Bucharest
 10.124.1.27 Europe/Bucharest
 10.124.2.9 Europe/Bucharest
@@ -439,7 +437,6 @@
 10.124.0.87 America/New_York
 10.124.0.90 America/New_York
 10.124.0.213 America/New_York
-10.124.0.167 America/New_York
 10.124.0.187 America/New_York
 10.124.1.45 America/New_York
 10.124.1.46 America/New_York
