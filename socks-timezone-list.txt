@@ -89,6 +89,7 @@
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
 10.124.1.83 Asia/Nicosia
+10.124.1.84 Asia/Nicosia
 10.124.0.77 Europe/Prague
 10.124.0.48 Europe/Prague
 10.124.2.57 Europe/Prague
@@ -127,6 +128,7 @@
 10.124.2.7 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
+10.124.1.69 Europe/Madrid
 10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
@@ -135,6 +137,7 @@
 10.124.1.13 Europe/Madrid
 10.124.1.2 Europe/Madrid
 10.124.1.3 Europe/Madrid
+10.124.0.21 Europe/Helsinki
 10.124.0.111 Europe/Helsinki
 10.124.0.112 Europe/Helsinki
 10.124.2.53 Europe/Helsinki
