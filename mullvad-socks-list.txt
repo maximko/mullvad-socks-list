@@ -1,5 +1,5 @@
-Date: 2026-11-06 07-23-01 UTC
-Total active proxies: 528
+Date: 2026-11-06 19-40-39 UTC
+Total active proxies: 531
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -21,6 +21,9 @@ Total active proxies: 528
  🇦🇺    Australia       Melbourne           10.124.1.53   163.47.16.146    2406:d501:f:dfa::f001      20     3307      ❌     hostuniversal  ✔️      au-mel-wg-401 
  🇦🇺    Australia       Melbourne           10.124.1.59   163.47.16.150    2406:d501:f:dfb::f001      20     3313      ❌     hostuniversal  ✔️      au-mel-wg-402 
  🇦🇺    Australia       Melbourne           10.124.2.107  163.47.16.154    2406:d501:f:dfc::f001      20     3615      ❌     hostuniversal  ✔️      au-mel-wg-403 
+ 🇦🇺    Australia       Perth               10.124.0.95   158.173.123.2    2406:d501:f:dfe::f001      20     3095      ❌     hostuniversal  ✔️      au-per-wg-001 
+ 🇦🇺    Australia       Perth               10.124.0.102  158.173.123.81   2406:d501:f:dff::f001      20     3102      ❌     hostuniversal  ✔️      au-per-wg-002 
+ 🇦🇺    Australia       Perth               10.124.0.120  158.173.123.161  2406:d501:f:e00::f001      20     3120      ❌     hostuniversal  ✔️      au-per-wg-003 
  🇦🇺    Australia       Perth               10.124.1.55   103.108.231.50   2404:f780:8:deb::a01f      10     3309      ❌     hostuniversal  ✔️      au-per-wg-301 
  🇦🇺    Australia       Perth               10.124.1.57   103.108.231.66   2404:f780:8:dec::f001      10     3311      ❌     hostuniversal  ✔️      au-per-wg-302 
  🇦🇺    Australia       Sydney              10.124.0.36   146.70.200.2     2001:ac8:84:5::f001        10     3036      ❌     M247           ✔️      au-syd-wg-001 

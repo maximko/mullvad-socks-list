@@ -18,6 +18,9 @@
 10.124.1.53 Australia/Perth
 10.124.1.59 Australia/Perth
 10.124.2.107 Australia/Perth
+10.124.0.95 Australia/Perth
+10.124.0.102 Australia/Perth
+10.124.0.120 Australia/Perth
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
