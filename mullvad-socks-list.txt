@@ -1,5 +1,5 @@
-Date: 2026-11-08 22-28-26 UTC
-Total active proxies: 531
+Date: 2026-11-09 07-09-33 UTC
+Total active proxies: 534
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -335,6 +335,9 @@ Total active proxies: 531
  🇺🇸    USA             Boston, MA          10.124.0.85   43.225.189.131   2a06:3040:12:610::a01f     10     3085      ❌     HostRoyale     ✔️      us-bos-wg-001 
  🇺🇸    USA             Boston, MA          10.124.0.127  149.40.50.98     2a02:6ea0:f901::a01f       10     3127      ❌     DataPacket     ✔️      us-bos-wg-101 
  🇺🇸    USA             Boston, MA          10.124.0.197  149.40.50.112    2a02:6ea0:f901:1::a02f     10     3197      ❌     DataPacket     ✔️      us-bos-wg-102 
+ 🇺🇸    USA             Chicago, IL         10.124.0.80   135.136.54.2     2a0d:5600:144:30::f001     20     3080      ❌     M247           ✔️      us-chi-wg-101 
+ 🇺🇸    USA             Chicago, IL         10.124.0.91   135.136.54.130   2a0d:5600:144:31::f001     20     3091      ❌     M247           ✔️      us-chi-wg-102 
+ 🇺🇸    USA             Chicago, IL         10.124.0.92   66.234.159.130   2a0d:5600:144:32::f001     20     3092      ❌     M247           ✔️      us-chi-wg-103 
  🇺🇸    USA             Chicago, IL         10.124.1.201  87.249.134.1     2a02:6ea0:c61f::b63f       10     3455      ❌     DataPacket     ✔️      us-chi-wg-201 
  🇺🇸    USA             Chicago, IL         10.124.1.202  87.249.134.14    2a02:6ea0:c61f:1::b64f     10     3456      ❌     DataPacket     ✔️      us-chi-wg-202 
  🇺🇸    USA             Chicago, IL         10.124.1.203  87.249.134.27    2a02:6ea0:c61f:2::f001     10     3457      ❌     DataPacket     ✔️      us-chi-wg-203 
