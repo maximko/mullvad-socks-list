@@ -117,7 +117,7 @@
 10.124.1.242 Europe/Berlin
 10.124.1.189 Europe/Berlin
 10.124.1.247 Europe/Berlin
-10.124.1.248 Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
 10.124.0.131 Europe/Berlin
 10.124.1.49 Europe/Berlin
 10.124.1.50 Europe/Berlin
