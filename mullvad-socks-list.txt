@@ -1,5 +1,5 @@
-Date: 2026-11-11 19-51-11 UTC
-Total active proxies: 533
+Date: 2026-11-12 07-42-53 UTC
+Total active proxies: 532
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -399,7 +399,6 @@ Total active proxies: 533
  🇺🇸    USA             Los Angeles, CA     10.124.2.112  23.234.74.127    2607:9000:300:36::f001     20     3620      ❌     Tzulo          ✔️      us-lax-wg-006 
  🇺🇸    USA             Los Angeles, CA     10.124.2.113  23.234.75.2      2607:9000:300:37::f001     20     3621      ❌     Tzulo          ✔️      us-lax-wg-007 
  🇺🇸    USA             Los Angeles, CA     10.124.2.114  23.234.75.127    2607:9000:300:38::f001     20     3622      ❌     Tzulo          ✔️      us-lax-wg-008 
- 🇺🇸    USA             Los Angeles, CA     10.124.0.83   169.150.203.2    2a02:6ea0:c859:1::a01f     10     3083      ❌     DataPacket     ✔️      us-lax-wg-201 
  🇺🇸    USA             Los Angeles, CA     10.124.2.29   169.150.203.15   2a02:6ea0:c859:2::a02f     10     3537      ❌     DataPacket     ✔️      us-lax-wg-202 
  🇺🇸    USA             Los Angeles, CA     10.124.2.30   169.150.203.28   2a02:6ea0:c859:3::a03f     10     3538      ❌     DataPacket     ✔️      us-lax-wg-203 
  🇺🇸    USA             Los Angeles, CA     10.124.0.101  146.70.173.2     2a0d:5600:8:4::f001        20     3101      ❌     M247           ✔️      us-lax-wg-401 
