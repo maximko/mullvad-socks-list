@@ -1,5 +1,5 @@
-Date: 2026-11-12 20-26-08 UTC
-Total active proxies: 532
+Date: 2026-11-13 07-16-30 UTC
+Total active proxies: 530
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -183,8 +183,6 @@ Total active proxies: 532
  🇬🇧    UK              London              10.124.1.117  135.136.58.130   2a04:9dc0:18:73::f001      29     3371      ❌     M247           ✔️      gb-lon-wg-308 
  🇬🇧    UK              Manchester          10.124.0.31   146.70.132.2     2001:ac8:8b:104::f001      20     3031      ❌     M247           ✔️      gb-mnc-wg-001 
  🇬🇧    UK              Manchester          10.124.0.32   135.136.22.2     2001:ac8:8b:105::f001      20     3032      ❌     M247           ✔️      gb-mnc-wg-002 
- 🇬🇧    UK              Manchester          10.124.0.34   135.136.22.130   2001:ac8:8b:106::f001      20     3034      ❌     M247           ✔️      gb-mnc-wg-003 
- 🇬🇧    UK              Manchester          10.124.0.88   135.136.21.2     2001:ac8:8b:107::f001      20     3088      ❌     M247           ✔️      gb-mnc-wg-004 
  🇬🇧    UK              Manchester          10.124.1.163  167.160.13.127   2a03:ee40:3304::f101       10     3417      ❌     Veloxserv      ✔️      gb-mnc-wg-202 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001     10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001     10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
