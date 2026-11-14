@@ -62,7 +62,7 @@
 10.124.0.81 America/Toronto
 10.124.1.110 America/Toronto
 10.124.1.111 America/Toronto
-;; communications error to 1.1.1.1#53: timed out America/Toronto
+10.124.1.112 America/Toronto
 10.124.1.113 America/Toronto
 10.124.1.114 America/Toronto
 10.124.1.115 America/Toronto
