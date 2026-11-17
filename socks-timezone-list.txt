@@ -130,8 +130,6 @@
 10.124.2.7 Europe/Tallinn
 10.124.0.252 Europe/Madrid
 10.124.0.253 Europe/Madrid
-10.124.1.69 Europe/Madrid
-10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
 10.124.2.8 Europe/Madrid
@@ -271,7 +269,6 @@
 10.124.0.152 Europe/Stockholm
 10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Stockholm
-10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
