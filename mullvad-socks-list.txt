@@ -1,5 +1,5 @@
-Date: 2026-11-17 21-19-03 UTC
-Total active proxies: 527
+Date: 2026-11-18 07-55-41 UTC
+Total active proxies: 528
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -133,6 +133,9 @@ Total active proxies: 527
  🇪🇪    Estonia         Tallinn             10.124.2.7    213.232.112.209  2a07:d883:704:3::f001      100    3515      ✔️     xtom           ✔️      ee-tll-wg-103 
  🇪🇸    Spain           Barcelona           10.124.0.252  185.188.61.195   2a06:3040:2:210::f001      10     3252      ❌     HostRoyale     ✔️      es-bcn-wg-001 
  🇪🇸    Spain           Barcelona           10.124.0.253  185.188.61.225   2a06:3040:2:210::f101      10     3253      ❌     HostRoyale     ✔️      es-bcn-wg-002 
+ 🇪🇸    Spain           Barcelona           10.124.0.33   146.70.22.130    2001:ac8:35:1::f001        20     3033      ❌     M247           ✔️      es-bcn-wg-101 
+ 🇪🇸    Spain           Barcelona           10.124.0.73   135.136.126.2    2001:ac8:17:20::f001       20     3073      ❌     M247           ✔️      es-bcn-wg-102 
+ 🇪🇸    Spain           Barcelona           10.124.0.123  135.136.126.130  2001:ac8:17:30::f001       20     3123      ❌     M247           ✔️      es-bcn-wg-103 
  🇪🇸    Spain           Madrid              10.124.1.223  45.134.213.194   2a02:6ea0:c318:1::a06f     10     3477      ❌     DataPacket     ✔️      es-mad-wg-101 
  🇪🇸    Spain           Madrid              10.124.1.222  45.134.213.207   2a02:6ea0:c318:2::a07f     10     3476      ❌     DataPacket     ✔️      es-mad-wg-102 
  🇪🇸    Spain           Madrid              10.124.2.8    146.70.74.98     2001:ac8:23:84::f001       20     3516      ❌     M247           ✔️      es-mad-wg-203 
@@ -206,8 +209,6 @@ Total active proxies: 527
  🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️      it-mil-wg-001 
  🇮🇹    Italy           Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️      it-mil-wg-002 
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
- 🇮🇹    Italy           Milan               10.124.0.200  146.70.225.2     2001:ac8:24:17::f001       10     3200      ❌     M247           ✔️      it-mil-wg-201 
- 🇮🇹    Italy           Milan               10.124.0.201  146.70.225.66    2001:ac8:24:18::f001       10     3201      ❌     M247           ✔️      it-mil-wg-202 
  🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001       10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
  🇮🇹    Italy           Palermo             10.124.1.68   149.22.91.79     2a02:6ea0:4f00::f101       10     3322      ❌     DataPacket     ✔️      it-pmo-wg-002 
  🇯🇵    Japan           Osaka               10.124.0.56   194.127.166.2    2a07:d883:600:1::f001      100    3056      ✔️     xtom           ✔️      jp-osa-wg-101 
