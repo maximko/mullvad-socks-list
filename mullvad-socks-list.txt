@@ -1,5 +1,5 @@
-Date: 2026-11-18 20-53-05 UTC
-Total active proxies: 528
+Date: 2026-11-19 07-55-09 UTC
+Total active proxies: 531
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -209,6 +209,9 @@ Total active proxies: 528
  🇮🇹    Italy           Milan               10.124.1.206  178.249.211.66   2a02:6ea0:d509:1::a09f     10     3460      ❌     DataPacket     ✔️      it-mil-wg-001 
  🇮🇹    Italy           Milan               10.124.1.207  178.249.211.79   2a02:6ea0:d509:2::a10f     10     3461      ❌     DataPacket     ✔️      it-mil-wg-002 
  🇮🇹    Italy           Milan               10.124.1.208  178.249.211.92   2a02:6ea0:d509:3::a11f     10     3462      ❌     DataPacket     ✔️      it-mil-wg-003 
+ 🇮🇹    Italy           Milan               10.124.0.138  146.70.225.2     2001:ac8:24:17::f001       20     3138      ❌     M247           ✔️      it-mil-wg-201 
+ 🇮🇹    Italy           Milan               10.124.0.139  146.70.225.130   2001:ac8:24:19::f001       20     3139      ❌     M247           ✔️      it-mil-wg-202 
+ 🇮🇹    Italy           Milan               10.124.0.140  135.136.125.2    2001:ac8:24:1a::f001       20     3140      ❌     M247           ✔️      it-mil-wg-203 
  🇮🇹    Italy           Palermo             10.124.1.67   149.22.91.66     2a02:6ea0:4f00::f001       10     3321      ❌     DataPacket     ✔️      it-pmo-wg-001 
  🇮🇹    Italy           Palermo             10.124.1.68   149.22.91.79     2a02:6ea0:4f00::f101       10     3322      ❌     DataPacket     ✔️      it-pmo-wg-002 
  🇯🇵    Japan           Osaka               10.124.0.56   194.127.166.2    2a07:d883:600:1::f001      100    3056      ✔️     xtom           ✔️      jp-osa-wg-101 

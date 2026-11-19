@@ -206,6 +206,9 @@
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
 10.124.1.208 Europe/Rome
+10.124.0.138 Europe/Rome
+10.124.0.139 Europe/Rome
+10.124.0.140 Europe/Rome
 10.124.1.67 Europe/Rome
 10.124.1.68 Europe/Rome
 10.124.0.56 Asia/Tokyo
