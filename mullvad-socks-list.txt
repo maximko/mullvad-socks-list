@@ -1,5 +1,5 @@
-Date: 2026-11-20 07-44-03 UTC
-Total active proxies: 531
+Date: 2026-11-20 20-42-39 UTC
+Total active proxies: 530
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.1.240  45.142.26.2      2a04:27c0:0:e::f001        10     3494      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.93   62.101.165.2     2a04:27c0:0:f::f001        10     3093      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -362,7 +362,6 @@ Total active proxies: 531
  🇺🇸    USA             Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f     10     3479      ❌     DataPacket     ✔️      us-dal-wg-402 
  🇺🇸    USA             Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::f001     10     3478      ❌     DataPacket     ✔️      us-dal-wg-403 
  🇺🇸    USA             Dallas, TX          10.124.1.171  103.102.246.3    2a01:4740:2::f001          10     3425      ❌     HostRoyale     ✔️      us-dal-wg-601 
- 🇺🇸    USA             Dallas, TX          10.124.1.172  103.102.246.127  2a01:4740:2::f101          10     3426      ❌     HostRoyale     ✔️      us-dal-wg-602 
  🇺🇸    USA             Dallas, TX          10.124.1.173  103.102.247.3    2a01:4740:2::f201          10     3427      ❌     HostRoyale     ✔️      us-dal-wg-603 
  🇺🇸    USA             Dallas, TX          10.124.1.174  103.102.247.127  2a01:4740:2::f301          10     3428      ❌     HostRoyale     ✔️      us-dal-wg-604 
  🇺🇸    USA             Dallas, TX          10.124.2.88   23.234.104.2     2607:9000:b00:31::f001     20     3596      ❌     Tzulo          ✔️      us-dal-wg-701 
